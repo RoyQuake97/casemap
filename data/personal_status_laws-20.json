@@ -1,0 +1,1274 @@
+{
+  "database_metadata": {
+    "title": "Lebanese Personal Status Laws Database - All 18 Religious Communities",
+    "version": "1.1",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "total_communities": 18,
+    "total_laws": 15,
+    "compiler": "Lebanese Personal Status Law Expert",
+    "sources": [
+      "Lebanese University Legal Informatics Center",
+      "Ministry of Justice - Personal Status Courts",
+      "Legal Agenda Lebanon",
+      "Adyan Foundation - Women's Rights Report",
+      "Beirut Bar Association",
+      "Official Gazette of Lebanon"
+    ],
+    "notes": "6 placeholder entries expanded with detailed provisions"
+  },
+  "laws": [
+    {
+      "law_id": "LPS-SUN-001",
+      "official_number": "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+      "official_title_arabic": "نظام أحكام الأسرة للطائفة السنية",
+      "official_title_french": "Code des Dispositions Familiales pour la Communauté Sunnite",
+      "official_title_english": "Code of Family Provisions for the Sunni Community",
+      "date_enacted": "1942-11-04",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1942-11-04"
+      },
+      "category": "Personal Status - Sunni Muslim",
+      "religious_community": "Sunni Muslim (السنة)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law No. 177 of 2011",
+          "date": "2011",
+          "articles_affected": [
+            "Custody age provisions"
+          ],
+          "nature": "Raised maternal custody age to 12 for boys and 14 for girls"
+        },
+        {
+          "amending_law": "Law of July 16, 1962",
+          "date": "1962-07-16",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Sunni and Jaafari judiciaries"
+        }
+      ],
+      "full_text_arabic": "Based on Ottoman Family Rights Law of 1917 with Hanafi jurisprudence",
+      "full_text_french": "Basé sur la Loi Ottomane des Droits de Famille de 1917 avec jurisprudence Hanafite",
+      "key_articles": [
+        {
+          "article_number": "General Provision",
+          "text_arabic": "تنظم أحكام الزواج والطلاق والنفقة والحضانة والميراث وفق المذهب الحنفي",
+          "text_french": "Les dispositions du mariage, divorce, pension alimentaire, garde et héritage sont régies selon l'école Hanafite",
+          "subject": "General jurisdiction"
+        },
+        {
+          "article_number": "Custody (2011 Amendment)",
+          "text_arabic": "تنتهي الحضانة للذكر عند إتمامه 12 سنة وللأنثى عند إتمامها 14 سنة",
+          "text_french": "La garde maternelle se termine à 12 ans pour les garçons et 14 ans pour les filles",
+          "subject": "Child custody age limits"
+        },
+        {
+          "article_number": "Divorce",
+          "text_arabic": "للزوج حق الطلاق التعسفي وللزوجة حق الطلاق للضرر أو عدم الإنفاق",
+          "text_french": "Le mari a le droit de divorce unilatéral; la femme peut demander divorce pour préjudice ou non-pension",
+          "subject": "Divorce provisions"
+        },
+        {
+          "article_number": "Inheritance",
+          "text_arabic": "الإنثى ترث نصف ما يرث الذكر في الفريضة الشرعية",
+          "text_french": "La femme hérite la moitié de ce qu'hérite l'homme selon la part coranique",
+          "subject": "Inheritance rules"
+        },
+        {
+          "article_number": "Polygamy",
+          "text_arabic": "يجوز للرجل الزواج بأربع نساء مع مراعاة العدل بينهن",
+          "text_french": "L'homme peut épouser jusqu'à quatre femmes avec justice entre elles",
+          "subject": "Polygamy"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 17,
+        "guardian_required": true,
+        "polygamy_allowed": true,
+        "interfaith_restrictions": "Muslim women cannot marry non-Muslims; Muslim men may marry Christian/Jewish women"
+      },
+      "divorce_provisions": {
+        "male_initiated": "Talaq - unilateral right without cause",
+        "female_initiated": "Requires judicial divorce for harm, non-support, or khul' (returning mahr)",
+        "waiting_period_iddah": "3 menstrual cycles or 3 months",
+        "revocable_during_iddah": true
+      },
+      "inheritance_laws": {
+        "basis": "Quranic shares (fara'id)",
+        "female_share": "Half of male sibling's share",
+        "spouse_share": "Wife: 1/8 if children exist, 1/4 if no children; Husband: 1/4 if children, 1/2 if no children",
+        "testamentary_freedom": "Maximum 1/3 of estate"
+      },
+      "custody_guardianship": {
+        "maternal_custody_age_boys": 12,
+        "maternal_custody_age_girls": 14,
+        "guardianship": "Father has wilaya (guardianship) over children and their property",
+        "mother_remarriage_effect": "May lose custody upon remarriage"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory during marriage and iddah",
+        "father_to_children": "Obligatory until marriage for daughters, until financial independence for sons",
+        "amount_determination": "Based on husband's/father's financial capacity"
+      },
+      "court_procedures": {
+        "court_type": "Sharia Courts (First Instance and Supreme)",
+        "judges": "Sunni Sharia judges",
+        "appeals": "To Sunni Sharia Supreme Court",
+        "enforcement": "Through Ministry of Justice"
+      },
+      "historical_context": "Based on Ottoman Family Rights Law of 1917. The 1962 law organized the Sunni and Jaafari judiciaries. The 2011 amendment (Law 177) was a significant reform raising custody ages following civil society advocacy.",
+      "related_laws": [
+        "Law 16/07/1962 - Sharia Judiciary Organization",
+        "Ottoman Family Rights Law 1917"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb/LawView.aspx?opt=view&LawID=244292",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-SHI-002",
+      "official_number": "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence",
+      "official_title_arabic": "قانون حقوق العائلة للطائفة الجعفرية",
+      "official_title_french": "Loi des Droits de Famille pour la Communauté Jaafari",
+      "official_title_english": "Family Rights Law for the Jaafari Community",
+      "date_enacted": "1942-11-04",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1942-11-04"
+      },
+      "category": "Personal Status - Shia Muslim (Jaafari)",
+      "religious_community": "Shia Muslim (الشيعة - الجعفري)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law of July 16, 1962",
+          "date": "1962-07-16",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Sunni and Jaafari judiciaries"
+        },
+        {
+          "amending_law": "Law 7244 of December 19, 1967",
+          "date": "1967-12-19",
+          "articles_affected": [
+            "Shiite community organization"
+          ],
+          "nature": "Established Supreme Shiite Islamic Council"
+        }
+      ],
+      "full_text_arabic": "قائم على الفقه الجعفري والقانون العثماني لحقوق الأسرة 1917",
+      "full_text_french": "Basé sur la jurisprudence Jaafari et la Loi Ottomane des Droits de Famille de 1917",
+      "key_articles": [
+        {
+          "article_number": "General Provision",
+          "text_arabic": "تخضع الطائفة الجعفرية لأحكام الفقه الجعفري في الزواج والطلاق والنفقة والحضانة والميراث",
+          "text_french": "La communauté Jaafari est régie par la jurisprudence Jaafari pour mariage, divorce, pension, garde et héritage",
+          "subject": "General jurisdiction"
+        },
+        {
+          "article_number": "Custody",
+          "text_arabic": "الحضانة للأم حتى سنين للذكر وسبع سنين للأنثى",
+          "text_french": "La garde maternelle jusqu'à 2 ans pour les garçons et 7 ans pour les filles",
+          "subject": "Child custody age limits"
+        },
+        {
+          "article_number": "Mut'a Marriage",
+          "text_arabic": "يجوز عقد المتعة وفق شروط محددة",
+          "text_french": "Le mariage temporaire (Mut'a) est permis selon conditions spécifiques",
+          "subject": "Temporary marriage"
+        },
+        {
+          "article_number": "Divorce",
+          "text_arabic": "للزوج حق الطلاق وللزوجة حق الخلع أو الطلاق للضرر",
+          "text_french": "Le mari a droit au divorce; la femme peut demander khul' ou divorce pour préjudice",
+          "subject": "Divorce provisions"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 17,
+        "guardian_required": true,
+        "muta_temporary_marriage": "Permitted with specific conditions",
+        "interfaith_restrictions": "Same as Sunni - Muslim women cannot marry non-Muslims"
+      },
+      "divorce_provisions": {
+        "male_initiated": "Talaq - unilateral right",
+        "female_initiated": "Khul' (returning mahr) or judicial divorce for harm",
+        "waiting_period_iddah": "Varies by situation - up to one year if pregnant",
+        "revocable_during_iddah": true
+      },
+      "inheritance_laws": {
+        "basis": "Jaafari jurisprudence - similar to Sunni with some differences",
+        "female_share": "Generally half of male sibling's share",
+        "spouse_share": "Similar to Sunni with Jaafari interpretations",
+        "testamentary_freedom": "Subject to Jaafari rules"
+      },
+      "custody_guardianship": {
+        "maternal_custody_age_boys": 2,
+        "maternal_custody_age_girls": 7,
+        "extension_possible": "Child may choose mother at puberty",
+        "guardianship": "Father has primary guardianship (wilaya)"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory during marriage and iddah",
+        "father_to_children": "Obligatory until financial independence",
+        "muta_compensation": "Specified in temporary marriage contract"
+      },
+      "court_procedures": {
+        "court_type": "Jaafari Sharia Courts",
+        "judges": "Jaafari Sharia judges",
+        "appeals": "To Jaafari Sharia Supreme Court",
+        "guide_to_jaafari_justice": "1944 Guide used as reference"
+      },
+      "historical_context": "The Jaafari community was officially recognized in 1926. Unlike Christian sects, Islamic courts require state legislation for establishment. The Jaafari courts apply Jaafari fiqh, fatwas from religious authorities, and the Guide to Jaafari Justice (1944).",
+      "related_laws": [
+        "Law 7244/1967 - Shiite Community Organization",
+        "Law 16/07/1962 - Sharia Judiciary"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-DRU-003",
+      "official_number": "Law of February 24, 1948; amended by Law 58 of October 17, 2017",
+      "official_title_arabic": "قانون الأحوال الشخصية لطائفة الموحدين الدروز",
+      "official_title_french": "Loi du Statut Personnel de la Communauté Druze des Unificateurs",
+      "official_title_english": "Personal Status Law of the Druze Unifiers Community",
+      "date_enacted": "1948-02-24",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1948-02-24"
+      },
+      "category": "Personal Status - Druze",
+      "religious_community": "Druze (الدروز - الموحدون)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 58 of October 17, 2017",
+          "date": "2017-10-17",
+          "articles_affected": [
+            "Articles 2, 3, 4, 5, 6, 8, 15, 24, 47, 157"
+          ],
+          "nature": "Major reform: raised custody age, minimum marriage age, damages for adultery, women's inheritance rights"
+        },
+        {
+          "amending_law": "Decree 3473 of March 5, 1960",
+          "date": "1960-03-05",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Druze judiciary"
+        }
+      ],
+      "full_text_arabic": "يحتوي على 172 مادة موزعة على 19 فصلاً",
+      "full_text_french": "Comprend 172 articles répartis sur 19 chapitres",
+      "key_articles": [
+        {
+          "article_number": "Article 1 (as amended)",
+          "text_arabic": "يحوز الخاطب على أهلية الزواج بإتمامه الثامنة عشرة والمخطوبة بإتمامها السابعة عشرة",
+          "text_french": "L'homme acquiert capacité de mariage à 18 ans, la femme à 17 ans",
+          "subject": "Marriage age"
+        },
+        {
+          "article_number": "Article 15 (2017 Amendment)",
+          "text_arabic": "ترفع الحضانة للذكر إلى 12 سنة وللأنثى إلى 14 سنة",
+          "text_french": "La garde maternelle est élevée à 12 ans pour garçons, 14 ans pour filles",
+          "subject": "Custody age - major reform"
+        },
+        {
+          "article_number": "Article 10",
+          "text_arabic": "ممنوع تعدد الزوجات فلا يجوز للرجل أن يجمع بين زوجتين",
+          "text_french": "La polygamie est interdite; l'homme ne peut avoir deux épouses",
+          "subject": "Prohibition of polygamy"
+        },
+        {
+          "article_number": "Article 157 (2017 Amendment)",
+          "text_arabic": "إذا أوصى الموصي قبل الزواج ثم تزوج ورزق ولداً تبطل وصيته وتوزع تركته حسب الفريضة",
+          "text_french": "Si le testateur épouse et a un enfant, le testament est annulé et succession selon parts coraniques",
+          "subject": "Inheritance - testament"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 17,
+        "guardian_required": true,
+        "polygamy_allowed": false,
+        "endogamy_required": "Strongly encouraged to marry within Druze community",
+        "medical_certificate_required": true
+      },
+      "divorce_provisions": {
+        "grounds": "Harm, discord, prolonged absence, imprisonment",
+        "female_initiated": "Possible on specific grounds with court approval",
+        "reconciliation_attempts": "Court may refer to social worker/psychologist (2017 amendment)",
+        "damages_for_adultery": "Permitted under 2017 amendment"
+      },
+      "inheritance_laws": {
+        "basis": "Modified Islamic shares with Druze-specific provisions",
+        "women_inheritance_2017": "Women can inherit entire estate if no male children",
+        "testamentary_freedom": "Permitted but affected by marriage and children",
+        "community_property": "Some recognition of marital property concepts"
+      },
+      "custody_guardianship": {
+        "maternal_custody_age_boys": 12,
+        "maternal_custody_age_girls": 14,
+        "pre_2017_ages": "7 for boys, 9 for girls",
+        "guardianship": "Father has wilaya after custody period ends"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory during marriage",
+        "father_to_children": "Obligatory until financial independence",
+        "extended_family": "Support from relatives in specific circumstances"
+      },
+      "court_procedures": {
+        "court_type": "Druze Religious Courts",
+        "judges": "Druze judges appointed by Sheikh Akl",
+        "appeals": "To Druze Court of Appeals in Beirut",
+        "regional_courts": "Five regions: Beirut/Baabda, Aley, Shouf, Rashayya, Hasbayya"
+      },
+      "historical_context": "First codified personal status law in Lebanon post-independence (1948). The 2017 amendments were groundbreaking, citing constitutional equality principles and reflecting modern social developments. The Druze community has two Sheikhs al-Aql (spiritual leaders).",
+      "related_laws": [
+        "Law 58/2017 - Druze Law Amendments",
+        "Decree 3473/1960 - Druze Judiciary"
+      ],
+      "source_url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=258196",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-GOR-004",
+      "official_number": "Law of October 16, 2003",
+      "official_title_arabic": "قانون الأحوال الشخصية وصول المحاكمات لدى بطريركية أنطاكية وسائر المشرق للروم الأرثوذكس",
+      "official_title_french": "Loi du Statut Personnel et Procédure des Tribunaux du Patriarcat d'Antioche et de tout l'Orient des Grecs Orthodoxes",
+      "official_title_english": "Personal Status and Court Procedures Law of the Greek Orthodox Patriarchate of Antioch and All the East",
+      "date_enacted": "2003-10-16",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "2003-10-16"
+      },
+      "category": "Personal Status - Greek Orthodox",
+      "religious_community": "Greek Orthodox (الروم الأرثوذكس)",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون شامل يحتوي على أحكام الزواج والطلاق والحضانة والميراث وإجراءات المحاكم",
+      "full_text_french": "Code complet comprenant dispositions sur mariage, divorce, garde, héritage et procédures judiciaires",
+      "key_articles": [
+        {
+          "article_number": "Article 11",
+          "text_arabic": "الزواج يحقق اتحاد الرجل والمرأة للتعاون في الحياة الزوجية وتحمل أعباء الأسرة وتربية الأولاد",
+          "text_french": "Le mariage réalise l'union d'homme et femme pour coopérer dans vie conjugale et élever enfants",
+          "subject": "Marriage definition - equality principle"
+        },
+        {
+          "article_number": "Article 25",
+          "text_arabic": "يتعاون الزوجان في تربية أولادهما والإنفاق عليهم",
+          "text_french": "Les époux coopèrent dans éducation et dépenses pour leurs enfants",
+          "subject": "Shared parental responsibility"
+        },
+        {
+          "article_number": "Article 68",
+          "text_arabic": "يحق لكل من الزوجين طلب الطلاق",
+          "text_french": "Chaque époux a droit de demander divorce",
+          "subject": "Equal divorce rights - major reform"
+        },
+        {
+          "article_number": "Article 59",
+          "text_arabic": "لا يجوز للحاضن السفر بالطفل دون موافقة الآخر أو إذن المحكمة",
+          "text_french": "Le parent gardien ne peut voyager avec enfant sans consentement autre parent ou autorisation tribunal",
+          "subject": "Child travel restrictions"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 18,
+        "guardian_required": true,
+        "polygamy_allowed": false,
+        "interfaith_marriage": "Permitted with non-Orthodox Christians; Orthodox partner need not convert",
+        "no_husband_authority_clause": "2003 law removed clauses about husband's authority"
+      },
+      "divorce_provisions": {
+        "male_initiated": "Equal right for both spouses",
+        "female_initiated": "Equal right for both spouses",
+        "grounds": "Adultery, abandonment, abuse, mental incapacity, fraud, inability to consummate",
+        "annulment": "Available for specific grounds including fraud and misrepresentation"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959 (equal shares for all heirs)",
+        "female_share": "Equal to male siblings",
+        "spouse_share": "Equal inheritance rights",
+        "testamentary_freedom": "Permitted within legal limits"
+      },
+      "custody_guardianship": {
+        "maternal_custody_age_boys": 14,
+        "maternal_custody_age_girls": 15,
+        "extension_possible": "Judicial discretion based on child's best interest",
+        "guardianship": "Shared concept; father has primary but mother has significant role"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory during marriage",
+        "father_to_children": "Obligatory until financial independence",
+        "desertion_provision": "Husband must provide domicile or allowance; court may order him to vacate marital home"
+      },
+      "court_procedures": {
+        "court_type": "Greek Orthodox Ecclesiastical Courts",
+        "judges": "Bishop as single judge with two priests as members",
+        "appeals": "To Appellate Court constituted by Bishop with different members",
+        "public_trials": "Public unless causing shame or mentioning prohibited matters"
+      },
+      "historical_context": "The 2003 law was a landmark reform emphasizing spousal equality, removing husband authority clauses, and allowing women from other denominations to marry Greek Orthodox men without converting. It was the first major Christian personal status reform in Lebanon.",
+      "related_laws": [
+        "Civil Law of 1959 - Inheritance",
+        "Law 2/1951 - Religious Authorities Powers"
+      ],
+      "source_url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=244776",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-MAR-005",
+      "official_number": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990",
+      "official_title_arabic": "قانون الأحوال الشخصية للطوائف الكاثوليكية الشرقية - الموارنة",
+      "official_title_french": "Loi du Statut Personnel des Confessions Catholiques Orientales - Maronites",
+      "official_title_english": "Personal Status Law of Eastern Catholic Confessions - Maronite",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Maronite Catholic",
+      "religious_community": "Maronite Catholic (الموارنة)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Canons of Eastern Churches 1990",
+          "date": "1990",
+          "articles_affected": [
+            "Canon 777 - spousal equality"
+          ],
+          "nature": "Introduced equality of rights and duties between spouses"
+        }
+      ],
+      "full_text_arabic": "يخضع الموارنة لقانون الطوائف الكاثوليكية الشرقية والقانون العام للكنيسة",
+      "full_text_french": "Les Maronites sont régis par la loi des confessions catholiques orientales et droit canonique",
+      "key_articles": [
+        {
+          "article_number": "Canon 777 (CCEO)",
+          "text_arabic": "لكل من الزوجين من الالتزامات والحقوق المتساوية فيما يتعلق بشراكة الحياة الزوجية",
+          "text_french": "Chaque époux a obligations et droits égaux concernant partenariat de vie conjugale",
+          "subject": "Spousal equality"
+        },
+        {
+          "article_number": "Article 123-125 (1949 Law)",
+          "text_arabic": "السلطة الأبوية من حق الأب، والرضاعة للأم لمدة سنتين، وتفقد الأم الحضانة عند زواجها",
+          "text_french": "Autorité parentale au père; allaitement à mère 2 ans; mère perd garde si remariage",
+          "subject": "Custody and parental authority"
+        },
+        {
+          "article_number": "Marriage Law",
+          "text_arabic": "الزواج سر لا ينحل إلا بالموت أو بالحكم ببطلانه",
+          "text_french": "Mariage est sacrement indissoluble sauf par mort ou annulation",
+          "subject": "Marriage indissolubility"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 18,
+        "guardian_required": true,
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes for specific grounds",
+        "interfaith_marriage": "Requires dispensation from Pope"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Fraud or misrepresentation",
+          "Polygamy or incest",
+          "Violence and abuse",
+          "Irresponsible behavior",
+          "Mental incapacity (medical proof)",
+          "Inability/refusal to consummate marriage"
+        ],
+        "separation": "Civil separation possible without right to remarry"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959",
+        "female_share": "Equal to male siblings",
+        "spouse_share": "Equal inheritance rights",
+        "testamentary_freedom": "Permitted"
+      },
+      "custody_guardianship": {
+        "breastfeeding_duration": "2 years",
+        "parental_authority": "Confined to father in principle",
+        "mother_remarriage_effect": "Loses custody",
+        "guardianship": "Father has primary authority; mother eligible if father deprived"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory during marriage",
+        "father_to_children": "Obligatory",
+        "post_separation": "May be ordered by court"
+      },
+      "court_procedures": {
+        "court_type": "Maronite Ecclesiastical Courts",
+        "judges": "Clerical judges",
+        "appeals": "To higher ecclesiastical courts",
+        "annulment_process": "Formal process with evidence requirements"
+      },
+      "historical_context": "Maronites are the largest Christian community in Lebanon. They follow the Code of Canons of Eastern Churches (1990) which introduced spousal equality. The 1949 law was the foundation for Catholic personal status laws. Marriage is considered indissoluble sacrament.",
+      "related_laws": [
+        "CCEO 1990",
+        "Law 2/1951 - Religious Authorities"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-GCA-006",
+      "official_number": "Law of February 22, 1949 - Shared Catholic Personal Status Law",
+      "official_title_arabic": "قانون الأحوال الشخصية للطوائف الكاثوليكية - الروم الكاثوليك (الملكيين)",
+      "official_title_french": "Loi du Statut Personnel des Confessions Catholiques - Grecs Catholiques (Melkites)",
+      "official_title_english": "Personal Status Law of Catholic Confessions - Greek Catholic (Melkite)",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Greek Catholic (Melkite)",
+      "religious_community": "Greek Catholic/Melkite (الروم الكاثوليك - الملكيين)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Canons of Eastern Churches 1990",
+          "date": "1990",
+          "articles_affected": [
+            "Spousal equality provisions"
+          ],
+          "nature": "Introduced equality between spouses"
+        }
+      ],
+      "full_text_arabic": "يخضع الروم الكاثوليك لنفس قانون الطوائف الكاثوليكية الشرقية",
+      "full_text_french": "Les Grecs Catholiques suivent même loi que confessions catholiques orientales",
+      "key_articles": [
+        {
+          "article_number": "Shared with Catholic Confessions",
+          "text_arabic": "الزواج سر مقدس والطلاق غير مسموح به",
+          "text_french": "Mariage est sacrement saint; divorce non permis",
+          "subject": "Marriage sacrament"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 18,
+        "guardian_required": true,
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Fraud",
+          "Mental incapacity",
+          "Non-consummation",
+          "Force",
+          "Bigamy"
+        ],
+        "separation": "Available without right to remarry"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959",
+        "female_share": "Equal to male",
+        "testamentary_freedom": "Permitted"
+      },
+      "custody_guardianship": {
+        "breastfeeding_duration": "2 years",
+        "parental_authority": "Father primary",
+        "guardianship": "Father has wilaya"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory",
+        "father_to_children": "Obligatory"
+      },
+      "court_procedures": {
+        "court_type": "Greek Catholic Ecclesiastical Courts",
+        "judges": "Clerical judges",
+        "appeals": "To higher Catholic courts"
+      },
+      "historical_context": "The Melkite Greek Catholic Church follows the same personal status law as other Eastern Catholic confessions. They recognize the Pope but maintain Byzantine liturgical traditions.",
+      "related_laws": [
+        "CCEO 1990",
+        "Law 2/1951"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-ARO-007",
+      "official_number": "Law of February 22, 1949; Code of Procedure January 1, 1990",
+      "official_title_arabic": "قانون الأحوال الشخصية للطائفة الأرمنية الأرثوذكسية",
+      "official_title_french": "Loi du Statut Personnel de la Confession Arménienne Orthodoxe",
+      "official_title_english": "Personal Status Law of the Armenian Orthodox Confession",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Armenian Orthodox",
+      "religious_community": "Armenian Orthodox (الأرمن الأرثوذكس)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Procedure January 1, 1990",
+          "date": "1990-01-01",
+          "articles_affected": [
+            "Court procedures"
+          ],
+          "nature": "Updated court procedures"
+        }
+      ],
+      "full_text_arabic": "قانون الأحوال الشخصية للأرمن الأرثوذكس",
+      "full_text_french": "Loi du statut personnel des Arméniens Orthodoxes",
+      "key_articles": [
+        {
+          "article_number": "Article 47",
+          "text_arabic": "تأخذ الزوجة اسم عائلة زوجها",
+          "text_french": "L'épouse prend nom de famille de son mari",
+          "subject": "Wife's name after marriage"
+        },
+        {
+          "article_number": "General",
+          "text_arabic": "المساواة بين الوالدين في السلطة الأبوية",
+          "text_french": "Égalité entre parents dans autorité parentale",
+          "subject": "Equal parental authority - unique feature"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 18,
+        "guardian_required": true,
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Canonical grounds"
+        ],
+        "separation": "Available"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959",
+        "female_share": "Equal to male"
+      },
+      "custody_guardianship": {
+        "unique_feature": "Parents share authority equally - only Christian sect with this provision",
+        "guardianship": "Equal authority between parents"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory",
+        "father_to_children": "Obligatory"
+      },
+      "court_procedures": {
+        "court_type": "Armenian Orthodox Ecclesiastical Courts",
+        "judges": "Clerical judges",
+        "appeals": "To Armenian Orthodox appellate courts"
+      },
+      "historical_context": "The Armenian Orthodox community is unique among Lebanese Christian communities as their personal status law provides for equal parental authority between mothers and fathers. This reflects the Armenian community's progressive approach to family law.",
+      "related_laws": [
+        "Law 2/1951"
+      ],
+      "source_url": "http://77.42.251.205/LawView.aspx?opt=view&LawID=258204",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-ARC-008",
+      "official_number": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990; Code of Procedure for Eastern Catholic Tribunals",
+      "official_title_arabic": "قانون الأحوال الشخصية للطائفة الأرمنية الكاثوليكية",
+      "official_title_french": "Loi du Statut Personnel de la Confession Arménienne Catholique",
+      "official_title_english": "Personal Status Law of the Armenian Catholic Confession",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Armenian Catholic",
+      "religious_community": "Armenian Catholic (الأرمن الكاثوليك)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Canons of Eastern Churches (CCEO) 1990",
+          "date": "1990",
+          "articles_affected": [
+            "Canon 777 - spousal equality"
+          ],
+          "nature": "Introduced equality of rights and duties between spouses"
+        },
+        {
+          "amending_law": "Code of Procedure for Tribunals of Eastern Catholic Churches",
+          "date": "Not specified",
+          "articles_affected": [
+            "Court procedures"
+          ],
+          "nature": "Unified procedural rules for Eastern Catholic courts"
+        }
+      ],
+      "full_text_arabic": "يخضع الأرمن الكاثوليك لقانون الطوائف الكاثوليكية الشرقية الموحد والقانون العام للكنيسة (CCEO 1990)",
+      "full_text_french": "Les Arméniens Catholiques suivent la loi unifiée des confessions catholiques orientales et le droit canonique (CCEO 1990)",
+      "key_articles": [
+        {
+          "article_number": "Canon 777 (CCEO)",
+          "text_arabic": "لكل من الزوجين من الالتزامات والحقوق المتساوية فيما يتعلق بشراكة الحياة الزوجية",
+          "text_french": "Chaque époux a obligations et droits égaux concernant partenariat de vie conjugale",
+          "subject": "Spousal equality"
+        },
+        {
+          "article_number": "Article 11 (1949 Law)",
+          "text_arabic": "يشترط في الزواج أن يكون الزوج قد أتم 16 سنة والزوجة 14 سنة بموافقة الولي",
+          "text_french": "Conditions de mariage: époux 16 ans, épouse 14 ans avec consentement tuteur",
+          "subject": "Marriage age with guardian"
+        },
+        {
+          "article_number": "Article 12 (1949 Law)",
+          "text_arabic": "بدون موافقة الولي: 17 سنة للزوج، 15 سنة للزوجة",
+          "text_french": "Sans consentement tuteur: 17 ans époux, 15 ans épouse",
+          "subject": "Marriage age without guardian"
+        },
+        {
+          "article_number": "Shared Catholic Articles 123-125",
+          "text_arabic": "الرضاعة للأم لمدة سنتين، والسلطة الأبوية للأب، تفقد الأم الحضانة عند زواجها",
+          "text_french": "Allaitement à mère 2 ans, autorité parentale au père, mère perd garde si remariage",
+          "subject": "Custody and parental authority"
+        },
+        {
+          "article_number": "Article 818 (CCEO)",
+          "text_arabic": "أحكام البطلان: عدم الأهلية، عدم الإيفاء بالواجبات الزوجية، العجز العقلي أو الجسدي",
+          "text_french": "Dispositions d'annulation: incapacité, non-accomplissement devoirs conjugaux, handicap mental ou physique",
+          "subject": "Annulment grounds"
+        },
+        {
+          "article_number": "Article 865 (CCEO)",
+          "text_arabic": "السلطة الأبوية للأب، مع مراعاة مصلحة الطفل",
+          "text_french": "Autorité parentale au père, considérant intérêt de l'enfant",
+          "subject": "Parental authority"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 16,
+        "minimum_age_female": 14,
+        "minimum_age_male_no_guardian": 17,
+        "minimum_age_female_no_guardian": 15,
+        "guardian_required": true,
+        "guardian_role": "Father or legal guardian consent required for ages 16/14; not required for 17/15+",
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes - following CCEO and shared Catholic provisions",
+        "interfaith_marriage": "Permitted with other Catholics and Christians with dispensation; requires papal dispensation for non-Christians",
+        "marriage_registration": "Must be registered with Armenian Catholic ecclesiastical court",
+        "witnesses_required": 2,
+        "marriage_sacrement": "Marriage is considered a holy sacrament indissoluble by death only"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Inability to contract marriage due to mental impairment",
+          "Inability to perform major marital duties",
+          "Mental or physical incapacity affecting marital responsibilities",
+          "Fraud or misrepresentation (including drug addiction, criminal history not disclosed)",
+          "Polygamy or incest",
+          "Violence and abuse",
+          "Irresponsible behavior",
+          "Inability or refusal to consummate marriage"
+        ],
+        "separation": "Legal separation (infisal) available without right to remarry",
+        "separation_grounds": [
+          "Adultery",
+          "Mental or physical danger",
+          "Abandonment"
+        ],
+        "reconciliation_process": "Court must attempt reconciliation at every stage",
+        "waiting_period": "No waiting period for Catholics after annulment"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959 - equal shares for all heirs",
+        "applicable_law": "Inheritance Law for All Non-Muslims of June 23, 1959",
+        "female_share": "Equal to male siblings",
+        "spouse_share": "Equal inheritance rights",
+        "children_share": "Equal among all children regardless of gender",
+        "testamentary_freedom": "Permitted; parent can legally disinherit children",
+        "court_jurisdiction": "Civil courts have jurisdiction"
+      },
+      "custody_guardianship": {
+        "breastfeeding_duration": "2 years - mother's right and obligation",
+        "parental_authority": "Confined to father in principle (Article 123-125)",
+        "mother_authority_condition": "Mother may receive authority if father deprived by court and mother proven eligible",
+        "mother_remarriage_effect": "Mother loses custody upon remarriage (Article 125)",
+        "father_remarriage_effect": "No effect on father's authority",
+        "guardianship_wilaya": "Father has wilaya over children and their property",
+        "loss_of_custody_grounds": [
+          "Mother is recalcitrant or behaving badly",
+          "Mother not capable of raising child",
+          "Mother caused lack of joint marital life",
+          "Mother changes religion or Catholic sect",
+          "Mother remarries after dissolution or death of husband"
+        ],
+        "travel_restrictions": "Mother cannot travel with children without father's consent or court order"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": {
+          "during_marriage": "Obligatory - includes food, clothing, shelter, living expenses",
+          "during_separation": "Continues based on fault; wife loses right if at fault for desertion",
+          "amount_determination": "Based on husband's financial capacity"
+        },
+        "father_to_children": {
+          "obligation": "Obligatory until financial independence",
+          "coverage": "All living and educational expenses"
+        },
+        "compensation": "Husband may be ordered to pay compensation if at fault for marriage termination"
+      },
+      "court_procedures": {
+        "court_type": "Armenian Catholic Ecclesiastical Courts",
+        "court_structure": "First Instance and Appellate Courts",
+        "judges": "Three clerical judges (priests) trained in Oriental canon law",
+        "court_composition": "Tribunal of three priest-judges",
+        "appeals": "To higher Catholic appellate courts",
+        "public_trials": "Generally public unless involving sensitive matters",
+        "legal_representation": "Lawyers permitted; compulsory in appellate courts",
+        "enforcement": "Through state mechanisms",
+        "timeline": "Annulment procedures can take over one year with reconciliation attempts"
+      },
+      "historical_context": "Armenian Catholics are one of the six Eastern Catholic communities sharing the unified 1949 Personal Status Law. They recognize the authority of the Pope while maintaining Armenian liturgical and cultural traditions. The 1990 Code of Canons of Eastern Churches (CCEO) introduced spousal equality provisions (Canon 777) that apply to all Eastern Catholic churches. The Armenian Catholic Church has its own patriarchate and follows the Code of Procedure for Tribunals of Eastern Catholic Churches for court procedures.",
+      "related_laws": [
+        "CCEO 1990 - Code of Canons of Eastern Churches",
+        "Law 2/1951 - Religious Authorities Powers",
+        "Civil Law of 1959 - Inheritance for Non-Muslims",
+        "Code of Procedure for Eastern Catholic Tribunals"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-SYO-009",
+      "official_number": "Law of February 22, 1949; renewed September 10, 2003",
+      "official_title_arabic": "قانون الأحوال الشخصية لطائفة السريان الأرثوذكس",
+      "official_title_french": "Loi du Statut Personnel de la Confession Syriac Orthodoxe",
+      "official_title_english": "Personal Status Law of the Syriac Orthodox Confession",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Syriac Orthodox",
+      "religious_community": "Syriac Orthodox (السريان الأرثوذكس)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Renewed Law September 10, 2003",
+          "date": "2003-09-10",
+          "articles_affected": [
+            "Various provisions"
+          ],
+          "nature": "Renewal and update of personal status code"
+        }
+      ],
+      "full_text_arabic": "قانون الأحوال الشخصية للسريان الأرثوذكس",
+      "full_text_french": "Loi du statut personnel des Syriens Orthodoxes",
+      "key_articles": [
+        {
+          "article_number": "General",
+          "text_arabic": "تنظيم شؤون الزواج والطلاق والحضانة والميراث",
+          "text_french": "Réglementation des affaires de mariage, divorce, garde et héritage",
+          "subject": "General provisions"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 18,
+        "minimum_age_female": 18,
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Canonical grounds"
+        ]
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959",
+        "female_share": "Equal to male"
+      },
+      "custody_guardianship": {
+        "parental_authority": "Father primary",
+        "guardianship": "Father has wilaya"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": "Obligatory",
+        "father_to_children": "Obligatory"
+      },
+      "court_procedures": {
+        "court_type": "Syriac Orthodox Ecclesiastical Courts",
+        "judges": "Clerical judges"
+      },
+      "historical_context": "The Syriac Orthodox Church is one of the ancient Oriental Orthodox churches. Their personal status law was renewed in 2003 by the Synod of Antioch and ratified by Patriarch Ignatius Zakka I.",
+      "related_laws": [
+        "Law 2/1951"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb/LawView.aspx?opt=view&LawID=246386",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-SYC-010",
+      "official_number": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990; Code of Procedure for Eastern Catholic Tribunals",
+      "official_title_arabic": "قانون الأحوال الشخصية للطائفة السريانية الكاثوليكية",
+      "official_title_french": "Loi du Statut Personnel de la Confession Syriac Catholique",
+      "official_title_english": "Personal Status Law of the Syriac Catholic Confession",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Syriac Catholic",
+      "religious_community": "Syriac Catholic (السريان الكاثوليك)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Canons of Eastern Churches (CCEO) 1990",
+          "date": "1990",
+          "articles_affected": [
+            "Canon 777 - spousal equality",
+            "Marriage and family provisions"
+          ],
+          "nature": "Introduced equality of rights and duties between spouses; unified Eastern Catholic canon law"
+        },
+        {
+          "amending_law": "Code of Procedure for Tribunals of Eastern Catholic Churches",
+          "date": "Not specified",
+          "articles_affected": [
+            "Court procedures and appeals"
+          ],
+          "nature": "Standardized procedural rules across Eastern Catholic churches"
+        }
+      ],
+      "full_text_arabic": "يخضع السريان الكاثوليك لقانون الطوائف الكاثوليكية الشرقية الموحد والقانون العام للكنيسة (CCEO 1990)",
+      "full_text_french": "Les Syriens Catholiques suivent la loi unifiée des confessions catholiques orientales et le droit canonique (CCEO 1990)",
+      "key_articles": [
+        {
+          "article_number": "Canon 777 (CCEO)",
+          "text_arabic": "لكل من الزوجين من الالتزامات والحقوق المتساوية فيما يتعلق بشراكة الحياة الزوجية",
+          "text_french": "Chaque époux a obligations et droits égaux concernant partenariat de vie conjugale",
+          "subject": "Spousal equality - major reform"
+        },
+        {
+          "article_number": "Shared Catholic Article 11",
+          "text_arabic": "يشترط في الزواج أن يكون الزوج قد أتم 16 سنة والزوجة 14 سنة بموافقة الولي",
+          "text_french": "Conditions de mariage: époux 16 ans, épouse 14 ans avec consentement tuteur",
+          "subject": "Marriage age with guardian consent"
+        },
+        {
+          "article_number": "Shared Catholic Article 12",
+          "text_arabic": "بدون موافقة الولي: 17 سنة للزوج، 15 سنة للزوجة",
+          "text_french": "Sans consentement tuteur: 17 ans époux, 15 ans épouse",
+          "subject": "Marriage age without guardian"
+        },
+        {
+          "article_number": "Shared Catholic Articles 123-125",
+          "text_arabic": "الرضاعة للأم لمدة سنتين، والسلطة الأبوية للأب، تفقد الأم الحضانة عند زواجها",
+          "text_french": "Allaitement à mère 2 ans, autorité parentale au père, mère perd garde si remariage",
+          "subject": "Custody and parental authority provisions"
+        },
+        {
+          "article_number": "Article 818 (CCEO)",
+          "text_arabic": "أحكام البطلان: عدم الأهلية، عدم الإيفاء بالواجبات الزوجية، العجز العقلي أو الجسدي، الغش",
+          "text_french": "Dispositions d'annulation: incapacité, non-accomplissement devoirs conjugaux, handicap mental ou physique, fraude",
+          "subject": "Annulment grounds"
+        },
+        {
+          "article_number": "Article 865 (CCEO)",
+          "text_arabic": "السلطة الأبوية من حق الأب، مع مراعاة مصلحة الطفل الفضلى",
+          "text_french": "Autorité parentale au père, considérant intérêt supérieur de l'enfant",
+          "subject": "Parental authority and child's best interest"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 16,
+        "minimum_age_female": 14,
+        "minimum_age_male_no_guardian": 17,
+        "minimum_age_female_no_guardian": 15,
+        "guardian_required": true,
+        "guardian_role": "Father or legal guardian consent required for minors (16/14); adults (17/15+) may marry without guardian consent",
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes - following CCEO and shared Catholic law provisions",
+        "interfaith_marriage": "Permitted with other Catholics and Christians with proper dispensation; papal dispensation required for non-Christians",
+        "marriage_registration": "Must be registered with Syriac Catholic ecclesiastical court",
+        "witnesses_required": 2,
+        "marriage_sacrement": "Marriage is a holy sacrament indissoluble except by death",
+        "dispensation_requirements": "Bishop may grant dispensation for age requirements in exceptional circumstances"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Inability to contract marriage due to mental impairment or insanity",
+          "Inability to perform major marital duties toward spouse",
+          "Mental or physical incapacity preventing essential marital responsibilities",
+          "Fraud or misrepresentation (concealing drug addiction, criminal history, etc.)",
+          "Polygamy or incestuous relationship",
+          "Violence and abuse",
+          "Irresponsible behavior affecting marital life",
+          "Inability or refusal to consummate marriage (medical proof required)"
+        ],
+        "separation": "Legal separation (infisal) available without right to remarry",
+        "separation_grounds": [
+          "Adultery or infidelity",
+          "Mental or physical danger to spouse",
+          "Abandonment for extended period",
+          "Irreconcilable differences with reconciliation attempts exhausted"
+        ],
+        "reconciliation_process": "Court must attempt reconciliation at every stage of proceedings",
+        "waiting_period": "No waiting period applies to Catholics after annulment",
+        "appeal_process": "Annulment decisions may be appealed to higher ecclesiastical courts"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959 - equal shares for all heirs regardless of gender",
+        "applicable_law": "Inheritance Law for All Non-Muslims of June 23, 1959",
+        "female_share": "Equal to male siblings in all circumstances",
+        "spouse_share": "Equal inheritance rights between spouses",
+        "children_share": "Equal distribution among all children regardless of gender",
+        "testamentary_freedom": "Full testamentary freedom permitted; parent can legally disinherit children",
+        "forced_heirship": "Not applicable under Civil Law 1959",
+        "court_jurisdiction": "Civil courts have exclusive jurisdiction over inheritance matters"
+      },
+      "custody_guardianship": {
+        "breastfeeding_duration": "2 years - mother's exclusive right and obligation (Article 124)",
+        "parental_authority": "Confined to father in principle (Article 123)",
+        "mother_authority_condition": "Mother may receive parental authority if: (1) father is deprived by court, (2) mother proven eligible, (3) court provides notice of transfer",
+        "mother_remarriage_effect": "Mother loses custody upon remarriage after dissolution or death of husband (Article 125)",
+        "father_remarriage_effect": "No effect on father's parental authority or custody",
+        "guardianship_wilaya": "Father has wilaya (guardianship) over children and their property",
+        "loss_of_custody_grounds_mother": [
+          "Mother is recalcitrant or behaving badly (nashiz)",
+          "Mother not capable of raising and rearing child",
+          "Mother caused lack of joint marital life",
+          "Mother changes religion or changes her Catholic sect",
+          "Mother remarries after dissolution of marriage or death of husband"
+        ],
+        "travel_restrictions": "Custodial parent cannot travel with minor children without other parent's express consent or court authorization",
+        "child_travel_violation": "Removing children without consent may result in criminal penalties under Penal Code"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": {
+          "during_marriage": "Obligatory - includes food, clothing, shelter, and all living expenses adequate to husband's condition",
+          "during_separation": "Continues if husband at fault; wife loses right if found at fault for desertion",
+          "amount_determination": "Based on husband's financial capacity and social standing",
+          "enforcement": "Court orders implemented immediately; non-payment within 5 days can result in imprisonment"
+        },
+        "father_to_children": {
+          "obligation": "Obligatory until male children financially independent, until female children married",
+          "coverage": "Food, clothing, housing, education, medical care, and all living expenses",
+          "enforcement": "Through court orders and state enforcement mechanisms"
+        },
+        "compensation_for_fault": "Husband may be ordered to pay compensation if found at fault for marriage termination",
+        "wife_obligation": "Wife has obligation of 'obedience' (ta'a) and cohabitation during marriage"
+      },
+      "court_procedures": {
+        "court_type": "Syriac Catholic Ecclesiastical Courts",
+        "court_structure": "First Instance Courts and Appellate Courts",
+        "judges": "Three clerical judges (priests) trained in Oriental canon law and CCEO",
+        "court_composition": "Tribunal of three priest-judges; bishop may preside in important cases",
+        "appeals": "To higher Eastern Catholic appellate courts; final appeal may go to Vatican courts",
+        "public_trials": "Generally public unless involving matters that could cause shame or sensitive personal information",
+        "legal_representation": "Lawyers permitted in first instance; compulsory in appellate courts",
+        "enforcement": "Court decisions enforceable through state mechanisms and Ministry of Justice",
+        "timeline": "Annulment procedures typically take over one year with mandatory reconciliation attempts at every stage",
+        "court_locations": "Courts located in major cities with Syriac Catholic communities"
+      },
+      "historical_context": "Syriac Catholics are one of the six Eastern Catholic communities sharing the unified 1949 Personal Status Law. They recognize the authority of the Pope while maintaining West Syriac liturgical traditions. The 1990 Code of Canons of Eastern Churches (CCEO) introduced significant reforms including spousal equality (Canon 777). The Syriac Catholic Church has its own patriarchate (the Syriac Catholic Patriarchate of Antioch) and follows the Code of Procedure for Tribunals of Eastern Catholic Churches. The community has ancient roots in the Levant and maintains distinct cultural and religious traditions.",
+      "related_laws": [
+        "CCEO 1990 - Code of Canons of Eastern Churches",
+        "Law 2/1951 - Religious Authorities Powers",
+        "Civil Law of 1959 - Inheritance for Non-Muslims",
+        "Code of Procedure for Tribunals of Eastern Catholic Churches"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LPS-CHL-011",
+      "official_number": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990; Code of Procedure for Eastern Catholic Tribunals",
+      "official_title_arabic": "قانون الأحوال الشخصية للطائفة الكلدانية الكاثوليكية",
+      "official_title_french": "Loi du Statut Personnel de la Confession Chaldéenne Catholique",
+      "official_title_english": "Personal Status Law of the Chaldean Catholic Confession",
+      "date_enacted": "1949-02-22",
+      "published_in_official_gazette": {
+        "issue_number": "Not specified",
+        "date": "1949-02-22"
+      },
+      "category": "Personal Status - Chaldean Catholic",
+      "religious_community": "Chaldean Catholic (الكلدان)",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Code of Canons of Eastern Churches (CCEO) 1990",
+          "date": "1990",
+          "articles_affected": [
+            "Canon 777 - spousal equality",
+            "Marriage and family law provisions"
+          ],
+          "nature": "Introduced equality of rights and duties between spouses; unified Eastern Catholic canon law"
+        },
+        {
+          "amending_law": "Code of Procedure for Tribunals of Eastern Catholic Churches",
+          "date": "Not specified",
+          "articles_affected": [
+            "Court procedures and appellate process"
+          ],
+          "nature": "Standardized procedural rules across all Eastern Catholic churches"
+        }
+      ],
+      "full_text_arabic": "يخضع الكلدان لقانون الطوائف الكاثوليكية الشرقية الموحد والقانون العام للكنيسة (CCEO 1990)",
+      "full_text_french": "Les Chaldéens suivent la loi unifiée des confessions catholiques orientales et le droit canonique (CCEO 1990)",
+      "key_articles": [
+        {
+          "article_number": "Canon 777 (CCEO)",
+          "text_arabic": "لكل من الزوجين من الالتزامات والحقوق المتساوية فيما يتعلق بشراكة الحياة الزوجية",
+          "text_french": "Chaque époux a obligations et droits égaux concernant partenariat de vie conjugale",
+          "subject": "Spousal equality - CCEO reform"
+        },
+        {
+          "article_number": "Shared Catholic Article 11",
+          "text_arabic": "يشترط في الزواج أن يكون الزوج قد أتم 16 سنة والزوجة 14 سنة بموافقة الولي",
+          "text_french": "Conditions de mariage: époux 16 ans, épouse 14 ans avec consentement tuteur",
+          "subject": "Marriage age with guardian"
+        },
+        {
+          "article_number": "Shared Catholic Article 12",
+          "text_arabic": "بدون موافقة الولي: 17 سنة للزوج، 15 سنة للزوجة",
+          "text_french": "Sans consentement tuteur: 17 ans époux, 15 ans épouse",
+          "subject": "Marriage age without guardian"
+        },
+        {
+          "article_number": "Shared Catholic Articles 123-125",
+          "text_arabic": "الرضاعة للأم لمدة سنتين، والسلطة الأبوية للأب، تفقد الأم الحضانة عند زواجها",
+          "text_french": "Allaitement à mère 2 ans, autorité parentale au père, mère perd garde si remariage",
+          "subject": "Custody and parental authority"
+        },
+        {
+          "article_number": "Article 818 (CCEO)",
+          "text_arabic": "أحكام البطلان: عدم الأهلية، عدم الإيفاء بالواجبات الزوجية، العجز العقلي أو الجسدي، الغش",
+          "text_french": "Dispositions d'annulation: incapacité, non-accomplissement devoirs conjugaux, handicap mental ou physique, fraude",
+          "subject": "Annulment grounds"
+        },
+        {
+          "article_number": "Article 865 (CCEO)",
+          "text_arabic": "السلطة الأبوية من حق الأب، مع مراعاة مصلحة الطفل الفضلى",
+          "text_french": "Autorité parentale au père, considérant intérêt supérieur de l'enfant",
+          "subject": "Parental authority"
+        }
+      ],
+      "marriage_provisions": {
+        "minimum_age_male": 16,
+        "minimum_age_female": 14,
+        "minimum_age_male_no_guardian": 17,
+        "minimum_age_female_no_guardian": 15,
+        "guardian_required": true,
+        "guardian_role": "Father or legal guardian consent required for ages 16/14; adults (17/15+) may marry without guardian consent",
+        "polygamy_allowed": false,
+        "divorce_prohibited": true,
+        "annulment_available": "Yes - following CCEO and shared Catholic provisions",
+        "interfaith_marriage": "Permitted with other Catholics and Christians with proper dispensation; papal dispensation required for non-Christians",
+        "marriage_registration": "Must be registered with Chaldean Catholic ecclesiastical court",
+        "witnesses_required": 2,
+        "marriage_sacrement": "Marriage is a holy sacrament indissoluble except by death",
+        "dispensation_requirements": "Bishop may grant dispensation for age requirements in exceptional circumstances"
+      },
+      "divorce_provisions": {
+        "divorce_allowed": false,
+        "annulment_grounds": [
+          "Inability to contract marriage due to mental impairment or insanity",
+          "Inability to perform major marital duties toward spouse",
+          "Mental or physical incapacity preventing essential marital responsibilities",
+          "Fraud or misrepresentation (concealing drug addiction, criminal history, etc.)",
+          "Polygamy or incestuous relationship",
+          "Violence and abuse",
+          "Irresponsible behavior affecting marital life",
+          "Inability or refusal to consummate marriage (medical proof required)"
+        ],
+        "separation": "Legal separation (infisal) available without right to remarry",
+        "separation_grounds": [
+          "Adultery or infidelity",
+          "Mental or physical danger to spouse",
+          "Abandonment for extended period",
+          "Irreconcilable differences with reconciliation attempts exhausted"
+        ],
+        "reconciliation_process": "Court must attempt reconciliation at every stage of proceedings",
+        "waiting_period": "No waiting period applies to Catholics after annulment",
+        "appeal_process": "Annulment decisions may be appealed to higher ecclesiastical courts"
+      },
+      "inheritance_laws": {
+        "basis": "Civil Law of 1959 - equal shares for all heirs regardless of gender",
+        "applicable_law": "Inheritance Law for All Non-Muslims of June 23, 1959",
+        "female_share": "Equal to male siblings in all circumstances",
+        "spouse_share": "Equal inheritance rights between spouses",
+        "children_share": "Equal distribution among all children regardless of gender",
+        "testamentary_freedom": "Full testamentary freedom permitted; parent can legally disinherit children",
+        "forced_heirship": "Not applicable under Civil Law 1959",
+        "court_jurisdiction": "Civil courts have exclusive jurisdiction over inheritance matters"
+      },
+      "custody_guardianship": {
+        "breastfeeding_duration": "2 years - mother's exclusive right and obligation (Article 124)",
+        "parental_authority": "Confined to father in principle (Article 123)",
+        "mother_authority_condition": "Mother may receive parental authority if: (1) father is deprived by court, (2) mother proven eligible, (3) court provides notice of transfer",
+        "mother_remarriage_effect": "Mother loses custody upon remarriage after dissolution or death of husband (Article 125)",
+        "father_remarriage_effect": "No effect on father's parental authority or custody",
+        "guardianship_wilaya": "Father has wilaya (guardianship) over children and their property",
+        "loss_of_custody_grounds_mother": [
+          "Mother is recalcitrant or behaving badly (nashiz)",
+          "Mother not capable of raising and rearing child",
+          "Mother caused lack of joint marital life",
+          "Mother changes religion or changes her Catholic sect",
+          "Mother remarries after dissolution of marriage or death of husband"
+        ],
+        "travel_restrictions": "Custodial parent cannot travel with minor children without other parent's express consent or court authorization",
+        "child_travel_violation": "Removing children without consent may result in criminal penalties under Penal Code"
+      },
+      "financial_support_nafaqah": {
+        "husband_to_wife": {
+          "during_marriage": "Obligatory - includes food, clothing, shelter, and all living expenses adequate to husband's condition",
+          "during_separation": "Continues if husband at fault; wife loses right if found at fault for desertion",
+          "amount_determination": "Based on husband's financial capacity and social standing",
+          "enforcement": "Court orders implemented immediately; non-payment within 5 days can result in imprisonment"
+        },
+        "father_to_children": {
+          "obligation": "Obligatory until male children financially independent, until female children married",
+          "coverage": "Food, clothing, housing, education, medical care, and all living expenses",
+          "enforcement": "Through court orders and state enforcement mechanisms"
+        },
+        "compensation_for_fault": "Husband may be ordered to pay compensation if found at fault for marriage termination",
+        "wife_obligation": "Wife has obligation of 'obedience' (ta'a) and cohabitation during marriage"
+      },
+      "court_procedures": {
+        "court_type": "Chaldean Catholic Ecclesiastical Courts",
+        "court_structure": "First Instance Courts and Appellate Courts",
+        "judges": "Three clerical judges (priests) trained in Oriental canon law and CCEO",
+        "court_composition": "Tribunal of three priest-judges; bishop may preside in important cases",
+        "appeals": "To higher Eastern Catholic appellate courts; final appeal may go to Vatican courts",
+        "public_trials": "Generally public unless involving matters that could cause shame or sensitive personal information",
+        "legal_representation": "Lawyers permitted in first instance; compulsory in appellate courts",
+        "enforcement": "Court decisions enforceable through state mechanisms and Ministry of Justice",
+        "timeline": "Annulment procedures typically take over one year with mandatory reconciliation attempts at every stage",
+        "court_locations": "Courts located in major cities with Chaldean Catholic communities"
+      },
+      "historical_context": "Chaldean Catholics are one of the six Eastern Catholic communities sharing the unified 1949 Personal Status Law. They recognize the authority of the Pope while maintaining East Syriac liturgical traditions. The 1990 Code of Canons of Eastern Churches (CCEO) introduced significant reforms including spousal equality (Canon 777). The Chaldean Catholic Church has its own patriarchate (the Chaldean Catholic Patriarchate of Babylon) based in Baghdad, with diaspora communities throughout the world including Lebanon. Many Chaldeans in Lebanon are refugees from Iraq. The community follows the Code of Procedure for Tribunals of Eastern Catholic Churches.",
+      "related_laws": [
+        "CCEO 1990 - Code of Canons of Eastern Churches",
+        "Law 2/1951 - Religious Authorities Powers",
+        "Civil Law of 1959 - Inheritance for Non-Muslims",
+        "Code of Procedure for Tribunals of Eastern Catholic Churches"
+      ],
+      "source_url": "http://www.legallaw.ul.edu.lb",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

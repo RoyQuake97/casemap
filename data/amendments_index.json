@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "file": "amendments_index.json",
+    "description": "Cross-reference index of all tracked amendments and inter-law relationships in the database",
+    "total_amendments_tracked": 47,
+    "last_updated": "2026-02-21"
+  },
+  "amendments": [
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1927-10-17", "nature": "modification", "scope": "Senate abolished, presidency enhanced"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1929-05-08", "nature": "modification", "scope": "Art 28 - deputy/minister dual role"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Order 129 of 1943-03-18", "nature": "modification", "scope": "All deputies elected"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1943-11-09", "nature": "modification", "scope": "Independence - removed Mandate references"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1943-12-07", "nature": "modification", "scope": "New flag (Art 5)"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1947-01-21", "nature": "modification", "scope": "Post-independence governance"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1948-02-12", "nature": "modification", "scope": "Art 49 - presidency"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1976-07-16", "nature": "modification", "scope": "Extended parliament (civil war)"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Constitutional Law 1990-09-21 (Taif)", "nature": "modification", "scope": "Comprehensive: Preamble + 50+ articles"},
+    {"target": "Constitution (LB-CONST-001)", "amending_law": "Law No. 585/2004", "nature": "modification", "scope": "Art 49 - presidential term extension"},
+    {"target": "Penal Code (LB-CRIM-001)", "amending_law": "Law 293/2014", "nature": "addition", "scope": "Domestic violence protections"},
+    {"target": "Penal Code (LB-CRIM-001)", "amending_law": "Law 205/2020", "nature": "modification", "scope": "Sexual harassment (Arts 385, 507, 519, 532)"},
+    {"target": "Penal Code (LB-CRIM-001)", "amending_law": "Law 164/2011", "nature": "repeal", "scope": "Art 562 honor crimes repealed"},
+    {"target": "Penal Code (LB-CRIM-001)", "amending_law": "Law 65/2017", "nature": "modification", "scope": "Torture criminalized (Art 401)"},
+    {"target": "Code of Commerce (LB-COM-001)", "amending_law": "DL 150/1983", "nature": "substitution", "scope": "Companies chapter replaced"},
+    {"target": "Banking Secrecy (LB-BANK-001)", "amending_law": "Law 318/2001", "nature": "modification", "scope": "SIC authority for AML"},
+    {"target": "Banking Secrecy (LB-BANK-001)", "amending_law": "Law 44/2015", "nature": "modification", "scope": "Expanded AML framework"},
+    {"target": "Banking Secrecy (LB-BANK-001)", "amending_law": "Law 306/2022", "nature": "modification", "scope": "Partial lifting for forensic audit"},
+    {"target": "Municipal Act (LB-MUN-001)", "amending_law": "Law 665/1997", "nature": "modification", "scope": "Major municipal governance reform"},
+    {"target": "Electoral Law 25/2008", "amending_law": "Law 44/2017", "nature": "substitution", "scope": "Replaced with proportional representation"}
+  ],
+  "inter_law_relationships": {
+    "constitutional_implementing_laws": [
+      {"constitutional_article": "19", "implementing_law": "Law 250/1993 (Constitutional Council)"},
+      {"constitutional_article": "20", "implementing_law": "DL 7855/1961 (Judicial Organization)"},
+      {"constitutional_article": "24", "implementing_law": "Law 44/2017 (Electoral Law)"},
+      {"constitutional_article": "65", "implementing_law": "Various ministerial organization decrees"},
+      {"constitutional_article": "9", "implementing_law": "18 personal status law systems"}
+    ],
+    "code_hierarchy": {
+      "civil": ["COC 1932 → CCP DL 90/1983 → Judicial Org DL 7855/1961"],
+      "criminal": ["Penal Code DL 340/1943 → CrimPro 328/2001 → Judicial Org DL 7855/1961"],
+      "commercial": ["Code of Commerce 1942 → Companies DL 150/1983 → Maritime Code 1947"],
+      "labor": ["Labor Code 1946 → Social Security 13955/1963 → Work Accidents DL 136/1983"],
+      "financial": ["Money & Credit Code 1963 → Banking Secrecy 1/1956 → AML 44/2015"],
+      "administrative": ["Constitution → Municipal Act DL 118/1977 → Electoral Law 44/2017"]
+    }
+  }
+}

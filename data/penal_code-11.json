@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "file": "penal_code.json",
+    "description": "Lebanese Penal Code (DL 340/1943) and Code of Criminal Procedure, plus key criminal legislation",
+    "total_entries": 5,
+    "last_updated": "2026-02-21",
+    "phase": 1
+  },
+  "laws": [
+    {
+      "law_id": "LB-CRIM-001",
+      "official_number": "Decree-Law No. 340 of March 1, 1943",
+      "official_title_arabic": "قانون العقوبات - مرسوم اشتراعي رقم 340 تاريخ 1 آذار 1943",
+      "official_title_french": "Code Pénal - Décret-loi No. 340 du 1er mars 1943",
+      "official_title_english": "Penal Code",
+      "date_enacted": "1943-03-01",
+      "date_effective": "1943-03-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-03-01",
+        "page": ""
+      },
+      "category": "Criminal Law",
+      "subcategory": "General Penal Code",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Decree-Law",
+      "total_articles": 772,
+      "amendments": [
+        {
+          "amending_law": "Law No. 239/1993",
+          "date": "1993-05-27",
+          "articles_affected": ["various"],
+          "nature": "modification",
+          "summary": "Post-war amendments to criminal penalties and procedures."
+        },
+        {
+          "amending_law": "Law No. 293/2014 (Domestic Violence)",
+          "date": "2014-04-01",
+          "articles_affected": [],
+          "nature": "addition",
+          "summary": "Law on Protection of Women and Family Members from Domestic Violence. Added protections and created new offenses related to domestic violence."
+        },
+        {
+          "amending_law": "Law No. 205/2020 (Sexual Harassment)",
+          "date": "2020-12-30",
+          "articles_affected": ["385", "507", "519", "532"],
+          "nature": "modification",
+          "summary": "Criminalized sexual harassment. Amended and strengthened provisions related to sexual offenses."
+        },
+        {
+          "amending_law": "Law No. 550/1996 (Repeal of Article 562 - Honor Crimes)",
+          "date": "1996-02-20",
+          "articles_affected": ["562"],
+          "nature": "modification",
+          "summary": "Reduced but did not fully eliminate mitigating circumstances for so-called 'honor crimes'. Article 562 was later fully repealed."
+        },
+        {
+          "amending_law": "Law No. 164/2011 (Abolition of reduced sentences for honor crimes)",
+          "date": "2011-08-17",
+          "articles_affected": ["562"],
+          "nature": "repeal",
+          "summary": "Abolished Article 562 which had provided reduced sentences for 'honor crimes'. Landmark reform after years of civil society advocacy."
+        },
+        {
+          "amending_law": "Law No. 65/2017 (Torture)",
+          "date": "2017-09-19",
+          "articles_affected": ["401"],
+          "nature": "modification",
+          "summary": "Criminalized torture in line with Lebanon's obligations under the Convention Against Torture. Defined torture as a crime and established penalties."
+        },
+        {
+          "amending_law": "Law No. 75/2024 (Human Trafficking)",
+          "date": "2024-08-15",
+          "articles_affected": [],
+          "nature": "addition",
+          "summary": "Amended and strengthened Lebanon's anti-trafficking framework."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1-12",
+          "text_english": "General principles: legality of offenses and punishments, territorial application, temporal application of criminal law.",
+          "subject": "General principles",
+          "current_version": true
+        },
+        {
+          "article_number": "185-232",
+          "text_english": "Offenses against state security, treason, espionage.",
+          "subject": "State security offenses",
+          "current_version": true
+        },
+        {
+          "article_number": "340-341",
+          "text_english": "Offenses related to unlawful assembly and strikes.",
+          "subject": "Public order offenses",
+          "current_version": true
+        },
+        {
+          "article_number": "385-420",
+          "text_english": "Offenses against public morals, sexual offenses.",
+          "subject": "Morality offenses",
+          "current_version": true
+        },
+        {
+          "article_number": "547-558",
+          "text_english": "Homicide and related offenses: intentional killing, manslaughter, assault causing death.",
+          "subject": "Homicide",
+          "current_version": true
+        },
+        {
+          "article_number": "569-578",
+          "text_english": "Assault and battery, bodily harm offenses.",
+          "subject": "Assault",
+          "current_version": true
+        },
+        {
+          "article_number": "635-667",
+          "text_english": "Theft, robbery, and related property offenses.",
+          "subject": "Theft",
+          "current_version": true
+        },
+        {
+          "article_number": "668-682",
+          "text_english": "Fraud, breach of trust, embezzlement.",
+          "subject": "Fraud and financial crimes",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Enacted during the French Mandate, the Lebanese Penal Code was modeled on the French Penal Code and the Syrian Penal Code (itself French-derived). It has undergone significant reforms in recent decades, particularly regarding women's rights (repeal of honor crime provisions), domestic violence criminalization, torture prohibition, and sexual harassment. Lebanon retains the death penalty in the code but has maintained a de facto moratorium on executions since 2004. Key ongoing reform debates include: decriminalization of drug use (Article 127-related), defamation reform, and LGBTQ+ rights (Article 534 criminalizing 'unnatural' sexual relations remains controversial).",
+      "related_laws": [
+        {"law_id": "LB-CRIM-002", "relationship": "complemented_by"},
+        {"law_id": "LB-CRIM-003", "relationship": "related_to"},
+        {"law_id": "LB-CRIM-004", "relationship": "related_to"},
+        {"law_id": "LB-CRIM-005", "relationship": "related_to"}
+      ],
+      "source_urls": [
+        "https://sherloc.unodc.org/cld/document/lbn/1943/lebanon_penal_code.html"
+      ],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CRIM-002",
+      "official_number": "Law No. 328 of August 2, 2001 (Code of Criminal Procedure)",
+      "official_title_arabic": "قانون أصول المحاكمات الجزائية - قانون رقم 328/2001",
+      "official_title_french": "Code de Procédure Pénale - Loi No. 328/2001",
+      "official_title_english": "Code of Criminal Procedure",
+      "date_enacted": "2001-08-02",
+      "date_effective": "2002-03-01",
+      "category": "Criminal Law",
+      "subcategory": "Criminal Procedure",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 420,
+      "amendments": [],
+      "key_articles": [],
+      "historical_context": "Replaced the previous Code of Criminal Procedure (dating from 1948/French Mandate era). Modernized criminal procedure including pre-trial detention rules, rights of the accused, investigation procedures, trial procedures, and appeals. Introduced greater protections for suspects and defendants, including limits on pre-trial detention and right to counsel. However, implementation has been criticized by human rights organizations for gaps in practice.",
+      "related_laws": [
+        {"law_id": "LB-CRIM-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CRIM-003",
+      "official_number": "Law No. 293 of April 1, 2014",
+      "official_title_arabic": "قانون حماية النساء وسائر أفراد الأسرة من العنف الأسري - قانون رقم 293/2014",
+      "official_title_french": "Loi No. 293/2014 relative à la protection des femmes et des membres de la famille contre la violence domestique",
+      "official_title_english": "Law on Protection of Women and Family Members from Domestic Violence",
+      "date_enacted": "2014-04-01",
+      "date_effective": "2014-04-01",
+      "category": "Criminal Law",
+      "subcategory": "Domestic Violence",
+      "status": "active",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 22,
+      "amendments": [],
+      "historical_context": "Landmark legislation criminalizing domestic violence in Lebanon. Result of years of civil society advocacy, particularly by KAFA (Enough) Violence & Exploitation. Introduced protection orders, established specialized procedures for domestic violence cases, and created the offense of family violence. Criticized by some women's rights organizations for not going far enough, particularly regarding marital rape provisions which were weakened during parliamentary debate.",
+      "related_laws": [
+        {"law_id": "LB-CRIM-001", "relationship": "amends"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CRIM-004",
+      "official_number": "Law No. 673 of February 16, 1998 (Narcotics)",
+      "official_title_arabic": "قانون المخدرات والمؤثرات العقلية - قانون رقم 673/1998",
+      "official_title_french": "Loi No. 673/1998 sur les Stupéfiants et Substances Psychotropes",
+      "official_title_english": "Narcotics, Drugs and Psychotropic Substances Law",
+      "date_enacted": "1998-02-16",
+      "date_effective": "1998-02-16",
+      "category": "Criminal Law",
+      "subcategory": "Narcotics",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 210,
+      "amendments": [],
+      "historical_context": "Comprehensive narcotics legislation replacing earlier laws. Covers production, trafficking, possession, and use of narcotic drugs and psychotropic substances. Provides for treatment alternatives for drug users (Article 127). Ongoing debate about reforming drug policy in Lebanon, with civil society organizations advocating for decriminalization of personal use.",
+      "related_laws": [
+        {"law_id": "LB-CRIM-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CRIM-005",
+      "official_number": "Law No. 65 of September 19, 2017 (Anti-Torture)",
+      "official_title_arabic": "قانون تجريم التعذيب - قانون رقم 65/2017",
+      "official_title_french": "Loi No. 65/2017 incriminant la torture",
+      "official_title_english": "Law Criminalizing Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment",
+      "date_enacted": "2017-09-19",
+      "date_effective": "2017-09-19",
+      "category": "Criminal Law",
+      "subcategory": "Human Rights",
+      "status": "active",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 15,
+      "amendments": [],
+      "historical_context": "Landmark human rights legislation criminalizing torture. Enacted to bring Lebanon into compliance with the Convention Against Torture (ratified 2000). Defines torture as a crime, establishes penalties including imprisonment, and provides for victims' compensation. Also established the National Preventive Mechanism against Torture.",
+      "related_laws": [
+        {"law_id": "LB-CRIM-001", "relationship": "amends"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

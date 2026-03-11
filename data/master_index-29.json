@@ -1,0 +1,314 @@
+{
+  "master_index": {
+    "metadata": {
+      "title": "Lebanese Legal Database Collection - Master Index",
+      "title_arabic": "قاعدة البيانات القانونية اللبنانية - الفهرس الرئيسي",
+      "version": "1.0",
+      "created_date": "2026-02-21",
+      "last_updated": "2026-02-21",
+      "compiled_by": "Lebanese Legal Verification Specialist",
+      "description": "Comprehensive master index of the Lebanese Legal Database Collection"
+    },
+    "master_statistics": {
+      "total_laws": 199,
+      "total_amendments_tracked": 208,
+      "total_religious_communities": 18,
+      "date_range": {
+        "earliest": "1918",
+        "latest": "2025",
+        "span_years": 107
+      },
+      "total_files": 11,
+      "total_size_kb": 756.25
+    },
+    "file_inventory": [
+      {
+        "file_name": "constitution.json",
+        "size_kb": 43.13,
+        "entries": 12,
+        "status": "complete"
+      },
+      {
+        "file_name": "civil_code.json",
+        "size_kb": 20.72,
+        "entries": 7,
+        "status": "complete"
+      },
+      {
+        "file_name": "penal_code.json",
+        "size_kb": 26.07,
+        "entries": 4,
+        "status": "complete"
+      },
+      {
+        "file_name": "commercial_code.json",
+        "size_kb": 54.49,
+        "entries": 14,
+        "status": "complete"
+      },
+      {
+        "file_name": "labor_laws.json",
+        "size_kb": 69.64,
+        "entries": 31,
+        "status": "complete"
+      },
+      {
+        "file_name": "tax_laws.json",
+        "size_kb": 73.74,
+        "entries": 22,
+        "status": "complete"
+      },
+      {
+        "file_name": "municipal_laws.json",
+        "size_kb": 55.97,
+        "entries": 16,
+        "status": "complete"
+      },
+      {
+        "file_name": "legislative_decrees.json",
+        "size_kb": 80.37,
+        "entries": 36,
+        "status": "complete"
+      },
+      {
+        "file_name": "personal_status_laws.json",
+        "size_kb": 118.1,
+        "entries": 15,
+        "status": "complete"
+      },
+      {
+        "file_name": "recent_laws.json",
+        "size_kb": 102.42,
+        "entries": 42,
+        "status": "complete"
+      },
+      {
+        "file_name": "amendments_index.json",
+        "size_kb": 111.6,
+        "entries": 208,
+        "status": "complete"
+      }
+    ],
+    "coverage_by_category": {
+      "constitutional": 12,
+      "civil": 7,
+      "criminal": 4,
+      "commercial": 14,
+      "labor": 31,
+      "tax": 22,
+      "administrative_municipal": 16,
+      "personal_status": {
+        "total_laws": 15,
+        "communities_covered": 18
+      },
+      "legislative_decrees": 36,
+      "recent_laws": 42
+    },
+    "key_milestones": {
+      "earliest_law": {
+        "year": 1920,
+        "laws": [
+          "Decree 318/1920: Establishment of Greater Lebanon",
+          "Decree 336/1920: Interim Bylaws of Greater Lebanon"
+        ]
+      },
+      "major_constitutional_amendments": [
+        {
+          "year": 1927,
+          "description": "First major amendment to Constitution of 1926"
+        },
+        {
+          "year": 1943,
+          "description": "Independence amendments (Articles 1, 5, 90-94)"
+        },
+        {
+          "year": 1947,
+          "description": "Major modification (Articles 24, 25, 27, 30, 41, 42, 44, 49, 53, 60, 81, 85, 93, 95-100)"
+        },
+        {
+          "year": 1989,
+          "description": "Taif Agreement amendments"
+        },
+        {
+          "year": 2025,
+          "description": "Latest constitutional developments"
+        }
+      ],
+      "most_amended_laws": [
+        {
+          "law": "Law 1/1946",
+          "amendment_count": 20
+        },
+        {
+          "law": "Law 13955/1963",
+          "amendment_count": 13
+        },
+        {
+          "law": "Constitution of 1926",
+          "amendment_count": 9
+        },
+        {
+          "law": "Legislative Decree 340/1943",
+          "amendment_count": 8
+        },
+        {
+          "law": "Law 328/2001",
+          "amendment_count": 8
+        },
+        {
+          "law": "Law 24/1968",
+          "amendment_count": 6
+        },
+        {
+          "law": "Decree-Law No. 144/1959",
+          "amendment_count": 6
+        },
+        {
+          "law": "Law 1/1956",
+          "amendment_count": 5
+        },
+        {
+          "law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+          "amendment_count": 5
+        },
+        {
+          "law": "Stamp Duty Law (Various Provisions)",
+          "amendment_count": 5
+        }
+      ],
+      "recent_significant_legislation": [
+        {
+          "law": "Law 324/2024",
+          "description": "Budget Law 2024"
+        },
+        {
+          "law": "Law 330/2024",
+          "description": "Capital gains tax reduction on real estate"
+        },
+        {
+          "law": "Decree 13164/2024",
+          "description": "Minimum wage increase to LBP 18 million"
+        },
+        {
+          "law": "Decree 699/2025",
+          "description": "Minimum wage raised to LBP 28 million"
+        },
+        {
+          "law": "Law 319/2023",
+          "description": "Social Security Reform and Pension System"
+        },
+        {
+          "law": "Decree 887/2025",
+          "description": "NSSF maternity/sickness ceiling increase"
+        }
+      ]
+    },
+    "amendments_summary": {
+      "total_amendments": 208,
+      "by_decade": {
+        "1920s": 7,
+        "1930s": 6,
+        "1940s": 14,
+        "1950s": 6,
+        "1960s": 15,
+        "1970s": 13,
+        "1980s": 15,
+        "1990s": 23,
+        "2000s": 30,
+        "2010s": 25,
+        "2020s": 52,
+        "unknown": 2
+      }
+    },
+    "data_quality_metrics": {
+      "total_entries_analyzed": 190,
+      "laws_with_full_text": {
+        "count": 179,
+        "percentage": 94.2
+      },
+      "laws_with_amendments_tracked": {
+        "count": 95,
+        "percentage": 50.0
+      },
+      "cross_referenced_laws": {
+        "count": 188,
+        "percentage": 98.9
+      }
+    },
+    "religious_communities_covered": [
+      "Sunni Muslim (السنة)",
+      "Shia Muslim (الشيعة - الجعفري)",
+      "Druze (الدروز - الموحدون)",
+      "Greek Orthodox (الروم الأرثوذكس)",
+      "Maronite Catholic (الموارنة)",
+      "Greek Catholic/Melkite (الروم الكاثوليك - الملكيين)",
+      "Armenian Orthodox (الأرمن الأرثوذكس)",
+      "Armenian Catholic (الأرمن الكاثوليك)",
+      "Syriac Orthodox (السريان الأرثوذكس)",
+      "Syriac Catholic (السريان الكاثوليك)",
+      "Chaldean Catholic (الكلدان)",
+      "Latin Catholic (اللاتين)",
+      "Evangelical/Protestant (الإنجيلية/البروتستانت)",
+      "Jewish (اليهود - الإسرائيلية)",
+      "Coptic Orthodox (الأقباط الأرثوذكس)",
+      "Assyrian/Church of the East (الآشوريون - كنيسة المشرق)",
+      "Alawite (العلويون)",
+      "Ismaili (الإسماعيلية)"
+    ],
+    "usage_guide": {
+      "json_structure": {
+        "description": "Each database file follows a standardized JSON structure",
+        "standard_fields": [
+          "law_id",
+          "official_number",
+          "official_title_arabic",
+          "official_title_french",
+          "official_title_english",
+          "date_enacted",
+          "category",
+          "status",
+          "amendments",
+          "key_articles",
+          "related_laws",
+          "source_url",
+          "last_verified"
+        ]
+      },
+      "how_to_use": [
+        "Load the relevant JSON file for your legal research area",
+        "Search by law_id, official_number, or keywords in titles",
+        "Check 'status' field to confirm law is still active",
+        "Review 'amendments' array for amendment history",
+        "Consult 'related_laws' for cross-references",
+        "Verify information using 'source_url' and 'last_verified' date"
+      ],
+      "search_tips": [
+        "Use law_id format: LBN-[CATEGORY]-### for standard laws",
+        "Use date ranges to find laws enacted in specific periods",
+        "Filter by 'status': 'active' for currently enforceable laws",
+        "Check 'key_articles' for quick reference to important provisions"
+      ]
+    },
+    "file_descriptions": {
+      "constitution.json": "Lebanese Constitution and constitutional framework",
+      "civil_code.json": "Lebanese Civil Code provisions",
+      "penal_code.json": "Lebanese Penal Code",
+      "commercial_code.json": "Commercial and business law",
+      "labor_laws.json": "Labor and employment legislation",
+      "tax_laws.json": "Tax legislation",
+      "municipal_laws.json": "Administrative and municipal law",
+      "legislative_decrees.json": "Historical legislative decrees (1920-1943)",
+      "personal_status_laws.json": "Personal status laws for all 18 religious communities",
+      "recent_laws.json": "Recent legislation (2000-2026)",
+      "amendments_index.json": "Cross-reference index of all amendments"
+    },
+    "sources": [
+      "Lebanese Ministry of Justice (www.justice.gov.lb)",
+      "Lebanese Parliament (www.lp.gov.lb)",
+      "Official Gazette of Lebanon",
+      "Academic and legal research sources"
+    ],
+    "disclaimer": "This database is compiled from publicly available sources. Users should verify with official sources for legal proceedings.",
+    "verification_status": "All entries include last_verified date and source URLs where available"
+  }
+}

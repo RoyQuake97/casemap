@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "file": "civil_code.json",
+    "description": "Code of Obligations and Contracts (1932) - Lebanon's primary civil law code, plus related civil legislation",
+    "total_entries": 5,
+    "last_updated": "2026-02-21",
+    "phase": 1
+  },
+  "laws": [
+    {
+      "law_id": "LB-CIV-001",
+      "official_number": "Law of March 9, 1932 (Code of Obligations and Contracts)",
+      "official_title_arabic": "قانون الموجبات والعقود الصادر بتاريخ 9 آذار 1932",
+      "official_title_french": "Code des Obligations et des Contrats du 9 mars 1932",
+      "official_title_english": "Code of Obligations and Contracts",
+      "date_enacted": "1932-03-09",
+      "date_effective": "1932-11-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1932-03-09",
+        "page": ""
+      },
+      "category": "Civil Law",
+      "subcategory": "General Civil Code",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Code",
+      "total_articles": 1106,
+      "amendments": [
+        {
+          "amending_law": "Various amendments (1932-2020)",
+          "date": "",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "The COC has been amended numerous times since 1932. Key amendments relate to contract law, property transactions, insurance obligations, and consumer protection."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_french": "Toute personne est obligée de réparer le dommage qu'elle a causé à autrui par sa faute.",
+          "text_english": "Every person is bound to repair the damage caused to another by his fault.",
+          "subject": "General principle of fault-based liability",
+          "current_version": true
+        },
+        {
+          "article_number": "122",
+          "text_english": "A contract is the concordance of two or more wills to create, modify, or extinguish an obligation.",
+          "subject": "Definition of contract",
+          "current_version": true
+        },
+        {
+          "article_number": "221-232",
+          "text_english": "Provisions on consent: error, fraud, duress, and lesion as grounds for annulment of contracts.",
+          "subject": "Vices of consent",
+          "current_version": true
+        },
+        {
+          "article_number": "249-260",
+          "text_english": "Requirements for valid object and cause of obligations.",
+          "subject": "Object and cause of obligations",
+          "current_version": true
+        },
+        {
+          "article_number": "313-317",
+          "text_english": "Sale of immovable property and registration requirements.",
+          "subject": "Sale of real property",
+          "current_version": true
+        },
+        {
+          "article_number": "596-640",
+          "text_english": "Lease and rental agreements - rights and obligations of landlord and tenant.",
+          "subject": "Lease/Rent",
+          "current_version": true
+        },
+        {
+          "article_number": "717-728",
+          "text_english": "Agency (mandat/وكالة) provisions.",
+          "subject": "Agency",
+          "current_version": true
+        },
+        {
+          "article_number": "880-897",
+          "text_english": "Mortgage and hypothec provisions.",
+          "subject": "Mortgages",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Lebanon's primary civil law code, adopted during the French Mandate. Modeled on the French Civil Code (Code Napoleon of 1804) and the Ottoman Mecelle, but adapted for Lebanese specificities. Known as the 'COC' among Lebanese law students. Covers general obligations, contracts, torts, property transactions, and specific nominate contracts. Notably excludes personal status matters (marriage, divorce, inheritance) which are governed by each religious community's own laws. The COC remains the backbone of Lebanese private law and is the most frequently cited code in Lebanese civil courts.",
+      "related_laws": [
+        {"law_id": "LB-CIV-002", "relationship": "complemented_by"},
+        {"law_id": "LB-CIV-003", "relationship": "complemented_by"},
+        {"law_id": "LB-COM-001", "relationship": "related_to"},
+        {"law_id": "LB-CIV-004", "relationship": "complemented_by"}
+      ],
+      "source_urls": [
+        "http://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=57070&p_lang=en",
+        "https://lawcat.berkeley.edu/record/327604?ln=en"
+      ],
+      "notes": "The COC was originally published in French and Arabic. French doctrine and jurisprudence are frequently cited by Lebanese courts when interpreting its provisions. A complete English translation was published by Gabriel M. Bustros (Bureau of Lebanese and Arab Documentation, 1970).",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CIV-002",
+      "official_number": "Decree-Law No. 90 of September 16, 1983",
+      "official_title_arabic": "قانون أصول المحاكمات المدنية - مرسوم اشتراعي رقم 90/83",
+      "official_title_french": "Code de Procédure Civile - Décret-loi No. 90/1983",
+      "official_title_english": "Code of Civil Procedure",
+      "date_enacted": "1983-09-16",
+      "date_effective": "1983-09-16",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1983-09-16",
+        "page": ""
+      },
+      "category": "Civil Law",
+      "subcategory": "Procedural Law",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 876,
+      "amendments": [
+        {
+          "amending_law": "Law No. 440/2002",
+          "date": "2002-08-01",
+          "articles_affected": ["various"],
+          "nature": "modification",
+          "summary": "Significant amendments to arbitration and execution procedures."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1-7",
+          "text_english": "General principles of civil litigation, right of access to courts, burden of proof.",
+          "subject": "General principles",
+          "current_version": true
+        },
+        {
+          "article_number": "762-810",
+          "text_english": "Arbitration provisions - domestic and international arbitration framework.",
+          "subject": "Arbitration",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Replaced the earlier Code of Civil Procedure. Issued as a decree-law during the Civil War period when Parliament was not functioning regularly. Governs all civil and commercial litigation procedures including jurisdiction, service of process, evidence, judgment, appeals, and execution. The arbitration chapter has gained particular importance for Lebanon's role as a regional commercial center.",
+      "related_laws": [
+        {"law_id": "LB-CIV-001", "relationship": "complements"},
+        {"law_id": "LB-JUD-001", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CIV-003",
+      "official_number": "Law No. 3339 of November 12, 1930 (Property Law)",
+      "official_title_arabic": "قانون الملكية العقارية - قرار رقم 3339",
+      "official_title_french": "Arrêté No. 3339 - Propriété Foncière",
+      "official_title_english": "Real Property Law",
+      "date_enacted": "1930-11-12",
+      "date_effective": "1930-11-12",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1930-11-12",
+        "page": ""
+      },
+      "category": "Civil Law",
+      "subcategory": "Property Law",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Legislative Decree",
+      "total_articles": 275,
+      "amendments": [],
+      "key_articles": [],
+      "historical_context": "Established the modern Lebanese property registration system (Torrens system). Replaced Ottoman land law categories. Created the Land Registry system still in use today. Governs ownership, servitudes, usufruct, and real property rights.",
+      "related_laws": [
+        {"law_id": "LB-CIV-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CIV-004",
+      "official_number": "Law of June 19, 1939 (Tenancy/Rent Law - Exceptional)",
+      "official_title_arabic": "قانون الإيجارات",
+      "official_title_french": "Loi sur les Loyers",
+      "official_title_english": "Rent/Tenancy Law (Exceptional Provisions)",
+      "date_enacted": "1939-06-19",
+      "date_effective": "1939-06-19",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1939-06-19",
+        "page": ""
+      },
+      "category": "Civil Law",
+      "subcategory": "Tenancy/Rent",
+      "status": "amended",
+      "current_consolidated_version": false,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [
+        {
+          "amending_law": "Law No. 160/1992 (New Rent Law)",
+          "date": "1992-10-22",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "Post-war rent law establishing rent control and tenant protections."
+        },
+        {
+          "amending_law": "Law No. 2/2017 (New Rent Law)",
+          "date": "2017-02-28",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "New comprehensive rent law replacing previous framework. Introduced gradual rent increases for pre-1992 tenancies over 9-12 year transitional period. Created Rent Committee and Fund for tenants. Partially suspended by Constitutional Council Decision No. 6/2014 and subsequently amended."
+        }
+      ],
+      "key_articles": [],
+      "historical_context": "Lebanon's rent laws have been among the most politically contentious areas of legislation. Exceptional rent laws freezing rents for pre-1992 tenancies were enacted during and after the Civil War, creating a dual market between 'old rent' (heavily protected tenants) and 'new rent' (market-rate). The 2017 law attempted to gradually liberalize old rents over a transitional period but faced legal challenges and implementation difficulties.",
+      "related_laws": [
+        {"law_id": "LB-CIV-001", "relationship": "modifies"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CIV-005",
+      "official_number": "Decree-Law No. 7855 of October 16, 1961 (Judicial Organization)",
+      "official_title_arabic": "مرسوم اشتراعي رقم 7855 - التنظيم القضائي",
+      "official_title_french": "Décret-loi No. 7855/1961 - Organisation Judiciaire",
+      "official_title_english": "Judicial Organization Law",
+      "date_enacted": "1961-10-16",
+      "date_effective": "1961-10-16",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1961-10-16",
+        "page": ""
+      },
+      "category": "Judicial Organization",
+      "subcategory": "Court Structure",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 0,
+      "amendments": [],
+      "key_articles": [],
+      "historical_context": "Governs the structure and function of the Lebanese judiciary. Establishes the hierarchy of ordinary courts: courts of first instance, courts of appeal, and the Court of Cassation. Also establishes the Supreme Judicial Council headed by the First President (Chief Justice) of the Court of Cassation. Defines jurisdiction of civil, criminal, and commercial chambers at each level.",
+      "related_laws": [
+        {"law_id": "LB-CONST-001", "relationship": "implements"},
+        {"law_id": "LB-CIV-002", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "database_metadata": {
+    "title": "Lebanese Commercial Legislation Database",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "compiler": "Lebanese Commercial Law Expert",
+    "total_laws": 14,
+    "verification_status": "Partial - Based on available public sources"
+  },
+  "laws": [
+    {
+      "law_id": "LB-COMM-001",
+      "official_number": "Legislative Decree 304/1942",
+      "official_title_arabic": "قانون التجارة اللبناني",
+      "official_title_french": "Code de Commerce Libanais",
+      "official_title_english": "Lebanese Commercial Code",
+      "date_enacted": "1942-12-24",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1942-12-24"
+      },
+      "category": "Commercial Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree Law 11/1967",
+          "date": "1967-07-11",
+          "articles_affected": [
+            "Article 40",
+            "Article 41"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 9798/1968",
+          "date": "1968-05-04",
+          "articles_affected": [
+            "Article 37",
+            "Article 38"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 30/67",
+          "date": "1967-05-16",
+          "articles_affected": [
+            "Article 446"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "Available at Ministry of Justice - Full text contains 5 Books covering Trade, Merchants, Commercial Companies, Commercial Papers, and Bankruptcy",
+      "full_text_french": "Code de Commerce Libanais - Décret Législatif n°304 du 24 décembre 1942",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "يحتوي هذا القانون على القواعد المتعلقة بجميع الأعمال التجارية",
+          "text_french": "Le présent code contient les règles relatives à tous les actes de commerce",
+          "text_english": "The present code contains the rules relating to all acts of trade",
+          "subject": "Scope of Commercial Code"
+        },
+        {
+          "article_number": "Article 22",
+          "text_arabic": "السجل التجاري يمكن الجمهور من الحصول على معلومات كاملة حول جميع المنشآت التجارية العاملة في البلاد",
+          "text_french": "Le registre du commerce permet au public de recueillir des renseignements complets sur toutes les maisons de commerce",
+          "text_english": "The trade register enables the public to collect complete information regarding all business houses",
+          "subject": "Commercial Register Purpose"
+        },
+        {
+          "article_number": "Article 24",
+          "text_arabic": "يجب على كل تاجر أن يطلب من كاتب المحكمة تسجيله في السجل خلال شهر من افتتاح محله التجاري",
+          "text_french": "Tout commerçant doit faire inscrire au greffe dans le mois de l'ouverture de son fonds de commerce",
+          "text_english": "Every trader must require the Court Clerk to list him on the register within one month of opening his stock-in-trade",
+          "subject": "Trader Registration Requirement"
+        },
+        {
+          "article_number": "Article 44",
+          "text_arabic": "عقود الشراكة لجميع الشركات التجارية يجب أن تنشر تحت طائلة البطلان",
+          "text_french": "Les actes de société de toutes les sociétés commerciales doivent, sous peine de nullité, être publiés",
+          "text_english": "Deeds of partnership of all commercial companies must, under penalty of nullity, be published",
+          "subject": "Company Publication Requirement"
+        },
+        {
+          "article_number": "Article 409-446",
+          "text_arabic": "أحكام الشيك",
+          "text_french": "Dispositions sur le chèque",
+          "text_english": "Provisions on cheques",
+          "subject": "Cheque Regulations"
+        },
+        {
+          "article_number": "Articles 459-668",
+          "text_arabic": "أحكام الإفلاس والتسوية",
+          "text_french": "Dispositions sur la faillite et le règlement judiciaire",
+          "text_english": "Provisions on bankruptcy and judicial settlement",
+          "subject": "Bankruptcy and Insolvency"
+        }
+      ],
+      "historical_context": "The Lebanese Commercial Code of 1942 was enacted during the French Mandate period, replacing Ottoman commercial laws. It was modeled after the French Commercial Code and established the foundation for modern commercial regulation in Lebanon. The Code covers trade acts, merchants, commercial companies, commercial papers (bills of exchange, cheques, promissory notes), and bankruptcy procedures.",
+      "related_laws": [
+        "Legislative Decree 150/83",
+        "Law 1/1956",
+        "Law 318/2001"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/CodeofCommerce.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COMP-002",
+      "official_number": "Legislative Decree 150/83",
+      "official_title_arabic": "مرسوم تشريعي رقم 150/83 المتعلق بقانون الشركات التجارية",
+      "official_title_french": "Décret Législatif n°150/83 relatif aux sociétés commerciales",
+      "official_title_english": "Legislative Decree 150/83 on Commercial Companies",
+      "date_enacted": "1983-09-16",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1983-09-16"
+      },
+      "category": "Commercial Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 379/2000",
+          "date": "2000-12-14",
+          "articles_affected": [
+            "Various articles on joint stock companies"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 327/2001",
+          "date": "2001-08-07",
+          "articles_affected": [
+            "Articles on corporate governance"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "ينظم هذا المرسوم التشريعي تأسيس وعمل الشركات التجارية في لبنان بما فيها الشركات ذات المسؤولية المحدودة والشركات المساهمة",
+      "full_text_french": "Ce décret législatif réglemente la constitution et le fonctionnement des sociétés commerciales au Liban",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "أنواع الشركات التجارية: الشركات الشخصية (تضامن، توصية بسيطة) والشركات الرأسمالية (مساهمة، توصية بالأسهم، ذات مسؤولية محدودة)",
+          "text_french": "Types de sociétés commerciales: sociétés de personnes et sociétés de capitaux",
+          "text_english": "Types of commercial companies: partnership companies and capital companies",
+          "subject": "Company Types Classification"
+        },
+        {
+          "article_number": "SARL Provisions",
+          "text_arabic": "شركة ذات مسؤولية محدودة: لا يقل رأس المال عن 5 ملايين ليرة لبنانية",
+          "text_french": "Société à responsabilité limitée: capital minimum de 5 millions de livres libanaises",
+          "text_english": "Limited Liability Company: minimum capital of 5 million Lebanese Pounds",
+          "subject": "LLC Capital Requirements"
+        },
+        {
+          "article_number": "SA Provisions",
+          "text_arabic": "الشركة المساهمة: لا يقل رأس المال عن 30 مليون ليرة لبنانية",
+          "text_french": "Société anonyme: capital minimum de 30 millions de livres libanaises",
+          "text_english": "Joint Stock Company: minimum capital of 30 million Lebanese Pounds",
+          "subject": "JSC Capital Requirements"
+        },
+        {
+          "article_number": "Foreign Companies",
+          "text_arabic": "أي شركة تجارية أجنبية تدير فرعاً أو وكالة في لبنان ملزمة بالتسجيل في السجل التجاري",
+          "text_french": "Toute société commerciale étrangère exploitant une succursale ou une agence au Liban est tenue de s'inscrire au registre du commerce",
+          "text_english": "Any foreign commercial company operating a branch or agency in Lebanon must register in the commercial register",
+          "subject": "Foreign Company Registration"
+        }
+      ],
+      "historical_context": "Legislative Decree 150/83 was enacted to modernize company law in Lebanon, providing a comprehensive framework for commercial companies including LLCs (SARL), Joint Stock Companies (SA), and other company forms. It replaced earlier company regulations and aligned Lebanese company law with international standards.",
+      "related_laws": [
+        "Legislative Decree 304/1942",
+        "Law 1/1956"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-BANK-003",
+      "official_number": "Law 1/1956",
+      "official_title_arabic": "قانون السرية المصرفية",
+      "official_title_french": "Loi sur le Secret Bancaire",
+      "official_title_english": "Banking Secrecy Law",
+      "date_enacted": "1956-09-03",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1956-09-03"
+      },
+      "category": "Banking Law",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Law 1975 Amendment",
+          "date": "1975-01-01",
+          "articles_affected": [
+            "Article 2"
+          ],
+          "nature": "modification",
+          "details": "Allowed disclosure for terrorism and drug trafficking cases"
+        },
+        {
+          "amending_law": "Law 159/1999",
+          "date": "1999-10-26",
+          "articles_affected": [
+            "Article 7"
+          ],
+          "nature": "modification",
+          "details": "Criminalized illicit enrichment; banks cannot invoke secrecy in illicit enrichment investigations"
+        },
+        {
+          "amending_law": "Law 318/2001 (AML Law)",
+          "date": "2001-04-20",
+          "articles_affected": [
+            "General provisions"
+          ],
+          "nature": "modification",
+          "details": "Anti-Money Laundering Law - Special Investigation Commission can lift banking secrecy"
+        },
+        {
+          "amending_law": "Law 44/2015",
+          "date": "2015-11-11",
+          "articles_affected": [
+            "Law 318/2001 provisions"
+          ],
+          "nature": "modification",
+          "details": "Amended AML Law provisions"
+        },
+        {
+          "amending_law": "Law 1/2025",
+          "date": "2025-04-24",
+          "articles_affected": [
+            "Core banking secrecy provisions"
+          ],
+          "nature": "modification",
+          "details": "Major amendment allowing Central Bank, Banking Control Commission, and National Deposit Guarantee Corporation to access banking information without restriction; retroactive 10-year period"
+        }
+      ],
+      "full_text_arabic": "يجب على مدراء وموظفي المصارف والمؤسسات المالية الحفاظ على السرية التامة لمصلحة عملاء المصارف",
+      "full_text_french": "Les gérants et employés des établissements bancaires sont tenus au secret absolu en faveur des clients de la banque",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "يجب على مدراء وموظفي المصارف والمؤسسات المالية الحفاظ على السرية التامة",
+          "text_french": "Les gérants et employés des établissements bancaires sont tenus au secret absolu",
+          "text_english": "Managers and employees of banking establishments are bound to absolute secrecy",
+          "subject": "Banking Secrecy Obligation"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "يُسمح بالإفصاح عن المعلومات إذا أعطى العميل موافقته الكتابية، أو في حالة إعلان إفلاس العميل، أو إذا كان هناك دعوى قضائية بين المصرف والعميل",
+          "text_french": "La divulgation est permise avec consentement écrit du client, en cas de faillite, ou en cas de litige entre la banque et le client",
+          "text_english": "Disclosure permitted with written client consent, bankruptcy declaration, or lawsuit between bank and client",
+          "subject": "Exceptions to Banking Secrecy"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "الإعفاء من السرية المهنية عندما تطلب السلطات القضائية معلومات في سياق دعاوى الثراء غير المشروع",
+          "text_french": "Dérogation au secret professionnel lorsque les autorités judiciaires demandent des informations dans le cadre de poursuites pour enrichissement illicite",
+          "text_english": "Exemption from professional secrecy when judicial authorities request information in illicit enrichment cases",
+          "subject": "Judicial Access Exception"
+        }
+      ],
+      "historical_context": "The Banking Secrecy Law of 1956 was championed by Finance Minister Raymond Eddé and established Lebanon as the 'Switzerland of the Middle East.' It guaranteed clients complete confidentiality regarding their bank accounts and financial information. The law was a strategic response to regional instability and helped Lebanon build a thriving banking sector attracting billions in Arab and foreign capital. At its peak, Lebanon's banking sector held USD 180 billion in deposits (nearly four times Lebanon's GDP). The 2025 amendment marked a significant shift, removing core elements of banking secrecy to comply with IMF requirements and international anti-corruption standards.",
+      "related_laws": [
+        "Law 318/2001",
+        "Law 159/1999",
+        "Law 44/2015",
+        "Code of Money and Credit"
+      ],
+      "source_url": "https://www.bdl.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-REG-004",
+      "official_number": "Part of Legislative Decree 304/1942 and related decrees",
+      "official_title_arabic": "أحكام السجل التجاري",
+      "official_title_french": "Dispositions sur le Registre du Commerce",
+      "official_title_english": "Commercial Register Provisions",
+      "date_enacted": "1942-12-24",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "1942-12-24"
+      },
+      "category": "Commercial Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 9798/1968",
+          "date": "1968-05-04",
+          "articles_affected": [
+            "Articles 37, 38"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "السجل التجاري يتيح للجمهور الحصول على معلومات كاملة حول جميع المنشآت التجارية العاملة في البلاد",
+      "full_text_french": "Le registre du commerce permet au public de recueillir des renseignements complets sur toutes les maisons de commerce",
+      "key_articles": [
+        {
+          "article_number": "Article 23",
+          "text_arabic": "يحفظ سجل في دائرة كل محكمة ابتدائية من قبل كاتب، تحت إشراف رئيس المحكمة أو قاضٍ مكلف",
+          "text_french": "Un registre est tenu dans le ressort de chaque tribunal de première instance par un greffier, sous la surveillance du président ou d'un juge spécialement désigné",
+          "text_english": "A register is kept in the district of each Court of primary jurisdiction by a Clerk, under the supervision of a president or specially designated judge",
+          "subject": "Register Maintenance"
+        },
+        {
+          "article_number": "Article 24",
+          "text_arabic": "كل تاجر ملزم بالتسجيل في السجل التجاري خلال شهر من افتتاح محله",
+          "text_french": "Tout commerçant doit s'inscrire au registre du commerce dans le mois de l'ouverture de son fonds",
+          "text_english": "Every trader must register in the commercial register within one month of opening his establishment",
+          "subject": "Registration Obligation"
+        },
+        {
+          "article_number": "Article 36",
+          "text_arabic": "كل تاجر وشركة ملزمون بذكر مكان تسجيلهم ورقم تسجيلهم على رسائلهم وفواتيرهم",
+          "text_french": "Tout commerçant et société sont tenus de mentionner sur leurs lettres et factures le lieu de leur inscription et leur numéro d'inscription",
+          "text_english": "Every trader and company must state on their letters and invoices the place of registration and registration number",
+          "subject": "Registration Display Requirement"
+        }
+      ],
+      "historical_context": "The Commercial Register provisions are contained within the Lebanese Commercial Code of 1942. The register serves as a public record of all commercial establishments operating in Lebanon, divided into a general register for traders and companies, and a special register for commercial establishments and contracts. Registration is maintained at each Court of First Instance.",
+      "related_laws": [
+        "Legislative Decree 304/1942",
+        "Legislative Decree 150/83"
+      ],
+      "source_url": "http://cr.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-BANKR-005",
+      "official_number": "Book V of Legislative Decree 304/1942 (Articles 459-668)",
+      "official_title_arabic": "أحكام الإفلاس والتسوية القضائية",
+      "official_title_french": "Dispositions sur la Faillite et le Règlement Judiciaire",
+      "official_title_english": "Bankruptcy and Judicial Settlement Provisions",
+      "date_enacted": "1942-12-24",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1942-12-24"
+      },
+      "category": "Commercial Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "لا يوجد قانون مستقل للإفلاس في لبنان، لكن الإفلاس والتسوية القضائية محكومان بأحكام الكتاب الخامس من قانون التجارة (المادتان 459-668) وقانون العقوبات",
+      "full_text_french": "Il n'existe pas de loi autonome sur la faillite au Liban, mais la faillite et le règlement judiciaire sont régis par les dispositions du Livre V du Code de Commerce (articles 459-668) et le Code pénal",
+      "key_articles": [
+        {
+          "article_number": "Articles 459-500",
+          "text_arabic": "أحكام الإفلاس: إعلان الإفلاس، آثاره، الإدارة القضائية للمفلس",
+          "text_french": "Dispositions sur la faillite: déclaration de faillite, effets, administration judiciaire du failli",
+          "text_english": "Bankruptcy provisions: declaration of bankruptcy, effects, judicial administration of the bankrupt",
+          "subject": "Bankruptcy Procedures"
+        },
+        {
+          "article_number": "Articles 501-550",
+          "text_arabic": "أحكام التسوية القضائية",
+          "text_french": "Dispositions sur le règlement judiciaire",
+          "text_english": "Judicial settlement provisions",
+          "subject": "Judicial Settlement"
+        },
+        {
+          "article_number": "Articles 551-600",
+          "text_arabic": "أحكام التسوية الوقائية",
+          "text_french": "Dispositions sur le concordat préventif",
+          "text_english": "Preventive settlement provisions",
+          "subject": "Preventive Settlement"
+        },
+        {
+          "article_number": "Articles 601-668",
+          "text_arabic": "أحكام الإفلاس الاحتيالي والمسؤولية الجنائية",
+          "text_french": "Dispositions sur la faillite frauduleuse et la responsabilité pénale",
+          "text_english": "Fraudulent bankruptcy and criminal liability provisions",
+          "subject": "Fraudulent Bankruptcy"
+        }
+      ],
+      "historical_context": "Lebanon does not have a standalone Bankruptcy Law. Bankruptcy and insolvency are governed by Book V of the Commercial Code (Articles 459-668) and the Penal Code. The law provides for both voluntary and judicial liquidation, as well as debt restructuring options for distressed businesses. Workers may resort to the Labor Court and the National Social Security Fund to recover pay and benefits from bankrupt firms. The law criminalizes fraudulent bankruptcy.",
+      "related_laws": [
+        "Legislative Decree 304/1942",
+        "Penal Code Law 340/1943"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-MAR-006",
+      "official_number": "Maritime Commerce Law 1947 and Commercial Code provisions",
+      "official_title_arabic": "قانون تجارة الملاحة البحرية",
+      "official_title_french": "Code de Commerce Maritime",
+      "official_title_english": "Maritime Commerce Law",
+      "date_enacted": "1947-01-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1947-01-01"
+      },
+      "category": "Maritime Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ينظم تجارة الملاحة البحرية في لبنان ويشمل تسجيل السفن وعقود النقل البحري والتأمين البحري",
+      "full_text_french": "Réglemente le commerce maritime au Liban, comprenant l'enregistrement des navires, les contrats de transport maritime et l'assurance maritime",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "تسجيل السفن في سجل بيروت للسفن",
+          "text_french": "Enregistrement des navires au Registre des Navires de Beyrouth",
+          "text_english": "Ship registration at Beirut Ship Registry",
+          "subject": "Ship Registration"
+        },
+        {
+          "article_number": "Transport Contracts",
+          "text_arabic": "عقود النقل البحري وبوليصة الشحن",
+          "text_french": "Contrats de transport maritime et connaissement",
+          "text_english": "Maritime transport contracts and bills of lading",
+          "subject": "Maritime Transport"
+        },
+        {
+          "article_number": "Crew Provisions",
+          "text_arabic": "عقود طاقم السفن وشروط العمل",
+          "text_french": "Contrats d'équipage et conditions de travail",
+          "text_english": "Crew contracts and working conditions",
+          "subject": "Maritime Labor"
+        },
+        {
+          "article_number": "Maritime Accidents",
+          "text_arabic": "الحوادث البحرية والإنقاذ والمسؤولية",
+          "text_french": "Accidents maritimes, sauvetage et responsabilité",
+          "text_english": "Maritime accidents, salvage and liability",
+          "subject": "Maritime Liability"
+        }
+      ],
+      "historical_context": "Lebanese maritime law is primarily regulated by the 1947 Maritime Commerce Law (Code de Commerce Maritime) and the Lebanese Commercial Code. Inspired by French maritime law, it contains detailed provisions on ship registration, maritime transport contracts, crew employment, maritime accidents, marine insurance, and arbitration procedures. Lebanon follows international standards including MLC 2006, STCW, SOLAS, and MARPOL conventions.",
+      "related_laws": [
+        "Legislative Decree 304/1942",
+        "MLC 2006 Convention"
+      ],
+      "source_url": "https://www.cosmoslegal.com.tr/lebanon-maritime-commercial-law/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-AGENCY-007",
+      "official_number": "Various provisions in Commercial Code and related decrees",
+      "official_title_arabic": "أحكام الوكالة التجارية والتوزيع",
+      "official_title_french": "Dispositions sur les Agents Commerciaux et la Distribution",
+      "official_title_english": "Commercial Agency and Distribution Provisions",
+      "date_enacted": "1942-12-24",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "1942-12-24"
+      },
+      "category": "Commercial Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تنظم الوكالة التجارية في لبنان بموجب أحكام قانون التجارة والقانون المدني",
+      "full_text_french": "L'agence commerciale est réglementée au Liban par les dispositions du Code de Commerce et du Code Civil",
+      "key_articles": [
+        {
+          "article_number": "Commercial Code Provisions",
+          "text_arabic": "الوكالة التجارية: يمكن للوكيل التجاري أن يتصرف باسم الم principal في المعاملات التجارية",
+          "text_french": "Agent commercial: peut agir au nom du principal dans les transactions commerciales",
+          "text_english": "Commercial agent: may act on behalf of the principal in commercial transactions",
+          "subject": "Commercial Agency Definition"
+        },
+        {
+          "article_number": "Registration Requirement",
+          "text_arabic": "يجب تسجيل الوكالات التجارية في السجل التجاري",
+          "text_french": "Les agences commerciales doivent être enregistrées au registre du commerce",
+          "text_english": "Commercial agencies must be registered in the commercial register",
+          "subject": "Agency Registration"
+        },
+        {
+          "article_number": "Exclusive Agency",
+          "text_arabic": "الوكالة الحصرية: يحق للوكيل الحصري تمثيل الم principal في منطقة معينة",
+          "text_french": "Agence exclusive: l'agent exclusif a le droit de représenter le principal dans une zone déterminée",
+          "text_english": "Exclusive agency: the exclusive agent has the right to represent the principal in a specific territory",
+          "subject": "Exclusive Agency Rights"
+        }
+      ],
+      "historical_context": "Commercial agency in Lebanon is governed by provisions in the Commercial Code and Civil Code. The Ministry of Economy and Trade maintains statistics on exclusive agencies. Foreign companies operating through agents in Lebanon must comply with registration requirements. Agency agreements should clearly define the scope of authority, territory, and compensation terms.",
+      "related_laws": [
+        "Legislative Decree 304/1942",
+        "Civil Code"
+      ],
+      "source_url": "https://economy.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CONS-008",
+      "official_number": "Law 659/2005 and Law 81/2018 (E-Commerce provisions)",
+      "official_title_arabic": "قانون حماية المستهلك",
+      "official_title_french": "Loi sur la Protection du Consommateur",
+      "official_title_english": "Consumer Protection Law",
+      "date_enacted": "2005-02-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2005-02-01"
+      },
+      "category": "Consumer Protection",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 81/2018",
+          "date": "2018-10-10",
+          "articles_affected": [
+            "E-commerce provisions"
+          ],
+          "nature": "addition",
+          "details": "Added electronic commerce consumer protection provisions"
+        }
+      ],
+      "full_text_arabic": "يحمي حقوق المستهلكين في لبنان ويحظر الممارسات التجارية غير العادلة",
+      "full_text_french": "Protège les droits des consommateurs au Liban et interdit les pratiques commerciales déloyales",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "يحمي هذا القانون المستهلك من الممارسات التجارية الضارة",
+          "text_french": "Cette loi protège le consommateur contre les pratiques commerciales nuisibles",
+          "text_english": "This law protects consumers against harmful commercial practices",
+          "subject": "Consumer Protection Scope"
+        },
+        {
+          "article_number": "E-Commerce Provisions (Law 81/2018)",
+          "text_arabic": "تطبق أحكام قانون حماية المستهلك على التجارة الإلكترونية بشرط عدم تعارضها مع قانون المعاملات الإلكترونية",
+          "text_french": "Les dispositions de la loi sur la protection du consommateur s'appliquent au commerce électronique sous réserve de compatibilité",
+          "text_english": "Consumer Protection Law provisions apply to e-commerce provided they do not conflict with E-Transactions Law",
+          "subject": "E-Commerce Consumer Protection"
+        },
+        {
+          "article_number": "Article 40 bis (Law 81/2018)",
+          "text_arabic": "تطبق أحكام قانون حماية المستهلك على الأمور المتعلقة بالتجارة الإلكترونية بشرط عدم تناقضها مع هذا القانون",
+          "text_french": "Les dispositions de la loi sur la protection du consommateur s'appliquent aux questions relatives au commerce électronique",
+          "text_english": "Consumer Protection Law provisions apply to matters related to electronic commerce",
+          "subject": "E-Commerce Application"
+        }
+      ],
+      "historical_context": "The Consumer Protection Law (659/2005) establishes protections for consumers in Lebanon, prohibiting unfair commercial practices. The law was updated by Law 81/2018 on Electronic Transactions to include e-commerce consumer protection provisions. The Ministry of Economy and Trade is responsible for enforcement and publishes monthly consumer protection reports.",
+      "related_laws": [
+        "Law 81/2018",
+        "Commercial Code"
+      ],
+      "source_url": "https://economy.gov.lb/ar/services/consumer-protection",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COMPET-009",
+      "official_number": "Law 369/2001",
+      "official_title_arabic": "قانون حماية المنافسة",
+      "official_title_french": "Loi sur la Protection de la Concurrence",
+      "official_title_english": "Competition Protection Law",
+      "date_enacted": "2001-01-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2001-01-01"
+      },
+      "category": "Competition Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يهدف إلى تعزيز وحماية المنافسة من خلال حظر الاتفاقيات المناهضة للمنافسة وإساءة استخدام المواقع المهيمنة",
+      "full_text_french": "Vise à promouvoir et protéger la concurrence en interdisant les accords anticoncurrentiels et l'abus de position dominante",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "يحظر الاتفاقيات بين الشركات التي تقيد المنافسة مثل تحديد الأسعار وتقسيم الأسواق والتزوير في المناقصات",
+          "text_french": "Interdit les accords entre entreprises qui restreignent la concurrence tels que la fixation des prix, le partage des marchés et la collusion dans les appels d'offres",
+          "text_english": "Prohibits agreements between businesses that restrict competition such as price-fixing, market-sharing, and bid-rigging",
+          "subject": "Anti-competitive Agreements"
+        },
+        {
+          "article_number": "Abuse of Dominant Position",
+          "text_arabic": "لا يجوز للشركات ذات القوة السوقية الكبيرة الانخراط في سلوك يلغي أو يقيد المنافسة",
+          "text_french": "Les entreprises détenant un pouvoir de marché significatif ne peuvent pas se livrer à des comportements éliminant ou restreignant la concurrence",
+          "text_english": "Businesses holding significant market power cannot engage in conduct that eliminates or restricts competition",
+          "subject": "Dominant Position Abuse"
+        },
+        {
+          "article_number": "Merger Control",
+          "text_arabic": "لا يوجد نظام إلزامي للإخطار المسبق بالاندماجات بموجب القانون اللبناني",
+          "text_french": "Il n'existe pas de système formel de notification préalable des fusions en droit libanais",
+          "text_english": "There is no formal pre-merger notification system under Lebanese law",
+          "subject": "Merger Control"
+        }
+      ],
+      "historical_context": "Lebanon's competition law is primarily governed by Law No. 369 of 2001 on the Protection of Competition. This law aims to promote and protect competition by prohibiting anti-competitive agreements, abuse of dominant positions, and other unfair market practices. Lebanon currently does not have a specialized competition authority; enforcement is mainly through the judiciary, where courts assess competition cases brought by the Ministry of Economy and Trade or private parties. Lebanon was the last country in the Middle East to introduce competition legislation (2022 according to some sources).",
+      "related_laws": [
+        "Commercial Code",
+        "E-Transactions Law 81/2018"
+      ],
+      "source_url": "https://economy.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-IP-010",
+      "official_number": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+      "official_title_arabic": "قوانين الملكية الفكرية والعلامات التجارية",
+      "official_title_french": "Lois sur la Propriété Intellectuelle et les Marques de Commerce",
+      "official_title_english": "Intellectual Property and Trademark Laws",
+      "date_enacted": "1924-01-17",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "1924-01-17"
+      },
+      "category": "Intellectual Property",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 31/1/1946",
+          "date": "1946-01-31",
+          "articles_affected": [
+            "Various articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 4/80",
+          "date": "1980-04-07",
+          "articles_affected": [
+            "Fees provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 75/99",
+          "date": "1999-04-13",
+          "articles_affected": [
+            "Copyright provisions"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 240/2000",
+          "date": "2000-08-07",
+          "articles_affected": [
+            "Patent provisions"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 324/2024",
+          "date": "2024-02-15",
+          "articles_affected": [
+            "Article 32 - Trademark duration"
+          ],
+          "nature": "modification",
+          "details": "Reduced trademark protection duration from 15 to 10 years for new registrations"
+        }
+      ],
+      "full_text_arabic": "تنظم الملكية الفكرية في لبنان بما فيها العلامات التجارية وبراءات الاختراع والتصاميم الصناعية وحقوق المؤلف",
+      "full_text_french": "Réglemente la propriété intellectuelle au Liban incluant les marques de commerce, les brevets, les dessins industriels et le droit d'auteur",
+      "key_articles": [
+        {
+          "article_number": "Trademark Definition (Resolution 2385)",
+          "text_arabic": "العلامات التجارية تشمل الأسماء والعناوين والرموز والطوابع والحروف والرسوم التي تستخدم لتمييز المنتجات",
+          "text_french": "Les marques comprennent les noms, titres, symboles, cachets, lettres et dessins utilisés pour distinguer les produits",
+          "text_english": "Trademarks include names, titles, symbols, stamps, letters and drawings used to distinguish products",
+          "subject": "Trademark Definition"
+        },
+        {
+          "article_number": "Trademark Duration (Law 324/2024)",
+          "text_arabic": "مدة حماية العلامة التجارية 10 سنوات للتسجيلات الجديدة (كانت 15 سنة سابقاً)",
+          "text_french": "Durée de protection de la marque: 10 ans pour les nouveaux enregistrements (était 15 ans)",
+          "text_english": "Trademark protection duration: 10 years for new registrations (was 15 years)",
+          "subject": "Trademark Duration"
+        },
+        {
+          "article_number": "Copyright (Law 75/99)",
+          "text_arabic": "حماية الملكية الأدبية والفنية - حقوق المؤلف",
+          "text_french": "Protection de la propriété littéraire et artistique - droit d'auteur",
+          "text_english": "Protection of literary and artistic property - copyright",
+          "subject": "Copyright Protection"
+        },
+        {
+          "article_number": "Patent Law (Law 240/2000)",
+          "text_arabic": "قانون براءات الاختراع - حماية الاختراعات والنماذج الصناعية",
+          "text_french": "Loi sur les brevets - protection des inventions et modèles industriels",
+          "text_english": "Patent Law - protection of inventions and industrial models",
+          "subject": "Patent Protection"
+        },
+        {
+          "article_number": "Article 137 (Resolution 2385)",
+          "text_arabic": "للشخص الذي يخترع عملاً أدبياً أو فنياً حق الملكية المطلقة لهذا العمل",
+          "text_french": "La personne qui invente une œuvre littéraire ou artistique a le droit de possession absolue de cette œuvre",
+          "text_english": "The person who invents a literary or artistic work has the right of absolute possession of this work",
+          "subject": "Creator's Rights"
+        }
+      ],
+      "historical_context": "Lebanon's intellectual property framework is based on Resolution 2385 of 1924 (governing commercial and industrial property) which was amended by the Law of January 31, 1946. Copyright is protected under Law 75/99, and patents under Law 240/2000. Lebanon is compliant with TRIPS standards and has ratified the Paris Convention, Madrid Agreement, and Berne Convention. In 2024, Law 324 reduced trademark protection duration from 15 to 10 years for new registrations. The Ministry of Economy and Trade's Intellectual Property Protection Office (IPPO) oversees IP matters.",
+      "related_laws": [
+        "Resolution 2385/1924",
+        "Law 75/99",
+        "Law 240/2000",
+        "Law 81/2018",
+        "Law 324/2024"
+      ],
+      "source_url": "https://economy.gov.lb/en/what-we-provide/intellectual-property-right/legislation/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-ETRAN-011",
+      "official_number": "Law 81/2018",
+      "official_title_arabic": "قانون المعاملات الإلكترونية والبيانات الشخصية",
+      "official_title_french": "Loi relative aux Transactions Électroniques et aux Données Personnelles",
+      "official_title_english": "Electronic Transactions and Personal Data Law",
+      "date_enacted": "2018-10-10",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2018-10-10"
+      },
+      "category": "E-Commerce Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يوفر إطاراً قانونياً شاملاً للمعاملات الإلكترونية وحماية البيانات الشخصية",
+      "full_text_french": "Fournit un cadre juridique complet pour les transactions électroniques et la protection des données personnelles",
+      "key_articles": [
+        {
+          "article_number": "Article 4",
+          "text_arabic": "للكتابات والتوقيعات الإلكترونية نفس الأثر القانوني للكتابات والتوقيعات على الورق",
+          "text_french": "Les écrits et signatures électroniques ont le même effet juridique que les écrits et signatures sur papier",
+          "text_english": "Electronic writings and signatures have the same legal effect as writings and signatures on paper",
+          "subject": "Electronic Signature Validity"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "تُقبل الكتابات الإلكترونية كدليل ولها نفس القوة الإثباتية للوثيقة الورقية",
+          "text_french": "Les écrits électroniques sont acceptés comme preuve et ont la même force probante que le document papier",
+          "text_english": "Electronic writings are accepted as evidence and have the same evidentiary power as paper documents",
+          "subject": "Electronic Evidence"
+        },
+        {
+          "article_number": "Article 41-64",
+          "text_arabic": "أحكام الخدمات المصرفية الإلكترونية والمدفوعات الإلكترونية",
+          "text_french": "Dispositions sur les services bancaires électroniques et les paiements électroniques",
+          "text_english": "Provisions on electronic banking services and electronic payments",
+          "subject": "E-Banking Services"
+        },
+        {
+          "article_number": "Article 110-116",
+          "text_arabic": "الجرائم المتعلقة بأنظمة المعلوماتية والبطاقات المصرفية",
+          "text_french": "Infractions relatives aux systèmes informatiques et aux cartes bancaires",
+          "text_english": "Offenses related to IT systems and bank cards",
+          "subject": "Cybercrime Provisions"
+        }
+      ],
+      "historical_context": "Law 81/2018 was enacted to address the growing reliance on electronic documents, digital signatures, and online transactions. It provides a comprehensive legal framework for electronic transactions, personal data protection, and associated activities. The law grants electronic documents and signatures the same legal standing as traditional paper-based documents, facilitates e-commerce, and establishes data protection standards. COLIBAC (Lebanese Accreditation Council) oversees electronic authentication services.",
+      "related_laws": [
+        "Banking Secrecy Law 1/1956",
+        "Consumer Protection Law",
+        "Penal Code"
+      ],
+      "source_url": "https://smex.org/wp-content/uploads/2018/10/E-transaction-law-Lebanon-Official-Gazette-English.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-MONEY-012",
+      "official_number": "Decree 13513/1963",
+      "official_title_arabic": "قانون النقد والتسليف",
+      "official_title_french": "Code de la Monnaie et du Crédit",
+      "official_title_english": "Code of Money and Credit",
+      "date_enacted": "1963-01-08",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1963-01-08"
+      },
+      "category": "Banking Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 28/67",
+          "date": "1967-01-01",
+          "articles_affected": [
+            "Various provisions"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "القانون الأساسي لتنظيم النظام المصرفي والمالي في لبنان",
+      "full_text_french": "La loi fondamentale réglementant le système bancaire et financier au Liban",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "يغطي تنظيم النقد ودور مصرف لبنان والوظائف والأنشطة المصرفية",
+          "text_french": "Couvre la réglementation monétaire, le rôle de la Banque du Liban, et les activités bancaires",
+          "text_english": "Covers monetary regulation, the role of Banque du Liban, and banking activities",
+          "subject": "Banking Regulation"
+        },
+        {
+          "article_number": "BDL Authority",
+          "text_arabic": "صلاحيات مصرف لبنان في إصدار اللوائح والرقابة على المصارف",
+          "text_french": "Pouvoirs de la Banque du Liban pour émettre des règlements et superviser les banques",
+          "text_english": "Banque du Liban powers to issue regulations and supervise banks",
+          "subject": "Central Bank Authority"
+        }
+      ],
+      "historical_context": "The Code of Money and Credit is the main regulation of the banking and financial system in Lebanon. It covers the regulation of money, the Central Bank of Lebanon's role and functions, banks' activities, and the activities of professions linked to the banking profession. Law 28/67 amended the Code and established the Higher Banking Commission and the Banking Control Commission at the Central Bank.",
+      "related_laws": [
+        "Law 1/1956",
+        "Law 81/2018",
+        "Law 28/67"
+      ],
+      "source_url": "https://www.bdl.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-AML-013",
+      "official_number": "Law 318/2001 amended by Law 44/2015",
+      "official_title_arabic": "قانون مكافحة تبيض الأموال",
+      "official_title_french": "Loi sur la Lutte contre le Blanchiment d'Argent",
+      "official_title_english": "Anti-Money Laundering Law",
+      "date_enacted": "2001-04-20",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2001-04-20"
+      },
+      "category": "Financial Crime Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 44/2015",
+          "date": "2015-11-11",
+          "articles_affected": [
+            "Various provisions"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "يجرم تبيض الأموال ويؤسس لجنة التحقيق الخاصة للنظر في قضايا تبيض الأموال وتمويل الإرهاب",
+      "text_french": "Criminalise le blanchiment d'argent et établit la Commission Spéciale d'Investigation",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "اللجنة الخاصة للتحقيق في تبيض الأموال وتمويل الإرهاب لها الحق الحصري في رفع السرية المصرفية",
+          "text_french": "La Commission Spéciale d'Investigation a le droit exclusif de lever le secret bancaire",
+          "text_english": "The Special Investigation Commission has the exclusive right to lift banking secrecy",
+          "subject": "SIC Authority"
+        }
+      ],
+      "historical_context": "Law 318/2001 was enacted to combat money laundering and terrorist financing in Lebanon. It established the Special Investigation Commission (SIC) as the sole authority empowered to lift banking secrecy for investigations related to money laundering and terrorist financing. The law was amended by Law 44/2015 to strengthen provisions.",
+      "related_laws": [
+        "Law 1/1956",
+        "Law 318/2001",
+        "Law 44/2015"
+      ],
+      "source_url": "https://www.bdl.gov.lb",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "file": "recent_laws_2000_2026.json",
+    "description": "Significant Lebanese legislation from 2000-2026, including crisis-era reforms, modern social legislation, and internationally-demanded reforms",
+    "total_entries": 20,
+    "last_updated": "2026-02-21",
+    "phase": 5
+  },
+  "laws": [
+    {"law_id": "LB-REC-001", "official_number": "Law No. 328/2001", "title": "Code of Criminal Procedure", "date": "2001-08-02", "category": "Criminal Law", "status": "amended"},
+    {"law_id": "LB-REC-002", "official_number": "Law No. 379/2001", "title": "VAT Law", "date": "2001-12-14", "category": "Tax & Fiscal", "status": "amended"},
+    {"law_id": "LB-REC-003", "official_number": "Law No. 318/2001", "title": "Fighting Money Laundering", "date": "2001-04-20", "category": "Banking & Financial", "status": "repealed"},
+    {"law_id": "LB-REC-004", "official_number": "Law No. 444/2002", "title": "Environmental Protection", "date": "2002-08-12", "category": "Environmental", "status": "active"},
+    {"law_id": "LB-REC-005", "official_number": "Law No. 585/2004", "title": "Constitutional Amendment (Presidential Term)", "date": "2004-09-04", "category": "Constitutional Law", "status": "active"},
+    {"law_id": "LB-REC-006", "official_number": "Law No. 25/2008", "title": "Parliamentary Elections Law (Previous)", "date": "2008-09-29", "category": "Electoral Law", "status": "repealed"},
+    {"law_id": "LB-REC-007", "official_number": "Law No. 164/2011", "title": "Abolition of Honor Crime Provisions (Art 562)", "date": "2011-08-17", "category": "Criminal Law", "status": "active"},
+    {"law_id": "LB-REC-008", "official_number": "Law No. 160/2011", "title": "Prohibiting Insider Trading", "date": "2011-08-17", "category": "Banking & Financial", "status": "active"},
+    {"law_id": "LB-REC-009", "official_number": "Law No. 161/2011", "title": "Financial Markets / Capital Markets Authority", "date": "2011-08-17", "category": "Banking & Financial", "status": "active"},
+    {"law_id": "LB-REC-010", "official_number": "Law No. 293/2014", "title": "Domestic Violence Protection", "date": "2014-04-01", "category": "Criminal Law", "status": "active"},
+    {"law_id": "LB-REC-011", "official_number": "Law No. 42/2015", "title": "Cross-Border Cash Declaration", "date": "2015-11-24", "category": "Banking & Financial", "status": "active"},
+    {"law_id": "LB-REC-012", "official_number": "Law No. 43/2015", "title": "Exchange of Tax Information", "date": "2015-11-24", "category": "Tax & Fiscal", "status": "active"},
+    {"law_id": "LB-REC-013", "official_number": "Law No. 44/2015", "title": "Anti-Money Laundering (Replaced Law 318)", "date": "2015-11-24", "category": "Banking & Financial", "status": "active"},
+    {"law_id": "LB-REC-014", "official_number": "Law No. 28/2017", "title": "Right to Access Information", "date": "2017-02-11", "category": "Administrative & Municipal", "status": "active"},
+    {"law_id": "LB-REC-015", "official_number": "Law No. 44/2017", "title": "Parliamentary Elections Law (Current)", "date": "2017-06-17", "category": "Electoral Law", "status": "amended"},
+    {"law_id": "LB-REC-016", "official_number": "Law No. 65/2017", "title": "Criminalization of Torture", "date": "2017-09-19", "category": "Criminal Law", "status": "active"},
+    {"law_id": "LB-REC-017", "official_number": "Law No. 175/2020", "title": "Anti-Corruption / NACC Establishment", "date": "2020-05-08", "category": "Administrative & Municipal", "status": "active"},
+    {"law_id": "LB-REC-018", "official_number": "Law No. 189/2020", "title": "Whistleblower Protection", "date": "2020-10-16", "category": "Administrative & Municipal", "status": "active"},
+    {"law_id": "LB-REC-019", "official_number": "Law No. 205/2020", "title": "Criminalization of Sexual Harassment", "date": "2020-12-30", "category": "Criminal Law", "status": "active"},
+    {"law_id": "LB-REC-020", "official_number": "Law No. 306/2022", "title": "Partial Lifting of Banking Secrecy", "date": "2022-10-18", "category": "Banking & Financial", "status": "active"}
+  ],
+  "ongoing_legislative_debates": [
+    "Capital Controls Law (multiple drafts 2020-2025)",
+    "Bank Restructuring Law (IMF condition)",
+    "Reform of Public Sector Employment",
+    "Social Protection / Universal Health Coverage",
+    "Civil Marriage Law (repeatedly blocked)",
+    "Women's Right to Pass Nationality to Children",
+    "Cannabis Legalization for Medical/Agricultural Use",
+    "Electricity Sector Reform",
+    "Telecommunications Privatization/Reform",
+    "Judicial Independence and Reform",
+    "Decentralization / Administrative Reform"
+  ]
+}

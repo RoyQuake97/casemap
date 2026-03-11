@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "file": "master_index.json",
+    "description": "Master index of all laws in the Lebanese Legal Database, with cross-references to their source files",
+    "total_laws_catalogued": 98,
+    "estimated_total_laws": "15,000-20,000",
+    "coverage_note": "Phase 1-5 captures the foundational codes, key modern legislation, and structural framework. Full coverage of all ~15,000+ laws requires iterative expansion using Official Gazette archives.",
+    "last_updated": "2026-02-21"
+  },
+  "categories_summary": {
+    "Constitutional Law": {
+      "count": 3,
+      "source_file": "phase1_constitutional/constitution.json",
+      "key_laws": ["Constitution 1926", "National Pact 1943", "Taif Agreement 1989"]
+    },
+    "Civil Law": {
+      "count": 5,
+      "source_file": "phase1_constitutional/civil_code.json",
+      "key_laws": ["Code of Obligations & Contracts 1932", "Code of Civil Procedure DL 90/1983", "Property Law 3339/1930", "Rent Law", "Judicial Organization DL 7855/1961"]
+    },
+    "Criminal Law": {
+      "count": 5,
+      "source_file": "phase1_constitutional/penal_code.json",
+      "key_laws": ["Penal Code DL 340/1943", "Code of Criminal Procedure 328/2001", "Domestic Violence 293/2014", "Narcotics 673/1998", "Anti-Torture 65/2017"]
+    },
+    "Commercial Law": {
+      "count": 6,
+      "source_file": "phase1_constitutional/commercial_code.json",
+      "key_laws": ["Code of Commerce 1942", "Companies Law DL 150/1983", "Maritime Commerce 1947", "IP Law 75/1967", "Consumer Protection 659/2005", "Trademarks 2385/1924"]
+    },
+    "Labor & Social Security": {
+      "count": 8,
+      "source_file": "phase2_core_legislation/labor_laws.json",
+      "key_laws": ["Labor Code 1946", "Social Security 13955/1963", "Civil Servants DL 112/1959", "Work Accidents DL 136/1983"]
+    },
+    "Tax & Fiscal": {
+      "count": 8,
+      "source_file": "phase2_core_legislation/tax_laws.json",
+      "key_laws": ["Income Tax DL 144/1959", "VAT 379/2001", "Tax Procedures 44/2008", "Customs Code"]
+    },
+    "Banking & Financial": {
+      "count": 10,
+      "source_file": "phase2_core_legislation/banking_financial.json",
+      "key_laws": ["Banking Secrecy 1/1956", "Code of Money & Credit 1963", "AML 44/2015", "Financial Markets 161/2011", "Banking Secrecy Reform 306/2022"]
+    },
+    "Administrative & Municipal": {
+      "count": 9,
+      "source_file": "phase2_core_legislation/municipal_laws.json",
+      "key_laws": ["Municipal Act DL 118/1977", "Electoral Law 44/2017", "Access to Information 28/2017", "Anti-Corruption 175/2020", "Associations Law 1909"]
+    },
+    "Personal Status": {
+      "count": 22,
+      "source_file": "phase4_personal_status/personal_status_laws.json",
+      "key_laws": ["18 community systems", "Family Rights Law 1951", "Druze PS Law 24/1948", "Sunni/Druze Courts DL 18/1955"]
+    },
+    "Legislative Decrees (French Mandate)": {
+      "count": 15,
+      "source_file": "phase3_legislative_decrees/legislative_decrees.json",
+      "key_laws": ["~2,000 Mandate-era decrees (15 key entries catalogued)"]
+    },
+    "Recent Laws (2000-2026)": {
+      "count": 20,
+      "source_file": "phase5_recent_laws/recent_laws_2000_2026.json",
+      "key_laws": ["20 key modern laws catalogued"]
+    }
+  },
+  "constitutional_amendment_timeline": [
+    {"date": "1926-05-23", "event": "Constitution promulgated"},
+    {"date": "1927-10-17", "event": "1st Amendment: abolished Senate, enhanced presidency"},
+    {"date": "1929-05-08", "event": "2nd Amendment: legislative procedures"},
+    {"date": "1943-03-18", "event": "3rd Amendment: Order 129, all deputies elected"},
+    {"date": "1943-11-09", "event": "4th Amendment: independence, removed Mandate references"},
+    {"date": "1943-12-07", "event": "5th Amendment: new flag"},
+    {"date": "1947-01-21", "event": "6th Amendment: post-independence governance adjustments"},
+    {"date": "1948-02-12", "event": "7th Amendment: Article 49 (presidency)"},
+    {"date": "1976-07-16", "event": "8th Amendment: extended parliament during civil war"},
+    {"date": "1990-09-21", "event": "9th Amendment: Taif Agreement implementation (most comprehensive)"},
+    {"date": "2004-09-04", "event": "10th Amendment: Law 585, presidential term extension"}
+  ],
+  "major_codes_timeline": [
+    {"date": "1924-01-17", "code": "Trademarks (Arrêté 2385)"},
+    {"date": "1925-01-19", "code": "Nationality Law"},
+    {"date": "1926-05-23", "code": "Constitution"},
+    {"date": "1930-11-12", "code": "Property Law (Arrêté 3339)"},
+    {"date": "1932-03-09", "code": "Code of Obligations & Contracts"},
+    {"date": "1942-12-24", "code": "Code of Commerce"},
+    {"date": "1943-03-01", "code": "Penal Code (DL 340)"},
+    {"date": "1946-09-23", "code": "Labor Code"},
+    {"date": "1947-09-24", "code": "Maritime Commerce Code"},
+    {"date": "1948-02-13", "code": "Druze Personal Status Law"},
+    {"date": "1956-09-03", "code": "Banking Secrecy Law"},
+    {"date": "1959-06-12", "code": "Income Tax (DL 144), Civil Servants (DL 112)"},
+    {"date": "1961-10-16", "code": "Judicial Organization (DL 7855)"},
+    {"date": "1963-08-01", "code": "Code of Money & Credit"},
+    {"date": "1963-09-26", "code": "Social Security (Decree 13955)"},
+    {"date": "1977-06-30", "code": "Municipal Act (DL 118)"},
+    {"date": "1983-09-16", "code": "Code of Civil Procedure (DL 90), Companies Law (DL 150)"},
+    {"date": "2001-08-02", "code": "Code of Criminal Procedure (Law 328)"},
+    {"date": "2001-12-14", "code": "VAT Law"},
+    {"date": "2017-06-17", "code": "Electoral Law (Law 44)"}
+  ]
+}

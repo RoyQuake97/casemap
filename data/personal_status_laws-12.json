@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "file": "personal_status_laws.json",
+    "description": "Personal Status Laws for Lebanon's 18 recognized religious communities. Article 9 of the Constitution guarantees each community's right to its own personal status law. There is no optional civil personal status code.",
+    "total_entries": 22,
+    "last_updated": "2026-02-21",
+    "phase": 4,
+    "notes": "Lebanon has 18 officially recognized religious communities, each with its own personal status laws governing marriage, divorce, inheritance, child custody, and adoption. These laws derive from various sources: Ottoman-era regulations, French Mandate decrees, religious authority codes, and parliamentary legislation. There is no civil marriage law in Lebanon - all marriages must be performed under a religious authority (though civil marriages performed abroad are recognized)."
+  },
+  "recognized_communities": [
+    {
+      "community_id": 1,
+      "name_english": "Maronite Catholic",
+      "name_arabic": "الموارنة",
+      "name_french": "Maronite",
+      "religion": "Christian",
+      "estimated_population_pct": "~21%",
+      "governing_law": "Canon Law of the Eastern Catholic Churches (CCEO, 1990) as applied by the Maronite Patriarchate; Lebanese Law No. 2 of April 7, 1951 (Family Rights of Christian and Jewish Communities)",
+      "court_system": "Maronite Religious Courts (Spiritual Courts / المحاكم الروحية المارونية)",
+      "key_legislation": [
+        {"law": "Law of April 2, 1951 (Family Rights)", "scope": "General Christian/Jewish personal status framework"},
+        {"law": "Maronite Patriarchal Personal Status Regulations", "scope": "Internal church law on marriage, annulment"},
+        {"law": "CCEO (1990)", "scope": "Universal Eastern Catholic canon law"}
+      ]
+    },
+    {
+      "community_id": 2,
+      "name_english": "Greek Orthodox",
+      "name_arabic": "الروم الأرثوذكس",
+      "name_french": "Grec-Orthodoxe",
+      "religion": "Christian",
+      "estimated_population_pct": "~8%",
+      "governing_law": "Greek Orthodox Personal Status Regulation promulgated by the Holy Synod; Law of April 2, 1951",
+      "court_system": "Greek Orthodox Religious Courts",
+      "key_legislation": [
+        {"law": "Personal Status Regulation of the Greek Orthodox Patriarchate of Antioch (2003 revision)", "scope": "Marriage, divorce, inheritance, custody"},
+        {"law": "Law of April 2, 1951", "scope": "State framework"}
+      ]
+    },
+    {
+      "community_id": 3,
+      "name_english": "Greek Catholic (Melkite)",
+      "name_arabic": "الروم الكاثوليك (الملكيين)",
+      "name_french": "Grec-Catholique (Melkite)",
+      "religion": "Christian",
+      "estimated_population_pct": "~5%",
+      "governing_law": "CCEO (1990); Melkite Patriarchal regulations; Law of April 2, 1951",
+      "court_system": "Greek Catholic Religious Courts",
+      "key_legislation": [
+        {"law": "CCEO (1990)", "scope": "Eastern Catholic canon law"},
+        {"law": "Law of April 2, 1951", "scope": "State framework"}
+      ]
+    },
+    {
+      "community_id": 4,
+      "name_english": "Armenian Apostolic (Armenian Orthodox)",
+      "name_arabic": "الأرمن الأرثوذكس",
+      "name_french": "Arménien Apostolique",
+      "religion": "Christian",
+      "estimated_population_pct": "~4%",
+      "governing_law": "Armenian Apostolic Church Personal Status Code; Law of April 2, 1951",
+      "court_system": "Armenian Orthodox Religious Courts",
+      "key_legislation": [
+        {"law": "Armenian Apostolic Personal Status Regulations", "scope": "Marriage, divorce, custody"},
+        {"law": "Law of April 2, 1951", "scope": "State framework"}
+      ]
+    },
+    {
+      "community_id": 5,
+      "name_english": "Armenian Catholic",
+      "name_arabic": "الأرمن الكاثوليك",
+      "name_french": "Arménien Catholique",
+      "religion": "Christian",
+      "estimated_population_pct": "~1%",
+      "governing_law": "CCEO (1990); Law of April 2, 1951",
+      "court_system": "Armenian Catholic Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 6,
+      "name_english": "Syriac Orthodox",
+      "name_arabic": "السريان الأرثوذكس",
+      "name_french": "Syriaque Orthodoxe",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "Syriac Orthodox Personal Status Code; Law of April 2, 1951",
+      "court_system": "Syriac Orthodox Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 7,
+      "name_english": "Syriac Catholic",
+      "name_arabic": "السريان الكاثوليك",
+      "name_french": "Syriaque Catholique",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "CCEO (1990); Law of April 2, 1951",
+      "court_system": "Syriac Catholic Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 8,
+      "name_english": "Latin Catholic (Roman Catholic)",
+      "name_arabic": "اللاتين",
+      "name_french": "Latin (Catholique Romain)",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "Code of Canon Law (1983 CIC); Law of April 2, 1951",
+      "court_system": "Latin Catholic Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 9,
+      "name_english": "Chaldean Catholic",
+      "name_arabic": "الكلدان",
+      "name_french": "Chaldéen Catholique",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "CCEO (1990); Law of April 2, 1951",
+      "court_system": "Chaldean Catholic Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 10,
+      "name_english": "Assyrian Church of the East",
+      "name_arabic": "الآشوريين",
+      "name_french": "Assyrien (Église d'Orient)",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "Assyrian Church personal status regulations",
+      "court_system": "Assyrian Church Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 11,
+      "name_english": "Evangelical (Protestant)",
+      "name_arabic": "الإنجيليين",
+      "name_french": "Évangélique (Protestant)",
+      "religion": "Christian",
+      "estimated_population_pct": "<1%",
+      "governing_law": "Evangelical Personal Status Law (various denominations); Law of April 2, 1951",
+      "court_system": "Evangelical Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 12,
+      "name_english": "Coptic Orthodox",
+      "name_arabic": "الأقباط الأرثوذكس",
+      "name_french": "Copte Orthodoxe",
+      "religion": "Christian",
+      "estimated_population_pct": "<0.5%",
+      "governing_law": "Added as recognized community",
+      "court_system": "Coptic Orthodox Religious Courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 13,
+      "name_english": "Sunni Muslim",
+      "name_arabic": "السنّة",
+      "name_french": "Sunnite",
+      "religion": "Muslim",
+      "estimated_population_pct": "~27%",
+      "governing_law": "Ottoman Family Law of 1917 (Qanun Huquq al-A'ila al-Uthmani) as amended; Law No. 3473 of October 24, 1917; supplemented by Decree-Law No. 18 of January 13, 1955 on Sunni & Druze religious courts",
+      "court_system": "Sunni Shari'a Courts (المحاكم الشرعية السنية)",
+      "key_legislation": [
+        {"law": "Ottoman Family Rights Law of 1917", "scope": "Marriage, divorce, custody, maintenance"},
+        {"law": "Decree-Law No. 18/1955", "scope": "Organization of Sunni and Druze religious courts"},
+        {"law": "Law of July 16, 1962 (Dar al-Fatwa organization)", "scope": "Organization of Sunni religious authority"}
+      ]
+    },
+    {
+      "community_id": 14,
+      "name_english": "Shia Muslim",
+      "name_arabic": "الشيعة",
+      "name_french": "Chiite",
+      "religion": "Muslim",
+      "estimated_population_pct": "~27%",
+      "governing_law": "Ja'fari jurisprudence (Shia fiqh); no single codified personal status law. Law of December 16, 1967 on Ja'fari courts",
+      "court_system": "Ja'fari (Shia) Courts (المحاكم الجعفرية)",
+      "key_legislation": [
+        {"law": "Law of December 16, 1967 (Ja'fari Courts)", "scope": "Organization of Ja'fari religious courts"},
+        {"law": "Ja'fari jurisprudence (uncodified)", "scope": "Marriage, divorce, inheritance, custody per Ja'fari fiqh"}
+      ]
+    },
+    {
+      "community_id": 15,
+      "name_english": "Druze",
+      "name_arabic": "الموحدون الدروز",
+      "name_french": "Druze",
+      "religion": "Muslim (Druze)",
+      "estimated_population_pct": "~5%",
+      "governing_law": "Law No. 24 of February 13, 1948 (Druze Personal Status Law); Decree-Law No. 18/1955",
+      "court_system": "Druze Religious Courts (المحاكم المذهبية الدرزية)",
+      "key_legislation": [
+        {"law": "Law No. 24 of February 13, 1948", "scope": "Comprehensive Druze personal status code - unique in being fully codified by the state legislature"},
+        {"law": "Decree-Law No. 18/1955", "scope": "Organization of Druze religious courts"}
+      ]
+    },
+    {
+      "community_id": 16,
+      "name_english": "Alawite",
+      "name_arabic": "العلويون",
+      "name_french": "Alaouite",
+      "religion": "Muslim (Alawite)",
+      "estimated_population_pct": "<1%",
+      "governing_law": "Recognized as a community; personal status governed by Ja'fari jurisprudence with Alawite specificities",
+      "court_system": "Uses Ja'fari courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 17,
+      "name_english": "Ismaili",
+      "name_arabic": "الإسماعيليون",
+      "name_french": "Ismaélien",
+      "religion": "Muslim (Ismaili)",
+      "estimated_population_pct": "<0.5%",
+      "governing_law": "Recognized community",
+      "court_system": "Limited; may use Shia courts",
+      "key_legislation": []
+    },
+    {
+      "community_id": 18,
+      "name_english": "Jewish",
+      "name_arabic": "اليهود",
+      "name_french": "Juif",
+      "religion": "Jewish",
+      "estimated_population_pct": "<0.1%",
+      "governing_law": "Jewish personal status law (rabbinical law); Law of April 2, 1951",
+      "court_system": "Jewish Religious Courts (largely inactive due to very small remaining community)",
+      "key_legislation": [
+        {"law": "Law of April 2, 1951", "scope": "State framework applicable to Jewish community"}
+      ]
+    }
+  ],
+  "framework_laws": [
+    {
+      "law_id": "LB-PS-001",
+      "official_number": "Law of April 2, 1951 (Family Rights for Christian and Jewish Communities)",
+      "official_title_arabic": "قانون 2 نيسان 1951 - حقوق العائلة للطوائف المسيحية واليهودية",
+      "official_title_french": "Loi du 2 avril 1951 - Droits de la Famille pour les Communautés Chrétiennes et Juives",
+      "official_title_english": "Family Rights Law for Christian and Jewish Communities",
+      "date_enacted": "1951-04-02",
+      "category": "Personal Status",
+      "status": "active",
+      "historical_context": "Framework law recognizing the jurisdiction of Christian and Jewish religious courts over personal status matters. Establishes the state's recognition of religious court authority while providing certain common rules."
+    },
+    {
+      "law_id": "LB-PS-002",
+      "official_number": "Decree-Law No. 18 of January 13, 1955 (Sunni & Druze Religious Courts)",
+      "official_title_arabic": "مرسوم اشتراعي رقم 18/1955 - تنظيم المحاكم الشرعية والمذهبية",
+      "official_title_french": "Décret-loi No. 18/1955 - Organisation des Tribunaux Religieux Sunnites et Druzes",
+      "official_title_english": "Organization of Sunni and Druze Religious Courts",
+      "date_enacted": "1955-01-13",
+      "category": "Personal Status",
+      "status": "active",
+      "historical_context": "Organizes the structure and jurisdiction of Sunni Shari'a courts and Druze confessional courts."
+    },
+    {
+      "law_id": "LB-PS-003",
+      "official_number": "Law No. 24 of February 13, 1948 (Druze Personal Status Law)",
+      "official_title_arabic": "قانون الأحوال الشخصية للطائفة الدرزية - قانون رقم 24/1948",
+      "official_title_french": "Loi No. 24/1948 - Statut Personnel de la Communauté Druze",
+      "official_title_english": "Druze Personal Status Law",
+      "date_enacted": "1948-02-13",
+      "category": "Personal Status",
+      "status": "active",
+      "historical_context": "The only fully codified sectarian personal status law enacted by the Lebanese Parliament (rather than by a religious authority). Governs marriage, divorce, custody, inheritance, and guardianship for the Druze community. Notable for prohibiting polygamy and establishing relatively progressive provisions compared to other religious community laws."
+    },
+    {
+      "law_id": "LB-PS-004",
+      "official_number": "Law of July 16, 1962 (Dar al-Fatwa Organization)",
+      "official_title_arabic": "قانون تنظيم شؤون الطائفة الإسلامية في بيروت والمناطق - دار الفتوى",
+      "official_title_french": "Loi du 16 juillet 1962 - Organisation de Dar al-Fatwa",
+      "official_title_english": "Organization of the Sunni Muslim Community (Dar al-Fatwa)",
+      "date_enacted": "1962-07-16",
+      "category": "Personal Status",
+      "status": "active",
+      "historical_context": "Organizes the Sunni Islamic religious establishment in Lebanon, including Dar al-Fatwa (headed by the Grand Mufti), waqf administration, and religious education."
+    }
+  ]
+}

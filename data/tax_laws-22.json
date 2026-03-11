@@ -1,0 +1,1747 @@
+{
+  "database_info": {
+    "title": "Lebanese Tax Legislation Database",
+    "version": "1.0",
+    "last_updated": "2026-02-21",
+    "compiled_by": "Lebanese Tax Law Expert System",
+    "total_laws": 22,
+    "verification_status": "partial",
+    "categories_covered": [
+      "Tax Law"
+    ],
+    "subcategories_covered": [
+      "Income Tax",
+      "Inheritance and Gift Tax",
+      "Withholding Tax",
+      "Real Estate Transfer Tax",
+      "VAT",
+      "Tax Procedures",
+      "International Taxation",
+      "Customs and Import Duties",
+      "Property Tax",
+      "Budget Law",
+      "Stamp Duty",
+      "Social Security Contributions",
+      "Municipal Tax",
+      "Interest Taxation",
+      "Excise Tax",
+      "Tax Residency",
+      "Special Company Regimes",
+      "Tax Calculation Methods",
+      "Capital Gains Tax",
+      "Tax Amnesty"
+    ]
+  },
+  "laws": [
+    {
+      "law_id": "LBN-TAX-001",
+      "official_number": "Decree-Law No. 144/1959",
+      "official_title_arabic": "قانون ضريبة الدخل",
+      "official_title_french": "Décret-Loi sur l'Impôt sur le Revenu",
+      "official_title_english": "Income Tax Law",
+      "date_enacted": "1959-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959-06-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Income Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law No. 64/2017",
+          "date": "2017-10-26",
+          "articles_affected": [
+            "Article 63"
+          ],
+          "nature": "modification",
+          "description": "Increased tax on interest revenue to 7%"
+        },
+        {
+          "amending_law": "Budget Law 2019 (Law No. 144)",
+          "date": "2019",
+          "articles_affected": [
+            "Interest taxation provisions"
+          ],
+          "nature": "modification",
+          "description": "Further amendments to tax on interest and revenues from savings"
+        },
+        {
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Articles on salary tax brackets",
+            "Non-resident tax provisions"
+          ],
+          "nature": "modification",
+          "description": "Amended employment income brackets and introduced quarterly filing for non-resident tax"
+        },
+        {
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "date": "2024-02-12",
+          "articles_affected": [
+            "Non-resident WHT rates"
+          ],
+          "nature": "modification",
+          "description": "Amended WHT rates to 3.4% on goods and 8.5% on services, effective Q2 2024"
+        },
+        {
+          "amending_law": "Law No. 330/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Article 45",
+            "Fixed asset revaluation"
+          ],
+          "nature": "modification",
+          "description": "Allowed annual revaluation of fixed assets (instead of every 5 years) until 31 Dec 2026; reduced capital gains tax on non-residential real estate to 1%"
+        },
+        {
+          "amending_law": "MoF Decision No. 959/2024",
+          "date": "2024-09-05",
+          "articles_affected": [
+            "Salary tax implementation"
+          ],
+          "nature": "modification",
+          "description": "Revised salary tax scheme implementation details"
+        }
+      ],
+      "full_text_arabic": "Full text available in Official Gazette - Decree-Law No. 144 dated 12 June 1959",
+      "full_text_french": "Texte complet disponible dans le Journal Officiel - Décret-Loi No. 144 du 12 juin 1959",
+      "key_articles": [
+        {
+          "article_number": "Article 4",
+          "text_arabic": "تحديد الكيانات الخاضعة لأحكام الضريبة",
+          "text_french": "Définition des entités assujetties à l'impôt",
+          "text_english": "Defines entities subject to tax including corporations, LLCs, branches of foreign companies, and any entity generating income from activities",
+          "subject": "Scope of Coverage"
+        },
+        {
+          "article_number": "Article 5",
+          "text_arabic": "تخضع جميع الأرباح الصافية المتحققة في لبنان لأحكام الضريبة",
+          "text_french": "Tous les bénéfices nets réalisés au Liban sont soumis aux dispositions fiscales",
+          "text_english": "All net profits derived in Lebanon are subject to tax provisions - territorial principle",
+          "subject": "Taxable Base"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "تحديد المصاريف المسموح خصمها وغير المسموح بها",
+          "text_french": "Définition des dépenses déductibles et non déductibles",
+          "text_english": "Defines deductible expenses (customary business expenses) and non-deductible expenses (interest on capital, personal expenses, foreign taxes)",
+          "subject": "Deductible Expenses"
+        },
+        {
+          "article_number": "Article 63",
+          "text_arabic": "الضريبة على الفوائد والإيرادات من حسابات التوفير",
+          "text_french": "Impôt sur les intérêts et revenus des comptes d'épargne",
+          "text_english": "Tax on interest and revenues from savings accounts, bank deposits, bonds - currently 7%",
+          "subject": "Interest Taxation"
+        }
+      ],
+      "tax_rates": {
+        "corporate": {
+          "joint_stock_companies": "17%",
+          "limited_liability_companies": "17%",
+          "sole_proprietorships_partnerships": "Progressive: 4%, 7%, 12%, 16%, 21%, 25%"
+        },
+        "individual": {
+          "employment_income": "Progressive: 2% to 25%",
+          "business_income": "Progressive: 4% to 25%"
+        },
+        "withholding_taxes": {
+          "dividends": "10%",
+          "interest": "7%",
+          "movable_capital": "10%",
+          "non_resident_goods": "3.4% (as of Q2 2024)",
+          "non_resident_services": "8.5% (as of Q2 2024)"
+        }
+      },
+      "historical_context": "The Income Tax Law of 1959 is the foundational legislation for taxation in Lebanon. It established the territorial principle of taxation and the schedular system (three categories of income). The law has undergone numerous amendments, particularly in recent years (2017, 2019, 2022, 2024) to adapt to economic changes and increase revenue collection.",
+      "related_laws": [
+        "Decree-Law No. 45/1983 (Holding Companies)",
+        "Decree-Law No. 46/1983 (Offshore Companies)",
+        "Budget Laws (annual amendments)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-002",
+      "official_number": "Law No. 379/2001",
+      "official_title_arabic": "قانون ضريبة القيمة المضافة",
+      "official_title_french": "Loi sur la Taxe sur la Valeur Ajoutée",
+      "official_title_english": "Value Added Tax Law",
+      "date_enacted": "2001-12-14",
+      "effective_date": "2002-02-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2001-12-14"
+      },
+      "category": "Tax Law",
+      "subcategory": "VAT",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree No. 11230/2023",
+          "date": "2023-04-27",
+          "articles_affected": [
+            "Article 18"
+          ],
+          "nature": "modification",
+          "description": "VAT calculation based on Sayrafa rate for foreign currency denominated prices until unified exchange rate established"
+        },
+        {
+          "amending_law": "Budget Law 2024",
+          "date": "2024",
+          "articles_affected": [
+            "VAT registration thresholds"
+          ],
+          "nature": "modification",
+          "description": "Adjusted VAT registration thresholds for businesses 2020-2024"
+        },
+        {
+          "amending_law": "Decree No. 328/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Fines and penalties"
+          ],
+          "nature": "modification",
+          "description": "Revised fixed fines and collection penalties; general reduction of tax fines"
+        }
+      ],
+      "full_text_arabic": "Full text available - Law No. 379 dated 14 December 2001",
+      "full_text_french": "Texte complet disponible - Loi No. 379 du 14 décembre 2001",
+      "key_articles": [
+        {
+          "article_number": "Article 2",
+          "text_arabic": "العمليات الخاضعة للضريبة",
+          "text_french": "Opérations imposables",
+          "text_english": "Defines taxable transactions including supply of goods and services",
+          "subject": "Taxable Transactions"
+        },
+        {
+          "article_number": "Article 16",
+          "text_arabic": "الأنشطة والسلع المعفاة",
+          "text_french": "Activités et biens exemptés",
+          "text_english": "Lists exempted activities including banking, financial services, insurance, and nurseries",
+          "subject": "Exemptions"
+        },
+        {
+          "article_number": "Article 19",
+          "text_arabic": "إعفاء الصادرات والعمليات المماثلة",
+          "text_french": "Exemption des exportations et opérations similaires",
+          "text_english": "Exports and like transactions are zero-rated",
+          "subject": "Export Exemption"
+        },
+        {
+          "article_number": "Article 25",
+          "text_arabic": "معدل الضريبة 11%",
+          "text_french": "Le taux de taxe est de 11%",
+          "text_english": "Standard VAT rate is 11%",
+          "subject": "Tax Rate"
+        },
+        {
+          "article_number": "Article 35",
+          "text_arabic": "التسجيل والإقرارات الدورية",
+          "text_french": "Enregistrement et déclarations périodiques",
+          "text_english": "Registration required for turnover exceeding LBP 500 million; quarterly filing by 20th of following month",
+          "subject": "Registration and Filing"
+        }
+      ],
+      "tax_rates": {
+        "standard_rate": "11%",
+        "reduced_rate": "0% (exports)",
+        "exemptions": [
+          "Banking and financial services",
+          "Insurance operations",
+          "Educational services",
+          "Healthcare services"
+        ]
+      },
+      "registration_thresholds": {
+        "mandatory": "LBP 500 million turnover over 1-4 consecutive quarters",
+        "voluntary": "LBP 100 million over 4 consecutive quarters"
+      },
+      "historical_context": "VAT was introduced in Lebanon on 1 February 2002, replacing the previous turnover tax system. The law was designed to modernize the tax system and broaden the tax base. The standard rate of 11% is relatively low compared to international standards.",
+      "related_laws": [
+        "Decree No. 2013/2018 (VAT refunds)",
+        "Decree No. 96/2019 (rental of built properties)",
+        "Decree No. 415/2020 (nursery exemption)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-003",
+      "official_number": "Decree No. 283/1959",
+      "official_title_arabic": "مرسوم ضريبة الأملاك المبنية",
+      "official_title_french": "Décret sur la Taxe des Propriétés Bâties",
+      "official_title_english": "Built Property Tax Decree",
+      "date_enacted": "1959",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959"
+      },
+      "category": "Tax Law",
+      "subcategory": "Property Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Tax brackets"
+          ],
+          "nature": "modification",
+          "description": "Amended net income brackets subject to BPT effective from year 2022"
+        },
+        {
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "date": "2024-02-12",
+          "articles_affected": [
+            "Tax brackets"
+          ],
+          "nature": "modification",
+          "description": "Further amended net income brackets ranging from LL 1.2 billion to LL 6 billion"
+        }
+      ],
+      "full_text_arabic": "Full text available - Decree No. 283/1959",
+      "full_text_french": "Texte complet disponible - Décret No. 283/1959",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "ضريبة سنوية تصاعدية على الأملاك المبنية",
+          "text_french": "Taxe annuelle progressive sur les propriétés bâties",
+          "text_english": "Annual progressive tax on built property ranging from 4% to 14% of net rental proceeds",
+          "subject": "Tax Overview"
+        }
+      ],
+      "tax_rates": {
+        "progressive_rates": "4% to 14%",
+        "tax_base": "Net rental proceeds (gross rental less deductible expenses like depreciation and management costs)"
+      },
+      "historical_context": "The Built Property Tax is one of Lebanon's oldest property taxes, applying to rental income from built properties. The progressive rate structure aims to tax higher rental incomes at higher rates.",
+      "related_laws": [
+        "Income Tax Law (Decree-Law No. 144/1959)",
+        "Municipal Tax Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-004",
+      "official_number": "Legislative Decree No. 146/1959",
+      "official_title_arabic": "المرسوم التشريعي رقم 146 المتعلق بتحديد الضرائب المستوجبة على الهبات والإرث",
+      "official_title_french": "Décret Législatif No. 146 déterminant les taxes applicables aux donations et successions",
+      "official_title_english": "Legislative Decree on Inheritance and Gift Tax",
+      "date_enacted": "1959-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959-06-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Inheritance and Gift Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree No. 2827/1959",
+          "date": "1959",
+          "articles_affected": [
+            "Residency definition"
+          ],
+          "nature": "addition",
+          "description": "Defined residency criteria for inheritance tax purposes"
+        },
+        {
+          "amending_law": "Law No. 44/2016",
+          "date": "2016",
+          "articles_affected": [
+            "Residency definition"
+          ],
+          "nature": "modification",
+          "description": "Added new residency criteria: habitual abode or presence >183 days in 12-month period"
+        },
+        {
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Article 56"
+          ],
+          "nature": "modification",
+          "description": "Added exemptions for pension salaries, dismissal compensations, personal belongings; increased deduction to relatives up to LBP 600M"
+        },
+        {
+          "amending_law": "Budget Law 2025",
+          "date": "2025",
+          "articles_affected": [
+            "Exemption thresholds"
+          ],
+          "nature": "modification",
+          "description": "Donations up to LL 96 million exempt; up to LL 6 billion for non-profit organizations"
+        }
+      ],
+      "full_text_arabic": "Full text available - Legislative Decree No. 146 dated 12 June 1959",
+      "full_text_french": "Texte complet disponible - Décret Législatif No. 146 du 12 juin 1959",
+      "key_articles": [
+        {
+          "article_number": "Article 1-5",
+          "text_arabic": "الأصول الخاضعة للضريبة - جميع الأموال المنقولة وغير المنقولة الواقعة في لبنان",
+          "text_french": "Biens imposables - tous les biens meubles et immeubles situés au Liban",
+          "text_english": "Taxable assets include all movable and immovable assets situated in Lebanon, regardless of inheritor's residence",
+          "subject": "Taxable Assets"
+        },
+        {
+          "article_number": "Article 10-15",
+          "text_arabic": "الإعفاءات - الديون ومصاريف الجنازة",
+          "text_french": "Exemptions - dettes et frais funéraires",
+          "text_english": "Deductions for debts, funeral expenses, and specific exemptions based on relationship",
+          "subject": "Deductions and Exemptions"
+        },
+        {
+          "article_number": "Tax Rates",
+          "text_arabic": "معدلات تصاعدية من 3% إلى 45% حسب درجة القرابة",
+          "text_french": "Taux progressifs de 3% à 45% selon le degré de parenté",
+          "text_english": "Progressive rates from 3% to 45% based on relationship to deceased and amount transferred",
+          "subject": "Tax Rates"
+        }
+      ],
+      "tax_rates": {
+        "fixed_tax": "5 per thousand (0.5%) on all assets after LL 200 million deduction",
+        "progressive_rates": {
+          "descendants_spouses": "3% to 12%",
+          "parents": "6% to 18%",
+          "siblings": "9% to 24%",
+          "uncles_aunts_nephews": "12% to 36%",
+          "others": "16% to 45%"
+        },
+        "brackets": [
+          "Up to LL 1.8 billion",
+          "LL 1.8-3.6 billion",
+          "LL 3.6-6 billion",
+          "LL 6-12 billion",
+          "LL 12-21 billion",
+          "Above LL 21 billion"
+        ]
+      },
+      "exemptions": [
+        "Debts and funeral expenses - 100%",
+        "Pension salaries, dismissal compensations - 100%",
+        "Personal belongings - 100%",
+        "Shares in offshore companies - 100%",
+        "Donations to public entities - 100%",
+        "Donations to private entities - up to LL 1.6 million",
+        "Donations up to LL 96 million (as per Budget Law 2025)"
+      ],
+      "historical_context": "The Inheritance and Gift Tax Law of 1959 establishes the framework for taxing transfers of wealth upon death or by gift. The tax applies based on both territoriality and residence principles. The progressive rate structure favors close family members with lower rates.",
+      "related_laws": [
+        "Decree No. 2827/1959 (Residency criteria)",
+        "Law No. 44/2016 (Tax residency definition)",
+        "Decree No. 2083/2009 (Offshore company shares exemption)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-005",
+      "official_number": "Customs Law (Consolidated)",
+      "official_title_arabic": "قانون الجمارك",
+      "official_title_french": "Loi des Douanes",
+      "official_title_english": "Customs Law",
+      "date_enacted": "Various dates - consolidated legislation",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Customs and Import Duties",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Various Budget Laws",
+          "date": "Annual",
+          "articles_affected": [
+            "Customs tariff rates"
+          ],
+          "nature": "modification",
+          "description": "Annual adjustments to customs tariff rates"
+        }
+      ],
+      "full_text_arabic": "Full text available - Customs legislation consolidated",
+      "full_text_french": "Texte complet disponible - Législation douanière consolidée",
+      "key_articles": [
+        {
+          "article_number": "Article 1-2",
+          "text_arabic": "تجمع أحكام الجمارك في قانون موحد",
+          "text_french": "Les dispositions douanières sont regroupées en une loi unique",
+          "text_english": "Customs provisions consolidated into single law; customs duties set by Higher Council of Customs",
+          "subject": "General Provisions"
+        },
+        {
+          "article_number": "Article 8-9",
+          "text_arabic": "التعريفة الجمركية - العادية والمفضلة",
+          "text_french": "Tarifs douaniers - ordinaires et préférentiels",
+          "text_english": "Customs tariffs include ordinary and preferential tariffs; minimum 5% duty on imports",
+          "subject": "Tariff Structure"
+        },
+        {
+          "article_number": "Article 295",
+          "text_arabic": "الإعفاءات والامتيازات",
+          "text_french": "Exemptions et privilèges",
+          "text_english": "Goods imported for President of Republic, public administrations, grants, and international agreements may be exempt",
+          "subject": "Exemptions"
+        },
+        {
+          "article_number": "Article 358",
+          "text_arabic": "عقوبات المخالفات الجمركية",
+          "text_french": "Pénalités pour infractions douanières",
+          "text_english": "Penalties for customs violations including smuggling and false declarations",
+          "subject": "Penalties"
+        }
+      ],
+      "tax_rates": {
+        "minimum_rate": "5% of goods value",
+        "ordinary_tariff": "Varies by product category",
+        "preferential_tariff": "Applied to countries with special agreements",
+        "maximum_rates": {
+          "alcoholic_beverages": "55% to 100%",
+          "luxury_goods": "100%",
+          "tobacco": "High rates apply"
+        }
+      },
+      "historical_context": "Lebanon's Customs Law governs import and export duties. The law establishes the Higher Council of Customs which sets tariff rates. Lebanon applies the Harmonized System for tariff classification.",
+      "related_laws": [
+        "Budget Laws (annual tariff adjustments)",
+        "International trade agreements"
+      ],
+      "source_url": "http://www.customs.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-006",
+      "official_number": "Stamp Duty Law (Various Provisions)",
+      "official_title_arabic": "قانون الطابع المالي",
+      "official_title_french": "Loi sur le Timbre Fiscal",
+      "official_title_english": "Stamp Duty Law",
+      "date_enacted": "Original law with multiple amendments",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Stamp Duty",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 2022",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Fixed stamp duty provisions"
+          ],
+          "nature": "modification",
+          "description": "Fixed stamp duty on invoices to be settled through monthly declarations from 1 January 2023"
+        },
+        {
+          "amending_law": "MoF Decision No. 684/2023",
+          "date": "2023-11-23",
+          "articles_affected": [
+            "Exchange rate for calculation"
+          ],
+          "nature": "modification",
+          "description": "Sayrafa rate to be used for converting foreign currency values for stamp duty calculation"
+        },
+        {
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "date": "2024-02-12",
+          "articles_affected": [
+            "Fixed stamp duty amounts"
+          ],
+          "nature": "modification",
+          "description": "Stamp duty up to LL 3 billion can be processed by marking machines; increased fixed stamp duty to LL 100,000 for contracts without specified amount and LL 20,000 for unpaid invoices"
+        },
+        {
+          "amending_law": "Budget Law 2025",
+          "date": "2025",
+          "articles_affected": [
+            "Governmental receipts"
+          ],
+          "nature": "modification",
+          "description": "Government receipts must include USD 2 stamp duty for USD receipts and EUR 2 for EUR receipts"
+        },
+        {
+          "amending_law": "MoF Notification No. 2665/1/2025",
+          "date": "2025-08-01",
+          "articles_affected": [
+            "Filing procedures"
+          ],
+          "nature": "modification",
+          "description": "G20 form (Stamp Duty declaration) must be submitted electronically with payment advice S17"
+        }
+      ],
+      "full_text_arabic": "Full text available in various legislative texts",
+      "full_text_french": "Texte complet disponible dans divers textes législatifs",
+      "key_articles": [
+        {
+          "article_number": "Proportionate Stamp Duty",
+          "text_arabic": "طابع نسبي 0.4% على العقود والسندات",
+          "text_french": "Timbre proportionnel de 0.4% sur les contrats et actes",
+          "text_english": "Proportionate stamp duty of 0.4% on all deeds and contracts mentioning specific payments",
+          "subject": "Proportionate Stamp Duty"
+        },
+        {
+          "article_number": "Fixed Stamp Duty",
+          "text_arabic": "طابع ثابت من 1,000 إلى 2,000,000 ليرة",
+          "text_french": "Timbre fixe de 1,000 à 2,000,000 livres",
+          "text_english": "Fixed stamp duty ranging from LL 1,000 to LL 2 million on documents per schedules",
+          "subject": "Fixed Stamp Duty"
+        },
+        {
+          "article_number": "Capital Duty",
+          "text_arabic": "طابع على رأس المال 0.4%",
+          "text_french": "Timbre sur le capital de 0.4%",
+          "text_english": "One-time stamp duty of 0.4% on capital subscription or increase",
+          "subject": "Capital Duty"
+        }
+      ],
+      "tax_rates": {
+        "proportionate": "0.4% on deeds and contracts",
+        "fixed_range": "LL 1,000 to LL 2 million (standard)",
+        "fixed_contracts_no_amount": "LL 100,000 (as of 2024)",
+        "fixed_unpaid_invoices": "LL 20,000 (as of 2024)",
+        "oil_gas_companies": "LL 5 million on exploration agreements",
+        "government_receipts_usd": "USD 2 (as of 2025)",
+        "government_receipts_eur": "EUR 2 (as of 2025)"
+      },
+      "historical_context": "Stamp duty is one of Lebanon's oldest taxes, applying to various documents and transactions. The law distinguishes between proportionate and fixed stamp duties.",
+      "related_laws": [
+        "Income Tax Law",
+        "Budget Laws (annual amendments)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-007",
+      "official_number": "Law No. 296/2001 and Law No. 360",
+      "official_title_arabic": "قانون تسجيل العقارات ورسوم التحويل",
+      "official_title_french": "Loi sur l'Enregistrement des Biens Immobiliers et les Droits de Mutation",
+      "official_title_english": "Real Estate Registration and Transfer Tax Law",
+      "date_enacted": "2001-03-20 (Law 296), 2001-08-16 (Law 360)",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "2001"
+      },
+      "category": "Tax Law",
+      "subcategory": "Real Estate Transfer Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law of 26 October 2017",
+          "date": "2017-10-26",
+          "articles_affected": [
+            "Registration fee structure"
+          ],
+          "nature": "modification",
+          "description": "2% fee considered part of registration fee, payable within 15 days of contract conclusion"
+        },
+        {
+          "amending_law": "Budget Law 2018",
+          "date": "2018",
+          "articles_affected": [
+            "Residential registration fees"
+          ],
+          "nature": "modification",
+          "description": "Reduced registration fee for residential units to 2-3% depending on value, if registered before 30/06/2021"
+        },
+        {
+          "amending_law": "Law No. 330/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Capital gains on real estate"
+          ],
+          "nature": "modification",
+          "description": "Reduced tax rate to 1% on disposal of non-residential real estate until 31 December 2026"
+        }
+      ],
+      "full_text_arabic": "Full text available - Laws 296/2001 and 360/2001",
+      "full_text_french": "Texte complet disponible - Lois 296/2001 et 360/2001",
+      "key_articles": [
+        {
+          "article_number": "Law 296",
+          "text_arabic": "تسهيل الاستثمار الأجنبي وتقليل رسوم تسجيل العقارات",
+          "text_french": "Faciliter l'investissement étranger et réduire les frais d'enregistrement",
+          "text_english": "Simplified foreign ownership rules and reduced registration fees to 5% for Lebanese and foreign investors",
+          "subject": "Foreign Ownership Rules"
+        },
+        {
+          "article_number": "Law 360",
+          "text_arabic": "السماح للأجانب بشراء 3% من مساحة لبنان الكلية",
+          "text_french": "Permettre aux étrangers d'acquérir 3% de la superficie totale du Liban",
+          "text_english": "Foreigners can acquire 3% of total Lebanon area (up to 10% in Beirut); 3,000m2 without Council of Ministers decree",
+          "subject": "Foreign Acquisition Limits"
+        }
+      ],
+      "tax_rates": {
+        "registration_fee": "Approximately 6% (now effectively 5.8%)",
+        "breakdown": {
+          "main_registration": "5%",
+          "municipal_fee": "0.25-0.3%",
+          "stamp_duty": "0.3%",
+          "lawyers_syndicate_fee": "0.1%",
+          "notary_fee_if_applicable": "0.1%"
+        },
+        "foreign_owners_additional": "10% reconstruction fee (historically, may have changed)",
+        "capital_gains_real_estate": "1% for non-residential (until 31 Dec 2026); 15% standard rate"
+      },
+      "foreign_ownership_rules": {
+        "nationwide_limit": "3% of total Lebanon area per caza",
+        "beirut_limit": "10% of Beirut area",
+        "no_decree_needed": "Up to 3,000m2",
+        "above_3000m2": "Requires Council of Ministers decree",
+        "authorization_period": "5 years (extendable once for 5 years)"
+      },
+      "historical_context": "Law 296/2001 was a major reform to encourage foreign real estate investment by simplifying ownership rules and reducing fees. Law 360/2001 further liberalized foreign acquisition limits. The 2018 amendment provided temporary reductions for residential properties.",
+      "related_laws": [
+        "Income Tax Law (capital gains provisions)",
+        "Inheritance Tax Law",
+        "Municipal Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-008",
+      "official_number": "Various Provisions in Budget Laws",
+      "official_title_arabic": "الضرائب الانتقائية",
+      "official_title_french": "Taxes d'Accise",
+      "official_title_english": "Excise Taxes",
+      "date_enacted": "Various dates - provisions in annual Budget Laws",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Excise Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Annual Budget Laws",
+          "date": "Annual",
+          "articles_affected": [
+            "Excise tax rates"
+          ],
+          "nature": "modification",
+          "description": "Annual adjustments to excise tax rates on specific products"
+        }
+      ],
+      "full_text_arabic": "Provisions contained in annual Budget Laws",
+      "full_text_french": "Dispositions contenues dans les Lois de Finances annuelles",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "الضرائب الانتقائية على المشروبات الكحولية والتبغ والوقود",
+          "text_french": "Taxes d'accise sur les boissons alcoolisées, le tabac et les carburants",
+          "text_english": "Excise taxes apply to alcoholic beverages, tobacco products, gasoline, and vehicles",
+          "subject": "Taxable Products"
+        }
+      ],
+      "tax_rates": {
+        "alcoholic_beverages": "55% to 100%",
+        "tobacco_products": "High rates apply",
+        "gasoline": "Variable rates",
+        "vehicles": "Based on engine capacity and value",
+        "luxury_goods": "Up to 100%"
+      },
+      "historical_context": "Excise taxes in Lebanon are primarily applied to 'sin goods' and luxury items. Rates are adjusted annually through Budget Laws.",
+      "related_laws": [
+        "Customs Law",
+        "Budget Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-009",
+      "official_number": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+      "official_title_arabic": "أحكام الضريبة المقتطعة",
+      "official_title_french": "Dispositions sur la Retenue à la Source",
+      "official_title_english": "Withholding Tax Regulations",
+      "date_enacted": "1959-06-12 (with amendments)",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "1959-06-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Withholding Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 2022",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Non-resident tax filing"
+          ],
+          "nature": "modification",
+          "description": "Non-resident tax due quarterly within 15 days from end of each quarter"
+        },
+        {
+          "amending_law": "Budget Law 2024",
+          "date": "2024-02-12",
+          "articles_affected": [
+            "Non-resident WHT rates"
+          ],
+          "nature": "modification",
+          "description": "Increased WHT rates to 3.4% on goods and 8.5% on services, effective Q2 2024"
+        },
+        {
+          "amending_law": "MoF Decision No. 322/2023",
+          "date": "2023-05-15",
+          "articles_affected": [
+            "Foreign movable assets taxation"
+          ],
+          "nature": "modification",
+          "description": "Taxes on income from foreign shares, bonds, and movable assets to be settled in foreign currency starting 15 November 2022"
+        },
+        {
+          "amending_law": "MoF Decision No. 323/2023",
+          "date": "2023-05-15",
+          "articles_affected": [
+            "Shares disposal taxation"
+          ],
+          "nature": "addition",
+          "description": "Individuals subject to 10% movable capital tax when disposing shares in Lebanese or foreign LLCs if not a commercial transaction"
+        }
+      ],
+      "full_text_arabic": "Provisions in Decree-Law No. 144/1959 and amendments",
+      "full_text_french": "Dispositions dans le Décret-Loi No. 144/1959 et amendements",
+      "key_articles": [
+        {
+          "article_number": "Dividend WHT",
+          "text_arabic": "ضريبة الأرباح الموزعة 10%",
+          "text_french": "Retenue sur dividendes de 10%",
+          "text_english": "Dividends distributed by companies subject to 10% withholding tax",
+          "subject": "Dividend Withholding Tax"
+        },
+        {
+          "article_number": "Interest WHT",
+          "text_arabic": "ضريبة الفوائد 7% على الودائع والسندات",
+          "text_french": "Retenue sur intérêts de 7% sur dépôts et obligations",
+          "text_english": "Interest from bank deposits and treasury bonds subject to 7% WHT (non-refundable)",
+          "subject": "Interest Withholding Tax"
+        },
+        {
+          "article_number": "Movable Capital WHT",
+          "text_arabic": "ضريبة رأس المال المنقول 10%",
+          "text_french": "Retenue sur capitaux mobiliers de 10%",
+          "text_english": "10% WHT on income from movable capital including dividends, interest, directors' fees",
+          "subject": "Movable Capital Tax"
+        },
+        {
+          "article_number": "Non-Resident WHT",
+          "text_arabic": "ضريبة غير المقيمين 3.4% على السلع و8.5% على الخدمات",
+          "text_french": "Retenue non-résidents 3.4% sur marchandises et 8.5% sur services",
+          "text_english": "Non-residents subject to 3.4% WHT on goods and 8.5% on services (as of Q2 2024)",
+          "subject": "Non-Resident Withholding Tax"
+        }
+      ],
+      "tax_rates": {
+        "dividends": "10%",
+        "interest_bank_deposits": "7%",
+        "movable_capital": "10%",
+        "non_resident_goods": "3.4% (effective Q2 2024)",
+        "non_resident_services": "8.5% (effective Q2 2024)",
+        "royalties": "7.5%",
+        "management_fees": "7.5%"
+      },
+      "historical_context": "Withholding taxes are a key mechanism for revenue collection in Lebanon. The 2024 amendments increased non-resident WHT rates significantly to boost revenue.",
+      "related_laws": [
+        "Income Tax Law (Decree-Law No. 144/1959)",
+        "Budget Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-010",
+      "official_number": "Tax Procedures Law (Various Provisions)",
+      "official_title_arabic": "قانون أصول المحاسبة والمراقبة الضريبية",
+      "official_title_french": "Loi sur les Procédures Fiscales et le Contrôle",
+      "official_title_english": "Tax Procedures and Control Law",
+      "date_enacted": "Various dates - consolidated provisions",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Tax Procedures",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law No. 328/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Deadlines suspension"
+          ],
+          "nature": "modification",
+          "description": "Extended deadlines for tax compliance (Law on Suspension of Deadlines)"
+        },
+        {
+          "amending_law": "MoF Notification No. 2665/1/2025",
+          "date": "2025-08-01",
+          "articles_affected": [
+            "Electronic filing"
+          ],
+          "nature": "addition",
+          "description": "Electronic submission of G20 stamp duty declaration mandatory from 1 August 2025"
+        },
+        {
+          "amending_law": "MoF Notification No. 4913/2025",
+          "date": "2025-12-24",
+          "articles_affected": [
+            "Deemed profit method transition"
+          ],
+          "nature": "modification",
+          "description": "Taxpayers under deemed profit method to transition to lump-sum method effective 1 January 2026"
+        }
+      ],
+      "full_text_arabic": "Provisions in various tax laws and Ministry decisions",
+      "full_text_french": "Dispositions dans diverses lois fiscales et décisions ministérielles",
+      "key_articles": [
+        {
+          "article_number": "Filing Deadlines",
+          "text_arabic": "المواعيد النهائية لتقديم الإقرارات الضريبية",
+          "text_french": "Délais de déclaration des impôts",
+          "text_english": "Corporate income tax return due before February of following year; VAT quarterly by 20th of following month",
+          "subject": "Filing Deadlines"
+        },
+        {
+          "article_number": "Tax Audit",
+          "text_arabic": "المراقبة الضريبية والتحقق",
+          "text_french": "Contrôle fiscal et vérification",
+          "text_english": "Tax authorities have broad powers to audit and verify tax declarations; field visits and comparison with similar transactions",
+          "subject": "Tax Audit Powers"
+        },
+        {
+          "article_number": "Penalties",
+          "text_arabic": "الغرامات والعقوبات الضريبية",
+          "text_french": "Pénalités et sanctions fiscales",
+          "text_english": "Penalties for late filing, non-payment, and tax evasion; general reduction of fines under 2024 amendments",
+          "subject": "Penalties"
+        }
+      ],
+      "filing_deadlines": {
+        "corporate_income_tax": "Before February of following year",
+        "vat": "Quarterly, by 20th of month following quarter end",
+        "salary_tax": "Monthly declarations",
+        "non_resident_tax": "Quarterly within 15 days from quarter end",
+        "stamp_duty": "Monthly within 15 days from month end (from 1 Jan 2023)"
+      },
+      "historical_context": "Tax procedures in Lebanon are governed by various provisions scattered across tax laws. Recent reforms have focused on electronic filing and streamlining compliance.",
+      "related_laws": [
+        "Income Tax Law",
+        "VAT Law",
+        "Stamp Duty Law"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-011",
+      "official_number": "Various Amnesty Laws",
+      "official_title_arabic": "قوانين العفو والتسوية الضريبية",
+      "official_title_french": "Lois d'Amnistie et de Règlement Fiscal",
+      "official_title_english": "Tax Amnesty and Settlement Laws",
+      "date_enacted": "Various dates",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Tax Amnesty",
+      "status": "varies_by_law",
+      "amendments": [],
+      "full_text_arabic": "Various amnesty laws enacted over the years",
+      "full_text_french": "Diverses lois d'amnistie adoptées au fil des ans",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "قوانين العفو الضريبي تسمح للمقصرين بتسوية وضعهم الضريبي",
+          "text_french": "Les lois d'amnistie fiscale permettent aux contribuables en retard de régulariser leur situation",
+          "text_english": "Tax amnesty laws allow delinquent taxpayers to settle their tax obligations with reduced penalties",
+          "subject": "Amnesty Provisions"
+        }
+      ],
+      "historical_context": "Lebanon has periodically enacted tax amnesty laws to encourage compliance and increase revenue collection. These laws typically offer reduced penalties and interest for taxpayers who voluntarily disclose and pay outstanding taxes.",
+      "related_laws": [
+        "Income Tax Law",
+        "VAT Law",
+        "Budget Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-012",
+      "official_number": "Multiple DTT Agreements",
+      "official_title_arabic": "اتفاقيات منع الازدواج الضريبي",
+      "official_title_french": "Conventions de Double Imposition",
+      "official_title_english": "Double Taxation Treaties",
+      "date_enacted": "Various dates",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "International Taxation",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "Individual treaty texts available",
+      "full_text_french": "Textes individuels des traités disponibles",
+      "key_articles": [
+        {
+          "article_number": "General",
+          "text_arabic": "تجنب الازدواج الضريبي على الدخل والأرباح",
+          "text_french": "Éviter la double imposition sur les revenus et les bénéfices",
+          "text_english": "Avoid double taxation on income and profits; typically reduce WHT rates on dividends, interest, and royalties",
+          "subject": "Purpose of DTTs"
+        }
+      ],
+      "treaties": [
+        {
+          "country": "Algeria",
+          "signed": "2002-03-26",
+          "ratified": "2002-08-29",
+          "enforced": "2006-07-19"
+        },
+        {
+          "country": "Armenia",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Bahrain",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Belarus",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Bulgaria",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Cyprus",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Czech Republic",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Egypt",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "France",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Iran",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Italy",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Jordan",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Kuwait",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Malaysia",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Malta",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Morocco",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Oman",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Pakistan",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Poland",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Qatar",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Romania",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Russia",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Senegal",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Syria",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Tunisia",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Turkey",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "UAE",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Ukraine",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        },
+        {
+          "country": "Yemen",
+          "signed": "Unknown",
+          "ratified": "Unknown",
+          "enforced": "Unknown"
+        }
+      ],
+      "total_treaties": 29,
+      "historical_context": "Lebanon has concluded over 30 double taxation treaties to promote international trade and investment. These treaties generally follow the OECD model and reduce withholding tax rates on cross-border payments.",
+      "related_laws": [
+        "Income Tax Law",
+        "Withholding Tax Regulations"
+      ],
+      "source_url": "https://www.finance.gov.lb/en-us",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-013",
+      "official_number": "Decree-Law No. 45/1983",
+      "official_title_arabic": "قانون الشركات القابضة",
+      "official_title_french": "Décret-Loi sur les Sociétés de Participations",
+      "official_title_english": "Holding Companies Law",
+      "date_enacted": "1983",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1983"
+      },
+      "category": "Tax Law",
+      "subcategory": "Special Company Regimes",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 2022",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Tax cap provisions"
+          ],
+          "nature": "modification",
+          "description": "Tax cap on capital and reserves increased to LBP 50 million (from LBP 5 million) starting fiscal year 2022"
+        }
+      ],
+      "full_text_arabic": "Full text available - Decree-Law No. 45/1983",
+      "full_text_french": "Texte complet disponible - Décret-Loi No. 45/1983",
+      "key_articles": [
+        {
+          "article_number": "Business Objectives",
+          "text_arabic": "الأهداف المحدودة للشركات القابضة",
+          "text_french": "Objectifs commerciaux limités des sociétés de participations",
+          "text_english": "Holding companies restricted to: owning shares in Lebanese/foreign companies; managing owned companies; lending to subsidiaries; owning patents/trademarks; owning properties for business requirements",
+          "subject": "Permitted Activities"
+        },
+        {
+          "article_number": "Tax Exemptions",
+          "text_arabic": "إعفاءات ضريبية للشركات القابضة",
+          "text_french": "Exemptions fiscales pour les sociétés de participations",
+          "text_english": "Exempt from corporate income tax and dividend WHT; subject to tax on capital and reserves capped at LBP 50 million annually",
+          "subject": "Tax Treatment"
+        }
+      ],
+      "tax_treatment": {
+        "corporate_income_tax": "Exempt",
+        "dividend_withholding_tax": "Exempt",
+        "capital_gains_on_shares": "Exempt if held >2 years",
+        "foreign_investment_gains": "Exempt",
+        "interest_royalties_fees": "Exempt",
+        "tax_on_capital_reserves": "Capped at LBP 50 million annually (as of 2022)"
+      },
+      "requirements": {
+        "legal_form": "Must be registered as SAL (Joint Stock Company)",
+        "minimum_capital": "Standard SAL requirements"
+      },
+      "historical_context": "The Holding Companies Law was enacted in 1983 to encourage investment and regional headquarters in Lebanon. It provides significant tax exemptions to companies whose main activity is owning shares in other companies.",
+      "related_laws": [
+        "Commercial Code (SAL provisions)",
+        "Income Tax Law",
+        "Budget Law 2022"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-014",
+      "official_number": "Decree-Law No. 46/1983",
+      "official_title_arabic": "قانون الشركات الخارجية",
+      "official_title_french": "Décret-Loi sur les Sociétés Offshore",
+      "official_title_english": "Offshore Companies Law",
+      "date_enacted": "1983",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1983"
+      },
+      "category": "Tax Law",
+      "subcategory": "Special Company Regimes",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 2022",
+          "date": "2022-11-15",
+          "articles_affected": [
+            "Lump-sum tax amount"
+          ],
+          "nature": "modification",
+          "description": "Lump-sum annual tax increased to LBP 50 million (from LBP 1 million) starting fiscal year 2022"
+        }
+      ],
+      "full_text_arabic": "Full text available - Decree-Law No. 46/1983",
+      "full_text_french": "Texte complet disponible - Décret-Loi No. 46/1983",
+      "key_articles": [
+        {
+          "article_number": "Business Objectives",
+          "text_arabic": "الأنشطة المحدودة للشركات الخارجية",
+          "text_french": "Activités limitées des sociétés offshore",
+          "text_english": "Offshore companies limited to trade and activities strictly outside Lebanese territories",
+          "subject": "Permitted Activities"
+        },
+        {
+          "article_number": "Tax Treatment",
+          "text_arabic": "المعاملة الضريبية للشركات الخارجية",
+          "text_french": "Traitement fiscal des sociétés offshore",
+          "text_english": "Exempt from corporate income tax and dividend WHT; subject to lump-sum annual tax of LBP 50 million; contracts related to offshore activities exempt from stamp duty",
+          "subject": "Tax Treatment"
+        }
+      ],
+      "tax_treatment": {
+        "corporate_income_tax": "Exempt",
+        "dividend_withholding_tax": "Exempt",
+        "lump_sum_annual_tax": "LBP 50 million (as of 2022)",
+        "stamp_duty_on_contracts": "Exempt for offshore activities"
+      },
+      "requirements": {
+        "legal_form": "Must be registered as SAL (Joint Stock Company)",
+        "activity_restriction": "Activities must be conducted outside Lebanon"
+      },
+      "historical_context": "The Offshore Companies Law was enacted alongside the Holding Companies Law in 1983 to attract international business to Lebanon. Offshore companies benefit from significant tax exemptions but are restricted to activities outside Lebanon.",
+      "related_laws": [
+        "Commercial Code (SAL provisions)",
+        "Income Tax Law",
+        "Stamp Duty Law"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-015",
+      "official_number": "Part of Decree-Law No. 144/1959 (as amended)",
+      "official_title_arabic": "أحكام ضريبة الأرباح الرأسمالية",
+      "official_title_french": "Dispositions sur l'Impôt sur les Plus-Values",
+      "official_title_english": "Capital Gains Tax Provisions",
+      "date_enacted": "1959-06-12 (with amendments)",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "1959-06-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Capital Gains Tax",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law No. 330/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Article 45"
+          ],
+          "nature": "modification",
+          "description": "Taxpayers under lump-sum method can revalue fixed assets annually (instead of every 5 years) until 31 December 2026"
+        },
+        {
+          "amending_law": "Law No. 330/2024",
+          "date": "2024-12-05",
+          "articles_affected": [
+            "Real estate capital gains"
+          ],
+          "nature": "modification",
+          "description": "Reduced tax rate of 1% on disposal of non-residential real estate for individuals and exempt taxpayers until 31 December 2026"
+        }
+      ],
+      "full_text_arabic": "Provisions in Decree-Law No. 144/1959",
+      "full_text_french": "Dispositions dans le Décret-Loi No. 144/1959",
+      "key_articles": [
+        {
+          "article_number": "Fixed Assets",
+          "text_arabic": "أرباح التصرف في الأصول الثابتة تخضع لضريبة 15%",
+          "text_french": "Les plus-values sur cession d'actifs immobilisés sont soumises à un impôt de 15%",
+          "text_english": "Capital gains from disposal of fixed assets subject to 15% tax; companies can revalue every 5 years (annually until 2026 for lump-sum taxpayers)",
+          "subject": "Fixed Assets Capital Gains"
+        },
+        {
+          "article_number": "Real Estate",
+          "text_arabic": "أرباح العقارات - معدل مخفض 1% للعقارات غير السكنية",
+          "text_french": "Plus-values immobilières - taux réduit de 1% pour les biens non-résidentiels",
+          "text_english": "Capital gains on real estate: 1% for non-residential (until 31 Dec 2026); phased out at 8% annually for non-taxable individuals; 2 primary residences exempt",
+          "subject": "Real Estate Capital Gains"
+        },
+        {
+          "article_number": "Shares",
+          "text_arabic": "أرباح بيع الأسهم",
+          "text_french": "Plus-values sur cession d'actions",
+          "text_english": "Gains from sale of shares: 15% if non-current assets; 17% CIT for investment companies; 10% movable capital tax for non-residents",
+          "subject": "Shares Capital Gains"
+        }
+      ],
+      "tax_rates": {
+        "fixed_assets_general": "15%",
+        "real_estate_non_residential": "1% (until 31 Dec 2026)",
+        "real_estate_standard": "15%",
+        "shares_non_current_assets": "15%",
+        "shares_investment_companies": "17%",
+        "shares_non_resident": "10% (movable capital tax)"
+      },
+      "exemptions": [
+        "Gains from sale of up to 2 primary residences per individual",
+        "Real estate gains phased out at 8% annually for non-taxable individuals from acquisition date"
+      ],
+      "historical_context": "Capital gains taxation in Lebanon varies by asset type. The 2024 amendments introduced temporary reductions for real estate to stimulate the market.",
+      "related_laws": [
+        "Income Tax Law (Decree-Law No. 144/1959)",
+        "Real Estate Registration Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-016",
+      "official_number": "National Social Security Fund Law",
+      "official_title_arabic": "قانون الضمان الاجتماعي",
+      "official_title_french": "Loi sur la Sécurité Sociale",
+      "official_title_english": "Social Security Law",
+      "date_enacted": "Various dates",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Social Security Contributions",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "National Social Security Fund legislation",
+      "full_text_french": "Législation du Fonds National de Sécurité Sociale",
+      "key_articles": [
+        {
+          "article_number": "Employer Contributions",
+          "text_arabic": "مساهمات صاحب العمل: 8% للضمان الصحي، 6% للأسرية، 8.5% لنهاية الخدمة",
+          "text_french": "Cotisations employeur: 8% maladie, 6% famille, 8.5% fin de service",
+          "text_english": "Employer contributions: 8% maternity/sickness (max LBP 18M/month), 6% family (max LBP 12M/month), 8.5% end of service (no ceiling)",
+          "subject": "Employer Contributions"
+        },
+        {
+          "article_number": "Employee Contributions",
+          "text_arabic": "مساهمات العامل: 3% للضمان الصحي",
+          "text_french": "Cotisations salarié: 3% maladie",
+          "text_english": "Employee contributions: 3% maternity/sickness (max LBP 18M/month)",
+          "subject": "Employee Contributions"
+        }
+      ],
+      "contribution_rates": {
+        "employer": {
+          "maternity_sickness": "8% (max LBP 18 million/month)",
+          "family": "6% (max LBP 12 million/month)",
+          "end_of_service": "8.5% (no ceiling)"
+        },
+        "employee": {
+          "maternity_sickness": "3% (max LBP 18 million/month)"
+        }
+      },
+      "historical_context": "Social security contributions are separate from but related to the tax system. They fund maternity/sickness benefits, family allowances, and end-of-service indemnities.",
+      "related_laws": [
+        "Labor Law",
+        "Income Tax Law"
+      ],
+      "source_url": "https://www.nssf.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-017",
+      "official_number": "Law No. 324/2024",
+      "official_title_arabic": "قانون الموازنة العامة لعام 2024",
+      "official_title_french": "Loi de Finances pour l'année 2024",
+      "official_title_english": "General Budget Law for 2024",
+      "date_enacted": "2024-02-12",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2024-02-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Budget Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "Full text available - Law No. 324/2024",
+      "full_text_french": "Texte complet disponible - Loi No. 324/2024",
+      "key_articles": [
+        {
+          "article_number": "Article 18",
+          "text_arabic": "تعديل معدلات الضريبة المقتطعة للأجانب غير المقيمين",
+          "text_french": "Modification des taux de retenue à la source pour non-résidents",
+          "text_english": "Amended WHT rates for non-residents to 3.4% on goods and 8.5% on services, effective Q2 2024",
+          "subject": "Non-Resident WHT"
+        },
+        {
+          "article_number": "Stamp Duty Provisions",
+          "text_arabic": "تعديل أحكام الطابع المالي",
+          "text_french": "Modification des dispositions sur le timbre fiscal",
+          "text_english": "Stamp duty up to LL 3 billion can be processed by marking machines; fixed stamp duty increased to LL 100,000 for contracts without specified amount",
+          "subject": "Stamp Duty"
+        },
+        {
+          "article_number": "Built Property Tax",
+          "text_arabic": "تعديل شرائح ضريبة الأملاك المبنية",
+          "text_french": "Modification des tranches de la taxe sur les propriétés bâties",
+          "text_english": "Amended BPT brackets ranging from LL 1.2 billion to LL 6 billion",
+          "subject": "Built Property Tax"
+        }
+      ],
+      "tax_changes_summary": {
+        "non_resident_wht_goods": "Increased to 3.4% (from 2.25%)",
+        "non_resident_wht_services": "Increased to 8.5% (from 7.5%)",
+        "stamp_duty_machine_processing": "Up to LL 3 billion",
+        "stamp_duty_fixed_contracts": "LL 100,000",
+        "stamp_duty_unpaid_invoices": "LL 20,000"
+      },
+      "historical_context": "The 2024 Budget Law introduced significant tax amendments to increase revenue collection, particularly targeting non-resident withholding taxes and stamp duties.",
+      "related_laws": [
+        "Income Tax Law",
+        "Stamp Duty Law",
+        "Built Property Tax Decree"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-018",
+      "official_number": "Budget Law 2025 (Draft/Pending)",
+      "official_title_arabic": "مشروع قانون موازنة 2025",
+      "official_title_french": "Projet de Loi de Finances 2025",
+      "official_title_english": "Budget Law 2025 (Draft)",
+      "date_enacted": "2025 (expected)",
+      "published_in_official_gazette": {
+        "issue_number": "Pending",
+        "date": "Pending"
+      },
+      "category": "Tax Law",
+      "subcategory": "Budget Law",
+      "status": "pending",
+      "amendments": [],
+      "full_text_arabic": "Draft budget submitted to government September 2024",
+      "full_text_french": "Projet de budget soumis au gouvernement en septembre 2024",
+      "key_articles": [
+        {
+          "article_number": "Article 17",
+          "text_arabic": "طريقة احتساب الضريبة على الرواتب بالدولار",
+          "text_french": "Méthode de calcul de l'impôt sur les salaires en dollars",
+          "text_english": "USD-denominated salary portion to be converted at BDL exchange rate and tax calculated on total salary in LBP",
+          "subject": "Salary Tax Calculation"
+        },
+        {
+          "article_number": "Government Receipts Fee",
+          "text_arabic": "رسوم على إيصالات الجمهورية",
+          "text_french": "Frais sur les reçus du gouvernement",
+          "text_english": "Fee of LL 100,000 on LBP receipts, USD 2 on USD receipts, EUR 2 on EUR receipts",
+          "subject": "Government Receipts"
+        },
+        {
+          "article_number": "E-Stamp Provisions",
+          "text_arabic": "السماح بالطوابع الإلكترونية",
+          "text_french": "Permettre les timbres électroniques",
+          "text_english": "E-stamps permitted for stamps valued between LL 2 million and LL 3 billion",
+          "subject": "Electronic Stamps"
+        }
+      ],
+      "tax_changes_summary": {
+        "salary_tax_usd": "Calculated using BDL exchange rate",
+        "government_receipts_lbp": "LL 100,000",
+        "government_receipts_usd": "USD 2",
+        "government_receipts_eur": "EUR 2",
+        "telecommunications_fee": "LL 100,000 added to Ministry of Communications invoices",
+        "estate_gift_exemption": "Donations up to LL 96 million exempt; up to LL 6 billion for non-profits"
+      },
+      "budget_figures": {
+        "projected_expenditures": "LBP 427,695 billion (USD 4.77 billion)",
+        "projected_revenues": "LBP 410,128 billion (USD 4.58 billion)",
+        "deficit": "LBP 17,567 billion (USD 196 million, 4.11% of expenditures)"
+      },
+      "historical_context": "The 2025 Budget was submitted to government in September 2024 with a projected deficit. It introduces new fees and modifies tax calculation methods for foreign currency salaries.",
+      "related_laws": [
+        "Income Tax Law",
+        "Stamp Duty Law",
+        "Inheritance Tax Law"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-019",
+      "official_number": "Part of Decree-Law No. 144/1959",
+      "official_title_arabic": "أحكام طريقة الربح المفترض",
+      "official_title_french": "Dispositions sur la Méthode du Bénéfice Forfaitaire",
+      "official_title_english": "Deemed Profit Method Provisions",
+      "date_enacted": "1959-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959-06-12"
+      },
+      "category": "Tax Law",
+      "subcategory": "Tax Calculation Methods",
+      "status": "active (transitioning)",
+      "amendments": [
+        {
+          "amending_law": "MoF Notification No. 4913/2025",
+          "date": "2025-12-24",
+          "articles_affected": [
+            "Transition to lump-sum method"
+          ],
+          "nature": "modification",
+          "description": "Taxpayers under deemed profit method to transition to lump-sum method effective 1 January 2026; must register and file through MoF online portal"
+        }
+      ],
+      "full_text_arabic": "Provisions in Decree-Law No. 144/1959",
+      "full_text_french": "Dispositions dans le Décret-Loi No. 144/1959",
+      "key_articles": [
+        {
+          "article_number": "Applicable Entities",
+          "text_arabic": "الكيانات الخاضعة لطريقة الربح المفترض",
+          "text_french": "Entités assujetties à la méthode du bénéfice forfaitaire",
+          "text_english": "Applies to: insurance companies, transport companies, oil refineries, public work contractors",
+          "subject": "Scope"
+        },
+        {
+          "article_number": "Deemed Profit Rates",
+          "text_arabic": "نسب الربح المفترض",
+          "text_french": "Taux de bénéfice forfaitaire",
+          "text_english": "Insurance companies: 5-10% depending on activity; Public contractors: 10% or 15% of total amounts collected",
+          "subject": "Rates"
+        }
+      ],
+      "tax_rates": {
+        "insurance_companies": "5% to 10% of premiums",
+        "public_contractors": "10% or 15% of amounts collected",
+        "corporate_tax_rate": "17% on deemed profit"
+      },
+      "transition_info": {
+        "effective_date": "1 January 2026",
+        "new_method": "Lump-sum method",
+        "filing": "Through MoF online portal",
+        "deadline": "Before February of following year"
+      },
+      "historical_context": "The deemed profit method was introduced for specific industries where actual profit calculation is difficult. The 2025 notification mandates transition to the lump-sum method starting 2026.",
+      "related_laws": [
+        "Income Tax Law"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-020",
+      "official_number": "Various Municipal Tax Laws",
+      "official_title_arabic": "الضرائب البلدية",
+      "official_title_french": "Taxes Municipales",
+      "official_title_english": "Municipal Tax Provisions",
+      "date_enacted": "Various dates",
+      "published_in_official_gazette": {
+        "issue_number": "Various",
+        "date": "Various"
+      },
+      "category": "Tax Law",
+      "subcategory": "Municipal Tax",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "Various municipal tax legislation",
+      "full_text_french": "Diverses législations fiscales municipales",
+      "key_articles": [
+        {
+          "article_number": "Municipal Tax on Rents",
+          "text_arabic": "ضريبة بلدية على إيرادات العقارات المؤجرة",
+          "text_french": "Taxe municipale sur les revenus locatifs",
+          "text_english": "Municipal tax on rental income from developed real estate property - deductible for income tax purposes",
+          "subject": "Municipal Tax on Rents"
+        }
+      ],
+      "tax_rates": {
+        "municipal_fee_real_estate_transfer": "0.25% to 0.3%",
+        "municipal_tax_on_rents": "Varies by municipality"
+      },
+      "historical_context": "Municipal taxes are levied by local authorities and include taxes on rental income and fees on real estate transfers.",
+      "related_laws": [
+        "Income Tax Law",
+        "Real Estate Registration Laws"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-021",
+      "official_number": "Law No. 44/2016",
+      "official_title_arabic": "قانون تحديد الإقامة الضريبية في لبنان",
+      "official_title_french": "Loi définissant la Résidence Fiscale au Liban",
+      "official_title_english": "Tax Residency Definition Law",
+      "date_enacted": "2016",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2016"
+      },
+      "category": "Tax Law",
+      "subcategory": "Tax Residency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "Law No. 44/2016",
+      "full_text_french": "Loi No. 44/2016",
+      "key_articles": [
+        {
+          "article_number": "Residency Criteria",
+          "text_arabic": "معايير الإقامة الضريبية",
+          "text_french": "Critères de résidence fiscale",
+          "text_english": "Person considered resident if: has fixed place of business in Lebanon; maintains permanent home in Lebanon; present >183 days in 12-month period; has house permanently available to family members",
+          "subject": "Residency Criteria"
+        }
+      ],
+      "residency_criteria": [
+        "Have a fixed place of doing business in Lebanon",
+        "Maintain a permanent home in Lebanon for usual residence",
+        "Stay in Lebanon >183 days continuously or intermittently in 12-month period (transit and medical stays excluded)",
+        "Have a house permanently available to family members (spouse and dependent children)",
+        "Registration as licensed professional"
+      ],
+      "historical_context": "Law No. 44/2016 expanded the definition of tax residency in Lebanon, adding the 183-day rule and the habitual abode criterion to align with international standards.",
+      "related_laws": [
+        "Income Tax Law",
+        "Inheritance Tax Law (Decree No. 2827/1959)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TAX-022",
+      "official_number": "Law No. 64/2017",
+      "official_title_arabic": "قانون رقم 64 المتعلق بضريبة الفوائد",
+      "official_title_french": "Loi No. 64 sur l'Impôt sur les Intérêts",
+      "official_title_english": "Interest Tax Law",
+      "date_enacted": "2017-10-26",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2017-10-26"
+      },
+      "category": "Tax Law",
+      "subcategory": "Interest Taxation",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "Law No. 64 dated 26 October 2017",
+      "full_text_french": "Loi No. 64 du 26 octobre 2017",
+      "key_articles": [
+        {
+          "article_number": "Article 63 Amendment",
+          "text_arabic": "تحديد ضريبة الفوائد بنسبة 7%",
+          "text_french": "Fixation de l'impôt sur les intérêts à 7%",
+          "text_english": "Tax on interest revenue set at 7% on interest and revenues from savings accounts, bank deposits, bonds, treasury bills",
+          "subject": "Interest Tax Rate"
+        }
+      ],
+      "tax_rates": {
+        "interest_on_deposits": "7%",
+        "interest_on_bonds": "7%",
+        "interest_on_treasury_bills": "7%",
+        "nature": "Non-refundable, cannot be carried forward"
+      },
+      "historical_context": "Law No. 64/2017 increased the tax on interest revenue to 7%, replacing previous rates. This is a final withholding tax that cannot be refunded or credited.",
+      "related_laws": [
+        "Income Tax Law (Decree-Law No. 144/1959)",
+        "Budget Law 2019 (further amendments)"
+      ],
+      "source_url": "https://www.finance.gov.lb",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

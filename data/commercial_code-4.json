@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "file": "commercial_code.json",
+    "description": "Lebanese Code of Commerce (1942), Companies Law, and related commercial legislation",
+    "total_entries": 6,
+    "last_updated": "2026-02-21",
+    "phase": 1
+  },
+  "laws": [
+    {
+      "law_id": "LB-COM-001",
+      "official_number": "Legislative Decree of December 24, 1942 (Code of Commerce)",
+      "official_title_arabic": "قانون التجارة البرية الصادر بتاريخ 24 كانون الأول 1942",
+      "official_title_french": "Code de Commerce Terrestre du 24 décembre 1942",
+      "official_title_english": "Code of Terrestrial Commerce / Code of Commerce",
+      "date_enacted": "1942-12-24",
+      "date_effective": "1943-04-01",
+      "category": "Commercial Law",
+      "subcategory": "General Commercial Code",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Code",
+      "total_articles": 734,
+      "amendments": [
+        {
+          "amending_law": "Decree-Law No. 150 of September 16, 1983 (Companies Law)",
+          "amending_law_id": "LB-COM-002",
+          "date": "1983-09-16",
+          "articles_affected": ["Part on companies"],
+          "nature": "substitution",
+          "summary": "Replaced the companies chapter of the Code of Commerce with a comprehensive modern companies law."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1-10",
+          "text_english": "Definition of commercial acts, merchant status, commercial register requirements.",
+          "subject": "Commercial acts and merchants",
+          "current_version": true
+        },
+        {
+          "article_number": "44-68",
+          "text_english": "Commercial books and accounting obligations for merchants.",
+          "subject": "Commercial books",
+          "current_version": true
+        },
+        {
+          "article_number": "307-488",
+          "text_english": "Negotiable instruments: bills of exchange, promissory notes, checks.",
+          "subject": "Negotiable instruments",
+          "current_version": true
+        },
+        {
+          "article_number": "489-560",
+          "text_english": "Bankruptcy and insolvency proceedings.",
+          "subject": "Bankruptcy",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Lebanon's commercial code was modeled closely on the French Commercial Code. Replaced the Ottoman Commercial Code (1850), itself a translation of the French Code de Commerce of 1807. Governs commercial transactions, merchant obligations, partnerships, negotiable instruments, bankruptcy, and commercial pledges. The companies chapter was replaced by Decree-Law 150/1983.",
+      "related_laws": [
+        {"law_id": "LB-CIV-001", "relationship": "complements"},
+        {"law_id": "LB-COM-002", "relationship": "amended_by"},
+        {"law_id": "LB-COM-003", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COM-002",
+      "official_number": "Decree-Law No. 150 of September 16, 1983",
+      "official_title_arabic": "مرسوم اشتراعي رقم 150 - قانون الشركات التجارية",
+      "official_title_french": "Décret-loi No. 150/1983 - Sociétés Commerciales",
+      "official_title_english": "Companies / Commercial Companies Law",
+      "date_enacted": "1983-09-16",
+      "date_effective": "1983-09-16",
+      "category": "Commercial Law",
+      "subcategory": "Companies",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 262,
+      "amendments": [
+        {
+          "amending_law": "Law No. 126/2019 (Holding Companies)",
+          "date": "2019-03-29",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "Updated holding company regulations."
+        }
+      ],
+      "key_articles": [],
+      "historical_context": "Replaced the companies portion of the 1942 Code of Commerce. Governs formation, operation, and dissolution of all types of commercial companies: general partnerships (société en nom collectif), limited partnerships (société en commandite simple), joint stock companies (société anonyme / SAL), limited liability companies (société à responsabilité limitée / SARL), and holding companies (société holding). The SAL and SARL are the most common corporate forms in Lebanon.",
+      "related_laws": [
+        {"law_id": "LB-COM-001", "relationship": "amends"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COM-003",
+      "official_number": "Legislative Decree of September 24, 1947 (Maritime Commerce)",
+      "official_title_arabic": "قانون التجارة البحرية",
+      "official_title_french": "Code de Commerce Maritime",
+      "official_title_english": "Maritime Commerce Code",
+      "date_enacted": "1947-09-24",
+      "date_effective": "1947-09-24",
+      "category": "Commercial Law",
+      "subcategory": "Maritime Law",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Code",
+      "total_articles": 340,
+      "amendments": [],
+      "historical_context": "Governs maritime commerce including ship registration, maritime liens, charter parties, bills of lading, maritime insurance, collisions, salvage, and general average. Important for Lebanon given the significance of the Port of Beirut to the national economy.",
+      "related_laws": [
+        {"law_id": "LB-COM-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COM-004",
+      "official_number": "Law No. 75 of April 3, 1967 (Intellectual Property / Copyright)",
+      "official_title_arabic": "قانون حماية الملكية الأدبية والفنية - قانون رقم 75/1967",
+      "official_title_french": "Loi No. 75/1967 sur la Protection de la Propriété Littéraire et Artistique",
+      "official_title_english": "Literary and Artistic Property Protection Law",
+      "date_enacted": "1967-04-03",
+      "date_effective": "1967-04-03",
+      "category": "Commercial Law",
+      "subcategory": "Intellectual Property",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 97,
+      "amendments": [
+        {
+          "amending_law": "Law No. 240/2000 (Patent Law)",
+          "date": "2000-08-07",
+          "articles_affected": [],
+          "nature": "addition",
+          "summary": "Comprehensive patent protection law."
+        },
+        {
+          "amending_law": "Law No. 423/2002 (Copyright Amendment)",
+          "date": "2002-06-13",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "Updated copyright protections to align with international standards."
+        }
+      ],
+      "historical_context": "Lebanon's primary intellectual property legislation. Covers copyright, literary and artistic works, and neighboring rights. Lebanon is a member of the Berne Convention and TRIPS Agreement. Trademark protection is governed by separate legislation (Decree No. 2385 of 1924).",
+      "related_laws": [],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COM-005",
+      "official_number": "Law of December 4, 1967 (Consumer Protection - initial)",
+      "official_title_arabic": "قانون حماية المستهلك",
+      "official_title_french": "Loi sur la Protection du Consommateur",
+      "official_title_english": "Consumer Protection Law",
+      "date_enacted": "2005-02-04",
+      "date_effective": "2005-02-04",
+      "category": "Commercial Law",
+      "subcategory": "Consumer Protection",
+      "status": "active",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 74,
+      "amendments": [],
+      "historical_context": "Law No. 659/2005 established the consumer protection framework including product safety requirements, labeling, fair pricing, and established the Consumer Protection Directorate within the Ministry of Economy and Trade.",
+      "related_laws": [
+        {"law_id": "LB-COM-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-COM-006",
+      "official_number": "Law No. 2/1967 (Trade Marks and Unfair Competition)",
+      "official_title_arabic": "قانون العلامات الفارقة",
+      "official_title_french": "Arrêté No. 2385/1924 et lois subséquentes - Marques de fabrique et de commerce",
+      "official_title_english": "Trademarks, Trade Names and Unfair Competition",
+      "date_enacted": "1924-01-17",
+      "date_effective": "1924-01-17",
+      "category": "Commercial Law",
+      "subcategory": "Intellectual Property / Trademarks",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Legislative Decree",
+      "total_articles": 106,
+      "amendments": [],
+      "historical_context": "Originally enacted as Decree No. 2385 of January 17, 1924, during the French Mandate. One of the oldest continuously enforced laws in Lebanon. Governs trademark registration, protection, and enforcement. Lebanon maintains a first-to-use system rather than first-to-file.",
+      "related_laws": [
+        {"law_id": "LB-COM-004", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

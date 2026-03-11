@@ -1,0 +1,3999 @@
+{
+  "amendments_index": {
+    "metadata": {
+      "title": "Lebanese Legal Database - Comprehensive Amendments Index",
+      "version": "1.0",
+      "created_date": "2026-02-21",
+      "last_updated": "2026-02-21",
+      "compiled_by": "Lebanese Contemporary Law Expert System",
+      "description": "Cross-reference index of all amendments across the Lebanese legal database (1920-2026)",
+      "sources": [
+        "Lebanese Constitution",
+        "Civil Code",
+        "Penal Code",
+        "Commercial Code",
+        "Labor Laws",
+        "Tax Laws",
+        "Municipal/Administrative Laws",
+        "Personal Status Laws",
+        "Legislative Decrees",
+        "Recent Laws (2000-2026)"
+      ]
+    },
+    "total_amendments": 208,
+    "by_decade": {
+      "1920s": 7,
+      "1930s": 6,
+      "1940s": 14,
+      "1950s": 6,
+      "1960s": 15,
+      "1970s": 13,
+      "1980s": 15,
+      "1990s": 23,
+      "2000s": 30,
+      "2010s": 25,
+      "2020s": 52,
+      "unknown": 2
+    },
+    "most_amended_laws": [
+      {
+        "law": "Law 1/1946",
+        "amendment_count": 20
+      },
+      {
+        "law": "Law 13955/1963",
+        "amendment_count": 13
+      },
+      {
+        "law": "Constitution of 1926",
+        "amendment_count": 9
+      },
+      {
+        "law": "Legislative Decree 340/1943",
+        "amendment_count": 8
+      },
+      {
+        "law": "Law 328/2001",
+        "amendment_count": 8
+      },
+      {
+        "law": "Law 24/1968",
+        "amendment_count": 6
+      },
+      {
+        "law": "Decree-Law No. 144/1959",
+        "amendment_count": 6
+      },
+      {
+        "law": "Law 1/1956",
+        "amendment_count": 5
+      },
+      {
+        "law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "amendment_count": 5
+      },
+      {
+        "law": "Stamp Duty Law (Various Provisions)",
+        "amendment_count": 5
+      },
+      {
+        "law": "Legislative Decree 90/1983",
+        "amendment_count": 4
+      },
+      {
+        "law": "Legislative Decree No. 146/1959",
+        "amendment_count": 4
+      },
+      {
+        "law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "amendment_count": 4
+      },
+      {
+        "law": "Legislative Decree 304/1942",
+        "amendment_count": 3
+      },
+      {
+        "law": "Law No. 379/2001",
+        "amendment_count": 3
+      },
+      {
+        "law": "Law No. 296/2001 and Law No. 360",
+        "amendment_count": 3
+      },
+      {
+        "law": "Tax Procedures Law (Various Provisions)",
+        "amendment_count": 3
+      },
+      {
+        "law": "Decree-Law 118/1977",
+        "amendment_count": 3
+      },
+      {
+        "law": "Decree 10434/1975",
+        "amendment_count": 3
+      },
+      {
+        "law": "Law 49/1949",
+        "amendment_count": 3
+      }
+    ],
+    "chronological_list": [
+      {
+        "date": "1920-12-20",
+        "amending_law": "Decree 589/1920",
+        "target_law": "Decree 86/1920",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1920-12-30",
+        "amending_law": "Decree 601/1920",
+        "target_law": "Decree 86/1920",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1920-12-30",
+        "amending_law": "Decree 601/1920",
+        "target_law": "Decree 589/1920",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1923-03-02",
+        "amending_law": "Decree 1787/1923",
+        "target_law": "Decree 1647/1922",
+        "articles_affected": [
+          "Composition"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1926-05-31",
+        "amending_law": "Decree 5/1926",
+        "target_law": "Decree 336/1920",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1927-10-17",
+        "amending_law": "Constitutional Law of October 17, 1927",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Multiple articles - First major amendment"
+        ],
+        "nature": "major_modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1929-05-08",
+        "amending_law": "Constitutional Law of May 8, 1929",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Articles 28, 37, 49, 55, 69"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1930-02-03",
+        "amending_law": "Decree 6/1930",
+        "target_law": "Decision 3018/1925",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1930-01-01",
+        "amending_law": "Real Property Law 1930",
+        "target_law": "Decree Establishing Land Registry 1920",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1930-present",
+        "amending_law": "Various amendments",
+        "target_law": "Real Property Law 1930",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1932-present",
+        "amending_law": "Various amendments",
+        "target_law": "Code of Obligations and Contracts 1932",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1939-11-22",
+        "amending_law": "Decision 324 LR/1939",
+        "target_law": "Decision 178 L.R./1934",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1939-11-22",
+        "amending_law": "Decree 10/LE/1939",
+        "target_law": "Decree LR/55/1932",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1941-12-01",
+        "amending_law": "Decree 1941",
+        "target_law": "Decree 10/LE/1939",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1943-11-09",
+        "amending_law": "Constitutional Law of November 9, 1943",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Articles 1, 5, 11, 52, 90-92, 94, 95, 102"
+        ],
+        "nature": "independence_amendment",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1943-12-07",
+        "amending_law": "Constitutional Law of December 7, 1943",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Article 5"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1943-11-09",
+        "amending_law": "Constitutional Law 09/11/1943",
+        "target_law": "Constitution of May 23, 1926",
+        "articles_affected": [
+          "Articles 1, 5, 90-94"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1943-11-22",
+        "amending_law": "Independence 22/11/1943",
+        "target_law": "Decision 464/1943",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1943-11-22",
+        "amending_law": "Independence 22/11/1943",
+        "target_law": "Decision 465/1943",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1943-01-01",
+        "amending_law": "Lebanese Penal Code 1943",
+        "target_law": "Ottoman Penal Code (continued in force)",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1946-01-31",
+        "amending_law": "Law 31/1/1946",
+        "target_law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "articles_affected": [
+          "Various articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1946-01-31",
+        "amending_law": "Law 31/01/1946",
+        "target_law": "Resolution 2385/1924",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1947-01-21",
+        "amending_law": "Constitutional Law of January 21, 1947",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Articles 24, 25, 27, 30, 41, 42, 44, 49, 53, 60, 81, 85, 93, 95-100"
+        ],
+        "nature": "major_modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1947-01-21",
+        "amending_law": "Constitutional Law 21/01/1947",
+        "target_law": "Constitution of May 23, 1926",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1948-05-22",
+        "amending_law": "Constitutional Law of May 22, 1948",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Article 73"
+        ],
+        "nature": "exceptional_amendment",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1948-02-05",
+        "amending_law": "Law dated 5/2/1948",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Articles 3, 8, 11"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1949-04-14",
+        "amending_law": "Legislative Decree 15/1949",
+        "target_law": "Legislative Decree 126/1935",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1950-05-10",
+        "amending_law": "Law 10/05/1950",
+        "target_law": "Legislative Decree 6/1930",
+        "articles_affected": [
+          "Reconciliatory Courts"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1950-05-10",
+        "amending_law": "Law 10/05/1950",
+        "target_law": "Decision 324 L.R./1939",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1950-02-27",
+        "amending_law": "Law 61/1950",
+        "target_law": "Legislative Decree 126/1935",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1953-03-10",
+        "amending_law": "Decree 50/1953",
+        "target_law": "Decree 797/K/1944",
+        "articles_affected": [
+          "Organization"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1959",
+        "amending_law": "Decree No. 2827/1959",
+        "target_law": "Legislative Decree No. 146/1959",
+        "articles_affected": [
+          "Residency definition"
+        ],
+        "nature": "addition",
+        "category": "Tax"
+      },
+      {
+        "date": "1959",
+        "amending_law": "Decree 114/1959",
+        "target_law": "Decree-Law 112/1959",
+        "articles_affected": [
+          "Civil Service Board establishment"
+        ],
+        "nature": "addition",
+        "category": "Civil"
+      },
+      {
+        "date": "1960-03-05",
+        "amending_law": "Decree 3473 of March 5, 1960",
+        "target_law": "Law of February 24, 1948; amended by Law 58 of October 17, 2017",
+        "articles_affected": [
+          "Court organization"
+        ],
+        "nature": "Regulated Druze judiciary",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1961-10-16",
+        "amending_law": "Law 16/10/1961",
+        "target_law": "Legislative Decree 6/1930",
+        "articles_affected": [
+          "Single Judge System"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1962-09-17",
+        "amending_law": "Law of 17 September 1962",
+        "target_law": "Law 1/1946",
+        "articles_affected": [
+          "107",
+          "108"
+        ],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1962-07-16",
+        "amending_law": "Law of July 16, 1962",
+        "target_law": "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+        "articles_affected": [
+          "Court organization"
+        ],
+        "nature": "Regulated Sunni and Jaafari judiciaries",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1962-07-16",
+        "amending_law": "Law of July 16, 1962",
+        "target_law": "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence",
+        "articles_affected": [
+          "Court organization"
+        ],
+        "nature": "Regulated Sunni and Jaafari judiciaries",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1962-07-13",
+        "amending_law": "Law of July 13, 1962",
+        "target_law": "Law of February 22, 1949; Law of July 13, 1962",
+        "articles_affected": [
+          "Sheikh election procedures"
+        ],
+        "nature": "Regulated election of Jewish community Sheikh",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1962-07-16",
+        "amending_law": "Law 16/07/1962",
+        "target_law": "Legislative Decree 6/1930 (Articles on Religious Courts)",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1966-08-26",
+        "amending_law": "Law 48/1966",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1967-07-11",
+        "amending_law": "Decree Law 11/1967",
+        "target_law": "Legislative Decree 304/1942",
+        "articles_affected": [
+          "Article 40",
+          "Article 41"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "1967-05-16",
+        "amending_law": "Law 30/67",
+        "target_law": "Legislative Decree 304/1942",
+        "articles_affected": [
+          "Article 446"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "1967-01-01",
+        "amending_law": "Law 28/67",
+        "target_law": "Decree 13513/1963",
+        "articles_affected": [
+          "Various provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1967-12-19",
+        "amending_law": "Law 7244 of December 19, 1967",
+        "target_law": "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence",
+        "articles_affected": [
+          "Shiite community organization"
+        ],
+        "nature": "Established Supreme Shiite Islamic Council",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1968-05-04",
+        "amending_law": "Decree 9798/1968",
+        "target_law": "Legislative Decree 304/1942",
+        "articles_affected": [
+          "Article 37",
+          "Article 38"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "1968-05-04",
+        "amending_law": "Decree 9798/1968",
+        "target_law": "Part of Legislative Decree 304/1942 and related decrees",
+        "articles_affected": [
+          "Articles 37, 38"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "1968-05-04",
+        "amending_law": "Decree 9816/1968",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1971-01-22",
+        "amending_law": "Law 1/71",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1971-07-08",
+        "amending_law": "Decree 1460/1971",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1971-06-14",
+        "amending_law": "Law 39/1971",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1971-06-15",
+        "amending_law": "Law 41/1971",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1974-04-13",
+        "amending_law": "Decree 7607/1974",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1974-08-02",
+        "amending_law": "Decree 8496/1974",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1975-02-21",
+        "amending_law": "Law 75/6/1975",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Article 278"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1975-01-01",
+        "amending_law": "Law 1975 Amendment",
+        "target_law": "Law 1/1956",
+        "articles_affected": [
+          "Article 2"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1975-02-06",
+        "amending_law": "Decree 9640/1975",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1975-present",
+        "amending_law": "Various amendments",
+        "target_law": "Law 10434/1975",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1976-04-24",
+        "amending_law": "Constitutional Law of April 24, 1976",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Article 73"
+        ],
+        "nature": "temporary_emergency_amendment",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1977-06-30",
+        "amending_law": "Legislative Decree 110/1977",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Competence of military judiciary"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1977-06-27",
+        "amending_law": "Decree-Law 80/1977",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1980-04-07",
+        "amending_law": "Law 4/80",
+        "target_law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "articles_affected": [
+          "Fees provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1980-10-21",
+        "amending_law": "Decree 3572/1980",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1982",
+        "amending_law": "Law 24/1982",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1983-09-16",
+        "amending_law": "Legislative Decree 112/1983",
+        "target_law": "Law 90/1932",
+        "articles_affected": [
+          "Multiple articles on personal status"
+        ],
+        "nature": "modification",
+        "category": "Civil"
+      },
+      {
+        "date": "1983-09-16",
+        "amending_law": "Legislative Decree 112/1983",
+        "target_law": "Multiple Laws",
+        "articles_affected": [
+          "Personal status provisions"
+        ],
+        "nature": "modification",
+        "category": "Civil"
+      },
+      {
+        "date": "1983-09-16",
+        "amending_law": "Legislative Decree 112/1983",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Articles 29, 33, 35, 557"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1983-09-16",
+        "amending_law": "Legislative Decree 142/1983",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1983-05-19",
+        "amending_law": "Decree 603/1983",
+        "target_law": "Law 2/78",
+        "articles_affected": [
+          "All articles"
+        ],
+        "nature": "repeal",
+        "category": "Criminal"
+      },
+      {
+        "date": "1983-09-16",
+        "amending_law": "Legislative Decree 150/1983",
+        "target_law": "Legislative Decree 6/1930",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "repeal",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1983-present",
+        "amending_law": "Various amendments",
+        "target_law": "Legislative Decree 150/1983",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1987-01-06",
+        "amending_law": "Law 2/1987",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1987-05-02",
+        "amending_law": "Law 5/1987",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1989-10-22",
+        "amending_law": "Taif Agreement of 1989",
+        "target_law": "National Pact of 1943",
+        "articles_affected": [
+          "Confessional representation ratio modified from 6:5 to 1:1"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1989-09-21",
+        "amending_law": "Taif Agreement 1989",
+        "target_law": "Constitution of May 23, 1926",
+        "articles_affected": [
+          "Various"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1989-09-21",
+        "amending_law": "Taif Agreement 1989",
+        "target_law": "National Pact 1943 (Unwritten Agreement)",
+        "articles_affected": [
+          "All"
+        ],
+        "nature": "modification",
+        "category": "Legislative_Decree"
+      },
+      {
+        "date": "1990-09-21",
+        "amending_law": "Constitutional Law of September 21, 1990",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Preamble, Articles 17, 18, 19, 22, 24, 33, 44, 49, 51-58, 62, 64, 65, 69, 70-72, 77, 79, 80, 85, 86, 95"
+        ],
+        "nature": "Taif_implementation",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1990-09-21",
+        "amending_law": "Constitutional Law of September 21, 1990",
+        "target_law": "National Accord Document (Taif Agreement)",
+        "articles_affected": [
+          "Constitutional implementation of Taif provisions"
+        ],
+        "nature": "constitutional_implementation",
+        "category": "Constitutional"
+      },
+      {
+        "date": "1990",
+        "amending_law": "Code of Canons of Eastern Churches 1990",
+        "target_law": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990",
+        "articles_affected": [
+          "Canon 777 - spousal equality"
+        ],
+        "nature": "Introduced equality of rights and duties between spouses",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1990",
+        "amending_law": "Code of Canons of Eastern Churches 1990",
+        "target_law": "Law of February 22, 1949 - Shared Catholic Personal Status Law",
+        "articles_affected": [
+          "Spousal equality provisions"
+        ],
+        "nature": "Introduced equality between spouses",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1990-01-01",
+        "amending_law": "Code of Procedure January 1, 1990",
+        "target_law": "Law of February 22, 1949; Code of Procedure January 1, 1990",
+        "articles_affected": [
+          "Court procedures"
+        ],
+        "nature": "Updated court procedures",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "1991-09-07",
+        "amending_law": "Law 89/1991",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1991",
+        "amending_law": "Law 85/1991",
+        "target_law": "Law 49/1949",
+        "articles_affected": [
+          "Protection provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "1992-05-06",
+        "amending_law": "Law 148/1992",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Competence regarding security forces"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1993-12-30",
+        "amending_law": "Law 282/1993",
+        "target_law": "Decree 166/1933",
+        "articles_affected": [
+          "Property registration procedures"
+        ],
+        "nature": "modification",
+        "category": "Civil"
+      },
+      {
+        "date": "1993-05-27",
+        "amending_law": "Law 239/1993",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Articles 496, 500 bis, 297, 298, 299, 393, 399, 554, 555"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1993-05-13",
+        "amending_law": "Law 224/1993",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Article 500 bis (added)"
+        ],
+        "nature": "addition",
+        "category": "Criminal"
+      },
+      {
+        "date": "1993-05-27",
+        "amending_law": "Law 129/1993",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Article 555"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1993-10-06",
+        "amending_law": "Law 259/1993",
+        "target_law": "Decree 10434/1975",
+        "articles_affected": [
+          "Various articles"
+        ],
+        "nature": "modification",
+        "category": "Administrative"
+      },
+      {
+        "date": "1994-02-22",
+        "amending_law": "Law 29/1994",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Maritime jurisdiction"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1996-06-06",
+        "amending_law": "Law 515/1996",
+        "target_law": "Legislative Decree 90/1983",
+        "articles_affected": [
+          "Arbitration provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1996-06-06",
+        "amending_law": "Law 513/1996",
+        "target_law": "Legislative Decree 340/1943",
+        "articles_affected": [
+          "Article 17"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "1996-07-24",
+        "amending_law": "Law 536/1996",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "1996",
+        "amending_law": "Law 558/1996",
+        "target_law": "Law 49/1949",
+        "articles_affected": [
+          "Protected forests"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "1997-12-30",
+        "amending_law": "Law 665/1997",
+        "target_law": "Decree-Law 118/1977",
+        "articles_affected": [
+          "Article 9",
+          "Article 11",
+          "Article 18",
+          "Article 19",
+          "Article 68",
+          "Article 71"
+        ],
+        "nature": "modification",
+        "category": "Administrative"
+      },
+      {
+        "date": "1997-12-15",
+        "amending_law": "Law 665/1997",
+        "target_law": "Legislative Decree 118/1977",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1999-10-26",
+        "amending_law": "Law 159/1999",
+        "target_law": "Law 1/1956",
+        "articles_affected": [
+          "Article 7"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "1999-04-13",
+        "amending_law": "Law 75/99",
+        "target_law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "articles_affected": [
+          "Copyright provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "1999-06-14",
+        "amending_law": "Law 91/1999",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2000-12-14",
+        "amending_law": "Law 379/2000",
+        "target_law": "Legislative Decree 150/83",
+        "articles_affected": [
+          "Various articles on joint stock companies"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "2000-08-07",
+        "amending_law": "Law 240/2000",
+        "target_law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "articles_affected": [
+          "Patent provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2000-02-14",
+        "amending_law": "Law 173/2000",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2000-05-26",
+        "amending_law": "Law 207/2000",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2000-05-31",
+        "amending_law": "Law 227/2000",
+        "target_law": "Decree-Law 118/1977",
+        "articles_affected": [
+          "Administrative provisions"
+        ],
+        "nature": "modification",
+        "category": "Administrative"
+      },
+      {
+        "date": "2000-05-31",
+        "amending_law": "Law 227/2000",
+        "target_law": "Decree 10434/1975",
+        "articles_affected": [
+          "Administrative tribunals provisions"
+        ],
+        "nature": "modification",
+        "category": "Administrative"
+      },
+      {
+        "date": "2000",
+        "amending_law": "Law 195/2000",
+        "target_law": "Law 49/1949",
+        "articles_affected": [
+          "Penalties"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2001-08-16",
+        "amending_law": "Law 359/2001",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2001-04-03",
+        "amending_law": "Law 306/2001",
+        "target_law": "Law 24/1968",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Criminal"
+      },
+      {
+        "date": "2001-08-07",
+        "amending_law": "Law 327/2001",
+        "target_law": "Legislative Decree 150/83",
+        "articles_affected": [
+          "Articles on corporate governance"
+        ],
+        "nature": "modification",
+        "category": "Commercial"
+      },
+      {
+        "date": "2001-04-20",
+        "amending_law": "Law 318/2001 (AML Law)",
+        "target_law": "Law 1/1956",
+        "articles_affected": [
+          "General provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2001",
+        "amending_law": "Decree 4996/2001",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2001-04-20",
+        "amending_law": "Law 316/2001",
+        "target_law": "Decree-Law 118/1977",
+        "articles_affected": [
+          "Article 15"
+        ],
+        "nature": "addition",
+        "category": "Administrative"
+      },
+      {
+        "date": "2002-06-25",
+        "amending_law": "Law 459/2002",
+        "target_law": "Law 90/1932",
+        "articles_affected": [
+          "Articles related to commercial leases"
+        ],
+        "nature": "modification",
+        "category": "Civil"
+      },
+      {
+        "date": "2002",
+        "amending_law": "Decree 8641/2002",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2002",
+        "amending_law": "Decree 7352/2002",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2002",
+        "amending_law": "Decree 7352/2002",
+        "target_law": "Law 248/2000",
+        "articles_affected": [],
+        "nature": "implementation",
+        "category": "Other"
+      },
+      {
+        "date": "2002-06-06",
+        "amending_law": "Law 427 of June 6, 2002",
+        "target_law": "Law 449 of August 17, 1995; Law 450 of August 17, 1995",
+        "articles_affected": [
+          "Islamic Alawite Council election"
+        ],
+        "nature": "Amended election procedures for Islamic Alawite Council",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "2003-09-10",
+        "amending_law": "Renewed Law September 10, 2003",
+        "target_law": "Law of February 22, 1949; renewed September 10, 2003",
+        "articles_affected": [
+          "Various provisions"
+        ],
+        "nature": "Renewal and update of personal status code",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "2004-09-04",
+        "amending_law": "Constitutional Law No. 585 of September 4, 2004",
+        "target_law": "Constitution of 1926",
+        "articles_affected": [
+          "Article 49"
+        ],
+        "nature": "modification",
+        "category": "Constitutional"
+      },
+      {
+        "date": "2004",
+        "amending_law": "Decree 12394/2004",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2004",
+        "amending_law": "Decree 13684/2004",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2005-12-09",
+        "amending_law": "Law 711/2005",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2005",
+        "amending_law": "Decree 15874/2005",
+        "target_law": "Law 646/2004",
+        "articles_affected": [
+          "Implementation provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2006-11-11",
+        "amending_law": "Law 772/2006",
+        "target_law": "Legislative Decree 79/1983",
+        "articles_affected": [
+          "Commercial companies"
+        ],
+        "nature": "modification",
+        "category": "Civil"
+      },
+      {
+        "date": "2006",
+        "amending_law": "Law 753/2006",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2006-12-08",
+        "amending_law": "Law of December 8, 2006",
+        "target_law": "Law 58/1991",
+        "articles_affected": [
+          "Various articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2007",
+        "amending_law": "Decree 2007 amendments",
+        "target_law": "Law 646/2004",
+        "articles_affected": [
+          "Technical specifications"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2008-10-08",
+        "amending_law": "Law 25/2008",
+        "target_law": "Legislative Decree 118/1977",
+        "articles_affected": [
+          "Article 16"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2009",
+        "amending_law": "Decree 2188/2009",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2010-06-26",
+        "amending_law": "Law 111/2010",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2010-08-24",
+        "amending_law": "Law 129/2010",
+        "target_law": "Law 1/1946",
+        "articles_affected": [
+          "59"
+        ],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2010-08-17",
+        "amending_law": "Law 128/2010",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [
+          "9"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2011-08-24",
+        "amending_law": "Law 164/2011",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2011",
+        "amending_law": "Law No. 177 of 2011",
+        "target_law": "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+        "articles_affected": [
+          "Custody age provisions"
+        ],
+        "nature": "Raised maternal custody age to 12 for boys and 14 for girls",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "2012",
+        "amending_law": "Decree 8633/2012",
+        "target_law": "Law 444/2002",
+        "articles_affected": [
+          "EIA procedures"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2012",
+        "amending_law": "Decree 8213/2012",
+        "target_law": "Law 444/2002",
+        "articles_affected": [
+          "SEA procedures"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2014-04-15",
+        "amending_law": "Law 251/2014",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2014-04-15",
+        "amending_law": "Law 267/2014",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2015-11-11",
+        "amending_law": "Law 44/2015",
+        "target_law": "Law 1/1956",
+        "articles_affected": [
+          "Law 318/2001 provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2015-11-11",
+        "amending_law": "Law 44/2015",
+        "target_law": "Law 318/2001 amended by Law 44/2015",
+        "articles_affected": [
+          "Various provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2016-06-30",
+        "amending_law": "Decree 3791/2016",
+        "target_law": "Decree 7426/2012",
+        "articles_affected": [
+          "Article 3(3)"
+        ],
+        "nature": "repeal",
+        "category": "Labor"
+      },
+      {
+        "date": "2016",
+        "amending_law": "Law No. 44/2016",
+        "target_law": "Legislative Decree No. 146/1959",
+        "articles_affected": [
+          "Residency definition"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2017-10-20",
+        "amending_law": "Law 65/2017",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2017-08-21",
+        "amending_law": "Law 46/2017",
+        "target_law": "Decree-Law 112/1959",
+        "articles_affected": [
+          "Salary scale"
+        ],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2017-10-26",
+        "amending_law": "Law No. 64/2017",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Article 63"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2017-10-26",
+        "amending_law": "Law of 26 October 2017",
+        "target_law": "Law No. 296/2001 and Law No. 360",
+        "articles_affected": [
+          "Registration fee structure"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2017-10-17",
+        "amending_law": "Law 58 of October 17, 2017",
+        "target_law": "Law of February 24, 1948; amended by Law 58 of October 17, 2017",
+        "articles_affected": [
+          "Articles 2, 3, 4, 5, 6, 8, 15, 24, 47, 157"
+        ],
+        "nature": "Major reform: raised custody age, minimum marriage age, damages for adultery, women's inheritance rights",
+        "category": "Personal_Status"
+      },
+      {
+        "date": "2017-06-17",
+        "amending_law": "Law 44/2017",
+        "target_law": "Law 25/2008",
+        "articles_affected": [
+          "All articles"
+        ],
+        "nature": "repeal",
+        "category": "Other"
+      },
+      {
+        "date": "2018-10-18",
+        "amending_law": "Law 82/2018",
+        "target_law": "Legislative Decree 90/1983",
+        "articles_affected": [
+          "Judicial mediation provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2018-10-10",
+        "amending_law": "Law 81/2018",
+        "target_law": "Law 659/2005 and Law 81/2018 (E-Commerce provisions)",
+        "articles_affected": [
+          "E-commerce provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2018",
+        "amending_law": "Budget Law 2018",
+        "target_law": "Law No. 296/2001 and Law No. 360",
+        "articles_affected": [
+          "Residential registration fees"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2019-07-31",
+        "amending_law": "Law 144/2019",
+        "target_law": "Law 1/1946",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2019",
+        "amending_law": "Budget Law 2019 (Law No. 144)",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Interest taxation provisions"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2019",
+        "amending_law": "Law 144/2019",
+        "target_law": "Decree 10434/1975",
+        "articles_affected": [
+          "Article 65"
+        ],
+        "nature": "modification",
+        "category": "Administrative"
+      },
+      {
+        "date": "2020-10-16",
+        "amending_law": "Law 191/2020",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2020",
+        "amending_law": "Law 210/2020",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2020-06-12",
+        "amending_law": "Law 182/2020",
+        "target_law": "Law 83/2018",
+        "articles_affected": [
+          "Article 9"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2020-09-21",
+        "amending_law": "Law 204/2020",
+        "target_law": "Law 293/2014",
+        "articles_affected": [
+          "Articles on economic/psychological violence"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2020-01-18",
+        "amending_law": "MoF Decision 18/1/2020",
+        "target_law": "Decree 167/2017",
+        "articles_affected": [],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2021-10-19",
+        "amending_law": "Law (Amendment) 2021",
+        "target_law": "Law 44/2017",
+        "articles_affected": [
+          "Articles on diaspora voting"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2021-07-19",
+        "amending_law": "Law 233/2021",
+        "target_law": "Law 28/2017",
+        "articles_affected": [
+          "Article 1",
+          "Article on religious courts"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2021-01-35",
+        "amending_law": "MoF Decision 35/1/2021",
+        "target_law": "Decree 167/2017",
+        "articles_affected": [],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2022-04-12",
+        "amending_law": "Law 286/2022",
+        "target_law": "Legislative Decree 90/1983",
+        "articles_affected": [
+          "Conventional mediation provisions"
+        ],
+        "nature": "addition",
+        "category": "Other"
+      },
+      {
+        "date": "2022",
+        "amending_law": "Law 263/2022",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2022-08-18",
+        "amending_law": "Decree 9849/2022",
+        "target_law": "Decree 8740/2022",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Labor"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Articles on salary tax brackets",
+          "Non-resident tax provisions"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+        "target_law": "Decree No. 283/1959",
+        "articles_affected": [
+          "Tax brackets"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+        "target_law": "Legislative Decree No. 146/1959",
+        "articles_affected": [
+          "Article 56"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022",
+        "target_law": "Stamp Duty Law (Various Provisions)",
+        "articles_affected": [
+          "Fixed stamp duty provisions"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022",
+        "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "articles_affected": [
+          "Non-resident tax filing"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022",
+        "target_law": "Decree-Law No. 45/1983",
+        "articles_affected": [
+          "Tax cap provisions"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-11-15",
+        "amending_law": "Budget Law 2022",
+        "target_law": "Decree-Law No. 46/1983",
+        "articles_affected": [
+          "Lump-sum tax amount"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2022-02-15",
+        "amending_law": "Budget Law 10/2022 Article 95",
+        "target_law": "Budget Law 79/2018 Article 55",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2023-12-19",
+        "amending_law": "Law 321/2023",
+        "target_law": "Law 328/2001",
+        "articles_affected": [
+          "Multiple articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2023",
+        "amending_law": "Decree 12773/2023",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2023-12-28",
+        "amending_law": "Law 319/2023",
+        "target_law": "Law 13955/1963",
+        "articles_affected": [
+          "EOSI provisions"
+        ],
+        "nature": "major_reform",
+        "category": "Other"
+      },
+      {
+        "date": "2023-04-27",
+        "amending_law": "Decree No. 11230/2023",
+        "target_law": "Law No. 379/2001",
+        "articles_affected": [
+          "Article 18"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2023-11-23",
+        "amending_law": "MoF Decision No. 684/2023",
+        "target_law": "Stamp Duty Law (Various Provisions)",
+        "articles_affected": [
+          "Exchange rate for calculation"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2023-05-15",
+        "amending_law": "MoF Decision No. 322/2023",
+        "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "articles_affected": [
+          "Foreign movable assets taxation"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2023-05-15",
+        "amending_law": "MoF Decision No. 323/2023",
+        "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "articles_affected": [
+          "Shares disposal taxation"
+        ],
+        "nature": "addition",
+        "category": "Tax"
+      },
+      {
+        "date": "2024",
+        "amending_law": "Law 2024 Amendment",
+        "target_law": "Legislative Decree 90/1983",
+        "articles_affected": [
+          "Multiple procedural articles"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2024-02-15",
+        "amending_law": "Law 324/2024",
+        "target_law": "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000",
+        "articles_affected": [
+          "Article 32 - Trademark duration"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2024-02-12",
+        "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Non-resident WHT rates"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Law No. 330/2024",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Article 45",
+          "Fixed asset revaluation"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-09-05",
+        "amending_law": "MoF Decision No. 959/2024",
+        "target_law": "Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Salary tax implementation"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024",
+        "amending_law": "Budget Law 2024",
+        "target_law": "Law No. 379/2001",
+        "articles_affected": [
+          "VAT registration thresholds"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Decree No. 328/2024",
+        "target_law": "Law No. 379/2001",
+        "articles_affected": [
+          "Fines and penalties"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-02-12",
+        "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+        "target_law": "Decree No. 283/1959",
+        "articles_affected": [
+          "Tax brackets"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-02-12",
+        "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+        "target_law": "Stamp Duty Law (Various Provisions)",
+        "articles_affected": [
+          "Fixed stamp duty amounts"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Law No. 330/2024",
+        "target_law": "Law No. 296/2001 and Law No. 360",
+        "articles_affected": [
+          "Capital gains on real estate"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-02-12",
+        "amending_law": "Budget Law 2024",
+        "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "articles_affected": [
+          "Non-resident WHT rates"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Law No. 328/2024",
+        "target_law": "Tax Procedures Law (Various Provisions)",
+        "articles_affected": [
+          "Deadlines suspension"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Law No. 330/2024",
+        "target_law": "Part of Decree-Law No. 144/1959 (as amended)",
+        "articles_affected": [
+          "Article 45"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2024-12-05",
+        "amending_law": "Law No. 330/2024",
+        "target_law": "Part of Decree-Law No. 144/1959 (as amended)",
+        "articles_affected": [
+          "Real estate capital gains"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025-04-24",
+        "amending_law": "Law 1/2025",
+        "target_law": "Law 1/1956",
+        "articles_affected": [
+          "Core banking secrecy provisions"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2025-06-19",
+        "amending_law": "Decree 422/2025",
+        "target_law": "Decree 12773/2023",
+        "articles_affected": [
+          "68(2)"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2025-06-19",
+        "amending_law": "Decree 422/2025",
+        "target_law": "Decree 1965 (Family Allowances)",
+        "articles_affected": [],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2025",
+        "amending_law": "Budget Law 2025",
+        "target_law": "Legislative Decree No. 146/1959",
+        "articles_affected": [
+          "Exemption thresholds"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025",
+        "amending_law": "Budget Law 2025",
+        "target_law": "Stamp Duty Law (Various Provisions)",
+        "articles_affected": [
+          "Governmental receipts"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025-08-01",
+        "amending_law": "MoF Notification No. 2665/1/2025",
+        "target_law": "Stamp Duty Law (Various Provisions)",
+        "articles_affected": [
+          "Filing procedures"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025-08-01",
+        "amending_law": "MoF Notification No. 2665/1/2025",
+        "target_law": "Tax Procedures Law (Various Provisions)",
+        "articles_affected": [
+          "Electronic filing"
+        ],
+        "nature": "addition",
+        "category": "Tax"
+      },
+      {
+        "date": "2025-12-24",
+        "amending_law": "MoF Notification No. 4913/2025",
+        "target_law": "Tax Procedures Law (Various Provisions)",
+        "articles_affected": [
+          "Deemed profit method transition"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025-12-24",
+        "amending_law": "MoF Notification No. 4913/2025",
+        "target_law": "Part of Decree-Law No. 144/1959",
+        "articles_affected": [
+          "Transition to lump-sum method"
+        ],
+        "nature": "modification",
+        "category": "Tax"
+      },
+      {
+        "date": "2025",
+        "amending_law": "Proposed amendment to Article 28",
+        "target_law": "Law 80/2018",
+        "articles_affected": [
+          "Article 28"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2025-04-24",
+        "amending_law": "Law 1/2025",
+        "target_law": "Law 306/2022",
+        "articles_affected": [
+          "Article 150",
+          "Article 7"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      },
+      {
+        "date": "2025-05-16",
+        "amending_law": "Law 22/2025",
+        "target_law": "Labor Law Amendment 2000",
+        "articles_affected": [
+          "Article 1",
+          "Article 2",
+          "Article 12"
+        ],
+        "nature": "modification",
+        "category": "Other"
+      }
+    ],
+    "by_category": {
+      "Constitutional": [
+        {
+          "date": "1927-10-17",
+          "amending_law": "Constitutional Law of October 17, 1927",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Multiple articles - First major amendment"
+          ],
+          "nature": "major_modification"
+        },
+        {
+          "date": "1929-05-08",
+          "amending_law": "Constitutional Law of May 8, 1929",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Articles 28, 37, 49, 55, 69"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1943-11-09",
+          "amending_law": "Constitutional Law of November 9, 1943",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Articles 1, 5, 11, 52, 90-92, 94, 95, 102"
+          ],
+          "nature": "independence_amendment"
+        },
+        {
+          "date": "1943-12-07",
+          "amending_law": "Constitutional Law of December 7, 1943",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Article 5"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1947-01-21",
+          "amending_law": "Constitutional Law of January 21, 1947",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Articles 24, 25, 27, 30, 41, 42, 44, 49, 53, 60, 81, 85, 93, 95-100"
+          ],
+          "nature": "major_modification"
+        },
+        {
+          "date": "1948-05-22",
+          "amending_law": "Constitutional Law of May 22, 1948",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Article 73"
+          ],
+          "nature": "exceptional_amendment"
+        },
+        {
+          "date": "1976-04-24",
+          "amending_law": "Constitutional Law of April 24, 1976",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Article 73"
+          ],
+          "nature": "temporary_emergency_amendment"
+        },
+        {
+          "date": "1990-09-21",
+          "amending_law": "Constitutional Law of September 21, 1990",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Preamble, Articles 17, 18, 19, 22, 24, 33, 44, 49, 51-58, 62, 64, 65, 69, 70-72, 77, 79, 80, 85, 86, 95"
+          ],
+          "nature": "Taif_implementation"
+        },
+        {
+          "date": "2004-09-04",
+          "amending_law": "Constitutional Law No. 585 of September 4, 2004",
+          "target_law": "Constitution of 1926",
+          "articles_affected": [
+            "Article 49"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1989-10-22",
+          "amending_law": "Taif Agreement of 1989",
+          "target_law": "National Pact of 1943",
+          "articles_affected": [
+            "Confessional representation ratio modified from 6:5 to 1:1"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1990-09-21",
+          "amending_law": "Constitutional Law of September 21, 1990",
+          "target_law": "National Accord Document (Taif Agreement)",
+          "articles_affected": [
+            "Constitutional implementation of Taif provisions"
+          ],
+          "nature": "constitutional_implementation"
+        },
+        {
+          "date": "1943-11-09",
+          "amending_law": "Constitutional Law 09/11/1943",
+          "target_law": "Constitution of May 23, 1926",
+          "articles_affected": [
+            "Articles 1, 5, 90-94"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1947-01-21",
+          "amending_law": "Constitutional Law 21/01/1947",
+          "target_law": "Constitution of May 23, 1926",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1989-09-21",
+          "amending_law": "Taif Agreement 1989",
+          "target_law": "Constitution of May 23, 1926",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "Civil": [
+        {
+          "date": "1983-09-16",
+          "amending_law": "Legislative Decree 112/1983",
+          "target_law": "Law 90/1932",
+          "articles_affected": [
+            "Multiple articles on personal status"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2002-06-25",
+          "amending_law": "Law 459/2002",
+          "target_law": "Law 90/1932",
+          "articles_affected": [
+            "Articles related to commercial leases"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1993-12-30",
+          "amending_law": "Law 282/1993",
+          "target_law": "Decree 166/1933",
+          "articles_affected": [
+            "Property registration procedures"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2006-11-11",
+          "amending_law": "Law 772/2006",
+          "target_law": "Legislative Decree 79/1983",
+          "articles_affected": [
+            "Commercial companies"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-09-16",
+          "amending_law": "Legislative Decree 112/1983",
+          "target_law": "Multiple Laws",
+          "articles_affected": [
+            "Personal status provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1959",
+          "amending_law": "Decree 114/1959",
+          "target_law": "Decree-Law 112/1959",
+          "articles_affected": [
+            "Civil Service Board establishment"
+          ],
+          "nature": "addition"
+        }
+      ],
+      "Criminal": [
+        {
+          "date": "1948-02-05",
+          "amending_law": "Law dated 5/2/1948",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Articles 3, 8, 11"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-09-16",
+          "amending_law": "Legislative Decree 112/1983",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Articles 29, 33, 35, 557"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1975-02-21",
+          "amending_law": "Law 75/6/1975",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Article 278"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1993-05-27",
+          "amending_law": "Law 239/1993",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Articles 496, 500 bis, 297, 298, 299, 393, 399, 554, 555"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1993-05-13",
+          "amending_law": "Law 224/1993",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Article 500 bis (added)"
+          ],
+          "nature": "addition"
+        },
+        {
+          "date": "1993-05-27",
+          "amending_law": "Law 129/1993",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Article 555"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1996-06-06",
+          "amending_law": "Law 513/1996",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Article 17"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1994-02-22",
+          "amending_law": "Law 29/1994",
+          "target_law": "Legislative Decree 340/1943",
+          "articles_affected": [
+            "Maritime jurisdiction"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1971-01-22",
+          "amending_law": "Law 1/71",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1971-07-08",
+          "amending_law": "Decree 1460/1971",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-09-16",
+          "amending_law": "Legislative Decree 142/1983",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2001-04-03",
+          "amending_law": "Law 306/2001",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1977-06-30",
+          "amending_law": "Legislative Decree 110/1977",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Competence of military judiciary"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1992-05-06",
+          "amending_law": "Law 148/1992",
+          "target_law": "Law 24/1968",
+          "articles_affected": [
+            "Competence regarding security forces"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-05-19",
+          "amending_law": "Decree 603/1983",
+          "target_law": "Law 2/78",
+          "articles_affected": [
+            "All articles"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "Commercial": [
+        {
+          "date": "1967-07-11",
+          "amending_law": "Decree Law 11/1967",
+          "target_law": "Legislative Decree 304/1942",
+          "articles_affected": [
+            "Article 40",
+            "Article 41"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1968-05-04",
+          "amending_law": "Decree 9798/1968",
+          "target_law": "Legislative Decree 304/1942",
+          "articles_affected": [
+            "Article 37",
+            "Article 38"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1967-05-16",
+          "amending_law": "Law 30/67",
+          "target_law": "Legislative Decree 304/1942",
+          "articles_affected": [
+            "Article 446"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2000-12-14",
+          "amending_law": "Law 379/2000",
+          "target_law": "Legislative Decree 150/83",
+          "articles_affected": [
+            "Various articles on joint stock companies"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2001-08-07",
+          "amending_law": "Law 327/2001",
+          "target_law": "Legislative Decree 150/83",
+          "articles_affected": [
+            "Articles on corporate governance"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1968-05-04",
+          "amending_law": "Decree 9798/1968",
+          "target_law": "Part of Legislative Decree 304/1942 and related decrees",
+          "articles_affected": [
+            "Articles 37, 38"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "Labor": [
+        {
+          "date": "1962-09-17",
+          "amending_law": "Law of 17 September 1962",
+          "target_law": "Law 1/1946",
+          "articles_affected": [
+            "107",
+            "108"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1966-08-26",
+          "amending_law": "Law 48/1966",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1968-05-04",
+          "amending_law": "Decree 9816/1968",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1971-06-14",
+          "amending_law": "Law 39/1971",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1971-06-15",
+          "amending_law": "Law 41/1971",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1974-04-13",
+          "amending_law": "Decree 7607/1974",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1974-08-02",
+          "amending_law": "Decree 8496/1974",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1975-02-06",
+          "amending_law": "Decree 9640/1975",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1977-06-27",
+          "amending_law": "Decree-Law 80/1977",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1980-10-21",
+          "amending_law": "Decree 3572/1980",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1987-01-06",
+          "amending_law": "Law 2/1987",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1987-05-02",
+          "amending_law": "Law 5/1987",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1991-09-07",
+          "amending_law": "Law 89/1991",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1996-07-24",
+          "amending_law": "Law 536/1996",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "1999-06-14",
+          "amending_law": "Law 91/1999",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "2000-02-14",
+          "amending_law": "Law 173/2000",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "2000-05-26",
+          "amending_law": "Law 207/2000",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "2010-08-24",
+          "amending_law": "Law 129/2010",
+          "target_law": "Law 1/1946",
+          "articles_affected": [
+            "59"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2014-04-15",
+          "amending_law": "Law 267/2014",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "2019-07-31",
+          "amending_law": "Law 144/2019",
+          "target_law": "Law 1/1946",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "date": "2016-06-30",
+          "amending_law": "Decree 3791/2016",
+          "target_law": "Decree 7426/2012",
+          "articles_affected": [
+            "Article 3(3)"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "2017-08-21",
+          "amending_law": "Law 46/2017",
+          "target_law": "Decree-Law 112/1959",
+          "articles_affected": [
+            "Salary scale"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-08-18",
+          "amending_law": "Decree 9849/2022",
+          "target_law": "Decree 8740/2022",
+          "articles_affected": [],
+          "nature": "modification"
+        }
+      ],
+      "Tax": [
+        {
+          "date": "2017-10-26",
+          "amending_law": "Law No. 64/2017",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Article 63"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2019",
+          "amending_law": "Budget Law 2019 (Law No. 144)",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Interest taxation provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Articles on salary tax brackets",
+            "Non-resident tax provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-02-12",
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Non-resident WHT rates"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Law No. 330/2024",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Article 45",
+            "Fixed asset revaluation"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-09-05",
+          "amending_law": "MoF Decision No. 959/2024",
+          "target_law": "Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Salary tax implementation"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2023-04-27",
+          "amending_law": "Decree No. 11230/2023",
+          "target_law": "Law No. 379/2001",
+          "articles_affected": [
+            "Article 18"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024",
+          "amending_law": "Budget Law 2024",
+          "target_law": "Law No. 379/2001",
+          "articles_affected": [
+            "VAT registration thresholds"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Decree No. 328/2024",
+          "target_law": "Law No. 379/2001",
+          "articles_affected": [
+            "Fines and penalties"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "target_law": "Decree No. 283/1959",
+          "articles_affected": [
+            "Tax brackets"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-02-12",
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "target_law": "Decree No. 283/1959",
+          "articles_affected": [
+            "Tax brackets"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1959",
+          "amending_law": "Decree No. 2827/1959",
+          "target_law": "Legislative Decree No. 146/1959",
+          "articles_affected": [
+            "Residency definition"
+          ],
+          "nature": "addition"
+        },
+        {
+          "date": "2016",
+          "amending_law": "Law No. 44/2016",
+          "target_law": "Legislative Decree No. 146/1959",
+          "articles_affected": [
+            "Residency definition"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022 (Law No. 10/2022)",
+          "target_law": "Legislative Decree No. 146/1959",
+          "articles_affected": [
+            "Article 56"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2025",
+          "amending_law": "Budget Law 2025",
+          "target_law": "Legislative Decree No. 146/1959",
+          "articles_affected": [
+            "Exemption thresholds"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "Annual",
+          "amending_law": "Various Budget Laws",
+          "target_law": "Customs Law (Consolidated)",
+          "articles_affected": [
+            "Customs tariff rates"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022",
+          "target_law": "Stamp Duty Law (Various Provisions)",
+          "articles_affected": [
+            "Fixed stamp duty provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2023-11-23",
+          "amending_law": "MoF Decision No. 684/2023",
+          "target_law": "Stamp Duty Law (Various Provisions)",
+          "articles_affected": [
+            "Exchange rate for calculation"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-02-12",
+          "amending_law": "Budget Law 2024 (Law No. 324/2024)",
+          "target_law": "Stamp Duty Law (Various Provisions)",
+          "articles_affected": [
+            "Fixed stamp duty amounts"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2025",
+          "amending_law": "Budget Law 2025",
+          "target_law": "Stamp Duty Law (Various Provisions)",
+          "articles_affected": [
+            "Governmental receipts"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2025-08-01",
+          "amending_law": "MoF Notification No. 2665/1/2025",
+          "target_law": "Stamp Duty Law (Various Provisions)",
+          "articles_affected": [
+            "Filing procedures"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2017-10-26",
+          "amending_law": "Law of 26 October 2017",
+          "target_law": "Law No. 296/2001 and Law No. 360",
+          "articles_affected": [
+            "Registration fee structure"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2018",
+          "amending_law": "Budget Law 2018",
+          "target_law": "Law No. 296/2001 and Law No. 360",
+          "articles_affected": [
+            "Residential registration fees"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Law No. 330/2024",
+          "target_law": "Law No. 296/2001 and Law No. 360",
+          "articles_affected": [
+            "Capital gains on real estate"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "Annual",
+          "amending_law": "Annual Budget Laws",
+          "target_law": "Various Provisions in Budget Laws",
+          "articles_affected": [
+            "Excise tax rates"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022",
+          "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+          "articles_affected": [
+            "Non-resident tax filing"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-02-12",
+          "amending_law": "Budget Law 2024",
+          "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+          "articles_affected": [
+            "Non-resident WHT rates"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2023-05-15",
+          "amending_law": "MoF Decision No. 322/2023",
+          "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+          "articles_affected": [
+            "Foreign movable assets taxation"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2023-05-15",
+          "amending_law": "MoF Decision No. 323/2023",
+          "target_law": "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+          "articles_affected": [
+            "Shares disposal taxation"
+          ],
+          "nature": "addition"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Law No. 328/2024",
+          "target_law": "Tax Procedures Law (Various Provisions)",
+          "articles_affected": [
+            "Deadlines suspension"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2025-08-01",
+          "amending_law": "MoF Notification No. 2665/1/2025",
+          "target_law": "Tax Procedures Law (Various Provisions)",
+          "articles_affected": [
+            "Electronic filing"
+          ],
+          "nature": "addition"
+        },
+        {
+          "date": "2025-12-24",
+          "amending_law": "MoF Notification No. 4913/2025",
+          "target_law": "Tax Procedures Law (Various Provisions)",
+          "articles_affected": [
+            "Deemed profit method transition"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022",
+          "target_law": "Decree-Law No. 45/1983",
+          "articles_affected": [
+            "Tax cap provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2022-11-15",
+          "amending_law": "Budget Law 2022",
+          "target_law": "Decree-Law No. 46/1983",
+          "articles_affected": [
+            "Lump-sum tax amount"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Law No. 330/2024",
+          "target_law": "Part of Decree-Law No. 144/1959 (as amended)",
+          "articles_affected": [
+            "Article 45"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2024-12-05",
+          "amending_law": "Law No. 330/2024",
+          "target_law": "Part of Decree-Law No. 144/1959 (as amended)",
+          "articles_affected": [
+            "Real estate capital gains"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2025-12-24",
+          "amending_law": "MoF Notification No. 4913/2025",
+          "target_law": "Part of Decree-Law No. 144/1959",
+          "articles_affected": [
+            "Transition to lump-sum method"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "Administrative": [
+        {
+          "date": "1997-12-30",
+          "amending_law": "Law 665/1997",
+          "target_law": "Decree-Law 118/1977",
+          "articles_affected": [
+            "Article 9",
+            "Article 11",
+            "Article 18",
+            "Article 19",
+            "Article 68",
+            "Article 71"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2001-04-20",
+          "amending_law": "Law 316/2001",
+          "target_law": "Decree-Law 118/1977",
+          "articles_affected": [
+            "Article 15"
+          ],
+          "nature": "addition"
+        },
+        {
+          "date": "2000-05-31",
+          "amending_law": "Law 227/2000",
+          "target_law": "Decree-Law 118/1977",
+          "articles_affected": [
+            "Administrative provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2000-05-31",
+          "amending_law": "Law 227/2000",
+          "target_law": "Decree 10434/1975",
+          "articles_affected": [
+            "Administrative tribunals provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1993-10-06",
+          "amending_law": "Law 259/1993",
+          "target_law": "Decree 10434/1975",
+          "articles_affected": [
+            "Various articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "2019",
+          "amending_law": "Law 144/2019",
+          "target_law": "Decree 10434/1975",
+          "articles_affected": [
+            "Article 65"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "Personal_Status": [
+        {
+          "date": "2011",
+          "amending_law": "Law No. 177 of 2011",
+          "target_law": "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+          "articles_affected": [
+            "Custody age provisions"
+          ],
+          "nature": "Raised maternal custody age to 12 for boys and 14 for girls"
+        },
+        {
+          "date": "1962-07-16",
+          "amending_law": "Law of July 16, 1962",
+          "target_law": "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Sunni and Jaafari judiciaries"
+        },
+        {
+          "date": "1962-07-16",
+          "amending_law": "Law of July 16, 1962",
+          "target_law": "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Sunni and Jaafari judiciaries"
+        },
+        {
+          "date": "1967-12-19",
+          "amending_law": "Law 7244 of December 19, 1967",
+          "target_law": "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence",
+          "articles_affected": [
+            "Shiite community organization"
+          ],
+          "nature": "Established Supreme Shiite Islamic Council"
+        },
+        {
+          "date": "2017-10-17",
+          "amending_law": "Law 58 of October 17, 2017",
+          "target_law": "Law of February 24, 1948; amended by Law 58 of October 17, 2017",
+          "articles_affected": [
+            "Articles 2, 3, 4, 5, 6, 8, 15, 24, 47, 157"
+          ],
+          "nature": "Major reform: raised custody age, minimum marriage age, damages for adultery, women's inheritance rights"
+        },
+        {
+          "date": "1960-03-05",
+          "amending_law": "Decree 3473 of March 5, 1960",
+          "target_law": "Law of February 24, 1948; amended by Law 58 of October 17, 2017",
+          "articles_affected": [
+            "Court organization"
+          ],
+          "nature": "Regulated Druze judiciary"
+        },
+        {
+          "date": "1990",
+          "amending_law": "Code of Canons of Eastern Churches 1990",
+          "target_law": "Law of February 22, 1949; Code of Canons of Eastern Churches 1990",
+          "articles_affected": [
+            "Canon 777 - spousal equality"
+          ],
+          "nature": "Introduced equality of rights and duties between spouses"
+        },
+        {
+          "date": "1990",
+          "amending_law": "Code of Canons of Eastern Churches 1990",
+          "target_law": "Law of February 22, 1949 - Shared Catholic Personal Status Law",
+          "articles_affected": [
+            "Spousal equality provisions"
+          ],
+          "nature": "Introduced equality between spouses"
+        },
+        {
+          "date": "1990-01-01",
+          "amending_law": "Code of Procedure January 1, 1990",
+          "target_law": "Law of February 22, 1949; Code of Procedure January 1, 1990",
+          "articles_affected": [
+            "Court procedures"
+          ],
+          "nature": "Updated court procedures"
+        },
+        {
+          "date": "2003-09-10",
+          "amending_law": "Renewed Law September 10, 2003",
+          "target_law": "Law of February 22, 1949; renewed September 10, 2003",
+          "articles_affected": [
+            "Various provisions"
+          ],
+          "nature": "Renewal and update of personal status code"
+        },
+        {
+          "date": "1962-07-13",
+          "amending_law": "Law of July 13, 1962",
+          "target_law": "Law of February 22, 1949; Law of July 13, 1962",
+          "articles_affected": [
+            "Sheikh election procedures"
+          ],
+          "nature": "Regulated election of Jewish community Sheikh"
+        },
+        {
+          "date": "2002-06-06",
+          "amending_law": "Law 427 of June 6, 2002",
+          "target_law": "Law 449 of August 17, 1995; Law 450 of August 17, 1995",
+          "articles_affected": [
+            "Islamic Alawite Council election"
+          ],
+          "nature": "Amended election procedures for Islamic Alawite Council"
+        }
+      ],
+      "Legislative_Decree": [
+        {
+          "date": "1926-05-31",
+          "amending_law": "Decree 5/1926",
+          "target_law": "Decree 336/1920",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1920-12-20",
+          "amending_law": "Decree 589/1920",
+          "target_law": "Decree 86/1920",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1920-12-30",
+          "amending_law": "Decree 601/1920",
+          "target_law": "Decree 86/1920",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1920-12-30",
+          "amending_law": "Decree 601/1920",
+          "target_law": "Decree 589/1920",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1923-03-02",
+          "amending_law": "Decree 1787/1923",
+          "target_law": "Decree 1647/1922",
+          "articles_affected": [
+            "Composition"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1930-02-03",
+          "amending_law": "Decree 6/1930",
+          "target_law": "Decision 3018/1925",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1950-05-10",
+          "amending_law": "Law 10/05/1950",
+          "target_law": "Legislative Decree 6/1930",
+          "articles_affected": [
+            "Reconciliatory Courts"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1961-10-16",
+          "amending_law": "Law 16/10/1961",
+          "target_law": "Legislative Decree 6/1930",
+          "articles_affected": [
+            "Single Judge System"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-09-16",
+          "amending_law": "Legislative Decree 150/1983",
+          "target_law": "Legislative Decree 6/1930",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1939-11-22",
+          "amending_law": "Decision 324 LR/1939",
+          "target_law": "Decision 178 L.R./1934",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1939-11-22",
+          "amending_law": "Decree 10/LE/1939",
+          "target_law": "Decree LR/55/1932",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1941-12-01",
+          "amending_law": "Decree 1941",
+          "target_law": "Decree 10/LE/1939",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1950-05-10",
+          "amending_law": "Law 10/05/1950",
+          "target_law": "Decision 324 L.R./1939",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1932-present",
+          "amending_law": "Various amendments",
+          "target_law": "Code of Obligations and Contracts 1932",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1946-01-31",
+          "amending_law": "Law 31/01/1946",
+          "target_law": "Resolution 2385/1924",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1943-11-22",
+          "amending_law": "Independence 22/11/1943",
+          "target_law": "Decision 464/1943",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1943-11-22",
+          "amending_law": "Independence 22/11/1943",
+          "target_law": "Decision 465/1943",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1953-03-10",
+          "amending_law": "Decree 50/1953",
+          "target_law": "Decree 797/K/1944",
+          "articles_affected": [
+            "Organization"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1930-01-01",
+          "amending_law": "Real Property Law 1930",
+          "target_law": "Decree Establishing Land Registry 1920",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1930-present",
+          "amending_law": "Various amendments",
+          "target_law": "Real Property Law 1930",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1983-present",
+          "amending_law": "Various amendments",
+          "target_law": "Legislative Decree 150/1983",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1975-present",
+          "amending_law": "Various amendments",
+          "target_law": "Law 10434/1975",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1962-07-16",
+          "amending_law": "Law 16/07/1962",
+          "target_law": "Legislative Decree 6/1930 (Articles on Religious Courts)",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1949-04-14",
+          "amending_law": "Legislative Decree 15/1949",
+          "target_law": "Legislative Decree 126/1935",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "date": "1950-02-27",
+          "amending_law": "Law 61/1950",
+          "target_law": "Legislative Decree 126/1935",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1943-01-01",
+          "amending_law": "Lebanese Penal Code 1943",
+          "target_law": "Ottoman Penal Code (continued in force)",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "date": "1989-09-21",
+          "amending_law": "Taif Agreement 1989",
+          "target_law": "National Pact 1943 (Unwritten Agreement)",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ]
+    },
+    "amendment_relationships": {
+      "Constitutional Law of October 17, 1927": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of May 8, 1929": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of November 9, 1943": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of December 7, 1943": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of January 21, 1947": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of May 22, 1948": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of April 24, 1976": [
+        "Constitution of 1926"
+      ],
+      "Constitutional Law of September 21, 1990": [
+        "National Accord Document (Taif Agreement)",
+        "Constitution of 1926"
+      ],
+      "Constitutional Law No. 585 of September 4, 2004": [
+        "Constitution of 1926"
+      ],
+      "Taif Agreement of 1989": [
+        "National Pact of 1943"
+      ],
+      "Legislative Decree 112/1983": [
+        "Law 90/1932",
+        "Legislative Decree 340/1943",
+        "Multiple Laws"
+      ],
+      "Law 459/2002": [
+        "Law 90/1932"
+      ],
+      "Law 515/1996": [
+        "Legislative Decree 90/1983"
+      ],
+      "Law 82/2018": [
+        "Legislative Decree 90/1983"
+      ],
+      "Law 286/2022": [
+        "Legislative Decree 90/1983"
+      ],
+      "Law 2024 Amendment": [
+        "Legislative Decree 90/1983"
+      ],
+      "Law 282/1993": [
+        "Decree 166/1933"
+      ],
+      "Law 772/2006": [
+        "Legislative Decree 79/1983"
+      ],
+      "Law dated 5/2/1948": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 75/6/1975": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 239/1993": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 224/1993": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 129/1993": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 513/1996": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 29/1994": [
+        "Legislative Decree 340/1943"
+      ],
+      "Law 359/2001": [
+        "Law 328/2001"
+      ],
+      "Law 711/2005": [
+        "Law 328/2001"
+      ],
+      "Law 111/2010": [
+        "Law 328/2001"
+      ],
+      "Law 164/2011": [
+        "Law 328/2001"
+      ],
+      "Law 251/2014": [
+        "Law 328/2001"
+      ],
+      "Law 65/2017": [
+        "Law 328/2001"
+      ],
+      "Law 191/2020": [
+        "Law 328/2001"
+      ],
+      "Law 321/2023": [
+        "Law 328/2001"
+      ],
+      "Law 1/71": [
+        "Law 24/1968"
+      ],
+      "Decree 1460/1971": [
+        "Law 24/1968"
+      ],
+      "Legislative Decree 142/1983": [
+        "Law 24/1968"
+      ],
+      "Law 306/2001": [
+        "Law 24/1968"
+      ],
+      "Legislative Decree 110/1977": [
+        "Law 24/1968"
+      ],
+      "Law 148/1992": [
+        "Law 24/1968"
+      ],
+      "Decree 603/1983": [
+        "Law 2/78"
+      ],
+      "Decree Law 11/1967": [
+        "Legislative Decree 304/1942"
+      ],
+      "Decree 9798/1968": [
+        "Legislative Decree 304/1942",
+        "Part of Legislative Decree 304/1942 and related decrees"
+      ],
+      "Law 30/67": [
+        "Legislative Decree 304/1942"
+      ],
+      "Law 379/2000": [
+        "Legislative Decree 150/83"
+      ],
+      "Law 327/2001": [
+        "Legislative Decree 150/83"
+      ],
+      "Law 1975 Amendment": [
+        "Law 1/1956"
+      ],
+      "Law 159/1999": [
+        "Law 1/1956"
+      ],
+      "Law 318/2001 (AML Law)": [
+        "Law 1/1956"
+      ],
+      "Law 44/2015": [
+        "Law 1/1956",
+        "Law 318/2001 amended by Law 44/2015"
+      ],
+      "Law 1/2025": [
+        "Law 1/1956",
+        "Law 306/2022"
+      ],
+      "Law 81/2018": [
+        "Law 659/2005 and Law 81/2018 (E-Commerce provisions)"
+      ],
+      "Law 31/1/1946": [
+        "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000"
+      ],
+      "Law 4/80": [
+        "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000"
+      ],
+      "Law 75/99": [
+        "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000"
+      ],
+      "Law 240/2000": [
+        "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000"
+      ],
+      "Law 324/2024": [
+        "Resolution 2385/1924 amended by Law 31/1/1946; Law 75/99; Law 240/2000"
+      ],
+      "Law 28/67": [
+        "Decree 13513/1963"
+      ],
+      "Law of 17 September 1962": [
+        "Law 1/1946"
+      ],
+      "Law 48/1966": [
+        "Law 1/1946"
+      ],
+      "Decree 9816/1968": [
+        "Law 1/1946"
+      ],
+      "Law 39/1971": [
+        "Law 1/1946"
+      ],
+      "Law 41/1971": [
+        "Law 1/1946"
+      ],
+      "Decree 7607/1974": [
+        "Law 1/1946"
+      ],
+      "Decree 8496/1974": [
+        "Law 1/1946"
+      ],
+      "Decree 9640/1975": [
+        "Law 1/1946"
+      ],
+      "Decree-Law 80/1977": [
+        "Law 1/1946"
+      ],
+      "Decree 3572/1980": [
+        "Law 1/1946"
+      ],
+      "Law 2/1987": [
+        "Law 1/1946"
+      ],
+      "Law 5/1987": [
+        "Law 1/1946"
+      ],
+      "Law 89/1991": [
+        "Law 1/1946"
+      ],
+      "Law 536/1996": [
+        "Law 1/1946"
+      ],
+      "Law 91/1999": [
+        "Law 1/1946"
+      ],
+      "Law 173/2000": [
+        "Law 1/1946"
+      ],
+      "Law 207/2000": [
+        "Law 1/1946"
+      ],
+      "Law 129/2010": [
+        "Law 1/1946"
+      ],
+      "Law 267/2014": [
+        "Law 1/1946"
+      ],
+      "Law 144/2019": [
+        "Decree 10434/1975",
+        "Law 1/1946"
+      ],
+      "Decree 4996/2001": [
+        "Law 13955/1963"
+      ],
+      "Law 24/1982": [
+        "Law 13955/1963"
+      ],
+      "Decree 8641/2002": [
+        "Law 13955/1963"
+      ],
+      "Decree 7352/2002": [
+        "Law 248/2000",
+        "Law 13955/1963"
+      ],
+      "Decree 12394/2004": [
+        "Law 13955/1963"
+      ],
+      "Decree 13684/2004": [
+        "Law 13955/1963"
+      ],
+      "Law 753/2006": [
+        "Law 13955/1963"
+      ],
+      "Decree 2188/2009": [
+        "Law 13955/1963"
+      ],
+      "Law 128/2010": [
+        "Law 13955/1963"
+      ],
+      "Law 210/2020": [
+        "Law 13955/1963"
+      ],
+      "Law 263/2022": [
+        "Law 13955/1963"
+      ],
+      "Decree 12773/2023": [
+        "Law 13955/1963"
+      ],
+      "Law 319/2023": [
+        "Law 13955/1963"
+      ],
+      "Decree 3791/2016": [
+        "Decree 7426/2012"
+      ],
+      "Law 46/2017": [
+        "Decree-Law 112/1959"
+      ],
+      "Decree 422/2025": [
+        "Decree 12773/2023",
+        "Decree 1965 (Family Allowances)"
+      ],
+      "Decree 9849/2022": [
+        "Decree 8740/2022"
+      ],
+      "Law No. 64/2017": [
+        "Decree-Law No. 144/1959"
+      ],
+      "Budget Law 2019 (Law No. 144)": [
+        "Decree-Law No. 144/1959"
+      ],
+      "Budget Law 2022 (Law No. 10/2022)": [
+        "Decree No. 283/1959",
+        "Legislative Decree No. 146/1959",
+        "Decree-Law No. 144/1959"
+      ],
+      "Budget Law 2024 (Law No. 324/2024)": [
+        "Decree No. 283/1959",
+        "Stamp Duty Law (Various Provisions)",
+        "Decree-Law No. 144/1959"
+      ],
+      "Law No. 330/2024": [
+        "Law No. 296/2001 and Law No. 360",
+        "Decree-Law No. 144/1959",
+        "Part of Decree-Law No. 144/1959 (as amended)"
+      ],
+      "MoF Decision No. 959/2024": [
+        "Decree-Law No. 144/1959"
+      ],
+      "Decree No. 11230/2023": [
+        "Law No. 379/2001"
+      ],
+      "Budget Law 2024": [
+        "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "Law No. 379/2001"
+      ],
+      "Decree No. 328/2024": [
+        "Law No. 379/2001"
+      ],
+      "Decree No. 2827/1959": [
+        "Legislative Decree No. 146/1959"
+      ],
+      "Law No. 44/2016": [
+        "Legislative Decree No. 146/1959"
+      ],
+      "Budget Law 2025": [
+        "Legislative Decree No. 146/1959",
+        "Stamp Duty Law (Various Provisions)"
+      ],
+      "Various Budget Laws": [
+        "Customs Law (Consolidated)"
+      ],
+      "Budget Law 2022": [
+        "Decree-Law No. 45/1983",
+        "Decree-Law No. 144/1959 (Withholding Tax Provisions)",
+        "Stamp Duty Law (Various Provisions)",
+        "Decree-Law No. 46/1983"
+      ],
+      "MoF Decision No. 684/2023": [
+        "Stamp Duty Law (Various Provisions)"
+      ],
+      "MoF Notification No. 2665/1/2025": [
+        "Stamp Duty Law (Various Provisions)",
+        "Tax Procedures Law (Various Provisions)"
+      ],
+      "Law of 26 October 2017": [
+        "Law No. 296/2001 and Law No. 360"
+      ],
+      "Budget Law 2018": [
+        "Law No. 296/2001 and Law No. 360"
+      ],
+      "Annual Budget Laws": [
+        "Various Provisions in Budget Laws"
+      ],
+      "MoF Decision No. 322/2023": [
+        "Decree-Law No. 144/1959 (Withholding Tax Provisions)"
+      ],
+      "MoF Decision No. 323/2023": [
+        "Decree-Law No. 144/1959 (Withholding Tax Provisions)"
+      ],
+      "Law No. 328/2024": [
+        "Tax Procedures Law (Various Provisions)"
+      ],
+      "MoF Notification No. 4913/2025": [
+        "Part of Decree-Law No. 144/1959",
+        "Tax Procedures Law (Various Provisions)"
+      ],
+      "Law 665/1997": [
+        "Decree-Law 118/1977",
+        "Legislative Decree 118/1977"
+      ],
+      "Law 316/2001": [
+        "Decree-Law 118/1977"
+      ],
+      "Law 227/2000": [
+        "Decree 10434/1975",
+        "Decree-Law 118/1977"
+      ],
+      "Decree 8633/2012": [
+        "Law 444/2002"
+      ],
+      "Decree 8213/2012": [
+        "Law 444/2002"
+      ],
+      "Decree 15874/2005": [
+        "Law 646/2004"
+      ],
+      "Decree 2007 amendments": [
+        "Law 646/2004"
+      ],
+      "Law 259/1993": [
+        "Decree 10434/1975"
+      ],
+      "Decree 114/1959": [
+        "Decree-Law 112/1959"
+      ],
+      "Law of December 8, 2006": [
+        "Law 58/1991"
+      ],
+      "Proposed amendment to Article 28": [
+        "Law 80/2018"
+      ],
+      "Law 85/1991": [
+        "Law 49/1949"
+      ],
+      "Law 558/1996": [
+        "Law 49/1949"
+      ],
+      "Law 195/2000": [
+        "Law 49/1949"
+      ],
+      "Law No. 177 of 2011": [
+        "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011"
+      ],
+      "Law of July 16, 1962": [
+        "Legislative Decree No. 241 of November 4, 1942; amended by Law No. 177 of 2011",
+        "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence"
+      ],
+      "Law 7244 of December 19, 1967": [
+        "Legislative Decree No. 241 of November 4, 1942; Jaafari Jurisprudence"
+      ],
+      "Law 58 of October 17, 2017": [
+        "Law of February 24, 1948; amended by Law 58 of October 17, 2017"
+      ],
+      "Decree 3473 of March 5, 1960": [
+        "Law of February 24, 1948; amended by Law 58 of October 17, 2017"
+      ],
+      "Code of Canons of Eastern Churches 1990": [
+        "Law of February 22, 1949 - Shared Catholic Personal Status Law",
+        "Law of February 22, 1949; Code of Canons of Eastern Churches 1990"
+      ],
+      "Code of Procedure January 1, 1990": [
+        "Law of February 22, 1949; Code of Procedure January 1, 1990"
+      ],
+      "Renewed Law September 10, 2003": [
+        "Law of February 22, 1949; renewed September 10, 2003"
+      ],
+      "Law of July 13, 1962": [
+        "Law of February 22, 1949; Law of July 13, 1962"
+      ],
+      "Law 427 of June 6, 2002": [
+        "Law 449 of August 17, 1995; Law 450 of August 17, 1995"
+      ],
+      "Decree 5/1926": [
+        "Decree 336/1920"
+      ],
+      "Decree 589/1920": [
+        "Decree 86/1920"
+      ],
+      "Decree 601/1920": [
+        "Decree 589/1920",
+        "Decree 86/1920"
+      ],
+      "Decree 1787/1923": [
+        "Decree 1647/1922"
+      ],
+      "Decree 6/1930": [
+        "Decision 3018/1925"
+      ],
+      "Law 10/05/1950": [
+        "Legislative Decree 6/1930",
+        "Decision 324 L.R./1939"
+      ],
+      "Law 16/10/1961": [
+        "Legislative Decree 6/1930"
+      ],
+      "Legislative Decree 150/1983": [
+        "Legislative Decree 6/1930"
+      ],
+      "Decision 324 LR/1939": [
+        "Decision 178 L.R./1934"
+      ],
+      "Decree 10/LE/1939": [
+        "Decree LR/55/1932"
+      ],
+      "Decree 1941": [
+        "Decree 10/LE/1939"
+      ],
+      "Various amendments": [
+        "Real Property Law 1930",
+        "Legislative Decree 150/1983",
+        "Code of Obligations and Contracts 1932",
+        "Law 10434/1975"
+      ],
+      "Law 31/01/1946": [
+        "Resolution 2385/1924"
+      ],
+      "Constitutional Law 09/11/1943": [
+        "Constitution of May 23, 1926"
+      ],
+      "Constitutional Law 21/01/1947": [
+        "Constitution of May 23, 1926"
+      ],
+      "Taif Agreement 1989": [
+        "National Pact 1943 (Unwritten Agreement)",
+        "Constitution of May 23, 1926"
+      ],
+      "Independence 22/11/1943": [
+        "Decision 464/1943",
+        "Decision 465/1943"
+      ],
+      "Decree 50/1953": [
+        "Decree 797/K/1944"
+      ],
+      "Real Property Law 1930": [
+        "Decree Establishing Land Registry 1920"
+      ],
+      "Law 16/07/1962": [
+        "Legislative Decree 6/1930 (Articles on Religious Courts)"
+      ],
+      "Legislative Decree 15/1949": [
+        "Legislative Decree 126/1935"
+      ],
+      "Law 61/1950": [
+        "Legislative Decree 126/1935"
+      ],
+      "Lebanese Penal Code 1943": [
+        "Ottoman Penal Code (continued in force)"
+      ],
+      "Law 44/2017": [
+        "Law 25/2008"
+      ],
+      "Law (Amendment) 2021": [
+        "Law 44/2017"
+      ],
+      "Law 233/2021": [
+        "Law 28/2017"
+      ],
+      "Law 182/2020": [
+        "Law 83/2018"
+      ],
+      "Law 204/2020": [
+        "Law 293/2014"
+      ],
+      "Law 22/2025": [
+        "Labor Law Amendment 2000"
+      ],
+      "MoF Decision 18/1/2020": [
+        "Decree 167/2017"
+      ],
+      "MoF Decision 35/1/2021": [
+        "Decree 167/2017"
+      ],
+      "Law 25/2008": [
+        "Legislative Decree 118/1977"
+      ],
+      "Budget Law 10/2022 Article 95": [
+        "Budget Law 79/2018 Article 55"
+      ]
+    },
+    "statistics": {
+      "total_amendments": 208,
+      "total_amending_laws": 174,
+      "total_target_laws": 92,
+      "amendments_by_nature": {
+        "modification": 153,
+        "addition": 20,
+        "repeal": 14,
+        "other": 21
+      }
+    }
+  }
+}

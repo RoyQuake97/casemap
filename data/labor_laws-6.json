@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "file": "labor_laws.json",
+    "description": "Lebanese Labor Code (1946), Social Security, and related labor/employment legislation",
+    "total_entries": 8,
+    "last_updated": "2026-02-21",
+    "phase": 2
+  },
+  "laws": [
+    {
+      "law_id": "LB-LAB-001",
+      "official_number": "Law of September 23, 1946 (Labor Code)",
+      "official_title_arabic": "قانون العمل اللبناني الصادر في 23 أيلول 1946",
+      "official_title_french": "Code du Travail du 23 septembre 1946",
+      "official_title_english": "Labor Code / Labour Law",
+      "date_enacted": "1946-09-23",
+      "date_effective": "1946-09-23",
+      "category": "Labor & Social Security",
+      "subcategory": "General Labor Code",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 113,
+      "amendments": [
+        {
+          "amending_law": "Various amendments (1946-2025)",
+          "date": "",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "Amended on various occasions, most recently in May 2025. Key amendments have addressed working hours, maternity leave, minimum wage, child labor, and worker protections."
+        },
+        {
+          "amending_law": "Decree No. 7426/2012 (Minimum Wage)",
+          "date": "2012-01-25",
+          "articles_affected": [],
+          "nature": "modification",
+          "summary": "Set statutory minimum wage at LBP 675,000/month (approximately $450 at pre-crisis exchange rate). This decree implemented wage increases through amendments to the Labor Code."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1-6",
+          "text_english": "Scope of application. Applies to employers and employees in commercial, industrial, and agricultural establishments. Excludes public servants, domestic workers (until recent amendments), and agricultural workers (partially).",
+          "subject": "Scope and application",
+          "current_version": true
+        },
+        {
+          "article_number": "26",
+          "text_english": "Non-discrimination: prohibition of discrimination in employment on basis of sex (equal pay provisions, though limited in scope).",
+          "subject": "Non-discrimination",
+          "current_version": true
+        },
+        {
+          "article_number": "27",
+          "text_english": "Working hours and conditions. Maximum 48 hours per week. Special provisions for hazardous work.",
+          "subject": "Working hours",
+          "current_version": true
+        },
+        {
+          "article_number": "28-29",
+          "text_english": "Maternity leave provisions: pre- and post-natal leave entitlements.",
+          "subject": "Maternity leave",
+          "current_version": true
+        },
+        {
+          "article_number": "50",
+          "text_english": "Right to organize and form trade unions. Freedom to unionize or not to unionize.",
+          "subject": "Freedom of association",
+          "current_version": true
+        },
+        {
+          "article_number": "52-74",
+          "text_english": "Termination of employment: end of service indemnity (severance), notice periods, arbitrary dismissal compensation.",
+          "subject": "Termination and severance",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Enacted after twenty years of intense workers' mobilizations in tobacco, typography, transport, petroleum, and port sectors. Governs private and mixed sector employment. Public sector regulated by separate Decree-Law 112/1959. Notable exclusions historically included domestic workers, agricultural workers, and family businesses. Domestic workers were partially covered by Law No. 41/2024. The Labor Code requires prior authorization from the Ministry of Labour for trade union formation, which has been criticized by ILO committees. Lebanon has ratified most core ILO conventions.",
+      "related_laws": [
+        {"law_id": "LB-LAB-002", "relationship": "complemented_by"},
+        {"law_id": "LB-LAB-003", "relationship": "complemented_by"},
+        {"law_id": "LB-LAB-004", "relationship": "complemented_by"},
+        {"law_id": "LB-LAB-005", "relationship": "complemented_by"}
+      ],
+      "source_urls": [
+        "https://www.vertic.org/media/National%20Legislation/Lebanon/LB_Code_Travail_EN.pdf",
+        "https://civilsociety-centre.org/content/enactment-labor-code-lebanon-law-23-september-1946"
+      ],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-002",
+      "official_number": "Decree No. 13955 of September 26, 1963 (Social Security)",
+      "official_title_arabic": "المرسوم رقم 13955 - قانون الضمان الاجتماعي",
+      "official_title_french": "Décret No. 13955/1963 - Sécurité Sociale",
+      "official_title_english": "Social Security Act / National Social Security Fund (NSSF) Law",
+      "date_enacted": "1963-09-26",
+      "date_effective": "1963-09-26",
+      "category": "Labor & Social Security",
+      "subcategory": "Social Security",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 88,
+      "amendments": [
+        {
+          "amending_law": "Decree No. 7352/2002 (Optional Social Security)",
+          "date": "2002-01-01",
+          "articles_affected": [],
+          "nature": "addition",
+          "summary": "Began implementation of optional social security in the Sickness and Maternity Branch of NSSF."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "1-8",
+          "text_english": "Establishment of the National Social Security Fund (NSSF / الصندوق الوطني للضمان الاجتماعي). Three branches: Sickness and Maternity, Family Allowances, End of Service Indemnity.",
+          "subject": "NSSF establishment and branches",
+          "current_version": true
+        },
+        {
+          "article_number": "26",
+          "text_english": "Maternity benefits: cash benefits during maternity leave.",
+          "subject": "Maternity benefits",
+          "current_version": true
+        }
+      ],
+      "historical_context": "Established Lebanon's social security system through the National Social Security Fund (NSSF). Originally planned to have four branches, but only three have been fully implemented: Sickness and Maternity, Family Allowances, and End of Service Indemnity. A retirement/pension branch has never been implemented despite decades of discussion. The NSSF covers employees registered in the private sector. Self-employed persons and informal workers largely remain excluded. The fund has faced severe financial difficulties, particularly since the 2019 economic crisis.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-003",
+      "official_number": "Decree-Law No. 112 of June 12, 1959 (Civil Servants)",
+      "official_title_arabic": "مرسوم اشتراعي رقم 112/59 - نظام الموظفين",
+      "official_title_french": "Décret-loi No. 112/1959 - Statut des Fonctionnaires",
+      "official_title_english": "Civil Servants Regulation / Public Employment Law",
+      "date_enacted": "1959-06-12",
+      "date_effective": "1959-06-12",
+      "category": "Labor & Social Security",
+      "subcategory": "Public Employment",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Governs employment of civil servants in the public sector. Separate from the Labor Code which covers private sector. Establishes rights, obligations, disciplinary procedures, and career paths for government employees. Confessional balance requirements apply to public sector appointments under the Constitution.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "related_to"},
+        {"law_id": "LB-LAB-004", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-004",
+      "official_number": "Decree-Law No. 115 of June 12, 1959",
+      "official_title_arabic": "مرسوم اشتراعي رقم 115/59 - إنشاء التفتيش المركزي",
+      "official_title_french": "Décret-loi No. 115/1959 - Inspection Centrale",
+      "official_title_english": "Central Investigation/Inspection Office Law",
+      "date_enacted": "1959-06-12",
+      "date_effective": "1959-06-12",
+      "category": "Labor & Social Security",
+      "subcategory": "Public Administration",
+      "status": "active",
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Established the Central Investigation Office (التفتيش المركزي), an oversight body for public administration. Exercises supervisory control over government ministries and agencies.",
+      "related_laws": [
+        {"law_id": "LB-LAB-003", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-005",
+      "official_number": "Decree-Law No. 136 of September 16, 1983",
+      "official_title_arabic": "مرسوم اشتراعي رقم 136/83 - نظام حوادث العمل",
+      "official_title_french": "Décret-loi No. 136/1983 - Accidents du Travail",
+      "official_title_english": "Work Accidents Law / Occupational Injuries",
+      "date_enacted": "1983-09-16",
+      "date_effective": "1983-09-16",
+      "category": "Labor & Social Security",
+      "subcategory": "Occupational Safety",
+      "status": "active",
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Regulates work-related accidents and occupational injuries. Applies to both Lebanese and foreign employees. Establishes employer liability for workplace accidents and occupational diseases.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "complements"},
+        {"law_id": "LB-LAB-002", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-006",
+      "official_number": "Decree No. 3572/1980 (Arbitration Labour Councils)",
+      "official_title_arabic": "مرسوم رقم 3572/1980 - صلاحيات مجالس العمل التحكيمية",
+      "official_title_french": "Décret No. 3572/1980 - Conseils du Travail Arbitraux",
+      "official_title_english": "Decree on the Authorities of Arbitration Labour Councils",
+      "date_enacted": "1980-09-01",
+      "date_effective": "1980-09-01",
+      "category": "Labor & Social Security",
+      "subcategory": "Labor Dispute Resolution",
+      "status": "active",
+      "issuing_authority": "Council of Ministers",
+      "legal_type": "Presidential Decree",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Establishes the labor arbitration council system for resolving labor disputes. Each council consists of a judge (presiding), a workers' representative, and an employers' representative. Decisions can be challenged by objection, third-party objection, and cassation.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "implements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-007",
+      "official_number": "Decree No. 17561 of September 18, 1964 (Foreign Workers)",
+      "official_title_arabic": "مرسوم رقم 17561/1964 - تنظيم عمل الأجانب",
+      "official_title_french": "Décret No. 17561/1964 - Réglementation du Travail des Étrangers",
+      "official_title_english": "Foreign Workers Regulation",
+      "date_enacted": "1964-09-18",
+      "date_effective": "1964-09-18",
+      "category": "Labor & Social Security",
+      "subcategory": "Foreign Workers",
+      "status": "amended",
+      "issuing_authority": "Council of Ministers",
+      "legal_type": "Presidential Decree",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Regulates employment of foreign nationals in Lebanon. Requires work permits and residency permits for legal employment. Sets out permit categories and restrictions by profession. Frequently discussed in the context of Syrian and Palestinian workers in Lebanon.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-LAB-008",
+      "official_number": "Decree No. 11802 of January 30, 2004 (Occupational Safety & Hygiene)",
+      "official_title_arabic": "مرسوم رقم 11802/2004 - تنظيم الوقاية والسلامة والصحة المهنية",
+      "official_title_french": "Décret No. 11802/2004 - Prévention, Sécurité et Hygiène Professionnelle",
+      "official_title_english": "Occupational Prevention, Safety and Hygiene Regulation",
+      "date_enacted": "2004-01-30",
+      "date_effective": "2004-01-30",
+      "category": "Labor & Social Security",
+      "subcategory": "Occupational Safety",
+      "status": "active",
+      "issuing_authority": "Council of Ministers",
+      "legal_type": "Presidential Decree",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Comprehensive occupational safety and health regulation implementing the Labor Code. Establishes prevention and safety requirements for all establishments subject to the Labor Code.",
+      "related_laws": [
+        {"law_id": "LB-LAB-001", "relationship": "implements"},
+        {"law_id": "LB-LAB-005", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

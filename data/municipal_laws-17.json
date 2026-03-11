@@ -1,0 +1,996 @@
+{
+  "database_info": {
+    "title": "Lebanese Administrative and Municipal Legislation Database",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "total_laws": 16,
+    "categories": [
+      "Administrative Law",
+      "Municipal Law",
+      "Environmental Law",
+      "Urban Planning Law",
+      "Public Procurement Law",
+      "Civil Service Law",
+      "State Property Law",
+      "Construction Law"
+    ],
+    "sources": [
+      "Ministry of Interior and Municipalities (www.interior.gov.lb)",
+      "Ministry of Justice (www.justice.gov.lb)",
+      "Order of Engineers and Architects (OEA)",
+      "Council for Development and Reconstruction (CDR)",
+      "Ministry of Environment"
+    ]
+  },
+  "laws": [
+    {
+      "law_id": "LEB-MUN-001",
+      "official_number": "Decree-Law 118/1977",
+      "official_title_arabic": "قانون البلديات - المرسوم الاشتراعي رقم 118 تاريخ 30/6/1977",
+      "official_title_french": "Décret-loi n° 118 du 30 juin 1977 - Loi sur les Municipalités",
+      "official_title_english": "Municipal Act - Decree-Law No. 118 dated June 30, 1977",
+      "date_enacted": "1977-06-30",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1977-06-30"
+      },
+      "category": "Municipal Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 665/1997",
+          "date": "1997-12-30",
+          "articles_affected": [
+            "Article 9",
+            "Article 11",
+            "Article 18",
+            "Article 19",
+            "Article 68",
+            "Article 71"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 316/2001",
+          "date": "2001-04-20",
+          "articles_affected": [
+            "Article 15"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 227/2000",
+          "date": "2000-05-31",
+          "articles_affected": [
+            "Administrative provisions"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "المادة 1: البلدية هي إدارة محلية تمارس ضمن نطاق عملها الصلاحيات المخولة إليها بموجب القانون. تتمتع البلدية بالشخصية المعنوية والاستقلال المالي والإداري.",
+      "full_text_french": "Article 1er: La municipalité est une administration locale qui exerce, sur son territoire, les prérogatives qui lui sont accordées par la loi. Elle est dotée de la personnalité morale et jouit de l'autonomie financière et administrative.",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "البلدية هي إدارة محلية تمارس ضمن نطاق عملها الصلاحيات المخولة إليها بموجب القانون. تتمتع البلدية بالشخصية المعنوية والاستقلال المالي والإداري.",
+          "text_french": "La municipalité est une administration locale qui exerce, sur son territoire, les prérogatives qui lui sont accordées par la loi. Elle est dotée de la personnalité morale et jouit de l'autonomie financière et administrative.",
+          "subject": "Definition and legal personality of municipalities"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "يقوم مجلس البلدية بالسلطة المقررة.",
+          "text_french": "Le Conseil municipal détient l'autorité décisionnelle.",
+          "subject": "Municipal Council as decision-making authority"
+        },
+        {
+          "article_number": "Article 9",
+          "text_arabic": "يتركب مجلس البلدية من عدد من الأعضاء يتحدد بحسب عدد السكان.",
+          "text_french": "Le Conseil municipal se compose d'un nombre de membres déterminé selon la population.",
+          "subject": "Composition of Municipal Council based on population"
+        },
+        {
+          "article_number": "Article 47",
+          "text_arabic": "تختص البلدية بكل عمل من أعمال الصفة العامة أو المنفعة العامة في حدود نطاقها.",
+          "text_french": "La municipalité est compétente pour toute activité publique ou d'utilité publique dans les limites de son territoire.",
+          "subject": "Municipal competencies and powers"
+        },
+        {
+          "article_number": "Article 49",
+          "text_arabic": "يختص مجلس البلدية بوضع وإقرار ميزانية البلدية السنوية وتحديد الرسوم والضرائب.",
+          "text_french": "Le Conseil municipal est chargé d'établir et d'adopter le budget annuel de la municipalité et de déterminer les taxes et redevances.",
+          "subject": "Municipal Council financial powers"
+        },
+        {
+          "article_number": "Article 67",
+          "text_arabic": "تختص السلطة التنفيذية في البلدية برئيس مجلس البلدية، وفي بلدية بيروت تختص بالمحافظ.",
+          "text_french": "L'autorité exécutive dans la municipalité est le Président du Conseil municipal, et dans la municipalité de Beyrouth, c'est le Gouverneur.",
+          "subject": "Executive authority in municipalities"
+        },
+        {
+          "article_number": "Article 86",
+          "text_arabic": "تتألف موارد البلدية من الرسوم المباشرة والرسوم المحصلة من الدولة والمساعدات المالية والقروض.",
+          "text_french": "Les finances municipales se composent des taxes directes, des taxes collectées par l'État, des aides financières et des prêts.",
+          "subject": "Municipal finances composition"
+        }
+      ],
+      "historical_context": "The Municipal Law was enacted during the Lebanese Civil War (1975-1990) as a framework for local governance. It replaced previous Ottoman and French Mandate-era municipal legislation. The law established the foundation for municipal autonomy while maintaining central government oversight. It was significantly amended by Law 665/1997 to update electoral procedures and municipal governance structures.",
+      "related_laws": [
+        "Law 665/1997",
+        "Law 60/1988",
+        "Law 316/2001",
+        "Decree-Law 112/1959"
+      ],
+      "source_url": "http://www.interior.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-URB-001",
+      "official_number": "Decree-Law 69/1983",
+      "official_title_arabic": "قانون التنظيم المدني والتعمير - المرسوم الاشتراعي رقم 69 تاريخ 9/9/1983",
+      "official_title_french": "Décret-loi n° 69 du 9 septembre 1983 - Code de l'Urbanisme",
+      "official_title_english": "Urban Planning Code - Decree-Law No. 69 dated September 9, 1983",
+      "date_enacted": "1983-09-09",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1983-09-09"
+      },
+      "category": "Urban Planning Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون التنظيم المدني والتعمير ينظم المخططات التنظيمية وعمليات التعمير وتراخيص البناء.",
+      "full_text_french": "Le Code de l'Urbanisme réglemente les plans d'urbanisme, les opérations d'aménagement et les permis de construire.",
+      "key_articles": [
+        {
+          "article_number": "Article 4-17",
+          "text_arabic": "أحكام التنظيم المدني تركز على المخططات والأنظمة وشروط التخطيط.",
+          "text_french": "Les dispositions relatives à l'urbanisme se concentrent sur les plans, règlements et conditions de planification.",
+          "subject": "Urban planning - plans and regulations"
+        },
+        {
+          "article_number": "Article 11",
+          "text_arabic": "تقدم المخططات التنظيمية والأنظمة إلى البلديات المعنية لإبداء الرأي خلال مدة شهر واحد.",
+          "text_french": "Les plans d'urbanisme et règlements sont soumis aux municipalités concernées pour avis dans un délai d'un mois.",
+          "subject": "Municipal consultation on urban plans"
+        },
+        {
+          "article_number": "Article 17",
+          "text_arabic": "يمكن تخفيض معامل استثمار الأراضي الخاصة الواقعة في المنطقة الساحلية.",
+          "text_french": "Le coefficient d'exploitation des terrains privés situés dans la zone côtière peut être réduit.",
+          "subject": "Coastal zone development restrictions"
+        },
+        {
+          "article_number": "Article 18-24",
+          "text_arabic": "عمليات التعمير والترتيبات التشغيلية التي يمكن للحكومة استخدامها عند تنفيذ مشروع تنموي.",
+          "text_french": "Les opérations d'aménagement et les arrangements opérationnels que le gouvernement peut utiliser lors de la réalisation d'un projet de développement.",
+          "subject": "Urban planning operations"
+        },
+        {
+          "article_number": "Article 21",
+          "text_arabic": "الشركات العقارية يمكن تأسيسها بموجب مرسوم وزاري.",
+          "text_french": "Les sociétés immobilières peuvent être constituées par décret ministériel.",
+          "subject": "Real estate companies for development"
+        },
+        {
+          "article_number": "Article 25-44",
+          "text_arabic": "تراخيص البناء وتقسيم الأراضي.",
+          "text_french": "Les permis de construire et le lotissement des terrains.",
+          "subject": "Building permits and land subdivision"
+        }
+      ],
+      "historical_context": "The Urban Planning Code was enacted during the Lebanese Civil War to modernize urban planning regulations. It established the framework for master plans, building permits, and land subdivision. The law created mechanisms for large-scale development projects including the establishment of real estate companies like SOLIDERE for Beirut city center reconstruction.",
+      "related_laws": [
+        "Law 646/2004",
+        "Decree-Law 118/1977",
+        "Decree 3362/1972"
+      ],
+      "source_url": "https://www.cdr.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-001",
+      "official_number": "Law 444/2002",
+      "official_title_arabic": "قانون حماية البيئة في لبنان - القانون رقم 444 تاريخ 29/7/2002",
+      "official_title_french": "Loi n° 444 du 29 juillet 2002 - Loi sur la Protection de l'Environnement",
+      "official_title_english": "Environmental Protection Law - Law No. 444 dated July 29, 2002",
+      "date_enacted": "2002-07-29",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2002-07-29"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 8633/2012",
+          "date": "2012",
+          "articles_affected": [
+            "EIA procedures"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Decree 8213/2012",
+          "date": "2012",
+          "articles_affected": [
+            "SEA procedures"
+          ],
+          "nature": "addition"
+        }
+      ],
+      "full_text_arabic": "قانون حماية البيئة هو الإطار القانوني الشامل لحماية البيئة في لبنان. يتضمن 11 مبدأ بيئياً رئيسياً.",
+      "full_text_french": "La Loi sur la Protection de l'Environnement est l'instrument juridique principal pour la protection et la gestion de l'environnement au Liban. Elle comprend 11 principes environnementaux fondamentaux.",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "يهدف هذا القانون إلى حماية البيئة وتحقيق التنمية المستدامة.",
+          "text_french": "Cette loi vise à protéger l'environnement et à réaliser le développement durable.",
+          "subject": "Purpose of the law"
+        },
+        {
+          "article_number": "Article 24",
+          "text_arabic": "يحظر على أي شخص طبيعي أو معنوي إحداث أي انبعاث أو تسرب لأي ملوث إلى البيئة.",
+          "text_french": "Il est interdit à toute personne physique ou morale de causer toute émission ou fuite de polluant dans l'environnement.",
+          "subject": "Prohibition of pollution emissions"
+        },
+        {
+          "article_number": "Article 25",
+          "text_arabic": "يجب أن تبقى الانبعاثات الناتجة عن حرق الوقود ضمن الحدود المسموح بها.",
+          "text_french": "Les émissions résultant de la combustion de carburant doivent rester dans les limites autorisées.",
+          "subject": "Emission limits"
+        },
+        {
+          "article_number": "Section V",
+          "text_arabic": "حماية الموارد البيئية - الفصل الأول يتعلق بحماية جودة الهواء ومراقبة الروائح الكريهة.",
+          "text_french": "Protection des ressources environnementales - Chapitre Ier concerne la protection de la qualité de l'air et le contrôle des odeurs désagréables.",
+          "subject": "Air quality protection"
+        },
+        {
+          "article_number": "EIA Provisions",
+          "text_arabic": "التقييم البيئي للمشاريع الكبرى إلزامي.",
+          "text_french": "L'évaluation environnementale des grands projets est obligatoire.",
+          "subject": "Environmental Impact Assessment requirement"
+        }
+      ],
+      "historical_context": "Law 444/2002 is Lebanon's overarching environmental protection legislation, enacted to align with international environmental conventions. It established the framework for Environmental Impact Assessments (EIA) and Strategic Environmental Assessments (SEA) through subsequent decrees. The law reflects principles from international treaties including the polluter-pays principle, precautionary principle, and public participation.",
+      "related_laws": [
+        "Law 78/2018",
+        "Law 80/2018",
+        "Decree 8633/2012",
+        "Decree 8213/2012",
+        "Law 64/1988"
+      ],
+      "source_url": "https://www.moe.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-CON-001",
+      "official_number": "Law 646/2004",
+      "official_title_arabic": "قانون البناء - القانون رقم 646 تاريخ 2004",
+      "official_title_french": "Loi n° 646 de 2004 - Loi sur la Construction",
+      "official_title_english": "Construction Law / Building Code - Law No. 646 of 2004",
+      "date_enacted": "2004",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2004"
+      },
+      "category": "Construction Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 15874/2005",
+          "date": "2005",
+          "articles_affected": [
+            "Implementation provisions"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Decree 2007 amendments",
+          "date": "2007",
+          "articles_affected": [
+            "Technical specifications"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون البناء ينظم جميع جوانب البناء والإنشاءات في لبنان.",
+      "full_text_french": "La Loi sur la Construction réglemente tous les aspects de la construction et du bâtiment au Liban.",
+      "key_articles": [
+        {
+          "article_number": "Article 7",
+          "text_arabic": "التأكد من توفير الإضاءة الطبيعية الكافية في المباني.",
+          "text_french": "Assurer un éclairage naturel suffisant dans les bâtiments.",
+          "subject": "Daylighting requirements"
+        },
+        {
+          "article_number": "Article 14",
+          "text_arabic": "معامل الاستثمار السطحي هو النسبة بين مساحة الإسقاط الأفقي للبناء ومساحة الأرض.",
+          "text_french": "Le coefficient d'exploitation surfacique est le rapport entre la surface de projection horizontale du bâtiment et la surface du terrain.",
+          "subject": "Investment factor / FAR definition"
+        },
+        {
+          "article_number": "Double Wall Provision",
+          "text_arabic": "في حالة الجدار المزدوج، لا تحتسب مساحات الجدران الخارجية ضمن معامل الاستثمار.",
+          "text_french": "En cas de mur double, les surfaces des murs extérieurs ne sont pas comptées dans le coefficient d'exploitation.",
+          "subject": "Double wall provision for energy efficiency"
+        },
+        {
+          "article_number": "Environmental Easements",
+          "text_arabic": "فرض قيادات بيئية خاصة بالإضافة إلى الالتزام بأحكام قانون حماية البيئة رقم 444/2002.",
+          "text_french": "Imposition de servitudes environnementales spécifiques en plus de la conformité avec la Loi 444/2002 sur la protection de l'environnement.",
+          "subject": "Environmental protection during construction"
+        }
+      ],
+      "historical_context": "The Construction Law 646/2004 replaced older building regulations and introduced modern construction standards. It includes provisions for environmental protection during construction, building envelope ratios, and exploitation factors. The law was implemented through decrees in 2005 and 2007. It is the centerpiece of all construction activities in Lebanon.",
+      "related_laws": [
+        "Law 444/2002",
+        "Decree-Law 69/1983",
+        "Decree 15874/2005"
+      ],
+      "source_url": "https://www.mot.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-PROC-001",
+      "official_number": "Law 244/2021",
+      "official_title_arabic": "قانون المناقصات العامة - القانون رقم 244 تاريخ 19/7/2021",
+      "official_title_french": "Loi n° 244 du 19 juillet 2021 - Loi sur les Marchés Publics",
+      "official_title_english": "Public Procurement Law - Law No. 244 dated July 19, 2021",
+      "date_enacted": "2021-07-19",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2021-07-19"
+      },
+      "category": "Public Procurement Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون المناقصات العامة يحدد إطار المناقصات العامة في لبنان وفق المعايير الدولية.",
+      "full_text_french": "La Loi sur les Marchés Publics définit le cadre des marchés publics au Liban conformément aux normes internationales.",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "أهداف القانون: تطبيق الإجراءات التنافسية كقاعدة عامة، توفير فرص متساوية للمشاركة في المناقصات العامة.",
+          "text_french": "Objectifs de la loi: application des procédures compétitives comme règle générale, fourniture d'opportunités égales de participation aux marchés publics.",
+          "subject": "Objectives of the law"
+        },
+        {
+          "article_number": "Article 15",
+          "text_arabic": "الاستدامة والسياسات التنموية: اعتماد المناقصات العامة المستدامة لتوجيه قوة الشراء نحو الموردات والخدمات المستدامة.",
+          "text_french": "Durabilité et politiques de développement: adoption des marchés publics durables pour orienter le pouvoir d'achat vers des fournitures et services durables.",
+          "subject": "Sustainable procurement"
+        },
+        {
+          "article_number": "Article 16",
+          "text_arabic": "الأفضلية للمنتجات المحلية: يمكن منح عروض المنتجات الوطنية أفضلية بنسبة 10%.",
+          "text_french": "Préférences domestiques: les offres de produits nationaux peuvent bénéficier d'une préférence de 10%.",
+          "subject": "Domestic preference in procurement"
+        },
+        {
+          "article_number": "Article 46",
+          "text_arabic": "التعاقد بالتراضي في حالات محددة.",
+          "text_french": "Contractation par accord mutuel dans des cas spécifiques.",
+          "subject": "Negotiated contracts"
+        },
+        {
+          "article_number": "Chapter 4",
+          "text_arabic": "المنصة الإلكترونية المركزية للمناقصات العامة.",
+          "text_french": "Plateforme électronique centrale pour les marchés publics.",
+          "subject": "E-procurement platform"
+        }
+      ],
+      "historical_context": "The Public Procurement Law 244/2021 replaced Lebanon's outdated procurement system from the 1960s. It was enacted as part of reforms demanded by the International Monetary Fund and international community. The law introduces competitive bidding as the default, establishes a central e-procurement platform, and creates a Complaints Authority for dispute resolution. It entered into force 12 months after publication (July 2022).",
+      "related_laws": [
+        "Previous procurement regulations",
+        "Law 444/2002"
+      ],
+      "source_url": "https://www.ppa.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ADMIN-001",
+      "official_number": "Decree 10434/1975",
+      "official_title_arabic": "نظام مجلس الشورى - المرسوم رقم 10434 تاريخ 14/6/1975",
+      "official_title_french": "Décret n° 10434 du 14 juin 1975 - Règlement du Conseil d'État",
+      "official_title_english": "State Council Organization Law - Decree No. 10434 dated June 14, 1975",
+      "date_enacted": "1975-06-14",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1975-06-14"
+      },
+      "category": "Administrative Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 227/2000",
+          "date": "2000-05-31",
+          "articles_affected": [
+            "Administrative tribunals provisions"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 259/1993",
+          "date": "1993-10-06",
+          "articles_affected": [
+            "Various articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 144/2019",
+          "date": "2019",
+          "articles_affected": [
+            "Article 65"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "ينظم هذا المرسوم مجلس الشورى كأعلى هيئة قضائية إدارية في لبنان.",
+      "full_text_french": "Ce décret réglemente le Conseil d'État comme la plus haute juridiction administrative au Liban.",
+      "key_articles": [
+        {
+          "article_number": "Article 2",
+          "text_arabic": "يتألف القضاء الإداري من مجلس الشورى والمحاكم الإدارية.",
+          "text_french": "La juridiction administrative se compose du Conseil d'État et des tribunaux administratifs.",
+          "subject": "Administrative judiciary composition"
+        },
+        {
+          "article_number": "Article 65",
+          "text_arabic": "يختص مجلس الشورى بالنظر في دعاوى الإلغاء ضد المراسيم التنفيذية والأعمال التنظيمية للوزراء.",
+          "text_french": "Le Conseil d'État est compétent pour examiner les actions en annulation contre les décrets d'application et les actes réglementaires des ministres.",
+          "subject": "Jurisdiction over annulment actions"
+        },
+        {
+          "article_number": "Chambers",
+          "text_arabic": "يتألف مجلس الشورى من ست غرف: غرفة إدارية وخمس غرف قضائية.",
+          "text_french": "Le Conseil d'État se compose de six chambres: une chambre administrative et cinq chambres judiciaires.",
+          "subject": "State Council chambers"
+        },
+        {
+          "article_number": "Advisory Function",
+          "text_arabic": "للغرفة الإدارية صلاحية إبداء الرأي والمشورة في مشاريع القوانين والمراسيم.",
+          "text_french": "La chambre administrative a le pouvoir de donner des avis et conseils sur les projets de lois et décrets.",
+          "subject": "Advisory functions"
+        }
+      ],
+      "historical_context": "The State Council was originally established in 1924 during the French Mandate. Decree 10434/1975 reorganized the State Council during the early period of the Lebanese Civil War. The law was amended by Law 227/2000 which provided for the establishment of first-level administrative tribunals in each governorate, though these have not yet been implemented. The State Council serves as both an administrative court and advisory body to the government.",
+      "related_laws": [
+        "Law 227/2000",
+        "Law 259/1993",
+        "Legislative Decree 14/1952",
+        "Legislative Decree 119/1959"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-CIVIL-001",
+      "official_number": "Decree-Law 112/1959",
+      "official_title_arabic": "نظام موظفي الإدارة العامة - المرسوم الاشتراعي رقم 112 تاريخ 12/6/1959",
+      "official_title_french": "Décret-loi n° 112 du 12 juin 1959 - Statut des fonctionnaires",
+      "official_title_english": "Civil Service Law - Decree-Law No. 112 dated June 12, 1959",
+      "date_enacted": "1959-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959-06-12"
+      },
+      "category": "Civil Service Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 114/1959",
+          "date": "1959",
+          "articles_affected": [
+            "Civil Service Board establishment"
+          ],
+          "nature": "addition"
+        }
+      ],
+      "full_text_arabic": "ينظم هذا المرسوم شؤون موظفي الإدارة العامة في لبنان.",
+      "full_text_french": "Ce décret-loi réglemente les affaires des fonctionnaires de l'administration publique au Liban.",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "الموظفون العموميون يخضعون لأحكام هذا المرسوم.",
+          "text_french": "Les fonctionnaires publics sont soumis aux dispositions de ce décret-loi.",
+          "subject": "Scope of application"
+        },
+        {
+          "article_number": "Article 15",
+          "text_arabic": "يحظر على الموظفين التعامل في الشؤون السياسية أو المشاركة في الإضرابات.",
+          "text_french": "Il est interdit aux fonctionnaires de s'occuper d'affaires politiques ou de participer à des grèves.",
+          "subject": "Political neutrality and strike prohibition"
+        },
+        {
+          "article_number": "Article 65",
+          "text_arabic": "مشاركة الموظف في الإضراب تعتبر استقالة.",
+          "text_french": "La participation d'un fonctionnaire à une grève équivaut à une démission.",
+          "subject": "Strike consequences"
+        },
+        {
+          "article_number": "Article 80",
+          "text_arabic": "البلديات التي تعتبر مراكز محافظات تخضع لرقابة مجلس الخدمة المدنية.",
+          "text_french": "Les municipalités qui sont des centres de gouvernorats sont soumises au contrôle du Conseil de la fonction publique.",
+          "subject": "Municipal civil service oversight"
+        }
+      ],
+      "historical_context": "The Civil Service Law was enacted shortly after Lebanon gained independence to establish a professional public administration. It created the framework for civil service recruitment, promotion, discipline, and rights. Decree 114/1959 established the Civil Service Board to oversee civil service matters. The law applies to central government employees and certain municipalities designated as governorate centers.",
+      "related_laws": [
+        "Decree 114/1959",
+        "Decree-Law 115/1959",
+        "Decree-Law 118/1977"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-PROP-001",
+      "official_number": "Law 58/1991",
+      "official_title_arabic": "قانون نزع الملكية للمنفعة العامة - القانون رقم 58 تاريخ 29/5/1991",
+      "official_title_french": "Loi n° 58 du 29 mai 1991 - Loi sur l'Expropriation pour Utilité Publique",
+      "official_title_english": "Expropriation Law - Law No. 58 dated May 29, 1991",
+      "date_enacted": "1991-05-29",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1991-05-29"
+      },
+      "category": "State Property Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law of December 8, 2006",
+          "date": "2006-12-08",
+          "articles_affected": [
+            "Various articles"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "ينظم هذا القانون نزع الملكية للمنفعة العامة والتعويض العادل.",
+      "full_text_french": "Cette loi réglemente l'expropriation pour utilité publique et l'indemnisation équitable.",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "لا يجوز نزع ملكية أي عقار إلا للمنفعة العامة وقبل دفع تعويض عادل.",
+          "text_french": "Aucune propriété ne peut être expropriée que pour utilité publique et après paiement d'une indemnité équitable.",
+          "subject": "Constitutional basis for expropriation"
+        },
+        {
+          "article_number": "Compensation Process",
+          "text_arabic": "يحدد التعويض من خلال تقييم لجنة قضائية مستقلة ويكون دائماً مالياً.",
+          "text_french": "L'indemnisation est déterminée par évaluation d'un comité judiciaire indépendant et est toujours financière.",
+          "subject": "Compensation determination"
+        },
+        {
+          "article_number": "Appeal Process",
+          "text_arabic": "يمكن الطعن بقرارات لجنة النزع أمام لجنة الاستئناف.",
+          "text_french": "Les décisions du comité d'expropriation peuvent faire l'objet d'un appel devant le comité d'appel.",
+          "subject": "Appeal mechanism"
+        },
+        {
+          "article_number": "Timeline",
+          "text_arabic": "يجب ألا تتجاوز مدة المشروع 8 سنوات من تاريخ نشر الإعلان.",
+          "text_french": "La durée du projet ne doit pas dépasser 8 ans à compter de la date de publication de l'annonce.",
+          "subject": "Project timeline limit"
+        }
+      ],
+      "historical_context": "The Expropriation Law was enacted after the Lebanese Civil War to regulate land acquisition for reconstruction and public projects. It implements Article 15 of the Lebanese Constitution which guarantees private property rights while allowing expropriation for public utility with fair compensation. The law establishes the framework for Expropriation Committees and Appellate Expropriation Committees.",
+      "related_laws": [
+        "Constitution Article 15",
+        "Decree-Law 45/1932",
+        "Decree-Law 149/1959"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-002",
+      "official_number": "Law 78/2018",
+      "official_title_arabic": "قانون حماية جودة الهواء - القانون رقم 78 تاريخ 19/4/2018",
+      "official_title_french": "Loi n° 78 du 19 avril 2018 - Loi sur la Protection de la Qualité de l'Air",
+      "official_title_english": "Air Quality Protection Law - Law No. 78 dated April 19, 2018",
+      "date_enacted": "2018-04-19",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2018-04-19"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون حماية جودة الهواء يتضمن 34 مادة تتعلق بتلوث الهواء المحيط.",
+      "full_text_french": "La Loi sur la Protection de la Qualité de l'Air comprend 34 articles relatifs à la pollution de l'air ambiant.",
+      "key_articles": [
+        {
+          "article_number": "General Provisions",
+          "text_arabic": "القانون يهدف إلى منع والحد من تلوث الهواء المحيط من المصادر الثابتة والمتنقلة.",
+          "text_french": "La loi vise à prévenir et atténuer la pollution de l'air ambiant provenant de sources fixes et mobiles.",
+          "subject": "Purpose and scope"
+        },
+        {
+          "article_number": "Monitoring",
+          "text_arabic": "مراقبة ملوثات الهواء من خلال البرنامج الوطني لمراقبة جودة الهواء.",
+          "text_french": "Surveillance des polluants atmosphériques via le Programme National de Surveillance de la Qualité de l'Air.",
+          "subject": "Air quality monitoring"
+        },
+        {
+          "article_number": "Emission Limits",
+          "text_arabic": "تحديد قيم حدود الملوثات في الهواء المحيط بما فيها CO، NOx، O3، الجسيمات، SO2.",
+          "text_french": "Définition des valeurs limites des polluants dans l'air ambiant incluant CO, NOx, O3, particules, SO2.",
+          "subject": "Ambient air quality standards"
+        },
+        {
+          "article_number": "Climate Change",
+          "text_arabic": "يشير القانون إلى تغير المناخ بشكل عام.",
+          "text_french": "La loi fait référence au changement climatique de manière générale.",
+          "subject": "Climate change reference"
+        }
+      ],
+      "historical_context": "Law 78/2018 was enacted to address Lebanon's significant air pollution problems, particularly in urban areas. The law establishes the National Ambient Air Quality Standards (NAAQS) and creates frameworks for monitoring air pollutants, emission inventories, and early warning systems. It complements Law 444/2002 and aligns with Lebanon's commitments under the UNFCCC and Paris Agreement.",
+      "related_laws": [
+        "Law 444/2002",
+        "Decision 52/1/1996",
+        "Decision 8/1/2001",
+        "Decree 8442/2002"
+      ],
+      "source_url": "https://www.moe.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-003",
+      "official_number": "Law 80/2018",
+      "official_title_arabic": "قانون إدارة النفايات الصلبة المتكاملة - القانون رقم 80 تاريخ 24/9/2018",
+      "official_title_french": "Loi n° 80 du 24 septembre 2018 - Loi sur la Gestion Intégrée des Déchets Solides",
+      "official_title_english": "Integrated Solid Waste Management Law - Law No. 80 dated September 24, 2018",
+      "date_enacted": "2018-09-24",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2018-09-24"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Proposed amendment to Article 28",
+          "date": "2025",
+          "articles_affected": [
+            "Article 28"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون إدارة النفايات الصلبة المتكاملة ينظم جمع ونقل ومعالجة النفايات.",
+      "full_text_french": "La Loi sur la Gestion Intégrée des Déchets Solides réglemente la collecte, le transport et le traitement des déchets.",
+      "key_articles": [
+        {
+          "article_number": "Article 28",
+          "text_arabic": "السماح للبلديات بتحصيل رسوم معالجة النفايات.",
+          "text_french": "Permettre aux municipalités de percevoir des frais de traitement des déchets.",
+          "subject": "Municipal waste treatment fees"
+        },
+        {
+          "article_number": "Waste Sorting",
+          "text_arabic": "تشجيع فرز النفايات عند المصدر وإعادة التدوير.",
+          "text_french": "Encourager le tri des déchets à la source et le recyclage.",
+          "subject": "Source separation and recycling"
+        },
+        {
+          "article_number": "Private Sector",
+          "text_arabic": "السماح بمشاركة القطاع الخاص في عمليات إدارة النفايات.",
+          "text_french": "Permettre la participation du secteur privé dans les opérations de gestion des déchets.",
+          "subject": "Private sector involvement"
+        },
+        {
+          "article_number": "Organic Waste",
+          "text_arabic": "النفايات العضوية تشكل حوالي 52% من إجمالي النفايات المنتجة في لبنان.",
+          "text_french": "Les déchets organiques constituent environ 52% du total des déchets produits au Liban.",
+          "subject": "Organic waste composition"
+        }
+      ],
+      "historical_context": "Law 80/2018 was enacted in response to Lebanon's severe waste management crisis that began in 2015. The law provides a framework for integrated solid waste management including provisions for waste sorting, recycling, and treatment. However, critics note it lacks detailed implementation mechanisms and does not adequately address waste prevention, reuse, or extended producer responsibility. The law is currently being amended to address municipal financing issues.",
+      "related_laws": [
+        "Law 444/2002",
+        "Law 78/2018",
+        "Decree-Law 118/1977"
+      ],
+      "source_url": "https://www.moe.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-004",
+      "official_number": "Law 49/1949",
+      "official_title_arabic": "قانون الغابات - القانون رقم 49 تاريخ 1949",
+      "official_title_french": "Loi n° 49 de 1949 - Code Forestier",
+      "official_title_english": "Forest Law / Forest Code - Law No. 49 of 1949",
+      "date_enacted": "1949",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1949"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 85/1991",
+          "date": "1991",
+          "articles_affected": [
+            "Protection provisions"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 558/1996",
+          "date": "1996",
+          "articles_affected": [
+            "Protected forests"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 195/2000",
+          "date": "2000",
+          "articles_affected": [
+            "Penalties"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون الغابات يحدد أنواع الغابات وينظم أنشطتها ويحميها.",
+      "full_text_french": "Le Code Forestier définit les types de forêts, réglemente leurs activités et les protège.",
+      "key_articles": [
+        {
+          "article_number": "Definition",
+          "text_arabic": "الغابة هي بستان يضم أشجاراً مختلفة ملتفة حول بعضها.",
+          "text_french": "La forêt est un bois comprenant différents arbres enroulés les uns autour des autres.",
+          "subject": "Forest definition"
+        },
+        {
+          "article_number": "Classification",
+          "text_arabic": "تصنف الغابات إلى أربع فئات حسب الملكية: خاصة، بلدية/قرى، دولة، دولة بحقوق الانتفاع للقرى.",
+          "text_french": "Les forêts sont classées en quatre catégories selon la propriété: privée, municipale/villages, État, État avec droits d'usage pour les villages.",
+          "subject": "Forest classification by ownership"
+        },
+        {
+          "article_number": "Activities",
+          "text_arabic": "ينظم القانون أنشطة الغابات بما فيها الرعي والتقليم والجذب والتخفيف وإنتاج الفحم.",
+          "text_french": "La loi réglemente les activités forestières incluant le pâturage, l'élagage, le dépressage, l'éclaircie et la production de charbon.",
+          "subject": "Regulated forest activities"
+        }
+      ],
+      "historical_context": "The Forest Law of 1949 is one of the oldest environmental laws in Lebanon and the region, covering forests that were under the French Mandate. It was amended by Law 85/1991 which imposed severe restrictions on forest activities and banned harvesting from resinous trees (cedar, fir, cypress, oak, juniper). Law 558/1996 further strengthened protection by considering all coniferous forests as protected. Law 195/2000 criminalized illegal operations.",
+      "related_laws": [
+        "Law 85/1991",
+        "Law 558/1996",
+        "Law 195/2000",
+        "Decree 9923"
+      ],
+      "source_url": "https://www.agriculture.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-005",
+      "official_number": "Water Law 2000",
+      "official_title_arabic": "قانون المياه - قانون عام 2000",
+      "official_title_french": "Loi sur l'Eau - Loi de 2000",
+      "official_title_english": "Water Law - Law of 2000",
+      "date_enacted": "2000",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2000"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون المياه يحكم إدارة واستخدام موارد المياه في لبنان.",
+      "full_text_french": "La Loi sur l'Eau régit la gestion et l'utilisation des ressources en eau au Liban.",
+      "key_articles": [
+        {
+          "article_number": "Article 8",
+          "text_arabic": "الملكية العامة للمياه تشمل المياه بجميع حالاتها الطبيعية والمواقع الجيولوجية.",
+          "text_french": "La propriété publique de l'eau comprend l'eau dans tous ses états naturels et emplacements géologiques.",
+          "subject": "Public ownership of water"
+        },
+        {
+          "article_number": "Article 42",
+          "text_arabic": "تحديد التعرفات بعد مراعاة التوازن المالي لمؤسسة المياه والوضع الاجتماعي الاقتصادي للمستفيدين.",
+          "text_french": "Détermination des tarifs après prise en compte de l'équilibre financier de l'institution d'eau et de la situation socio-économique des bénéficiaires.",
+          "subject": "Water tariff determination"
+        },
+        {
+          "article_number": "Article 46",
+          "text_arabic": "قائمة التعرفات قد تشمل: خدمة المياه الصالحة للشرب، خدمة الصرف الصحي، تعرفة الري.",
+          "text_french": "La liste des tarifs peut inclure: service d'eau potable, service d'assainissement, tarif d'irrigation.",
+          "subject": "Types of water tariffs"
+        }
+      ],
+      "historical_context": "The Water Law of 2000 governs the management and use of Lebanon's water resources, including surface water and groundwater. It establishes the framework for Water Establishments (WEs) and their financial autonomy, though the Ministry of Energy and Water maintains significant oversight. The law addresses water scarcity issues exacerbated by urbanization, pollution, and climate change.",
+      "related_laws": [
+        "Law 444/2002",
+        "Decree 144/S/1925"
+      ],
+      "source_url": "https://www.mew.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-MUN-002",
+      "official_number": "Law 665/1997",
+      "official_title_arabic": "قانون تعديل قانون البلديات - القانون رقم 665 تاريخ 30/12/1997",
+      "official_title_french": "Loi n° 665 du 30 décembre 1997 - Loi modifiant la Loi sur les Municipalités",
+      "official_title_english": "Municipal Law Amendment - Law No. 665 dated December 30, 1997",
+      "date_enacted": "1997-12-30",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1997-12-30"
+      },
+      "category": "Municipal Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون تعديل قانون البلديات وقانون انتخاب أعضاء مجلس النواب وقانون المختارين.",
+      "full_text_french": "Loi modifiant la Loi sur les Municipalités, la Loi sur l'élection des membres du Parlement et la Loi sur les Mukhtars.",
+      "key_articles": [
+        {
+          "article_number": "Article 9",
+          "text_arabic": "يتركب مجلس البلدية من عدد من الأعضاء يتحدد بحسب عدد السكان: 9 أعضاء حتى 2000 نسمة، 12 عضواً بين 2001-4000، 15 عضواً بين 4001-12000، 18 عضواً بين 12001-24000، 21 عضواً فوق 24000، 24 عضواً لبيروت وطرابلس.",
+          "text_french": "Le Conseil municipal se compose d'un nombre de membres déterminé selon la population: 9 membres jusqu'à 2000 habitants, 12 entre 2001-4000, 15 entre 4001-12000, 18 entre 12001-24000, 21 au-delà de 24000, 24 pour Beyrouth et Tripoli.",
+          "subject": "Municipal Council composition by population"
+        },
+        {
+          "article_number": "Article 11",
+          "text_arabic": "ينتخب أعضاء مجلس البلدية بالاقتراع العام والمباشر.",
+          "text_french": "Les membres du Conseil municipal sont élus au suffrage universel et direct.",
+          "subject": "Election method"
+        },
+        {
+          "article_number": "Article 21",
+          "text_arabic": "ينتخب مجلس البلدية رئيساً ونائباً للرئيس من بين أعضائه بالاقتراع السري والأغلبية المطلقة.",
+          "text_french": "Le Conseil municipal élit un président et un vice-président parmi ses membres par vote secret et à la majorité absolue.",
+          "subject": "Election of President and Vice-President"
+        },
+        {
+          "article_number": "Article 23",
+          "text_arabic": "يحق لوزير الداخلية تحديد موعد الانتخابات لتتم في يوم واحد أو في أيام متفرقة.",
+          "text_french": "Le Ministre de l'Intérieur peut fixer la date des élections pour qu'elles aient lieu en un seul jour ou en jours séparés.",
+          "subject": "Election scheduling"
+        },
+        {
+          "article_number": "Article 26",
+          "text_arabic": "التزكية مسموح بها فقط عند استيفاء شروط محددة.",
+          "text_french": "L'acclamation n'est autorisée que lorsque des conditions spécifiques sont remplies.",
+          "subject": "Acclamation conditions"
+        }
+      ],
+      "historical_context": "Law 665/1997 is a significant amendment to the Municipal Law 118/1977. It updated the composition of municipal councils based on population, modified election procedures, and established clearer rules for municipal governance. The law has been criticized for facilitating the proliferation of municipalities by making their establishment a prerogative of the Minister of Interior rather than a right based on objective criteria.",
+      "related_laws": [
+        "Decree-Law 118/1977",
+        "Parliamentary Election Law"
+      ],
+      "source_url": "http://www.interior.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-MUN-003",
+      "official_number": "Law 60/1988",
+      "official_title_arabic": "قانون الصندوق البلدي المستقل - القانون رقم 60 تاريخ 1988",
+      "official_title_french": "Loi n° 60 de 1988 - Loi sur le Fonds Municipal Indépendant",
+      "official_title_english": "Independent Municipal Fund Law - Law No. 60 of 1988",
+      "date_enacted": "1988",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1988"
+      },
+      "category": "Municipal Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ينشئ هذا القانون الصندوق البلدي المستقل كآلية لتوزيع الموارد على البلديات.",
+      "full_text_french": "Cette loi crée le Fonds Municipal Indépendant comme mécanisme de distribution des ressources aux municipalités.",
+      "key_articles": [
+        {
+          "article_number": "Fund Sources",
+          "text_arabic": "يضم الصندوق: ضريبة بنسبة 10% على جميع العقارات المبنية.",
+          "text_french": "Le Fonds comprend: une surtaxe de 10% sur tous les biens immobiliers bâtis.",
+          "subject": "Fund revenue sources"
+        },
+        {
+          "article_number": "Distribution",
+          "text_arabic": "توزع أموال الصندوق على البلديات وفقاً لمعايير محددة.",
+          "text_french": "Les fonds sont distribués aux municipalités selon des critères définis.",
+          "subject": "Fund distribution criteria"
+        },
+        {
+          "article_number": "Exemptions",
+          "text_arabic": "الإعفاءات تشمل: المستشفيات، المؤسسات التعليمية، المباني المستخدمة للأغراض الدينية.",
+          "text_french": "Les exemptions incluent: hôpitaux, établissements d'enseignement, bâtiments utilisés à des fins religieuses.",
+          "subject": "Property tax exemptions"
+        }
+      ],
+      "historical_context": "Law 60/1988 established the Independent Municipal Fund (IMF) as the main mechanism for financing municipal activities in Lebanon. The fund collects revenues from various sources including a 10% surtax on built properties and distributes them to municipalities. The fund has been criticized for being subject to central government control and political interference in its distribution mechanisms.",
+      "related_laws": [
+        "Decree-Law 118/1977",
+        "Law 665/1997"
+      ],
+      "source_url": "http://www.interior.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-006",
+      "official_number": "Law on Noise Pollution 2004",
+      "official_title_arabic": "قانون حماية البيئة من التلوث الضوضائي - قانون عام 2004",
+      "official_title_french": "Loi sur la Protection de l'Environnement contre la Pollution Sonore - Loi de 2004",
+      "official_title_english": "Law on the Protection of the Environment from Noise Pollution - Law of 2004",
+      "date_enacted": "2004",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2004"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون حماية البيئة من التلوث الضوضائي يحدد معايير الضوضاء في المناطق المختلفة.",
+      "full_text_french": "La Loi sur la Protection de l'Environnement contre la Pollution Sonore définit les normes de bruit dans différentes zones.",
+      "key_articles": [
+        {
+          "article_number": "Noise Standards",
+          "text_arabic": "تحديد حدود الضوضاء المسموح بها في المناطق السكنية والتجارية والصناعية.",
+          "text_french": "Définition des limites de bruit autorisées dans les zones résidentielles, commerciales et industrielles.",
+          "subject": "Noise pollution standards"
+        },
+        {
+          "article_number": "Regulated Sources",
+          "text_arabic": "تنظيم تشغيل مواقع البناء والمصانع ومصادر الضوضاء الأخرى.",
+          "text_french": "Réglementation du fonctionnement des chantiers de construction, usines et autres sources de bruit.",
+          "subject": "Noise source regulation"
+        },
+        {
+          "article_number": "Public Awareness",
+          "text_arabic": "تشجيع حملات التوعية العامة حول آثار التلوث الضوضائي على الصحة.",
+          "text_french": "Encouragement des campagnes de sensibilisation du public sur les impacts sanitaires de la pollution sonore.",
+          "subject": "Public awareness campaigns"
+        }
+      ],
+      "historical_context": "The Noise Pollution Law was enacted in 2004 to address growing concerns about noise pollution in Lebanon's urban areas. The law sets permissible noise levels for different zones and regulates noise-generating activities. However, enforcement has been limited due to weak monitoring capacity and lack of resources.",
+      "related_laws": [
+        "Law 444/2002",
+        "Law 78/2018"
+      ],
+      "source_url": "https://www.moe.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LEB-ENV-007",
+      "official_number": "Law 64/1988",
+      "official_title_arabic": "قانون حماية البيئة من التلوث بالنفايات الخطرة والمواد الضارة - القانون رقم 64 تاريخ 1988",
+      "official_title_french": "Loi n° 64 de 1988 - Préservation de l'Environnement contre la Pollution par les Déchets Dangereux et les Substances Nocives",
+      "official_title_english": "Preservation of the Environment against Pollution from Dangerous Waste and Hazardous Substances - Law No. 64 of 1988",
+      "date_enacted": "1988",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1988"
+      },
+      "category": "Environmental Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ينظم هذا القانون التعامل مع النفايات الخطرة والمواد الضارة لحماية البيئة.",
+      "full_text_french": "Cette loi réglemente la manipulation des déchets dangereux et substances nocives pour protéger l'environnement.",
+      "key_articles": [
+        {
+          "article_number": "Article 9",
+          "text_arabic": "يجريم أي شخص ي discharge في مياه البحر أي مواد كيميائية أو نفايات ضارة.",
+          "text_french": "Pénalise toute personne déversant dans les eaux de mer des produits chimiques ou déchets dangereux.",
+          "subject": "Marine pollution prohibition"
+        },
+        {
+          "article_number": "Hazardous Waste",
+          "text_arabic": "تنظيم جمع ونقل ومعالجة النفايات الخطرة.",
+          "text_french": "Réglementation de la collecte, transport et traitement des déchets dangereux.",
+          "subject": "Hazardous waste management"
+        }
+      ],
+      "historical_context": "Law 64/1988 was one of Lebanon's earliest environmental protection laws, addressing pollution from dangerous waste and hazardous substances. It was enacted before the comprehensive Environmental Protection Law 444/2002 and remains in force for specific hazardous waste matters.",
+      "related_laws": [
+        "Law 444/2002",
+        "Law 80/2018"
+      ],
+      "source_url": "https://www.moe.gov.lb",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

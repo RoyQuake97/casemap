@@ -1,0 +1,1423 @@
+{
+  "metadata": {
+    "file": "penal_code_expanded.json",
+    "description": "Expanded Penal Code - Full article-level text from STL English translation",
+    "total_entries": 1,
+    "source": "ccls-lebanon.org STL Draft Official Translation",
+    "last_updated": "2026-03-11"
+  },
+  "laws": [
+    {
+      "law_id": "LB-CRIM-001-EXPANDED",
+      "official_number": "Decree-Law No. 340 of March 1, 1943",
+      "official_title_arabic": "قانون العقوبات",
+      "official_title_french": "Code Pénal",
+      "official_title_english": "Penal Code (Expanded)",
+      "date_enacted": "1943-03-01",
+      "category": "Criminal Law",
+      "subcategory": "General Penal Code",
+      "status": "amended",
+      "total_articles": 772,
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_english": "Article 1 ‐ No penalty may be imposed and no preventive or corrective measure may be taken in respect of an offence that was not defined by statute at the time of its commission. An accused person shall not be charged with acts constituting an offence or with acts performed as a principal or accomplice before the offence in question has been defined by statute.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "2",
+          "text_english": "Article 2 ‐ An offence shall not entail a penalty or give rise to a preventive or corrective measure if it is abolished by a new statute, and any criminal sentences imposed shall cease to have effect. However, an offence committed in breach of a temporary statute during its period of applicability shall not cease to be prosecuted and punished on expiry of the period in question.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "3",
+          "text_english": "Article 3 ‐ Article 3 was amended by Article 1 of the Act of 5 February 1948 as follows: Any statute that amends the definition of an offence in a manner that benefits the accused shall be applicable to the acts committed prior to its entry into force unless a final judgement has been rendered.",
+          "current_version": true
+        },
+        {
+          "article_number": "4",
+          "text_english": "Article 4 ‐ Any statute that amends the right to prosecute shall be applicable to offences committed previously if it is more favourable to the accused. If the new statute imposes a time limit on the right to prosecute, the time limit shall not begin to run until the date on which the statute enters into force. If the statute amends an existing time limit, the time limit shall run in accordance with the previous statute. However, its duration may not exceed the time limit imposed by the new statute, calculated with effect from the date of its entry into force.",
+          "current_version": true
+        },
+        {
+          "article_number": "5",
+          "text_english": "Article 5 ‐ If a statute amends the limitation period applicable to an offence, the period shall run in accordance with the previous statute, although its duration may not exceed the limitation period prescribed by the new statute, calculated with effect from the date of its entry into force. English version (STL Draft Official Translation from Arabic) Version 1.0 3 Subsection 2 – Legality of penalties",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "6",
+          "text_english": "Article 6 ‐ No penalty may be imposed that was not prescribed by statute at the time of commission of the offence. An offence is deemed to have been committed when the acts constituting the offence were carried out, irrespective of the time at which the result of the offence occurred.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "7",
+          "text_english": "Article 7 ‐ Any new statute, even one containing stricter provisions, shall be applicable to continuing, serial, recurrent or habitual offences that continue to be committed after its entry into force.",
+          "current_version": true
+        },
+        {
+          "article_number": "8",
+          "text_english": "Article 8 ‐ Article 8 was amended by Article 2 of the Act of 5 February 1948 as follows: Any new statute that abolishes a penalty or prescribes a more lenient penalty shall be applicable to offences committed prior to its entry into force unless a final judgement has been rendered.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "9",
+          "text_english": "Article 9 ‐ Any new statute that prescribes harsher penalties shall not be applicable to offences committed before its entry into force. However, if the new statute amends the regime governing plurality of offences or recidivism, account shall be taken, when prosecuting an act undertaken after its entry into force, of offences committed and sentences imposed prior to that date.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "10",
+          "text_english": "Article 10 ‐ Any new statute that amends the enforcement of a penalty by changing its nature shall not be applicable to acts committed before its entry into force unless it is more favourable to the accused or convicted person. The nature of a penalty is deemed to have been changed if the new statute amends the legal provisions applicable thereto under the section of this Code concerning penalties.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "11",
+          "text_english": "Article 11 ‐ Article 11 was amended by Article 51, paragraph 1, of Legislative Decree No. 112 of 16 September 1983 as follows: Any new statute that amends the limitation period applicable to a penalty shall be applied in accordance with the terms of Article 5. Subsection 3 – Legality of preventive and corrective measures",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "12",
+          "text_english": "Article 12 ‐ No preventive or corrective measure may be ordered save in accordance with the conditions and in the cases provided for by law.",
+          "current_version": true
+        },
+        {
+          "article_number": "13",
+          "text_english": "Article 13 ‐ Any new statute providing for a preventive or corrective measure shall be applicable to offences concerning which no judgement has been rendered by the last court having jurisdiction with respect to the facts. Sentences imposed prior to the entry into force of the new statute shall be taken into account, when an act committed under that statute is prosecuted, in the application of provisions pertaining to habitual criminal conduct. English version (STL Draft Official Translation from Arabic) Version 1.0 4",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "14",
+          "text_english": "Article 14 ‐ Any preventive or corrective measure that is abolished by law or replaced by another measure shall cease to have effect. If a final judgement has been rendered, the proceedings shall be reviewed with a view to applying the new preventive or corrective measure. Section II – Territorial scope of application of criminal law Subsection 1 – Territorial jurisdiction",
+          "current_version": true
+        },
+        {
+          "article_number": "15",
+          "text_english": "Article 15 ‐ Lebanese law is applicable to all offences committed in Lebanese territory. An offence shall be deemed to have been committed in Lebanese territory: 1. If one of the constituent elements of the offence, an act forming part of an indivisible offence or an act involving a principal or an accomplice is perpetrated in Lebanese territory; 2. If the result occurs or was expected to occur in Lebanese territory.",
+          "current_version": true
+        },
+        {
+          "article_number": "16",
+          "text_english": "Article 16 ‐ Lebanese territory includes the atmospheric layer covering its surface, in other words the aerial territory.",
+          "current_version": true
+        },
+        {
+          "article_number": "17",
+          "text_english": "Article 17 ‐ The following are assimilated to Lebanese territory for the purpose of the application of criminal law: 1. The territorial sea extending to a distance of twenty kilometres from the shore, measured from the low‐water mark; 2. The aerial space above the territorial sea; 3. Lebanese ships and aircraft; 4. Foreign territory occupied by a Lebanese army if the offences committed adversely affect the army’s security or interests. The following paragraph was added to Article 17 pursuant to Article 1, paragraph 1, of Act No. 513 of 6 June 1996: 5. The border area, the exclusive economic zone, the Lebanese continental shelf and platforms attached to the continental shelf, in conformity with the provisions of the United Nations Convention on the Law of the Sea, signed on 10 December 1982 at Montego Bay (Jamaica), to which the Government was authorized to accede by Act No. 29 of 22 February 1994.",
+          "current_version": true,
+          "subject": "Banking and credit"
+        },
+        {
+          "article_number": "18",
+          "text_english": "Article 18 ‐ Lebanese law shall not be applicable to: 1. Offences committed on board a foreign aircraft in Lebanese aerial space if the offence does not extend beyond the interior of the aircraft. However, Lebanese law shall be applicable to offences that do not extend beyond the interior of the aircraft if the perpetrator or the victim is a Lebanese national, or if the aircraft lands in Lebanon after the commission of the offence; 2. Offences committed on board a foreign ship or aircraft in the Lebanese territorial sea or the aerial space above the territorial sea if the offence does not extend beyond the interior of the ship or aircraft; 3. Repealed by Article 168 of the Code of Military Justice promulgated on 12 January 1946. English version (STL Draft Official Translation from Arabic) Version 1.0 5 The following text was added to Article 18 by Article 2 of Legislative Decree No. 112 of 16 September 1983: Lebanese law is applicable to offences involving the seizure of foreign ships or their cargo if the ships in question enter Lebanese territorial waters. Lebanese law is applicable to any offence that is committed within or on board the ship under such circumstances, subject to the provisions of international treaties ratified by the Lebanese authorities. Lebanese law is also applicable to the offence of seizure of ships’ cargoes outside the territorial waters if the cargoes are conveyed into Lebanese territory for local consumption or for transit purposes. Subsection 2 – Jurisdiction ratione materiae",
+          "current_version": true,
+          "subject": "Property law"
+        },
+        {
+          "article_number": "19",
+          "text_english": "Article 19 ‐ Article 19 was repealed by Article 1, paragraph 2, of Act No. 513 of 6 June 1996 and replaced by the following text: Lebanese law is applicable to any Lebanese national, foreigner or stateless person who, acting outside Lebanese territory or on board a foreign aircraft or ship as a principal, accomplice, instigator or accessory, commits: 1. Offences against state security or offences involving the counterfeiting of the state seal, the counterfeiting or forgery of Lebanese or foreign banknotes or securities circulating by law or by custom in Lebanon, or the forgery of passports, entry visas, identity cards or extracts from the Lebanese civil status register. However, these provisions shall not be applicable to a foreigner whose act does not constitute a breach of international legal rules; 2. Any of the offences against the security of aerial navigation or shipping defined in Articles 641, 642 and 643, as amended, of the Criminal Code; 3. Offences against the security of platforms attached to the continental shelf of a contracting party to the Rome Protocol of 10 March 1988; 4. Offences aimed at compelling Lebanon to perform an act or to refrain from performing it, if a Lebanese national is thereby threatened, detained, injured or killed. Subsection 3 – Jurisdiction ratione personae",
+          "current_version": true,
+          "subject": "Homicide"
+        },
+        {
+          "article_number": "20",
+          "text_english": "Article 20 ‐ Lebanese law is applicable to any Lebanese national who, acting outside Lebanese territory as a principal, instigator or accomplice, commits a felony or misdemeanour that is punishable under Lebanese law. This shall be the case even if the accused loses or acquires Lebanese nationality after committing the felony or misdemeanour.",
+          "current_version": true,
+          "subject": "Nationality and citizenship"
+        },
+        {
+          "article_number": "21",
+          "text_english": "Article 21 ‐ Lebanese law shall not be applicable outside Lebanese territory: 1. To offences committed by Lebanese officials during or in connection with the performance of their duties; 2. To offences committed by Lebanese diplomatic officials or consuls if they enjoy immunity under public international law. English version (STL Draft Official Translation from Arabic) Version 1.0 6",
+          "current_version": true
+        },
+        {
+          "article_number": "22",
+          "text_english": "Article 22 ‐ Lebanese law shall not be applicable in Lebanese territory to offences committed by foreign diplomatic officials and consuls if they enjoy immunity under public international law. Subsection 4 – Universal jurisdiction",
+          "current_version": true
+        },
+        {
+          "article_number": "23",
+          "text_english": "Article 23 ‐ Article 23 was repealed by Article 1, paragraph 3, of Act No. 513 of 6 June 1996 and replaced by the following text: Lebanese law is also applicable to any foreigner or stateless person who is resident or present in Lebanon and who, acting abroad as a principal, accomplice, instigator or accessory, committed a felony or misdemeanour other than those cited in Articles 19, 20 and 21, if his or her extradition has not been requested or granted. This is also the case if the felony or misdemeanour was committed by a person against or on board a foreign aircraft chartered without a crew to a charterer whose headquarters or permanent residence is in Lebanon, if the extradition of the perpetrator has not been requested or granted. Subsection 5 – Applicability of foreign law",
+          "current_version": true,
+          "subject": "Extradition"
+        },
+        {
+          "article_number": "24",
+          "text_english": "Article 24 ‐ Lebanese law shall not be applicable to the misdemeanours referred to in Article 20 if they are punishable with a term of imprisonment of less than three years, nor shall it be applicable to any of the offences referred to in Article 23 if they are not punishable under the law of the state in whose territory they were committed.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "25",
+          "text_english": "Article 25 ‐ If there is a difference between Lebanese law and the law in force in the place where the offence was committed, the judge may take this difference into account for the benefit of the accused when applying Lebanese law as set forth in Articles 20 and 23. Preventive or corrective measures and provisions governing incapacity and deprivation of civic rights under Lebanese law shall be applicable regardless of the law in force in the place where the offence was committed.",
+          "current_version": true
+        },
+        {
+          "article_number": "26",
+          "text_english": "Article 26 ‐ In the case of offences committed either in Lebanon or abroad, the personal legal situation of the accused shall be taken into account for the purposes of prosecution: 1. Where one of the elements of the offence is subject to the legal provisions governing personal status or capacity; 2. Where an aggravating ground or a ground of excuse other than minority under criminal law ensues from the provisions governing personal status or capacity. Subsection 6 – Effect of foreign judgements",
+          "current_version": true
+        },
+        {
+          "article_number": "27",
+          "text_english": "Article 27 ‐ Article 27 was repealed by Article 1 of Act No. 487 of 8 December 1995 and replaced by the following text: With the exception of the felonies referred to in Article 19 and offences committed in Lebanese territory, a Lebanese national or a foreigner shall not be prosecuted in Lebanon in any of the following cases: English version (STL Draft Official Translation from Arabic) Version 1.0 7 1. If he was prosecuted for the offence of fraudulent bankruptcy or negligent bankruptcy or for an offence related to these two offences or to either one of them, owing to the bankruptcy or insolvency of a company or business, if the headquarters of the company or business was located outside Lebanese territory and the prosecution was conducted in the country in which the headquarters was located; 2. In the case of all other offences, if a final judgement was rendered abroad and, in the event of a conviction, if the sentence was enforced or the enforcement lapsed due to a statute of limitations or an amnesty.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "28",
+          "text_english": "Article 28 ‐ Judgements rendered abroad shall not preclude the prosecution in Lebanon of any offence referred to in Article 19 or committed in Lebanese territory, unless the foreign court judgement was rendered following an official notification by the Lebanese authorities. However, the penalty imposed and the period spent in pre‐trial detention abroad shall be taken into account, to the extent determined by the court, in the sentence imposed.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "29",
+          "text_english": "Article 29 ‐ Article 29 was amended by Article 51, paragraph 3, of Legislative Decree No. 112 of 16 September 1983 as follows: Judgements rendered by foreign criminal courts in respect of acts characterized as felonies or misdemeanours by Lebanese law may be invoked: 1. With a view to the enforcement of preventive measures and measures of incapacity and deprivation of civic rights, provided that they are in conformity with Lebanese law, and the enforcement of awards of restitution, damages and other civil awards; 2. With a view to rendering judgements pursuant to Lebanese law in respect of preventive measures and measures of incapacity and deprivation of civic rights, and concerning awards of restitution, damages and other civil awards; 3. With a view to applying the provisions of Lebanese law concerning recidivism, habitual criminal conduct, plurality of offences, stay of execution and rehabilitation. The Lebanese judge may assess the validity of the foreign sentence in procedural and substantive terms in the light of the documents in the case file. Subsection 7 – Extradition",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "30",
+          "text_english": "Article 30 ‐ Nobody may be extradited to a foreign state in cases other than those provided for in this Code, except pursuant to a legally binding treaty.",
+          "current_version": true
+        },
+        {
+          "article_number": "31",
+          "text_english": "Article 31 ‐ The following may give rise to extradition: 1. Offences committed in the territory of the requesting state; 2. Offences that adversely affect its security or financial status; 3. Offences committed by one of its nationals.",
+          "current_version": true,
+          "subject": "Extradition"
+        },
+        {
+          "article_number": "32",
+          "text_english": "Article 32 ‐ Offences falling within the territorial jurisdiction or the jurisdiction rationae materiae or ratione personae of Lebanese law, as stipulated in Articles 15 to 17, Article 18.1 in fine and Articles 19 to 21, may not give rise to extradition. English version (STL Draft Official Translation from Arabic) Version 1.0 8",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "33",
+          "text_english": "Article 33 ‐ Article 33 was amended by Article 51, paragraph 4, of Legislative Decree No. 112 of 16 September 1983 as follows: Extradition shall not be granted: 1. If the offence is not punishable as a felony or misdemeanour under Lebanese law; this exception shall not be applicable, however, if the circumstances of the act constituting the offence cannot occur in Lebanon owing to its geographical situation; 2. If the penalty applicable under the law of the requesting state or the law of the state in whose territory the acts were committed is a term of imprisonment of less than one year for all the offences covered by the request; In the event of a conviction, if the sentence imposed is less than two months’ imprisonment; 3. If a final judgement concerning the offence has been rendered in Lebanon, or if the public prosecution or the sentence has lapsed pursuant to Lebanese law, the law of the requesting state, or the law of the state in whose territory the offence was committed.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "34",
+          "text_english": "Article 34 ‐ Extradition shall not be granted either: 1. If it is requested in connection with a political offence or if it seems to serve a political aim; 2. If the accused was enslaved in the territory of the requesting state; 3. If the penalty applicable under the law of the requesting state is contrary to the established social order.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "35",
+          "text_english": "Article 35 ‐ Article 35 was amended by Article 4 of Legislative Decree No. 112 of 16 September 1983 as follows: The request for extradition shall be referred to the Public Prosecutor at the Court of Cassation, who shall check whether the legal conditions have been fulfilled and assess whether the charge has been adequately established. He may also issue an arrest warrant for the person whose extradition is requested after questioning him. He shall then refer the file together with his report to the Minister of Justice. The decision to grant or reject the request for extradition shall be taken pursuant to a decree adopted on the basis of a proposal by the Minister of Justice.",
+          "current_version": true,
+          "subject": "Negotiable instruments"
+        },
+        {
+          "article_number": "36",
+          "text_english": "Article 36 ‐ Article 36 was amended by Article 51, paragraph 5, of Legislative Decree No. 112 of 16 September 1983 as follows: An accused who is to be extradited cannot be prosecuted adversarially, subjected to a penalty or extradited to a third state for any offence committed prior to the extradition other than the offence giving rise thereto, unless the Government of the requesting state gives its consent in accordance with the provisions of the previous article. The consent given in such cases shall not be governed by the terms of paragraph 2 of Article 33. English version (STL Draft Official Translation from Arabic) Version 1.0 9 Chapter II Criminal convictions Section I Penalties Subsection 1 ‐ Penalties in general",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "37",
+          "text_english": "The customary penalties for felonies are: 1. Death; 2. Hard labour for life; 3. Life imprisonment; 4. Fixed‐term hard labour; 5. Fixed‐term extended imprisonment.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "38",
+          "text_english": "The penalties for political felonies are: 1. Life imprisonment; 2. Fixed‐term extended imprisonment; 3. Banishment; 4. Compulsory residence; 5. Loss of civil rights.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "39",
+          "text_english": "The customary penalties for misdemeanours are: 1. Imprisonment with labour; 2. Ordinary imprisonment; 3. A fine.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "40",
+          "text_english": "The penalties for political misdemeanours are: 1. Ordinary imprisonment; 2. Compulsory residence; 3. A fine.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "41",
+          "text_english": "Article 41 was amended by Article 3 of the Act of 5 February 1948, as follows: The penalties for contraventions are: 1. Imprisonment; 2. A fine.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "42",
+          "text_english": "Accessory or additional penalties are: 1. Loss of civil rights; 2. Imprisonment combined with loss of civil rights imposed as the primary penalty; 3. A criminal fine; 4. Deprivation of civil rights; 5. Publication of the judgement; 6. Posting of the judgement; 7. Confiscation of personal property. Subsection 2 ‐ Penalties for felonies English version (STL Draft Official Translation from Arabic) Version 1.0 10",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "43",
+          "text_english": "Article 43 was amended by Article 4 of the Act of 5 February 1948, as follows: A death penalty shall be enforced only after consultation of the Pardon Commission and with the consent of the President of the Republic. Persons sentenced to death shall be hanged within prison premises or in any other location designated in the decree ordering enforcement of the penalty. A death penalty shall not be carried out on Sundays or Fridays, or on national or religious holidays. Enforcement of the death sentence against a pregnant woman shall be deferred until after she has given birth.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "44",
+          "text_english": "Where the law makes no special provision, sentences of fixed‐term hard labour, fixed‐term extended imprisonment, banishment, compulsory residence and loss of civil rights shall be imposed for a minimum of 3 years and a maximum of 15 years.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "45",
+          "text_english": "Persons sentenced to hard labour shall be compelled to perform arduous work consistent with their gender and age, either within the prison or outside.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "46",
+          "text_english": "Article 46 concerning persons sentenced to extended imprisonment. Persons sentenced to ordinary imprisonment shall not be required to work. They may, however, on request, opt for employment in one of the activities organized by the prison. If they choose such employment, they shall be required to pursue it until they have served their sentence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "47",
+          "text_english": "Article 47 was amended by paragraph 6 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Banishment is the removal of the convicted person from the country. If the expelled person does not leave the country within 15 days, or if he returns before the term of his penalty expires, a penalty of imprisonment shall be substituted for the penalty of banishment for a period equivalent, at the minimum, to the remaining term of the sentence or, at the maximum, to double that term provided that the resulting term does not exceed the maximum imposable fixed‐term prison sentence. If the expelled person is unable to leave the country or is forced to return owing to the refusal by all states to permit him to reside in their territory, the penalty of banishment shall be replaced with a penalty of imprisonment or compulsory residence for a period not exceeding the remaining term of the sentence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "48",
+          "text_english": "Compulsory residence involves the placement of the convicted person in a designated location chosen by the Judge from a list established by decree. Under no circumstances may the designated location be in a place where the convicted person had a domicile or residence, in the place where the offence was committed or in the place of residence of the victim, his blood relatives or his relatives by marriage up to the fourth degree. English version (STL Draft Official Translation from Arabic) Version 1.0 11 If the convicted person leaves his designated location for any period, the penalty of compulsory residence shall be replaced with a penalty of imprisonment for a period not exceeding the remaining term of the sentence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "49",
+          "text_english": "Article 49 was amended by paragraph 7 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Loss of civil rights entails ipso jure: 1. Dismissal and removal from all public functions and services and the forfeiture of any state emolument; 2. Dismissal and removal from all functions and services in the administration of the religious denomination or labour union to which the convicted person belongs and the forfeiture of any emolument or salary from the religious denomination or trade union; 3. Forfeiture of the right to hold a state concession or franchise; 4. Forfeiture of the right to vote or to be elected and of all civil, political, confessional and trade union rights; 5. Disqualification from owning, publishing or editing a newspaper or any other periodical; 6. Forfeiture of the right to run a school or to discharge any function in public and private education; 7. Forfeiture of the right to bear Lebanese and foreign insignia and titles of honour.",
+          "current_version": true,
+          "subject": "Employment and labor"
+        },
+        {
+          "article_number": "50",
+          "text_english": "Article 50 was amended by paragraph 8 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Any person who is sentenced to hard labour or extended imprisonment shall be legally incompetent while serving his sentence, and the exercise of rights over his property, with the exception of strictly personal rights, shall be transferred to a trustee in accordance with the provisions of the Personal Status Code relating to the appointment of trustees for persons who are legally incompetent. Any administrative act or disposition effected by the convicted person shall be considered null and void, without prejudice to the rights of bona fide third parties. No part of a convicted person’s income may be remitted to him, except for sums permitted by law or by prison regulations. The property of the convicted person shall be returned to him on his release and the trustee shall present him with a statement of account regarding his administration. Subsection 3 ‐ Penalties for misdemeanours",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "51",
+          "text_english": "The term of imprisonment shall range from 10 days to 3 years, unless otherwise provided by law. Persons sentenced to imprisonment with labour shall be subject to the regime provided for in",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "52",
+          "text_english": "The period of compulsory residence for misdemeanours shall range from three months to three years. It shall be served under the same terms as compulsory residence for felonies. If English version (STL Draft Official Translation from Arabic) Version 1.0 12 the convicted person leaves his designated location for any period, the compulsory residence shall be replaced with ordinary imprisonment for a period not exceeding the remaining term of the sentence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "53",
+          "text_english": "Article 53 was amended by the Act of 10 December 1960 and the fine was amended by Article 2 of Act No. 239 of 27 May 1993, as follows: The fine for misdemeanours shall range from 50,000 to 2 million Lebanese pounds, unless otherwise provided by law. On the basis of a special provision in the ruling, the fine may be paid in instalments that are at least equal to the minimum penalty, provided that the deadline for the final instalment is not later than one year from the day on which the decision became final. If an instalment is not paid on time, the fine shall be payable in its entirety.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "54",
+          "text_english": "Article 54 was amended by the Act of 5 February 1948, as follows: A fine shall be replaced with ordinary imprisonment, without prior notice, if it is not paid within 30 days of the date on which the judgement becomes final, in accordance with the rules in force. The fine stipulated in paragraph 2 of Article 54 was amended by Article 3 of Act No. 239 of 27 May 1993, as follows: The period of substitute imprisonment shall be specified in the sentence, or otherwise in a special decision, it being understood that one day of such a penalty shall be equivalent to a fine ranging from 2,000 to 10,000 Lebanese pounds. The substitute imprisonment may not exceed one year or the maximum primary custodial penalty carried by the offence. If the convicted person is known to have a garnishable income, recourse may be had to mandatory enforcement prior to imprisonment. Any partial payment made before or during imprisonment and any sum paid in full shall be deducted from the amount of this penalty in accordance with the proportion fixed by the judgement, as set forth in the second paragraph of this article.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "55",
+          "text_english": "Article 55 was amended by paragraph 9 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: A custodial sentence shall not be enforced against a pregnant woman who is not in detention until six weeks after she has given birth. A couple who are sentenced to imprisonment for a period of less than one year and who are not in detention shall serve the sentence consecutively if they have a child under 18 years of age in their care and if they establish that they have a fixed place of residence. English version (STL Draft Official Translation from Arabic) Version 1.0 13 Subsection 4 ‐ Common provisions concerning custodial penalties in felony and misdemeanour cases",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "56",
+          "text_english": "The following shall be imprisoned in separate locations: 1. Persons sentenced to hard labour for life and to fixed‐term hard labour; 2. Persons sentenced to life imprisonment and to fixed‐term extended imprisonment; 3. Persons sentenced to imprisonment with labour; 4. Persons sentenced to ordinary imprisonment.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "57",
+          "text_english": "Article 57 was amended by Article 6 of the Act of 5 February 1948, as follows: All proceeds from the labour of a convicted person shall be divided, under the supervision of the Public Prosecutor responsible for the enforcement of sentences, among the convicted person, his dependants, the civil party, and the State for the payment of fines, court fees and prison administration costs, in proportions determined in accordance with the nature of the judgement, provided that the proportion allotted to the family of the convicted person and to the civil party is not less than one third of the value of the monthly proceeds. When the civil party has received the full sum of compensation awarded, the portions allotted to the convicted person and his dependants shall steadily increase in proportion to his good behaviour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "58",
+          "text_english": "Any person sentenced to a custodial penalty of at least three months shall be entitled to improved prison treatment for good behaviour. The improved treatment shall cover food, type of labour, number of working hours, the silence rule, recreation, visits and correspondence. All of the foregoing shall be in conformity with the provisions of the Penalty Enforcement Act.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "59",
+          "text_english": "If a convicted person absconds, any final fixed‐term penalty imposed for a felony or misdemeanour shall be increased by one third to one half, except where otherwise provided by law. Subsection 5 – Penalties for contraventions",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "60",
+          "text_english": "Article 60 was amended by Article 7 of the Act of 5 February 1948, as follows: The term of imprisonment for a contravention shall range from 1 to 10 days. The convicted persons shall serve the term in locations other than those reserved for persons serving sentences for felonies or misdemeanours. Persons sentenced to custodial terms shall not be required to work.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "61",
+          "text_english": "Article 61 was amended by Article 8 of the Act of 5 February 1948 and the Act of 10 December 1960, and the fine was amended by Article 4 of Act No. 239 of 27 May 1993, as follows: A fine for a contravention shall range from 6,000 to 50,000 Lebanese pounds.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "62",
+          "text_english": "Article 62 was amended by Article 9 of the Act of 5 February 1948, as follows: English version (STL Draft Official Translation from Arabic) Version 1.0 14 A fine shall be replaced with ordinary imprisonment, without prior notice, if it is not paid within a period of 30 days from the date on which the judgement becomes final. The fine stipulated in paragraph 2 of Article 62 was amended by Article 5 of Act No. 239 of 27 May 1993, as follows: The period of substitute imprisonment shall be specified in the sentence, or otherwise in a special decision, it being understood that one day of such a penalty shall be equivalent to a fine ranging from 1,000 to 4,000 Lebanese pounds. The substitute imprisonment may not exceed 10 days, or the maximum primary custodial penalty carried by the offence. Any partial payment made before or during custody shall be deducted from the amount of this penalty in accordance with the proportion fixed by the judgement, as set forth in the second paragraph of this Article. Subsection 6 ‐ Accessory and additional penalties",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "63",
+          "text_english": "A sentence of hard labour for life or life imprisonment shall entail the lifelong loss of civil rights. A sentence of fixed‐term hard labour, fixed‐term extended imprisonment, banishment or compulsory residence for felonies shall entail the loss of civil rights from the day on which the judgement becomes final until the end of the tenth year of enforcement of the primary penalty. The following text was added to paragraph 2 of Article 63 by Article 5 of Legislative Decree No. 112 of 16 September 1983: Except in the case of an escaped convict, loss of civil rights shall apply, even where a judgement delivered in absentia is not final, from the date of its delivery until the date on which it is set aside pursuant to the provisions of Article 346 of the Code of Criminal Procedure.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "64",
+          "text_english": "The fine stipulated in Article 64 was amended by Article 6 of Act No. 239 of 27 May 1993, as follows: A criminal fine shall range from 100,000 to 6 million Lebanese pounds and shall be subject to the provisions of Articles 53 and 54 pertaining to fines for misdemeanours. Where a fine remains unpaid, it shall be replaced either with the penalty of hard labour or with that of extended imprisonment, depending on whether the primary penalty incurred by the convicted person was that of hard labour or another penalty for a felony.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "65",
+          "text_english": "Any person sentenced to imprisonment or compulsory residence in misdemeanour cases shall be prohibited throughout his sentence from exercising any of the following civil rights: 1. The right to hold public office and perform public services; 2. The right to hold office and perform services in managing the civil affairs of the religious denomination or the affairs of the trade union to which he belongs; 3. The right to vote in or to be elected to any state council; English version (STL Draft Official Translation from Arabic) Version 1.0 15 4. The right to vote in or to be elected to any organization pertaining to a religious denomination or to a trade union; 5. The right to bear Lebanese or foreign insignia.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "66",
+          "text_english": "In special cases determined by law, a prohibition on the exercise of one or more of the rights mentioned in the previous Article may be imposed concurrently with a penalty for a misdemeanour. The prohibition shall be imposed for a period ranging from 1 to 10 years.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "67",
+          "text_english": "Any decision involving a penalty for a felony shall be posted for a period of one month at the entrance to the Criminal Court, in the locality closest to the scene of the felony, and in the locality where the convicted person had a domicile or residence. In cases specially permitted by law, a judgement involving a penalty for a misdemeanour may be posted for a period of 15 days in locations designated by the Judge. Judgements shall be posted as summaries at the expense of the convicted person. The Judge may determine the size of the notice and the print.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "68",
+          "text_english": "The Criminal Court may order the publication of any criminal decision in one or two newspapers that it designates. Any judgement ordering a penalty for a misdemeanour may also be published in one or two newspapers designated by the Judge if the law contains an explicit provision to that effect. If a felony or misdemeanour is perpetrated by a newspaper or any other periodical, an additional notice may be published therein. If no order is issued for publication of the entire judgement, a summary thereof shall be published. The convicted person shall be liable for all costs so incurred. The fine stipulated in the last paragraph of Article 68 was amended by Article 7 of Act No. 239 of 27 May 1993, as follows: The publisher of the newspaper selected for publication of the notice shall be sentenced to a fine of between 20,000 and 100,000 Lebanese pounds if he refuses to publish it or defers publication.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "69",
+          "text_english": "Article 69 was amended by Article 10 of the Act of 5 February 1948, as follows: Without prejudice to the rights of bona fide third parties, all items that are the product of an intentional felony or misdemeanour, or that were used in or intended for its commission, may be confiscated. Such items may be confiscated in the case of an unintentional misdemeanour or a contravention if the law contains an explicit provision to that effect. English version (STL Draft Official Translation from Arabic) Version 1.0 16 If the material to be confiscated is not seized, the convicted person shall be accorded a period of time to surrender it on pain of payment of its value, as assessed by the Judge. The court may, where necessary, call upon an expert to assess the amount payable and shall collect the assessed amount by the method used for the collection of fines. Section II Precautionary measures Subsection 1 – Precautionary measures in general",
+          "current_version": true
+        },
+        {
+          "article_number": "70",
+          "text_english": "Precautionary measures entailing deprivation of liberty: 1. Confinement in a supervised facility; 2. Confinement in isolation; 3. Confinement in a work centre.",
+          "current_version": true
+        },
+        {
+          "article_number": "71",
+          "text_english": "Precautionary measures entailing restrictions on liberty: 1. Prohibition on frequenting bars; 2. Residence ban; 3. Probation; 4. Supervision; 5. Deportation.",
+          "current_version": true
+        },
+        {
+          "article_number": "72",
+          "text_english": "Precautionary measures entailing deprivation of rights: 1. Forfeiture of guardianship or trusteeship; 2. Prohibition on pursuit of an activity; 3. Prohibition on carrying a weapon.",
+          "current_version": true
+        },
+        {
+          "article_number": "73",
+          "text_english": "Precautionary measures involving property: 1. Confiscation of property; 2. Provision of a surety; 3. Closure of business premises; 4. Cessation of operations or dissolution of a legal person. English version (STL Draft Official Translation from Arabic) Version 1.0 17 Subsection 2 ‐ Confinement in a supervised facility",
+          "current_version": true,
+          "subject": "Guarantees and sureties"
+        },
+        {
+          "article_number": "74",
+          "text_english": "A person subject to an order of confinement in a supervised facility shall be placed in a hospital designated by decree, where he shall receive the care required by his condition.",
+          "current_version": true
+        },
+        {
+          "article_number": "75",
+          "text_english": "The physician at the facility shall prepare a six‐monthly report on the condition of the convicted person. A physician appointed by the court that ordered his confinement shall also see him at least once a year.",
+          "current_version": true
+        },
+        {
+          "article_number": "76",
+          "text_english": "A person who is sentenced to deprivation or restriction of liberty, confinement in isolation, probation, a residence ban or provision of a surety and who is found during enforcement of the sentence to be suffering from mental illness shall be confined in a supervised facility, where he shall receive the care required by his condition. The period of confinement may not exceed the remaining term of the sentence or precautionary measure of which enforcement has been suspended unless the convicted person is a danger to public safety. When the Judge orders his release, he shall decide whether all or some of the period of confinement should be deducted from the term of the penalty or precautionary measure. Subsection 3 ‐ Confinement in isolation",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "77",
+          "text_english": "The period of isolation shall range from 3 to 15 years. A sentence of confinement in isolation shall be served in a work institution or in an agricultural settlement designated by decree. The Judge shall order the confinement of the convicted person in one of these institutions on the basis of his qualifications, and of whether he had an urban or rural upbringing. Articles 57 to 58 shall apply to persons sentenced to confinement in isolation.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "78",
+          "text_english": "If the convicted person leaves the institution in which he is confined for any period, he shall be liable to imprisonment with labour for one to three years. Subsection 4 ‐ Confinement in a work centre",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "79",
+          "text_english": "The period of confinement in a work centre may not be less than three months or more than three years. The convicted person shall be subject to the regime specified in Articles 57 and 58. If the convicted person leaves the work centre for any period, he shall be sentenced to imprisonment with labour for a term of three months to one year. English version (STL Draft Official Translation from Arabic) Version 1.0 18 Subsection 5 ‐ Prohibition on frequenting bars",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "80",
+          "text_english": "If a felony or misdemeanour was committed under the influence of alcohol, the Judge may prohibit the convicted person from frequenting bars where alcoholic beverages are sold for a period of between one and five years on pain of imprisonment for a term of ten days to three months. The same penalty shall be imposed on the seller and persons in his employ who serve the convicted person alcoholic beverages despite being aware of the prohibition. Subsection 6 ‐ Residence ban",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "81",
+          "text_english": "A residence ban prohibits a convicted person from being present after his release in locations specified in the judgement. Residence shall be banned ipso jure in the district where the felony or misdemeanour was committed, and in the district of residence of the victim or his blood relatives up to the fourth degree, unless the Judge decides otherwise.",
+          "current_version": true
+        },
+        {
+          "article_number": "82",
+          "text_english": "The period of the residence ban shall range from 1 to 15 years. Persons sentenced to a criminal penalty involving deprivation or restriction of liberty shall be subject ipso jure to a residence ban for a period equal to the term of the penalty imposed. Persons sentenced to death, to hard labour for life or to life imprisonment and whose sentence is remitted under a general amnesty, time‐barred, commuted or replaced with a fixed‐term sentence shall be subject ipso jure to a residence ban for a period of 15 years. Persons sentenced for a misdemeanour shall not be subject to a residence ban unless the law explicitly provides for or permits the imposition of such a ban. All of the foregoing shall be applicable unless the Judge decides to increase or reduce the period of the ban within the timescale laid down in the first paragraph or to grant the convicted person an exemption.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "83",
+          "text_english": "Any violation of the residence ban shall be punishable by imprisonment for three months to three years. The Judge may substitute probation for the residence ban for a period of not less than that which remains of the residence ban. Subsection 7 ‐ Probation",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "84",
+          "text_english": "The purpose of probation is to ascertain the good behaviour of the convicted person and facilitate his reintegration into society. A person on probation shall be subject to the prohibition on frequenting bars and to the residence ban. He shall refrain from frequenting places that are proscribed by laws and regulations and shall comply with the orders imposed by the Judge to preclude recidivism. Such orders may be altered while the measure is being enforced. English version (STL Draft Official Translation from Arabic) Version 1.0 19",
+          "current_version": true
+        },
+        {
+          "article_number": "85",
+          "text_english": "The period of probation shall range from one to five years, unless the law contains a special provision to the contrary. In the absence of probation services, the police shall be in charge of probation. A report on the conduct of the convicted person shall be submitted to the Judge at least once every three months.",
+          "current_version": true
+        },
+        {
+          "article_number": "86",
+          "text_english": "Any person on probation who breaches the rules imposed by law or by the Judge, or who persistently evades probation, shall be sentenced to imprisonment with labour for a term of three months to three years, unless the law provides for another penalty. Subsection 8 ‐ Supervision",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "87",
+          "text_english": "Supervision shall be entrusted to special institutions recognized by the State. The institution shall provide work for the convicted person. Its representatives shall carefully monitor his lifestyle and provide him with advice and assistance. The property of a released prisoner may be handed over to them for use in his best interest. A report on the condition and behaviour of the convicted person shall be submitted to the judicial body that ordered the measure at least once every three months. Subsection 9 ‐ Deportation",
+          "current_version": true,
+          "subject": "Banking and credit"
+        },
+        {
+          "article_number": "88",
+          "text_english": "Any foreigner sentenced to a criminal penalty may be expelled from Lebanese territory pursuant to a special clause of the judgement. If he is sentenced to a penalty for a misdemeanour, he may not be expelled except in the cases prescribed by law. The deportation order shall either be permanent or for a period ranging from 3 to 25 years.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "89",
+          "text_english": "A foreigner against whom a deportation order has been issued must leave Lebanese territory by his own means within 15 days. Any breach of a judicial or administrative deportation measure shall be punishable by imprisonment for a term of between one and six months. English version (STL Draft Official Translation from Arabic) Version 1.0 20 Subsection 10 ‐ Forfeiture of guardianship or trusteeship",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "90",
+          "text_english": "Forfeiture of guardianship or trusteeship entails the loss of all rights over a child or orphan and his property. Forfeiture shall be either full or partial and it shall either be general or confined to one or more children or orphans. Exercise of the guardianship or trusteeship shall be transferred to a trustee in accordance with the rules governing personal status.",
+          "current_version": true,
+          "subject": "Property law"
+        },
+        {
+          "article_number": "91",
+          "text_english": "A father, mother or trustee may be denied guardianship or trusteeship if he or she is sentenced to a criminal penalty and it is evident that he or she is unfit to exercise authority over the child or orphan.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "92",
+          "text_english": "Such persons shall be liable to the same measure: 1. If they are sentenced to a penalty for a felony or a misdemeanour in connection with the perpetration of or complicity in an offence against a child, descendant or orphan; 2. If a minor in their care commits a felony or misdemeanour as a result of their careless upbringing or habitual neglect of his supervision.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "93",
+          "text_english": "Forfeiture of guardianship or trusteeship shall be for life or for a period of between 3 and 15 years. Under no circumstances may a period be prescribed that is shorter than a custodial penalty or custodial precautionary measure to which the father, mother or trustee is sentenced. Subsection 11 ‐ Prohibition on pursuit of an activity",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "94",
+          "text_english": "Any person may be prohibited from pursuing a specialized discipline, a profession, trade or any other activity that depends on the acceptance of authority or the acquisition of a certificate if he is sentenced to a penalty for a felony or misdemeanour pertaining to an offence committed in breach of professional obligations or duties associated with the activity in question. If the activity can be pursued unconditionally or without a licence, the courts may not prohibit its pursuit except in the cases prescribed by law. In cases involving printed matter, the publisher shall be subject to a prohibition even if his pursuit of the activity requires no licence. The prohibition imposed on him or the owner shall entail suspension of the newspaper for the same period as the prohibition.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "95",
+          "text_english": "Article 95 if he breaches the provisions of the preceding Articles. Subsection 16 ‐ Cessation of operations or dissolution of a legal person",
+          "current_version": true
+        },
+        {
+          "article_number": "96",
+          "text_english": "Prohibition on carrying a weapon may be ordered for life or for a period ranging from 3 to 15 years. No person subject to such a measure may obtain a permit to acquire or carry a weapon, and any permit in his possession shall be cancelled. The fee that he paid for that purpose shall not be reimbursed.",
+          "current_version": true
+        },
+        {
+          "article_number": "97",
+          "text_english": "Any penalty imposed for a felony or a misdemeanour pertaining to an offence perpetrated by means of a weapon or involving violence shall entail a prohibition on carrying a weapon for a period of three years, unless the judgement states otherwise. Subsection 13 ‐ Confiscation of property",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "98",
+          "text_english": "Article 98 was amended by Article 11 of the Act of 5 February 1948, as follows: Items unlawfully manufactured, acquired, sold or used by the accused or convicted person shall be confiscated, even if they are not his property or if the prosecution does not lead to a conviction. If the material to be confiscated is not seized, the convicted or accused person shall be accorded a period of time to surrender it on pain of payment of double its value, as assessed by the Judge. The court may, where necessary, call upon an expert to assess the amount payable and shall collect the assessed amount by the method used for the collection of fines. Subsection 14 ‐ Provision of a surety",
+          "current_version": true,
+          "subject": "Guarantees and sureties"
+        },
+        {
+          "article_number": "99",
+          "text_english": "A surety is a sum of money, general securities, a security bond or an insurance contract deposited as a guarantee of good behaviour on the part of the convicted person or in order to preclude another offence. The surety requirement may be imposed for a minimum of one year and a maximum of five years unless the law contains a special provision pertaining thereto. The sum stipulated in the last paragraph of Article 99 was amended by Article 8 of Act No. 239 of 27 May 1993, as follows: In the ruling, the Judge shall determine the sum to be deposited or the sum to be covered by the insurance contract or security bond. It may not be less than 5,000 or more than 400,000 Lebanese pounds.",
+          "current_version": true,
+          "subject": "Contracts and obligations"
+        },
+        {
+          "article_number": "100",
+          "text_english": "The surety requirement shall be replaced ipso jure with probation for the same period if the surety is not provided before the date set by the Judge and within 10 days at the latest. If the surety requirement is imposed on a legal person, it may be discharged by distraint. English version (STL Draft Official Translation from Arabic) Version 1.0 22 If the assets of the legal person are insufficient to cover the amount of surety set unless it ceases its legitimate activity, its dissolution may be ordered.",
+          "current_version": true,
+          "subject": "Guarantees and sureties"
+        },
+        {
+          "article_number": "101",
+          "text_english": "Article 101 was amended by paragraph 10 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: A surety requirement may be imposed: 1. In the case of a sentence for threats or blackmail; 2. In the case of a sentence for incitement to a felony that produced no effect; 3. If there is cause to fear that the convicted person will return to harm the victim or members of his family, or to damage their property; 4. In the case of a stay of enforcement or the suspension of an enforceable judgement; 5. In the case of a sentence against a legal person for an offence entailing probation.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "102",
+          "text_english": "The surety shall be returned, the insurance cancelled and the security released if the act to be precluded is not committed during the probation period. Paragraph 2 of Article 102 was amended by paragraph 11 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: In the contrary case, the surety shall be collected and earmarked, in order of priority, for personal compensation, fees and fines. Any remaining amount shall be confiscated for the benefit of the State. Subsection 15 ‐ Closure of business premises",
+          "current_version": true,
+          "subject": "Insurance"
+        },
+        {
+          "article_number": "103",
+          "text_english": "The closure of business premises where an offence was committed by or with the consent of the owner may be ordered for a minimum of one month and a maximum of two years if explicitly permitted by law. Closure for any reason shall ipso jure entail a prohibition on pursuit of the same activity by the convicted person, as stipulated in Article 94.",
+          "current_version": true
+        },
+        {
+          "article_number": "104",
+          "text_english": "The closure of business premises ordered on account of criminal or immoral acts shall entail a prohibition on pursuit of the same activity therein by the convicted person, a member of his family, or any person who owns or leases the premises and was aware of the matter. The prohibition shall not be applicable to the owner of the property and to all those with a right of lien, a mortgage right or a claim on the premises if they had no connection with the offence.",
+          "current_version": true,
+          "subject": "Mortgage"
+        },
+        {
+          "article_number": "105",
+          "text_english": "If the closure of business premises is ordered because the investor undertook his investment in his place of residence without a licence, he shall be required to vacate the premises, without prejudice to the right of the bona fide lessor, to cancel the lease and to file a claim for loss and damages.",
+          "current_version": true,
+          "subject": "Lease and tenancy"
+        },
+        {
+          "article_number": "106",
+          "text_english": "If this measure is ordered because the investor is legally incompetent, its effects shall be restricted to him. English version (STL Draft Official Translation from Arabic) Version 1.0 23",
+          "current_version": true
+        },
+        {
+          "article_number": "107",
+          "text_english": "The convicted person and any third party shall be liable to the penalties set out in",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "108",
+          "text_english": "A labour union, company or association and any legal person, apart from public administration services, may be ordered to cease its operations if its directors, management staff, representatives or employees commit on its behalf, or using one of the means at its disposal, an intentional felony or misdemeanour punishable by imprisonment for a term of at least two years.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "109",
+          "text_english": "The said legal persons may be dissolved in the cases referred to in the preceding Article: 1. If they failed to comply with the legal requirements for incorporation; 2. If the purpose for which they were established is unlawful or if they were intended de facto to serve such a purpose; 3. If they breached the legal provisions prescribed on pain of dissolution; 4. If their operations were suspended pursuant to a final decision delivered less than five years previously.",
+          "current_version": true
+        },
+        {
+          "article_number": "110",
+          "text_english": "Dissolution shall be ordered for a minimum of one month and a maximum of two years. It shall entail the halting of all activity by the legal person, even if its name has been changed and it has different directors or management staff, and shall preclude transfer of ownership of the premises, without prejudice to the rights of bona fide third parties. Dissolution shall entail liquidation of the assets of the legal person, and the directors or management staff, and anyone personally responsible for the offence shall be legally disqualified from establishing or managing a similar legal person.",
+          "current_version": true
+        },
+        {
+          "article_number": "111",
+          "text_english": "The fine stipulated in Article 111 was amended by Article 9 of Act No. 239 of 27 May 1993, as follows: Any infringement of the above provisions shall be punishable by imprisonment for a term of one to six months and by a fine of between 100,000 and 2 million Lebanese pounds. English version (STL Draft Official Translation from Arabic) Version 1.0 24 Subsection 17 ‐ Calculation of penalties and precautionary measures",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "112",
+          "text_english": "One day of a penalty or precautionary measure is 24 hours and one month is 30 days. Where they exceed one month, they are calculated from date to date, in accordance with the Western calendar. Detainees shall be released before noon on the final day, except where the sentence is for a period of 24 hours.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "113",
+          "text_english": "A penalty of deprivation or restriction of liberty shall be calculated from the day on which its enforcement begins pursuant to a final judgement. In the case of multiple sentences, the heaviest sentence shall be served first. In the case of multiple penalties of deprivation and restriction of liberty, the former shall be enforced first.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "114",
+          "text_english": "The period of loss of civil rights shall run from the day on which the judgement became final. If the decision was delivered in absentia, it shall be calculated from the date on which the most recent posting pursuant to Article 67 was recorded. The deprivation of civil rights imposed as an accessory penalty pursuant to Article 66 shall be enforced as soon the term of the primary penalty of deprivation or restriction of liberty expires.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "115",
+          "text_english": "A judgement ordering confinement in a supervised facility shall take immediate effect, regardless of any other penalty or precautionary measure involving deprivation or restriction of liberty. Precautionary measures involving deprivation or restriction of liberty, except for confinement in a supervised facility, shall be enforced after custodial penalties. Penalties involving restriction of liberty shall be enforced after precautionary measures involving deprivation of liberty. In the case of multiple precautionary measures involving deprivation of liberty and restriction of liberty, the former shall be enforced first in the following order: confinement in a supervised facility; confinement in isolation; confinement in a work centre. Deportation shall take effect regardless of any other precautionary measure or penalty entailing loss of rights.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "116",
+          "text_english": "The prohibition on pursuit of an activity, the prohibition on carrying a weapon and the surety requirement shall be enforced after expiry of the term of custodial penalties and precautionary measures. The remaining precautionary measures, measures involving property and measures involving loss of rights shall take effect from the day on which the judgement becomes final. English version (STL Draft Official Translation from Arabic) Version 1.0 25",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "117",
+          "text_english": "Pre‐trial detention shall always be taken into account when calculating the term of penalties involving deprivation and restriction of liberty and shall be deducted from fines on a scale determined by the Judge in accordance with the provisions of Articles 54, 62 and 64. It shall be deducted from the term of precautionary measures involving deprivation of liberty if the Judge makes an explicit ruling to that effect in the judgement. Section III Rehabilitative measures Articles 118 to 128 inclusive were revoked by Legislative Decree No. 119 of 16 September 1983, which was revoked in turn by Act No. 422 of 6 June 2002. English version (STL Draft Official Translation from Arabic) Version 1.0 26 [Articles 147 to 150] Section V Remission of criminal sentences Subsection 1 ‐ General provisions",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "147",
+          "text_english": "Paragraphs 4 and 8 were revoked from Article 147 and the last paragraph was added by Article 7 of Legislative Decree No. 112 of 16 September 1983: Criminal sentences shall be remitted or their enforcement shall be precluded or suspended on the following grounds: 1. Death of the convicted person; 2. A general amnesty; 3. A special pardon; 4. Revoked 5. Rehabilitation; 6. Expiry of the prescription period; 7. A stay of enforcement; 8. Revoked. With the exception of rehabilitation, the Appeal Court Prosecutor shall rule on the remission of sentences delivered within his area of jurisdiction.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "148",
+          "text_english": "The grounds on which criminal sentences are remitted or their enforcement precluded or suspended shall have no effect on civil obligations, which remain subject to the provisions of the Code of Civil Procedure. Subsection 2 ‐ Death of the convicted person",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "149",
+          "text_english": "All consequences of a criminal sentence shall lapse on the death of the convicted person. The decease shall preclude the payment of fines and the publication and posting of the judgement pursuant to Articles 67 and 68. It shall have no effect on the confiscation of personal items if the confiscated items have been awarded to the civil party, on confiscation of property, or on the closure of business premises pursuant to Article 104. Subsection 3 ‐ General amnesty",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "150",
+          "text_english": "A general amnesty shall be proclaimed by the legislature. Any primary, accessory or additional penalty shall be remitted. Precautionary and rehabilitative measures shall not be covered unless the Amnesty Act contains an explicit provision to that effect. English version (STL Draft Official Translation from Arabic) Version 1.0 27 Fines paid and items confiscated pursuant to Article 69 shall not be returned. English version (STL Draft Official Translation from Arabic) Version 1.0 28 [Articles 152 to 156] Subsection 4 – Special pardon",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "152",
+          "text_english": "The President of the Republic grants a special pardon after consulting the Pardon Commission. The convicted person may not refuse the pardon. The number of Article 70 in the following clause of Article 152 was corrected to 170, by the only article of the Act of 14 August 1951. The pardon may be conditional and linked to one or more of the requirements set forth in Article 170. If the act committed was a felony, the civil party shall be compensated pursuant to Article 170, paragraph 3, within a period of not more than three years.",
+          "current_version": true
+        },
+        {
+          "article_number": "153",
+          "text_english": "A special pardon is personal and may take the form of a substitute penalty, remission of the penalty or precautionary measure, or its full or partial commutation. The pardon shall not cover accessory or additional penalties or precautionary measures prescribed in addition to the primary penalty, unless the decree granting it contains an explicit provision to that effect.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "154",
+          "text_english": "A person against whom a final judgement has not been delivered shall not be eligible for a pardon. A stay of enforcement or the suspension of an enforceable judgement shall not preclude the granting of a pardon.",
+          "current_version": true
+        },
+        {
+          "article_number": "155",
+          "text_english": "The remission of a penalty or precautionary measure shall be equivalent to its enforcement. The effect of a remitted or substitute penalty shall continue to apply to provisions relating to a stay of enforcement, suspension of an enforceable judgement, rehabilitation, recidivism and persistent offending.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "156",
+          "text_english": "The benefit of a pardon shall be lost by a convicted person who commits a further offence that renders him liable to punishment for recidivism or who has been found by a court judgement to have breached an obligation imposed by Article 152. English version (STL Draft Official Translation from Arabic) Version 1.0 29 [Articles 159 to 174] Subsection 6 ‐ Rehabilitation",
+          "current_version": true,
+          "subject": "Contracts and obligations"
+        },
+        {
+          "article_number": "159",
+          "text_english": "Any person convicted of a felony or a misdemeanour may be rehabilitated by a judicial decision if the following conditions are met: 1. Seven years must have elapsed in the case of a felony and three years in the case of a misdemeanour since he served the sentence and any associated precautionary custodial measure, or since it was extinguished by expiry of the prescription period. If the penalty imposed was loss of civil rights, the period shall run from the day on which the judgement became final and, in the case of an additional penalty of imprisonment, from the day on which the sentence expired. If the penalty imposed was a fine, the period shall run from the day of payment or of expiry of the substitute term of imprisonment. If the convicted person is a recidivist in the legal sense of the term or has previously benefited from rehabilitation, the period shall be doubled. 2. He must not have been subsequently sentenced for a felony or a misdemeanour. Any subsequent sentence for either category of offence shall entail the tolling of the time period. 3. Civil obligations imposed in the sentence must have been executed, extinguished or time‐ barred, or the convicted person must prove that his circumstances rendered him incapable of discharging the obligations. A person declared bankrupt must prove that he has duly settled the debt, together with the interest and costs, or that he has been exonerated from payment. 4. It must be evident from the prison records and monitoring of the convicted person’s conduct following his release that he has genuinely been rehabilitated.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "160",
+          "text_english": "Any person sentenced to deprivation or restriction of liberty for a misdemeanour shall be rehabilitated ipso jure if, during the seven years since the expiry of his sentence, he has not again been sentenced to imprisonment, a residence ban or a heavier penalty. Any person sentenced to a fine for a misdemeanour shall be rehabilitated ipso jure if, during the five years since payment or completion of the period of substitute imprisonment, he has not again been sentenced to a fine for a misdemeanour or to a heavier penalty.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "161",
+          "text_english": "Rehabilitation shall annul the effects of all judgements rendered. English version (STL Draft Official Translation from Arabic) Version 1.0 30 It shall extinguish accessory or additional penalties and precautionary measures and any consequential loss of legal capacity. The judgements in question may not be invoked subsequently in respect of recidivism or persistent offending or in order to preclude a stay of enforcement. Subsection 7 – Prescription",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "162",
+          "text_english": "Prescription precludes the enforcement of penalties and precautionary measures. Prescription shall not, however, be applicable to penalties and precautionary measures involving loss of rights, a residence ban or confiscation of property. The following paragraph was added to Article 162 by Article 8 of Legislative Decree No. 112 of 16 September 1983: The delivery of a judgement in a case, even at first instance, shall entail the suspension of the prescription period for the public prosecution. It shall resume only in accordance with the provisions of",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "163",
+          "text_english": "Article 163 was revoked by Article 9 of Legislative Decree No. 112 of 16 September 1983 and replaced with the following text: The prescription period in respect of the death penalty and life sentences for felonies shall be 25 years. The prescription period in respect of fixed‐term penalties for felonies shall be double the sentence imposed by the court and may not be more than 20 years or less than 10 years. The prescription period in respect of any other penalty for a felony shall be 10 years. This period shall also be applicable to any penalty imposed for a misdemeanour. The prescription period shall run from the date of the judgement if it was delivered in absentia and from the date when it becomes final if it was delivered adversarially and the convicted person was not in custody. Otherwise it shall run from the day on which he evaded enforcement. If the convicted person evades enforcement of a penalty of deprivation or restriction of liberty, half of the sentence served shall be deducted from the prescription period.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "164",
+          "text_english": "Article 164 was amended by Article 18 of the Act of 5 February 1948, as follows: The prescription period in respect of penalties for misdemeanours shall be double the term of the sentence imposed by the court. It may not be more than 10 years or less than 5 years. The prescription period for any other penalties in respect of misdemeanours shall be five years. English version (STL Draft Official Translation from Arabic) Version 1.0 31 The prescription period shall run: ‐ In the case of a judgement delivered adversarially, from the date of delivery of a last‐instance judgement and from the date on which a first‐instance judgment becomes final; ‐ In the case of a judgement delivered in absentia, from the date on which notice was served on the convicted person himself at his domicile; ‐ If the convicted person is in custody, from the date of his evasion from enforcement, in which case half of the sentence served shall be deducted from the prescription period.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "165",
+          "text_english": "The prescription period in respect of penalties for contraventions shall be two years, beginning in accordance with the provisions of the preceding paragraph.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "166",
+          "text_english": "The prescription period in respect of precautionary measures shall be three years. The prescription period shall begin to run only from the day on which the precautionary measure became enforceable pursuant to Articles 115 and 116 or after expiry of the prescription period for the penalty with which it is associated, unless the Judge rules, before seven years have elapsed as previously established, that the convicted person remains a danger to public safety, in which case he shall order continued enforcement of the precautionary measure.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "167",
+          "text_english": "Article 167 was revoked by Legislative Decree No. 119 of 16 September 1983 that was revoked in turn by Act No. 422 of 6 June 2002.",
+          "current_version": true
+        },
+        {
+          "article_number": "168",
+          "text_english": "The prescription period shall be calculated from date to date, excluding the first day. The prescription period shall be suspended by any legal or material bar to enforcement of the penalty or measure, unless it stems from the volition of the convicted person. The prescription period shall be stayed by: 1. The appearance of the convicted person or any action undertaken by the authorities for the purpose of enforcement; 2. The commission of another offence by the convicted person that is equivalent to or more serious than the offence for which the penalty or measure was imposed. In no case may the prescription period be more than doubled. Subsection 8 ‐ Stay of enforcement",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "169",
+          "text_english": "When imposing a sentence for a misdemeanour or contravention, the Judge may order a stay of enforcement if the convicted person has not previously been sentenced to a penalty of the same type or to a heavier penalty. The convicted person shall not be granted a stay of enforcement if he has no genuine residence in Lebanon or if the judicial or administrative authorities have ordered his expulsion. English version (STL Draft Official Translation from Arabic) Version 1.0 32 A stay of enforcement shall not suspend the enforcement of additional or accessory penalties or precautionary measures.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "170",
+          "text_english": "The Judge may make the stay of enforcement conditional on fulfilment of one or more of the following obligations: 1. Provision of surety by the convicted person; 2. His placement under supervision; 3. Receipt by the civil party of full or partial compensation within a period not exceeding two years in the case of a misdemeanour and six months in the case of a contravention.",
+          "current_version": true,
+          "subject": "Contracts and obligations"
+        },
+        {
+          "article_number": "171",
+          "text_english": "Article 171 was amended by Article 20 of the Act of 5 February 1948, as follows: The benefit of a stay of enforcement shall be lost by any person who, within a period of five years or two years, depending on whether he was sentenced for a misdemeanour or a contravention, commits another offence for which he receives a similar or heavier sentence, or who is found by a court to have breached obligations imposed by the Judge pursuant to the preceding Article.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "172",
+          "text_english": "If the stay of enforcement has not been revoked, the judgement shall be deemed null and void on expiry of the test period, and additional penalties and precautionary measures other than confinement in a supervised facility, confiscation of property and the closure of business premises pursuant to Article 104 shall cease to have effect. The stay of enforcement may, however, be revoked, even after the test period has expired, if an action to set aside is instituted or if a new offence is prosecuted before expiry of the said period. Subsection 9 ‐ Suspension of an enforceable judgement",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "173",
+          "text_english": "Article 173 was revoked by Article 47 of the Act of 5 February 1948.",
+          "current_version": true
+        },
+        {
+          "article_number": "174",
+          "text_english": "The suspension of an enforceable judgement cannot be granted if a custodial precautionary measure is to be enforced against the convicted person after the term of his sentence has expired. It shall have no effect in the case of accessory or additional penalties. A person sentenced to hard labour and extended imprisonment shall continue to be deprived of legal capacity until the term of his sentence has expired, unless the Judge decides otherwise. English version (STL Draft Official Translation from Arabic) Version 1.0 33 [Articles 179 to 198] Chapter III Offences Section I Legal elements of offences Subsection 1 ‐ Legal definition",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "179",
+          "text_english": "An offence is defined as a felony, a misdemeanour or a contravention and is accordingly punishable by a penalty for a felony, a misdemeanour or a contravention. The legal definition is based on the maximum level of the heaviest penalty imposed by law.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "180",
+          "text_english": "Article 180 was amended by paragraph 14 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: The legal definition shall not change if the penalty imposed by law is replaced with a more lenient penalty due to extenuating circumstances or mitigating grounds. Subsection 2 – Notional plurality of offences",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "181",
+          "text_english": "If an act has several definitions, they shall all be mentioned in the judgement and the Judge shall impose the heaviest penalty. However, if both a general provision of criminal law and a special provision are applicable to the act, the special provision shall be applied.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "182",
+          "text_english": "The same act shall be liable to prosecution only once. However, if the consequences of the criminal act are aggravated after the initial prosecution, the act shall become liable to a more serious definition. It shall be prosecuted accordingly and the heavier penalty shall be imposed. If the previously imposed sentence has been served, it shall be deducted from the new sentence. Subsection 3 – Justificatory grounds",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "183",
+          "text_english": "An act undertaken in exercise of a right without abuse shall not be regarded as an offence.",
+          "current_version": true
+        },
+        {
+          "article_number": "184",
+          "text_english": "Article 184 was amended by paragraph 15 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Any act deemed immediately necessary as a defence against a wrongful and unprovoked attack on one’s person or property or on the person or property of others shall be deemed to constitute the exercise of a right. The same applies to the protection of a natural or legal person. English version (STL Draft Official Translation from Arabic) Version 1.0 34 If an abuse occurs in the course of the defence, the perpetrator of the offence may be exempted from a penalty pursuant to the terms of Article 228.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "185",
+          "text_english": "An act undertaken pursuant to a legal provision or in response to a lawful order issued by an authority shall not be regarded as an offence. If the order issued is unlawful, the person who executes it shall be exonerated if the law did not permit him to ascertain its legality. The following paragraph was added by the Act implementing Decree No. 15739 of 11 March 1964: A handwritten order shall also be considered lawful if issued by: 1. The President of the Judicial Inspection Board; 2. The President of the Central Inspection Board; 3. The Director‐General of the Internal Security Forces; 4. The Director‐General of General Security within his field of competence, to a public servant, requiring him to pretend to participate in an offence of bribery punishable under Articles 351 to 356 of the Criminal Code for the purpose of unmasking the perpetrators of such offences, provided that the justification for such participation is to control this type of offence and that the action of the person so tasked does not exceed the intended purpose.",
+          "current_version": true
+        },
+        {
+          "article_number": "186",
+          "text_english": "An act permitted by law shall not be regarded as an offence. The law permits: 1. Disciplinary slapping of children by their parents and teachers in the manner permitted by general custom; 2. Surgery or medical treatment that complies with scientific rules, provided that it is conducted with the consent of the patient or his lawful representatives, or in an emergency; 3. Acts of violence that occur during sports if the rules of the game are observed.",
+          "current_version": true
+        },
+        {
+          "article_number": "187",
+          "text_english": "An act that is prosecuted because it is contrary to the will of a third party shall not be regarded as an offence if it was undertaken with the latter’s prior or concurrent consent. English version (STL Draft Official Translation from Arabic) Version 1.0 35 Section II Mental elements of offences Subsection 1 ‐ Intent",
+          "current_version": true,
+          "subject": "Inheritance and succession"
+        },
+        {
+          "article_number": "188",
+          "text_english": "Intent consists of the will to commit an offence defined by law.",
+          "current_version": true,
+          "subject": "Inheritance and succession"
+        },
+        {
+          "article_number": "189",
+          "text_english": "An offence shall be deemed to be intentional, even if the criminal effect of the act or omission exceeds that intended by the perpetrator, if he had foreseen the possibility and thus accepted the risk.",
+          "current_version": true
+        },
+        {
+          "article_number": "190",
+          "text_english": "Fault exists where a harmful act results from negligence, recklessness or failure to comply with laws and regulations.",
+          "current_version": true,
+          "subject": "Liability and damages"
+        },
+        {
+          "article_number": "191",
+          "text_english": "An offence is unintentional if the perpetrator did not foresee the consequence of his wrongful act or omission although he could or should have done so, or if he foresaw it and believed that he could prevent it. Subsection 2 ‐ Motive",
+          "current_version": true
+        },
+        {
+          "article_number": "192",
+          "text_english": "Article 192 was amended by paragraph 16 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Motive is the reason or end purpose that prompted the perpetrator to act. It shall not constitute an element of an offence except in cases specified by law.",
+          "current_version": true
+        },
+        {
+          "article_number": "193",
+          "text_english": "If the Judge considers that the motive was honourable, he shall impose the following penalties: Life imprisonment instead of the death penalty; Life imprisonment or fixed‐term imprisonment for 15 years instead of hard labour for life; Fixed‐term imprisonment instead of fixed‐term hard labour; Ordinary imprisonment instead of imprisonment with labour. The Judge may, in addition, exempt the convicted person from the penalty of posting and publication of the judgement. The following paragraph was added to Article 193 by Article 10 of Legislative Decree No. 112 of 16 September 1983: A motive shall be honourable if it is characterized by magnanimity and high‐mindedness, and if it is not marred by selfishness, personal considerations and the prospect of material gain. English version (STL Draft Official Translation from Arabic) Version 1.0 36",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "194",
+          "text_english": "If the offence is punishable by life imprisonment, fixed‐term extended imprisonment or ordinary imprisonment and was prompted by a dishonourable motive, the Judge shall replace: Life imprisonment with hard labour for life; Fixed‐term extended imprisonment with fixed‐term hard labour; Ordinary imprisonment with imprisonment with labour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "195",
+          "text_english": "If an offence that is not punishable by a fine is perpetrated with the motive of gain, such a penalty shall be imposed in conjunction with the penalty provided for by law. Subsection 3 ‐ Political offences",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "196",
+          "text_english": "Political offences are intentional offences committed by the perpetrator for a political motive. They are also offences committed against general and individual political rights unless the perpetrator was prompted by a selfish and base motive.",
+          "current_version": true
+        },
+        {
+          "article_number": "197",
+          "text_english": "Complex offences or offences closely connected with political offences are deemed to be political offences, unless they constitute most serious felonies or attempted felonies in terms of morals and ordinary law, such as homicide, grievous bodily harm, attacks on property by arson, explosives or flooding, and aggravated theft, particularly those involving the use of weapons and violence. At times of civil war or insurrection, complex or closely related offences shall not be deemed to be political unless they constitute non‐prohibited customs of war and they do not constitute acts of barbarity or vandalism.",
+          "current_version": true,
+          "subject": "Homicide"
+        },
+        {
+          "article_number": "198",
+          "text_english": "Article 198 was amended by Act No. 302 of 21 March 1994, and Act No. 338 of 2 August 2001, as follows: If the Judge ascertains that the offence is of a political character, he shall impose the following penalties: Life imprisonment instead of the death penalty or hard labour for life; Fixed‐term extended imprisonment, banishment, compulsory residence for a felony or loss of civil rights instead of fixed‐term hard labour; Ordinary imprisonment or compulsory residence for a misdemeanour instead of imprisonment with labour. These provisions shall not apply to crimes committed against external state security. English version (STL Draft Official Translation from Arabic) Version 1.0 37 [Articles 200 to 208] Section III Material elements of offences Subsection 1 ‐ Attempt",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "200",
+          "text_english": "Article 200 was amended by Article 21 of the Act of 5 February 1948, as follows: Any attempt to commit a felony that began with acts aimed directly at its commission shall be deemed to constitute the felony itself if its completion was prevented solely by circumstances beyond the control of the perpetrator. The penalties prescribed by law may, however, be commuted as follows: The death penalty may be replaced with hard labour for life or fixed‐term hard labour for 7 to 20 years; Hard labour for life may be replaced with fixed‐term hard labour for at least five years; Life imprisonment may be replaced with fixed‐term imprisonment for at least five years; Any other penalty may be commuted by one half to two thirds. Any person who begins to commit an act and then voluntarily desists shall be punished only for acts that he committed which constituted offences per se.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "201",
+          "text_english": "Article 201 was amended by Article 22 of the Act of 5 February 1948, as follows: If all acts aimed at the commission of a felony were completed but produced no effect owing to circumstances unrelated to the intent of the perpetrator, the penalties may be commuted as follows: The death penalty may be replaced with hard labour for life or by fixed‐term hard labour for 10 to 20 years; Hard labour for life may be replaced with fixed‐term hard labour for 7 to 20 years. Life imprisonment may be replaced with fixed‐term imprisonment for 7 to 20 years, and any other penalty may be commuted by up to one half. The penalties mentioned in this Article may be commuted by up to two thirds if the perpetrator voluntarily prevented his act from producing its consequence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "202",
+          "text_english": "Article 202 was amended by paragraph 18 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Neither an attempted nor an abortive misdemeanour shall be punished except in cases explicitly provided for by law. English version (STL Draft Official Translation from Arabic) Version 1.0 38 The penalty incurred for a completed misdemeanour may be commuted by up to one half in the case of an attempted misdemeanour and by up to one third in the case of an abortive misdemeanour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "203",
+          "text_english": "An attempt shall be punished, even if its aim was unattainable owing to a material circumstance unknown to the perpetrator. The perpetrator shall not be punished, however, if his act stemmed from a misunderstanding. Similarly, a person who commits an act in the mistaken belief that it constitutes an offence shall not be punished. Subsection 2 ‐ Plurality of causes",
+          "current_version": true
+        },
+        {
+          "article_number": "204",
+          "text_english": "A causal link between an act and omission on the one hand, and the criminal consequence on the other, shall not be precluded by the concurrent existence of other previous, simultaneous or subsequent causes, even if they were unknown to the perpetrator or independent of his act. If, however, the subsequent cause is independent and sufficient in itself to bring about the criminal consequence, the perpetrator shall incur the penalty only for the act that he committed. Subsection 3 ‐ Plurality of offences",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "205",
+          "text_english": "If multiple felonies or misdemeanours are found to have been committed, a penalty shall be imposed for each offence and only the severest penalty shall be enforced. The penalties imposed may, however, be consecutive. However, the sum of fixed‐term penalties shall not exceed the maximum penalty prescribed for the most serious offence by more than one half. If no ruling has been issued on whether the penalties imposed should run concurrently or consecutively, the matter shall be referred to the Judge for a decision.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "206",
+          "text_english": "If the offence harmed someone other than the intended person, the perpetrator shall be punished as if the act had been committed against the intended person. If both persons suffer harm, the penalty mentioned in the above paragraph may be increased by one half.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "207",
+          "text_english": "Penalties for contraventions shall be concurrent in all cases.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "208",
+          "text_english": "Additional penalties and precautionary measures shall be consecutive, even if the primary penalties run concurrently, unless the Judge rules otherwise. If the primary penalties are consecutive, the accessory penalties shall be consecutive ipso jure. English version (STL Draft Official Translation from Arabic) Version 1.0 39 [Articles 210 to 236] Chapter IV Responsibility Part I Responsible persons Section I The perpetrator of the offence",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "210",
+          "text_english": "No one shall be sentenced to a penalty unless he consciously and willingly committed the act. Legal persons shall be criminally responsible for the activities of their directors, management staff, representatives and employees when such activities are undertaken on behalf of or using the means of such legal persons. They may be sentenced only to a fine, confiscation and publication of the judgement. If the law provides for a primary penalty other than a fine, that penalty shall replace the fine and shall be imposed on the legal persons within the limits set by Articles 53, 60 and 63.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "211",
+          "text_english": "No precautionary measure shall be imposed unless public safety is endangered. Precautionary measures shall be imposed after ascertainment of the existence of a state of danger, except where the law presumes that a state of danger exists. A natural or legal person who has committed an offence shall be deemed to constitute a danger to society if it is feared that the person will commit other acts that are punishable by law. Legal persons shall not be subject to precautionary measures other than those pertaining to property. English version (STL Draft Official Translation from Arabic) Version 1.0 40 Section II Criminal complicity Subsection 1 ‐ The perpetrator",
+          "current_version": true,
+          "subject": "Inheritance and succession"
+        },
+        {
+          "article_number": "212",
+          "text_english": "The perpetrator of an offence is anyone who brings into being the constituent elements of an offence or who contributes directly to its commission.",
+          "current_version": true
+        },
+        {
+          "article_number": "213",
+          "text_english": "An accomplice to an offence shall be liable to the penalty prescribed by law for the offence. A heavier penalty, in accordance with the provisions of Article 257 of the Criminal Code, shall be applicable to anyone who organizes the commission of an offence or directs the action of the accomplices.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "214",
+          "text_english": "The originator and disseminator of words or writing shall be deemed to be joint principals in an offence committed by words transmitted by mechanical means, in accordance with Article 209, paragraph 2, or in an offence committed by one of the means mentioned in paragraph 3 of the same article, unless the former establishes that the dissemination took place without his consent.",
+          "current_version": true
+        },
+        {
+          "article_number": "215",
+          "text_english": "When an offence is committed by the press, the manager of the publication, or the editor or editor‐in‐chief of the newspaper if there is no manager, shall be deemed to be the disseminator.",
+          "current_version": true,
+          "subject": "Press and media"
+        },
+        {
+          "article_number": "216",
+          "text_english": "The effects of material circumstances entailing aggravation or mitigation of or exemption from the penalty shall be applicable to all accomplices and accessories to an offence. The effects of personal or double aggravating circumstances that facilitated the commission of the offence shall also be applicable to them. The effect of any other circumstance shall be applicable only to the person to whom it relates. Subsection 2 ‐ The instigator",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "217",
+          "text_english": "Anyone who induces or seeks to induce another person to commit an offence shall be deemed to be an instigator. The responsibility of the instigator shall be separate from that of the person induced to commit the offence.",
+          "current_version": true
+        },
+        {
+          "article_number": "218",
+          "text_english": "The instigator shall be liable to the penalty for the offence that he wished to commit, whether the offence was completed, attempted or abortive. If the incitement to commit a felony or misdemeanour was without consequence, the penalty shall be commuted in line with Article 220, paragraphs 2, 3 and 4. Incitement to commit a contravention shall not be punishable if it did not meet with a positive response. English version (STL Draft Official Translation from Arabic) Version 1.0 41 Precautionary measures shall be imposed on the instigator as though he were the perpetrator of the offence. Subsection 3 ‐ Accessories and concealers",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "219",
+          "text_english": "Article 219 was amended by Article 11 of Legislative Decree No. 112 of 16 September 1983, as follows. The following shall be deemed to be accessories to a felony or misdemeanour: 1. Anyone who issues instructions for its commission, even if such instructions do not facilitate the act; 2. Anyone who hardens the perpetrator's resolve by any means; 3. Anyone who, for material or moral gain, accepts the perpetrator's proposal that he should commit the offence; 4. Anyone who aids or abets the perpetrator in acts that are preparatory to the offence; 5. Anyone who, having so agreed with the perpetrator or an accessory before commission of the offence, helped to eliminate the traces, to conceal or dispose of items resulting there from, or to shield one or more of the participants from justice; 6. Anyone who, having knowledge of the habitual criminal conduct of offenders responsible for highway robbery or acts of violence against state security, public safety, persons or property, provides them with food, shelter, a refuge or a meeting place.",
+          "current_version": true,
+          "subject": "Theft and robbery"
+        },
+        {
+          "article_number": "220",
+          "text_english": "An accessory without whose assistance the offence would not have been committed shall be punished as if he himself were the perpetrator. All accessories shall be punishable by hard labour for life or by fixed‐term hard labour for 10 to 20 years if the perpetrator is sentenced to death. If the perpetrator is sentenced to hard labour for life or life imprisonment, accessories shall be sentenced to the same penalty for 7 to 15 years. In other cases, they shall incur the same penalty as the perpetrator, with a reduction in its duration of between one sixth and one third. Precautionary measures may be imposed on accessories as though they were the perpetrators of the offence.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "221",
+          "text_english": "The fine stipulated in Article 221 was amended by Article 11 of Act No. 239 of 27 May 1993, as follows: Anyone who, other than in the case provided for in Article 219, paragraph 5, knowingly conceals or disposes of items belonging to a third party that were appropriated, embezzled or obtained by a felony or misdemeanour shall be punishable by a term of imprisonment of three months to two years and by a fine of between 20,000 and 400,000 Lebanese pounds. English version (STL Draft Official Translation from Arabic) Version 1.0 42 However, if the items concealed or disposed of are the product of a misdemeanour, the penalty may not exceed two thirds of the heaviest penalty for the misdemeanour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "222",
+          "text_english": "Anyone who, other than in the cases provided for in Article 219, paragraphs 5 and 6, conceals a person who he knows has committed a felony or who helps such a person to evade justice shall be punishable by a term of imprisonment of three months to two years. The ascendants and descendants of concealers, their husbands or wives, including divorcees, and their brothers, sisters and relatives by marriage of the same degree shall be exempt from any penalty. English version (STL Draft Official Translation from Arabic) Version 1.0 43 Part II Impediments to prosecution Section I Error Subsection 1 ‐ Errors of law",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "223",
+          "text_english": "No one may plead ignorance of criminal law or misinterpretation of its provisions. The following, however, shall be deemed to constitute an impediment to conviction: 1. Ignorance or a material error pertaining to a civil or administrative law on which conviction depends; 2. Ignorance of a new law if the offence is committed within three days of its promulgation; 3. Ignorance on the part of a foreigner who has been in Lebanon for not more than three days of a positive‐law offence that is not punishable under the laws of his country or the laws of the country in which he resided. Subsection 2 ‐ Errors of fact",
+          "current_version": true
+        },
+        {
+          "article_number": "224",
+          "text_english": "Anyone who acted on the basis of an error of fact pertaining to one of the elements of an offence shall not be punishable as a perpetrator or instigator of, or as an accessory to, an intentional offence. If the error related to an aggravating circumstance, he shall not be held responsible for it. On the contrary, he shall benefit from the ground of excuse that he was unaware of its existence. These provisions shall be applicable in the case of mistaken identity of the victim.",
+          "current_version": true
+        },
+        {
+          "article_number": "225",
+          "text_english": "An error pertaining to an act constituting an unintentional offence shall not be an impediment to prosecution unless the error is not attributable to a fault on the part of the perpetrator.",
+          "current_version": true,
+          "subject": "Liability and damages"
+        },
+        {
+          "article_number": "226",
+          "text_english": "A public official or a government agent or employee who ordered or carried out an act constituting an offence shall not be liable to prosecution if he believed on account of an error of fact that he was obeying a lawful order from his superiors concerning matters within their field of competence that required his compliance. Section II Force majeure Subsection 1 ‐ Compulsion and moral duress",
+          "current_version": true,
+          "subject": "Employment and labor"
+        },
+        {
+          "article_number": "227",
+          "text_english": "Anyone who acts under irresistible physical or moral duress shall not be prosecuted. Anyone who finds himself in such circumstances through his own fault shall be prosecuted, where necessary, as the perpetrator of an unintentional offence.",
+          "current_version": true,
+          "subject": "Liability and damages"
+        },
+        {
+          "article_number": "228",
+          "text_english": "Reverential awe and states of emotion or passion shall not be an impediment to prosecution. English version (STL Draft Official Translation from Arabic) Version 1.0 44 If, however, the perpetrator of the offence exceeds acceptable bounds in exercising the right of self‐defence, he shall not be prosecuted if he acted under the influence of intense emotion that resulted in loss of judgement or self‐control. Subsection 2 ‐ State of necessity",
+          "current_version": true
+        },
+        {
+          "article_number": "229",
+          "text_english": "The perpetrator of an act that was necessary to defend himself or others, or his own property or that of others against an imminent serious danger that he did not deliberately cause shall not be prosecuted, provided that the act was commensurate with the danger.",
+          "current_version": true,
+          "subject": "Property law"
+        },
+        {
+          "article_number": "230",
+          "text_english": "Any person who is required by law to expose himself to danger shall not be deemed to be in a state of necessity. Section III Absence of responsibility and diminished responsibility Subsection 1 ‐ Insanity",
+          "current_version": true
+        },
+        {
+          "article_number": "231",
+          "text_english": "Any person in a state of insanity that causes him to lose awareness or self‐control shall be exempt from prosecution.",
+          "current_version": true
+        },
+        {
+          "article_number": "232",
+          "text_english": "Any person who is found to have committed an intentional felony or misdemeanour punishable by a term of imprisonment of two years and who is declared not guilty due to mental incapacity shall be confined pursuant to a special clause of the acquittal judgement in a supervised facility. If the felony is unintentional or if the penalty incurred is less than two years of imprisonment, the perpetrator shall be placed in confinement in a supervised facility if it is established that he is a danger to public safety. The confinement shall continue until it is established by a decision of the court that ordered the confinement that the person has recovered his sanity. On his release from confinement, the person may be placed under supervision. Subsection 2 ‐ Mental deficiency",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "233",
+          "text_english": "Any person who, at the time of the commission of an act, was suffering from a genetic or acquired mental disorder resulting in diminished awareness or freedom of choice shall be legally entitled to a substitute penalty or commutation of the penalty for the act, in accordance with the provisions of Article 251.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "234",
+          "text_english": "Any person sentenced to deprivation or restriction of liberty for a felony or misdemeanour who, on account of a mental disorder, benefited from a substitute penalty or commutation of the penalty, and any person sentenced to such a penalty who is a recognized psychopath, drug addict or alcoholic and constitutes a danger to public safety, shall be placed in confinement in a supervised facility, pursuant to a clause in the judgement, for treatment during the term of his sentence. English version (STL Draft Official Translation from Arabic) Version 1.0 45 A convicted person who is released from a supervised facility on ascertainment of his recovery by the court that ordered his confinement shall serve the remaining term of his sentence in the facility. If, after he has served his sentence, the convicted person remains a danger to public safety, he shall be retained in the supervised facility, pursuant to a decision of the same court, for a period not exceeding five years if he was convicted of a felony and of two years if he was convicted of a misdemeanour. He shall be released from confinement before the specified term expires if a subsequent decision ascertains that he no longer presents a danger. The confined person may be placed under supervision on release. Subsection 3 ‐ Intoxication and drug addiction",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "235",
+          "text_english": "Any person who, when committing an act, was fortuitously or owing to force majeure in a state of intoxication from alcohol or drugs that caused him to lose awareness or self‐control shall be exempt from prosecution. If the state of intoxication was due to a fault on the part of the perpetrator, he shall be held responsible for any unintentional offence committed. He shall be held responsible for an intentional offence if he was aware, when he fell into that state through his own fault, of the possibility that he would commit criminal acts. If he deliberately allowed himself to fall into that state with the aim of committing the offence, his penalty shall be increased in accordance with Article 257.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "236",
+          "text_english": "If the awareness or self‐control of the perpetrator is greatly diminished by a state of intoxication produced by force majeure or fortuitously, a substitute or commuted penalty may be imposed pursuant to Article 251. English version (STL Draft Official Translation from Arabic) Version 1.0 46 [Article 240]",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "240",
+          "text_english": "For the purposes of this Code, a child means anyone from the age of 7 to the age of 12. An adolescent means anyone from the age of 12 to the age of 15. A minor means anyone from the age of 15 to the age of 18. English version (STL Draft Official Translation from Arabic) Version 1.0 47 [Articles 249 to 250] Part III Grounds for exemption from penalty or for mitigation or aggravation of penalty Section I Grounds of excuse Subsection 1 ‐ Statutory grounds for exemption from punishment",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "249",
+          "text_english": "An offence may be excused only in cases established by law.",
+          "current_version": true
+        },
+        {
+          "article_number": "250",
+          "text_english": "Where a statutory ground exists, an offender shall be exempted from all punishment. Where necessary however, rehabilitative and precautionary measures other than confinement in isolation may be imposed. English version (STL Draft Official Translation from Arabic) Version 1.0 48 [Articles 253 to 272] Section II Extenuating circumstances",
+          "current_version": true
+        },
+        {
+          "article_number": "253",
+          "text_english": "Article 253 was amended by Article 25 of the Act of 5 February 1948, as follows: If there are extenuating circumstances in a case, the court shall decide: To replace the death penalty with hard labour for life or fixed‐term hard labour for 7 to 20 years; To replace hard labour for life with fixed‐term hard labour for not less than five years; To replace life imprisonment with fixed‐term imprisonment for not less than five years. It may decide to reduce to three years any other criminal penalty in respect of which the minimum penalty exceeds three years, to reduce by one half a penalty in respect of which the minimum penalty does not exceed three years or, by a reasoned decision, to replace it with imprisonment of at least one year, except in the case of recidivism.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "254",
+          "text_english": "Where a court accepts extenuating circumstances in favour of a person who has committed a misdemeanour, it may reduce the penalty to the minimum laid down in Articles 51, 52 and 53. It may replace imprisonment and compulsory residence with a fine or, except in the case of recidivism, it may convert a penalty for a misdemeanour into a penalty for a contravention by a reasoned decision.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "255",
+          "text_english": "The minimum penalty laid down in Articles 60 and 61, or a fine, may be imposed on a person who committed a contravention in respect of which extenuating circumstances have been found to exist.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "256",
+          "text_english": "In the case of recidivism, a decision granting extenuating circumstances must be explicitly reasoned, regardless of whether the offence is a felony, a misdemeanour or a contravention. Section III Aggravating circumstances Subsection 1 ‐ Aggravating circumstances in general",
+          "current_version": true
+        },
+        {
+          "article_number": "257",
+          "text_english": "If the law does not specify the effect of an aggravating circumstance, the circumstance shall entail the following increases in penalties: The death penalty shall be replaced with hard labour for life; a fixed‐term penalty shall be increased by one third to one half; and a fine shall be doubled. Subsection 2 ‐ Recidivism English version (STL Draft Official Translation from Arabic) Version 1.0 49",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "258",
+          "text_english": "Article 258 was amended by Article 26 of the Act of 5 February 1948, as follows: Any person sentenced to hard labour for life by a final judgement who commits another felony carrying the same penalty shall be sentenced to death. Any person sentenced to fixed‐term hard labour or fixed‐term extended imprisonment who, less than 15 years before the sentence is served or time‐barred, commits another felony carrying the same penalty shall be sentenced to the due penalty with the addition of an equivalent term. The maximum term of the penalty may, if necessary, be doubled, i.e. to 30 years. If the sentence for the second offence is banishment, compulsory residence or loss of civil rights, the perpetrator shall be sentenced to the penalty ranked one degree higher in accordance with Article 38.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "259",
+          "text_english": "Any person sentenced for a felony or misdemeanour in a final judgement who, less than seven years before the sentence is served or time‐barred, commits a felony or misdemeanour punishable by imprisonment shall be liable to up to double the maximum penalty prescribed by law. The same shall apply if the first sentence imposed was at least one year of imprisonment for a misdemeanour of the same category as the second. If the previously imposed penalty was for less than one year, the recidivist shall be sentenced to a term of imprisonment equivalent to at least double the previous penalty, provided that this raising of the minimum does not exceed double the penalty prescribed by law. Ordinary imprisonment shall replace compulsory residence if the first sentence imposed a penalty for a felony or a misdemeanour other than a fine. A fine shall be doubled if it was preceded by any sentence for a misdemeanour. If the recidivism recurs, imprisonment of up to three months may be ordered in conjunction with the fine.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "260",
+          "text_english": "The misdemeanours set forth in each of the following paragraphs shall be deemed to constitute a single category for the purpose of applying the penalties for recidivism laid down in the preceding Article, whether the person who committed them is a perpetrator, an instigator or an accessory: 1. Intentional misdemeanours provided for in a section of this Code; 2. Misdemeanours involving moral turpitude (Chapter VII); 3. Intentional misdemeanours against persons (Chapter VIII); 4. Acts of physical violence and verbal abuse against individuals, persons exercising public authority or law enforcement agencies; 5. Manslaughter or unintentional injuries; 6. Misdemeanours pertaining to the category of dangerous persons; 7. Intentional misdemeanours against property; 8. Concealment of items resulting from a misdemeanour or concealment of the persons who committed the misdemeanour; 9. Political misdemeanours or misdemeanours deemed to be political pursuant to Articles 196 and 197; 10. Misdemeanours committed with a single dishonourable motive. English version (STL Draft Official Translation from Arabic) Version 1.0 50",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "261",
+          "text_english": "The perpetrator of a contravention who is sentenced in a final judgment within less than one year for the same contravention or for any other contravention of the provisions of a single statute shall be punishable by double the penalty prescribed by law. If the recidivism recurs within the same period, detention may be ordered in conjunction with a fine in all cases in which provision is made only for a fine. Subsection 3 ‐ Persistent offending",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "262",
+          "text_english": "A persistent offender is a person whose criminal activity reflects an enduring psychological disposition, whether innate or acquired, to commit felonies or misdemeanours.",
+          "current_version": true
+        },
+        {
+          "article_number": "263",
+          "text_english": "Any person who is sentenced to a penalty other than a fine for an intentional felony or misdemeanour and who, within five years of his sentence being served or time‐barred, incurs a custodial sentence of at least one year for another intentional felony or misdemeanour shall be sentenced to confinement in isolation if it is established that he is a persistent offender and a danger to public safety.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "264",
+          "text_english": "Any persistent offender sentenced to a penalty other than a fine pursuant to Articles 258 and 259 shall ipso jure be deemed to constitute a danger to public safety and shall be placed in confinement in isolation if he incurs a custodial sentence for another case of recidivism. The same shall apply to any persistent offender who, within a period of 15 years, excluding time spent serving penalties and precautionary measures, incurs: Either four sentences of imprisonment for felonies committed with a ground of excuse or for intentional misdemeanours, provided that each of the last three offences was committed after the judgement for the previous offence became final; Or two sentences such as those specified in the preceding paragraph and a sentence for a felony, regardless of whether the felony occurred before or after the misdemeanour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "265",
+          "text_english": "Any person sentenced to confinement in isolation who, during his stay in prison or within five years of his release, commits an intentional felony or misdemeanour for which he incurs imprisonment of one year or a heavier penalty shall be punishable by at least seven years of confinement in isolation. Common provisions relating to the previous subsections",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "266",
+          "text_english": "A sentence entailing loss of civil rights, a residence ban or deportation may be imposed on any person ascertained to be a persistent offender or sentenced as a recidivist to a custodial penalty for a misdemeanour.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "267",
+          "text_english": "Persistent offenders, recidivists and persons sentenced to compulsory residence, imprisonment or a heavier penalty shall, on release, be placed under supervision for a period of five years, unless the Judge decides to increase or reduce the period, to replace it with a residence ban or to exempt the convicted person from supervision. English version (STL Draft Official Translation from Arabic) Version 1.0 51 A residence ban ordered pursuant to Article 82, paragraphs 2 and 3, shall be enforced concurrently with supervision for the period imposed in respect of the latter. Common provisions relating to the previous sections",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "268",
+          "text_english": "The provisions regarding circumstances aggravating or mitigating the penalty shall be applicable in the following order: Material aggravating circumstances; Grounds of excuse; Personal aggravating circumstances; Extenuating circumstances.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "269",
+          "text_english": "The Judge shall determine in the judgement the effect of each aggravating or extenuating circumstance on the penalty imposed. English version (STL Draft Official Translation from Arabic) Version 1.0 52 Book II Offences Chapter I Offences against state security1",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "270",
+          "text_english": "Any agreement concluded between two or more persons to commit a felony by specific means shall be termed a conspiracy.",
+          "current_version": true,
+          "subject": "Contracts and obligations"
+        },
+        {
+          "article_number": "271",
+          "text_english": "Article 271 was amended by paragraph 19 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: An attack on state security is made whether the act constituting the offence is complete, inchoate or an attempt.",
+          "current_version": true
+        },
+        {
+          "article_number": "272",
+          "text_english": "Anyone who takes part in a conspiracy against state security and who reports it to the authorities before the commencement of any act preparatory to its execution shall be exempt from punishment. If an act was committed or had begun, the ground of excuse shall only have a mitigating effect. An offender who reports a conspiracy or another felony against state security to the authorities before its completion or who brings about the arrest of other offenders or of persons whose hiding place is known to him – even after the prosecution proceedings have begun – shall also be entitled to mitigation. The provisions of this article shall not apply to an instigator. 1 The only article of the Act of 1 April 1944 stipulates: “Contrary to the provisions of Article 1 of Legislative Decree No. 340, the provisions of Articles 270 to 349 of the new Penal Code enter into force upon the publication of that Act.” The Act of 1 April 1944 was published in Official Gazette No. 14/1944. English version (STL Draft Official Translation from Arabic) Version 1.0 53 [Articles 314 to 316] Subsection 4 ‐ Terrorism1",
+          "current_version": true
+        },
+        {
+          "article_number": "314",
+          "text_english": "Terrorist acts are all acts designed to foment terror which are committed by means such as explosive devices, inflammable materials, toxic or corrosive products and infectious or microbial agents that are liable to create a public emergency.",
+          "current_version": true
+        },
+        {
+          "article_number": "315",
+          "text_english": "A conspiracy aimed at the commission of one or more acts of terrorism shall be punishable by fixed‐term hard labour. A terrorist act shall carry a penalty of hard labour for at least five years. It shall carry a penalty of hard labour for life if it results in even partial destruction of a building, industrial establishment, vessel or other facility or in impediments to means of broadcasting, communications and transport. The death penalty shall be imposed if the act leads to the death of a person or to the complete or partial destruction of a building in which one or more persons are present.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "316",
+          "text_english": "Any association established with a view to altering the economic or social structure of the State or the political circumstances of society by any of the means referred to in Article 314 shall be dissolved and its members shall be sentenced to hard labour for life. The penalty imposed on founders and directors shall be not less than seven years. The entitlement to exemption from or mitigation of punishment granted to conspirators pursuant to Article 272 shall be extended to include perpetrators of the above‐mentioned felony. Article 316: bis‐ Article 316 bis was added to the Penal Code by Act No. 553 of 20 October 2003: Any person who finances or contributes to the financing, willfully, by any direct or indirect means, of terrorism, terrorist acts or terrorist organisations, shall be punished by fixed‐term hard labour of between three and seven years and by a fine that would not be less than the paid sum or more than three times that sum. 1 Articles 306 to 315 except Article 314: Their implementation was temporarily suspended and were replaced with exceptional texts defined by the Act of 11 January 1958. English version (STL Draft Official Translation from Arabic) Version 1.0 54 [Articles 335 to 339] Section III Unlawful associations Subsection 1 ‐ Criminal associations",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "335",
+          "text_english": "Article 335 was revoked by Article 14 of Legislative Decree No. 112 of 16 September 1983, as follows: If two or more persons establish an association or enter into a written or oral agreement to commit felonies against persons or property, or to undermine the authority of the State, its prestige or its civil, military, financial or economic institutions, they shall be punishable by fixed‐term hard labour. The term of this penalty shall be not less than 10 years if the offenders' acts were directed against the lives of other persons or those of employees of public institutions and administrations. However, any person who reveals the existence of an association or agreement and divulges such information as he possesses regarding the other offenders shall be exempt from punishment.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "336",
+          "text_english": "Members of a group of three or more persons operating on public highways and in rural areas as an armed band with a view to robbing passers‐by, attacking persons or property, or committing any other act of robbery, shall be liable to fixed‐term hard labour for a minimum term of seven years. They shall be sentenced to hard labour for life if they committed one of the above‐mentioned acts. The death penalty shall be imposed on any member who, in executing a felony, kills or attempts to kill the victims or subjects them to torture or acts of barbarity. Subsection 2 ‐ Secret societies",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "337",
+          "text_english": "An association or group that has the status of a society shall be deemed to be secret if its purpose is contrary to the law and if it conducts all or some of its activities covertly. The same associations and groups shall also be deemed to be secret if their purpose has been found to be contrary to the law and they fail to inform the authorities, after being requested to do so, of their statutes, the names of their members and the offices they hold, the subjects discussed at their meetings, their assets and the origin of their resources, or if they provide false or incomplete information on such matters.",
+          "current_version": true
+        },
+        {
+          "article_number": "338",
+          "text_english": "The fine stipulated in Article 338 was amended by Article 24 of Act 239 of 27 May 1993, as follows: All secret societies shall be dissolved and their assets confiscated. English version (STL Draft Official Translation from Arabic) Version 1.0 55 Any person who held an administrative or executive office in the society shall be punishable by imprisonment for a term of between six months and two years and by a fine of between 100,000 and 1 million Lebanese pounds, and all other members by one half of these penalties.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "339",
+          "text_english": "If a member of a secret society commits an offence in the interest of the society, any member who attended the meeting at which the offence was decided shall be deemed to be an instigator and shall incur the penalty imposed under Article 218. A member who was present at the scene of the offence when it was committed shall be treated as an accessory and receive the corresponding penalty imposed under Article 220. English version (STL Draft Official Translation from Arabic) Version 1.0 56 [Articles 398 to 400] Chapter IV Offences against the administration of justice Section I Offences perverting the course of justice Subsection 1 ‐ Concealment of felonies and misdemeanours",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "398",
+          "text_english": "Any Lebanese citizen who knew of a felony against state security and failed to report the matter at once to the public authorities shall be punishable by imprisonment for a term of between one and three years and by loss of his civil rights.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "399",
+          "text_english": "The fine stipulated in Article 399 was amended by Article 40 of Act No. 239 of 27 May 1993, as follows: Any public official tasked with the investigation or prosecution of offences who fails to report or delays reporting an offence that comes to his knowledge shall be punishable by imprisonment for a term of between one month and three years and by a fine of between 20,000 and 200,000 Lebanese pounds. Any public official who fails to inform or delays informing the competent authority of a felony or a misdemeanour that comes to his knowledge during or in connection with the performance of his duties shall be punishable by the aforementioned fine. The foregoing provisions shall be applicable unless prosecution of the unreported offence depends on the filing of an individual complaint.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "400",
+          "text_english": "Any person who, while practising a healthcare profession, assists a person who appears to have been the victim of a felony or a misdemeanour that may be prosecuted without the filing of a complaint, and who does not report the matter to the authorities, shall be punishable by the fine stipulated in the preceding Article. English version (STL Draft Official Translation from Arabic) Version 1.0 57 [Articles 547 to 550] Chapter VIII Felonies and misdemeanours against persons Section I Felonies and misdemeanours against human life and physical integrity Subsection 1 ‐ Intentional homicide",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "5471",
+          "text_english": "Anyone who intentionally kills another person shall be punishable by hard labour for a term of between 15 and 20 years.",
+          "current_version": true,
+          "subject": "Homicide"
+        },
+        {
+          "article_number": "5481",
+          "text_english": "Article 548 was amended by Article 3 of the Act of 24 May 1949 and Legislative Decree No. 110 of 30 June 1977, as follows: Intentional homicide shall be punished by hard labour for life if it was committed: 1. For a base motive; 2. To obtain a benefit resulting from a misdemeanour; 3. This paragraph was revoked by Legislative Decree No. 110 of 30 June 1977 and replaced with the following text by Article 32 of Legislative Decree No. 112 of 16 September 1983; Through mistreatment of the corpse by the criminal after the homicide. 4. Against a minor under 15 years of age; 5. Against two or more persons.",
+          "current_version": true,
+          "subject": "Homicide"
+        },
+        {
+          "article_number": "549",
+          "text_english": "Article 549 was amended by Articles 3 and 4 of the Act of 24 May 1949; Article 1 of the Act of 9 January 1951 modified Article 4 of the Act of 24 May 1949: Intentional homicide shall entail the death penalty if it was committed in the following circumstances: 1. With premeditation; 2. To prepare for, facilitate or execute a felony or misdemeanour, to facilitate the escape of instigators or perpetrators of, or accessories to, such a felony or to preclude their punishment; 3. Against an ascendant or descendant of the offender; 4. If the offender committed acts of torture or cruelty against persons; 1 The application of the provisions of Articles 547 and 548 has been suspended by the Act of 16 February 1959 which stipulates as follows: Article 1: The application of the provisions of Articles 547 and 548 of the Penal Code shall be temporarily suspended and replaced with the following provisions: Article 2: Anyone who kills a person intentionally shall be sentenced to death. Article 3: The perpetrator of the offence stipulated in the previous article and in Article 549 of the Penal Code shall not be granted mitigating circumstances. Article 4: The provisions of this law shall not apply to the security forces during the performance of their duties, and they shall remain subject to the provisions of the ordinary law. This Act was repealed by Act No. 26 of 18 May 1965. By Act No. 302 of 21 March 1994, Articles 547 and 548 were suspended again. However, both articles were reinstated after the repeal of Act No. 302/1994 by Article 1 of Act No. 338 of 2 August 2001. English version (STL Draft Official Translation from Arabic) Version 1.0 58 The following paragraph was added to Article 549 by Legislative Decree No. 110 of 30 September 1983: 5. Against a public official during, in connection with or on account of the performance of his duties; The following paragraphs were added to Article 549 by Legislative Decree No. 112 of 16 June 1977: 6. Against a person on ac",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "550",
+          "text_english": "Anyone who causes the death of a person through beatings, violence, assault or any other intentional act without intending to kill him shall be punishable by hard labour for a term of at least five years. The penalty shall be not less than seven years if the act was associated with one of the circumstances mentioned in the preceding two Articles. English version (STL Draft Official Translation from Arabic) Version 1.0 59 [Articles 554 to 559] Subsection 2 ‐ Personal injuries",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "554",
+          "text_english": "The fine stipulated in Article 554 was amended by Article 80 of Act No. 239 of 27 May 1993, as follows: Anyone who deliberately strikes, wounds or otherwise injures a person who, as a consequence of such acts, suffers illness or incapacity for work for a period not exceeding 10 days shall, on the basis of a complaint filed by the victim, be punishable by imprisonment for a maximum term of six months, or by imprisonment for a contravention and a fine of between 10,000 and 50,000 Lebanese pounds, or by one of these penalties. Renunciation by the complainant shall extinguish the public prosecution and the effect on the penalty shall be the same as that of a pardon by the civil party.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "555",
+          "text_english": "The fine stipulated in Article 555 was amended by Article 81 of Act No. 239 of 27 May 1993, as follows: If the injury results in illness or incapacity for work for a period exceeding 10 days, the offender shall be punishable by imprisonment for a term not exceeding one year and by a maximum fine of 100,000 Lebanese pounds, or by one of these penalties. If the complainant withdraws his claim, the penalty shall be halved.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "556",
+          "text_english": "If the illness or incapacity for work exceeds 20 days, a penalty of imprisonment for a term of between three months and three years shall be imposed in addition to the above‐mentioned fine.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "557",
+          "text_english": "Article 557 was amended by paragraph 34 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: If the act leads to the rupture or removal of an organ or the amputation of a limb or the failure of either to function or to grave impairment of one of the senses, or if it causes a serious deformity or any other permanent disability or apparent permanent disability, the offender shall be punishable by fixed‐term hard labour for a maximum term of 10 years.",
+          "current_version": true,
+          "subject": "Employment and labor"
+        },
+        {
+          "article_number": "558",
+          "text_english": "Article 558 was amended by paragraph 35 of Article 51 of Legislative Decree No. 112 of 16 September 1983, as follows: Any person who, through one of the acts described in Article 554, causes a pregnant woman whom he knows to be pregnant to abort shall incur the same penalty.",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        },
+        {
+          "article_number": "559",
+          "text_english": "The penalties prescribed in this subsection shall be increased in accordance with the provisions of Article 257 if the act is perpetrated in one of the circumstances mentioned in Articles 548 and 549. English version (STL Draft Official Translation from Arabic) Version 1.0",
+          "current_version": true,
+          "subject": "Penalties and sentencing"
+        }
+      ],
+      "historical_context": "Full article-level text of the Lebanese Penal Code (Decree-Law No. 340/1943), extracted from the STL (Special Tribunal for Lebanon) official English translation. This code is the primary criminal law legislation in Lebanon, covering general criminal provisions, felonies, misdemeanors, and contraventions."
+    }
+  ]
+}

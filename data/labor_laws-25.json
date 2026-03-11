@@ -1,0 +1,1557 @@
+{
+  "database_info": {
+    "title": "Lebanese Labor and Social Legislation Database",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "total_laws": 31,
+    "source_agencies": [
+      "Ministry of Justice (Lebanon)",
+      "Ministry of Labor (Lebanon)",
+      "National Social Security Fund (CNSS)",
+      "ILO - International Labour Organization",
+      "Lebanese Parliament"
+    ],
+    "laws_by_category": {
+      "Labor Law": 22,
+      "Social Security": 9
+    }
+  },
+  "laws": [
+    {
+      "law_id": "LBN-LAB-001",
+      "official_number": "Law 1/1946",
+      "official_title_arabic": "قانون العمل اللبناني",
+      "official_title_french": "Code du Travail Libanais",
+      "official_title_english": "Lebanese Labour Code",
+      "date_enacted": "1946-09-23",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1946-09-23"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law of 17 September 1962",
+          "date": "1962-09-17",
+          "articles_affected": [
+            "107",
+            "108"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 48/1966",
+          "date": "1966-08-26",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 9816/1968",
+          "date": "1968-05-04",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 39/1971",
+          "date": "1971-06-14",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 41/1971",
+          "date": "1971-06-15",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 7607/1974",
+          "date": "1974-04-13",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 8496/1974",
+          "date": "1974-08-02",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 9640/1975",
+          "date": "1975-02-06",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree-Law 80/1977",
+          "date": "1977-06-27",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 3572/1980",
+          "date": "1980-10-21",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 2/1987",
+          "date": "1987-01-06",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 5/1987",
+          "date": "1987-05-02",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 89/1991",
+          "date": "1991-09-07",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 536/1996",
+          "date": "1996-07-24",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 91/1999",
+          "date": "1999-06-14",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 173/2000",
+          "date": "2000-02-14",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 207/2000",
+          "date": "2000-05-26",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 129/2010",
+          "date": "2010-08-24",
+          "articles_affected": [
+            "59"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 267/2014",
+          "date": "2014-04-15",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 144/2019",
+          "date": "2019-07-31",
+          "articles_affected": [],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "Full text available at Ministry of Justice and Lebanese University Legal Research Center. Contains 114 articles plus annexes.",
+      "full_text_french": "Code du Travail Libanais - disponible en version française",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعريف صاحب العمل",
+          "text_french": "Définition de l'employeur",
+          "subject": "Definitions"
+        },
+        {
+          "article_number": "7",
+          "text_arabic": "استثناءات من القانون - الخدم المنزليين، العمال الزراعيين، المؤسسات العائلية",
+          "text_french": "Exemptions - domestiques, travailleurs agricoles, entreprises familiales",
+          "subject": "Scope Exemptions"
+        },
+        {
+          "article_number": "8",
+          "text_arabic": "نطاق تطبيق القانون على جميع أصحاب العمل والعمال",
+          "text_french": "Champ d'application aux employeurs et travailleurs",
+          "subject": "Scope of Application"
+        },
+        {
+          "article_number": "14",
+          "text_arabic": "الأجر يدفع بالعملة القانونية",
+          "text_french": "Salaire payable en monnaie légale",
+          "subject": "Wage Payment"
+        },
+        {
+          "article_number": "44",
+          "text_arabic": "الحد الأدنى للأجر يجب أن يكفي للاحتياجات الأساسية",
+          "text_french": "Salaire minimum doit couvrir les besoins essentiels",
+          "subject": "Minimum Wage Principles"
+        },
+        {
+          "article_number": "45",
+          "text_arabic": "لجنة تثبيت الحد الأدنى للأجور",
+          "text_french": "Commission de fixation du salaire minimum",
+          "subject": "Minimum Wage Commission"
+        },
+        {
+          "article_number": "46",
+          "text_arabic": "مراجعة الحد الأدنى للأجور حسب الظروف الاقتصادية",
+          "text_french": "Révision du salaire minimum selon circonstances économiques",
+          "subject": "Minimum Wage Review"
+        },
+        {
+          "article_number": "47",
+          "text_arabic": "تكرار دفع الأجور - شهري للموظفين، مرتين شهريا للعمال",
+          "text_french": "Périodicité des paiements - mensuel pour employés, bi-mensuel pour ouvriers",
+          "subject": "Wage Payment Frequency"
+        },
+        {
+          "article_number": "50",
+          "text_arabic": "إنهاء عقد العمل - إشعار مسبق وتعويض",
+          "text_french": "Rupture du contrat - préavis et indemnité",
+          "subject": "Termination"
+        },
+        {
+          "article_number": "59",
+          "text_arabic": "حقوق العمال الأجانب - مبدأ المعاملة بالمثل والتصريح بالعمل",
+          "text_french": "Droits des travailleurs étrangers - réciprocité et permis de travail",
+          "subject": "Foreign Workers"
+        },
+        {
+          "article_number": "66",
+          "text_arabic": "ساعات العمل - 48 ساعة أسبوعيا كحد أقصى",
+          "text_french": "Heures de travail - 48 heures maximum par semaine",
+          "subject": "Working Hours"
+        },
+        {
+          "article_number": "68",
+          "text_arabic": "استراحة أسبوعية 36 ساعة متواصلة",
+          "text_french": "Repos hebdomadaire de 36 heures continues",
+          "subject": "Weekly Rest"
+        },
+        {
+          "article_number": "73-76",
+          "text_arabic": "السلامة والصحة المهنية",
+          "text_french": "Sécurité et santé au travail",
+          "subject": "Occupational Safety and Health"
+        },
+        {
+          "article_number": "83-106",
+          "text_arabic": "النقابات العمالية",
+          "text_french": "Syndicats professionnels",
+          "subject": "Trade Unions"
+        }
+      ],
+      "historical_context": "Enacted on September 23, 1946, shortly after Lebanese independence. Based on French labor law traditions. Has undergone numerous amendments to adapt to changing economic and social conditions. The 2010 amendment (Law 129/2010) was significant for Palestinian refugee workers.",
+      "related_laws": [
+        "Law 36/67",
+        "Law 13955/1963",
+        "Decree 7426/2012"
+      ],
+      "source_url": "https://www.justice.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-SOC-001",
+      "official_number": "Law 13955/1963",
+      "official_title_arabic": "قانون الضمان الاجتماعي",
+      "official_title_french": "Loi sur la Sécurité Sociale",
+      "official_title_english": "Social Security Law",
+      "date_enacted": "1963-09-26",
+      "published_in_official_gazette": {
+        "issue_number": "78",
+        "date": "1963-09-30"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 4996/2001",
+          "date": "2001",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 24/1982",
+          "date": "1982",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 8641/2002",
+          "date": "2002",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 7352/2002",
+          "date": "2002",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 12394/2004",
+          "date": "2004",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 13684/2004",
+          "date": "2004",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 753/2006",
+          "date": "2006",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 2188/2009",
+          "date": "2009",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 128/2010",
+          "date": "2010-08-17",
+          "articles_affected": [
+            "9"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 210/2020",
+          "date": "2020",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 263/2022",
+          "date": "2022",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 12773/2023",
+          "date": "2023",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 319/2023",
+          "date": "2023-12-28",
+          "articles_affected": [
+            "EOSI provisions"
+          ],
+          "nature": "major_reform"
+        }
+      ],
+      "full_text_arabic": "Available at Lebanese University Legal Research Center. Contains 87 articles organized in 3 books: Administrative Organization, Benefits, Financial Provisions.",
+      "full_text_french": "Loi sur la Sécurité Sociale - disponible en français",
+      "key_articles": [
+        {
+          "article_number": "1-12",
+          "text_arabic": "التنظيم الإداري وميدان تطبيق الضمان الاجتماعي",
+          "text_french": "Organisation administrative et champ d'application",
+          "subject": "Administrative Organization"
+        },
+        {
+          "article_number": "9",
+          "text_arabic": "الفئات المستفيدة من الضمان الاجتماعي",
+          "text_french": "Catégories bénéficiaires de la sécurité sociale",
+          "subject": "Beneficiaries"
+        },
+        {
+          "article_number": "13-63",
+          "text_arabic": "التقديمات - تعويضات العائلة والامومة والمرض ونهاية الخدمة",
+          "text_french": "Prestations - allocations familiales, maternité, maladie, fin de service",
+          "subject": "Benefits"
+        },
+        {
+          "article_number": "68",
+          "text_arabic": "الحد الأقصى للراتح الخاضع للاقتطاعات",
+          "text_french": "Plafond des rémunérations soumises à cotisations",
+          "subject": "Contribution Ceiling"
+        }
+      ],
+      "historical_context": "Established the National Social Security Fund (CNSS/NSSF) in 1963. Created a social insurance system covering family allowances, sickness and maternity, and end-of-service indemnity. Major reform in December 2023 with Law 319 introducing a pension system to replace the end-of-service indemnity.",
+      "related_laws": [
+        "Law 319/2023",
+        "Law 128/2010",
+        "Decree 7352/2002"
+      ],
+      "source_url": "http://77.42.251.205/Law.aspx?lawId=244971",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-001",
+      "official_number": "Law 36/67",
+      "official_title_arabic": "قانون تحديد الحد الأدنى للأجور",
+      "official_title_french": "Loi sur la fixation du salaire minimum",
+      "official_title_english": "Law Concerning Minimum Wage Fixing",
+      "date_enacted": "1967-05-16",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1967-05-16"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ينص على إنشاء لجنة مؤشر تكلفة المعيشة لتحديد الحد الأدنى للأجور",
+      "full_text_french": "Crée la Commission de l'indice des prix à la consommation pour fixer le salaire minimum",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تحديد الحد الأدنى للأجور من قبل مجلس الوزراء بناء على اقتراح وزير العمل",
+          "text_french": "Fixation du salaire minimum par le Conseil des Ministres sur proposition du Ministre du Travail",
+          "subject": "Minimum Wage Setting"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "لجنة مؤشر تكلفة المعيشة - ممثلون عن الحكومة وأصحاب العمل والعمال",
+          "text_french": "Commission de l'indice des prix - représentants gouvernement, employeurs, travailleurs",
+          "subject": "Price Index Committee"
+        },
+        {
+          "article_number": "5-6",
+          "text_arabic": "نشر مؤشر تكلفة المعيشة سنويا",
+          "text_french": "Publication annuelle de l'indice des prix",
+          "subject": "Cost of Living Index"
+        }
+      ],
+      "historical_context": "Established the legal framework for minimum wage setting in Lebanon. Created the tripartite Price Index Committee (workers, employers, government) to advise on wage adjustments based on cost of living.",
+      "related_laws": [
+        "Decree 7426/2012",
+        "Decree 10598/2022",
+        "Decree 13164/2024"
+      ],
+      "source_url": "https://natlex.ilo.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-002",
+      "official_number": "Decree 7426/2012",
+      "official_title_arabic": "مرسوم تحديد الحد الأدنى للأجور وتقديم علاوة غلاء المعيشة",
+      "official_title_french": "Décret fixant le salaire minimum et accordant une allocation de vie chère",
+      "official_title_english": "Decree Fixing Minimum Wage and Providing Cost of Living Allowance",
+      "date_enacted": "2012-01-25",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2012-01-25"
+      },
+      "category": "Labor Law",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Decree 3791/2016",
+          "date": "2016-06-30",
+          "articles_affected": [
+            "Article 3(3)"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "حدد الحد الأدنى للأجر الشهري بـ 675,000 ل.ل واليومي بـ 30,000 ل.ل اعتبارا من 1 شباط 2012",
+      "full_text_french": "Fixe le salaire minimum mensuel à 675,000 LLP et le salaire journalier à 30,000 LLP à partir du 1er février 2012",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إلغاء أحكام المرسوم 500/2008",
+          "text_french": "Abrogation du Décret 500/2008",
+          "subject": "Repeal"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الحد الأدنى للأجر الشهري 675,000 ل.ل واليومي 30,000 ل.ل",
+          "text_french": "Salaire minimum mensuel 675,000 LLP, journalier 30,000 LLP",
+          "subject": "Minimum Wage Rates"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "علاوة غلاء المعيشة - 100% على أول 400,000 ل.ل و9% على ما بين 400,000 و1,500,000 ل.ل",
+          "text_french": "Allocation de vie chère - 100% sur premier 400,000 LLP et 9% sur 400,000-1,500,000 LLP",
+          "subject": "Cost of Living Allowance"
+        }
+      ],
+      "historical_context": "Major minimum wage increase from LBP 500,000 to LBP 675,000 monthly. Implemented after extensive negotiations and resignation of Minister of Labor Charbel Nahas who opposed the transportation allowance decree.",
+      "related_laws": [
+        "Law 36/67",
+        "Decree 500/2008",
+        "Decree 10598/2022"
+      ],
+      "source_url": "https://natlex.ilo.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-003",
+      "official_number": "Decree 10598/2022",
+      "official_title_arabic": "مرسوم زيادة الحد الأدنى للأجور لتغطية غلاء المعيشة",
+      "official_title_french": "Décret d'augmentation du salaire minimum pour couvrir le coût de la vie",
+      "official_title_english": "Decree Increasing Minimum Wage for Cost of Living Coverage",
+      "date_enacted": "2022-10-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2022-10-01"
+      },
+      "category": "Labor Law",
+      "status": "amended",
+      "amendments": [],
+      "full_text_arabic": "زيادة الحد الأدنى للأجر الشهري بـ 600,000 ل.ل واليومي بـ 28,000 ل.ل",
+      "full_text_french": "Augmentation du salaire minimum mensuel de 600,000 LLP et journalier de 28,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "زيادة غلاء المعيشة 600,000 ل.ل للرواتب الشهرية و28,000 ل.ل للأجور اليومية",
+          "text_french": "Allocation coût de vie 600,000 LLP pour salaires mensuels, 28,000 LLP pour salaires journaliers",
+          "subject": "Cost of Living Increase"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الزيادة خاضعة لاقتطاعات الضمان الاجتماعي",
+          "text_french": "L'augmentation est soumise aux cotisations de sécurité sociale",
+          "subject": "Social Security Contributions"
+        }
+      ],
+      "historical_context": "First major adjustment during economic crisis. Increased minimum wage from LBP 675,000 to LBP 1,275,000 monthly. Response to currency devaluation and hyperinflation.",
+      "related_laws": [
+        "Decree 7426/2012",
+        "Decree 9129/2022"
+      ],
+      "source_url": "https://finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-004",
+      "official_number": "Decree 9129/2022",
+      "official_title_arabic": "مرسوم تعديل المرسوم 7426/2012 بشأن الحد الأدنى للرواتب الشهرية",
+      "official_title_french": "Décret modifiant le Décret 7426/2012 concernant le salaire minimum mensuel",
+      "official_title_english": "Decree Amending Decree 7426/2012 on Minimum Monthly Wages",
+      "date_enacted": "2022-07-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2022-07-01"
+      },
+      "category": "Labor Law",
+      "status": "amended",
+      "amendments": [],
+      "full_text_arabic": "زيادة 1,325,000 ل.ل للرواتب أقل من 4,000,000 ل.ل - الحد الأدنى الجديد 2,000,000 ل.ل",
+      "full_text_french": "Augmentation de 1,325,000 LLP pour salaires inférieurs à 4,000,000 LLP - nouveau minimum 2,000,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "زيادة 1,325,000 ل.ل للرواتب أقل من 4,000,000 ل.ل شهريا",
+          "text_french": "Augmentation de 1,325,000 LLP pour salaires < 4,000,000 LLP/mois",
+          "subject": "Wage Increase"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "زيادة 61,000 ل.ل للأجور اليومية غير المتجاوزة 182,000 ل.ل",
+          "text_french": "Augmentation de 61,000 LLP pour salaires journaliers ≤ 182,000 LLP",
+          "subject": "Daily Wage Increase"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "الرواتب فوق 4,000,000 ل.ل حسب الاتفاقيات الجماعية",
+          "text_french": "Salaires > 4,000,000 LLP selon conventions collectives",
+          "subject": "Higher Wages"
+        }
+      ],
+      "historical_context": "Major wage adjustment during economic crisis. New minimum wage set at LBP 2,000,000 monthly. Also increased NSSF ceilings for sickness/maternity and family allowances.",
+      "related_laws": [
+        "Decree 7426/2012",
+        "Decree 10598/2022"
+      ],
+      "source_url": "https://finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-005",
+      "official_number": "Decree 13164/2024",
+      "official_title_arabic": "مرسوم رفع الحد الأدنى للأجور",
+      "official_title_french": "Décret d'augmentation du salaire minimum",
+      "official_title_english": "Decree Raising Minimum Wage",
+      "date_enacted": "2024-04-05",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2024-04-05"
+      },
+      "category": "Labor Law",
+      "status": "amended",
+      "amendments": [],
+      "full_text_arabic": "رفع الحد الأدنى للأجر الشهري إلى 18,000,000 ل.ل واليومي إلى 820,000 ل.ل",
+      "full_text_french": "Augmentation du salaire minimum mensuel à 18,000,000 LLP et journalier à 820,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "الحد الأدنى للأجر الشهري 18,000,000 ل.ل",
+          "text_french": "Salaire minimum mensuel 18,000,000 LLP",
+          "subject": "Monthly Minimum Wage"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الحد الأدنى للأجر اليومي 820,000 ل.ل",
+          "text_french": "Salaire minimum journalier 820,000 LLP",
+          "subject": "Daily Minimum Wage"
+        }
+      ],
+      "historical_context": "Further adjustment during ongoing economic crisis. Minimum wage increased to LBP 18 million monthly, effective April 1, 2024.",
+      "related_laws": [
+        "Decree 9129/2022",
+        "Decree 699/2025"
+      ],
+      "source_url": "https://finance.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-MIN-006",
+      "official_number": "Decree 699/2025",
+      "official_title_arabic": "مرسوم تحديد الحد الأدنى للرواتب الشهرية واليومية",
+      "official_title_french": "Décret fixant les salaires minimums mensuels et journaliers",
+      "official_title_english": "Decree Fixing Minimum Monthly and Daily Wages",
+      "date_enacted": "2025-08-01",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2025-08-01"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "الحد الأدنى للأجر الشهري 28,000,000 ل.ل واليومي 1,300,000 ل.ل - إعادة النظر بغلاء المعيشة خلال 6 أشهر",
+      "full_text_french": "Salaire minimum mensuel 28,000,000 LLP, journalier 1,300,000 LLP - révision du coût de vie dans 6 mois",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "الحد الأدنى للأجر الشهري 28,000,000 ل.ل",
+          "text_french": "Salaire minimum mensuel 28,000,000 LLP",
+          "subject": "Monthly Minimum Wage"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الحد الأدنى للأجر اليومي 1,300,000 ل.ل",
+          "text_french": "Salaire minimum journalier 1,300,000 LLP",
+          "subject": "Daily Minimum Wage"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "إعادة النظر بغلاء المعيشة خلال 6 أشهر من نشر المرسوم",
+          "text_french": "Révision du coût de vie dans les 6 mois suivant la publication",
+          "subject": "Cost of Living Review"
+        }
+      ],
+      "historical_context": "Latest minimum wage update as of August 2025. Minimum wage raised to LBP 28 million monthly (approximately $310 at market rate). NSSF maximum salary ceiling increased to LBP 140 million for maternity/sickness.",
+      "related_laws": [
+        "Decree 13164/2024"
+      ],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-PEN-001",
+      "official_number": "Law 319/2023",
+      "official_title_arabic": "قانون إصلاح الضمان الاجتماعي وإنشاء نظام التقاعد",
+      "official_title_french": "Loi de réforme de la sécurité sociale et création du régime de retraite",
+      "official_title_english": "Law on Social Security Reform and Pension System Creation",
+      "date_enacted": "2023-12-28",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2023-12-28"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يحل نظام التقاعد الجديد محل نظام تعويض نهاية الخدمة الحالي - نظام مساهمات محددة افتراضيا",
+      "full_text_french": "Le nouveau régime de retraite remplace le système actuel d'indemnité de fin de service - régime à cotisations définies notionnelles",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إنشاء نظام تقاعد للقطاع الخاص",
+          "text_french": "Création d'un régime de retraite pour le secteur privé",
+          "subject": "Pension System"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الاشتراك إلزامي للموظفين حتى 48 سنة، اختياري لمن هم فوق 49",
+          "text_french": "Adhésion obligatoire jusqu'à 48 ans, facultative pour 49+",
+          "subject": "Coverage"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "سن التقاعد 64 سنة مع إمكانية التقاعد المبكر من 60 سنة",
+          "text_french": "Âge de retraite 64 ans avec possibilité de départ anticipé à 60 ans",
+          "subject": "Retirement Age"
+        },
+        {
+          "article_number": "4",
+          "text_arabic": "15 سنة اشتراك minimum للحصول على معاش",
+          "text_french": "15 ans de cotisations minimum pour pension",
+          "subject": "Qualifying Period"
+        },
+        {
+          "article_number": "5",
+          "text_arabic": "حسابات فردية افتراضية - 12.25% من الراتح الخاضع",
+          "text_french": "Comptes individuels notionnels - 12.25% du salaire cotisable",
+          "subject": "Individual Accounts"
+        },
+        {
+          "article_number": "6",
+          "text_arabic": "معدل مساهمة مجمع 17-18% (الموظف والمشغل)",
+          "text_french": "Taux de cotisation combiné 17-18% (employé et employeur)",
+          "subject": "Contribution Rate"
+        },
+        {
+          "article_number": "7",
+          "text_arabic": "الحد الأقصى للراتح الخاضع 4 أضعاف متوسط أجور جميع المشتركين",
+          "text_french": "Plafond des gains cotisables: 4 fois le salaire moyen des participants",
+          "subject": "Earnings Cap"
+        },
+        {
+          "article_number": "8",
+          "text_arabic": "هيئة إدارة جديدة - 10 أعضاء (4 عمال، 4 أصحاب عمل، 2 حكومة)",
+          "text_french": "Nouveau conseil d'administration - 10 membres (4 travailleurs, 4 employeurs, 2 gouvernement)",
+          "subject": "Governance"
+        },
+        {
+          "article_number": "9",
+          "text_arabic": "لجنة استثمار مستقلة - مراجعة اكتوارية كل 3 سنوات",
+          "text_french": "Comité d'investissement indépendant - révision actuarielle tous les 3 ans",
+          "subject": "Investment Committee"
+        }
+      ],
+      "historical_context": "Landmark reform passed after 20+ years of discussions. Replaces the end-of-service indemnity (EOSI) lump-sum system with a lifelong pension based on notional defined contribution (NDC). Addresses the severe underfunding of the previous system and provides old-age income security. Approximately 80% of elderly Lebanese were not receiving any pension before this reform.",
+      "related_laws": [
+        "Law 13955/1963"
+      ],
+      "source_url": "https://www.ilo.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-PAL-001",
+      "official_number": "Law 128/2010",
+      "official_title_arabic": "قانون تعديل المادة 9 من قانون الضمان الاجتماعي بشأن اللاجئين الفلسطينيين",
+      "official_title_french": "Loi modifiant l'article 9 de la loi sur la sécurité sociale concernant les réfugiés palestiniens",
+      "official_title_english": "Law Amending Article 9 of Social Security Law Regarding Palestinian Refugees",
+      "date_enacted": "2010-08-17",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2010-08-17"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "إعفاء اللاجئين الفلسطينيين من شرط المعاملة بالمثل في الضمان الاجتماعي - الاستفادة من تعويض نهاية الخدمة فقط",
+      "full_text_french": "Exemption des réfugiés palestiniens de la condition de réciprocité - bénéfice uniquement de l'indemnité de fin de service",
+      "key_articles": [
+        {
+          "article_number": "9(3)",
+          "text_arabic": "إعفاء اللاجئ الفلسطيني من شرط المعاملة بالمثل للاستفادة من تعويض نهاية الخدمة",
+          "text_french": "Exemption du réfugié palestinien de la réciprocité pour bénéficier de l'indemnité de fin de service",
+          "subject": "End of Service Benefit"
+        },
+        {
+          "article_number": "Note",
+          "text_arabic": "عدم الاستفادة من فروع المرض والأمومة والتعويضات العائلية - فتح حساب منفصل للمساهمات",
+          "text_french": "Non-bénéfice des branches maladie, maternité et allocations familiales - compte séparé pour cotisations",
+          "subject": "Exclusions"
+        }
+      ],
+      "historical_context": "Adopted alongside Law 129/2010 amending Labor Code Article 59. First legal recognition of Palestinian refugees in Lebanese legislation. However, excludes them from health, maternity, and family benefits. Contributions (23.5%) same as Lebanese workers but only 8.5% goes to their end-of-service account.",
+      "related_laws": [
+        "Law 129/2010",
+        "Law 13955/1963"
+      ],
+      "source_url": "https://www.palhumanrights.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-PAL-002",
+      "official_number": "Law 129/2010",
+      "official_title_arabic": "قانون تعديل المادة 59 من قانون العمل بشأن اللاجئين الفلسطينيين",
+      "official_title_french": "Loi modifiant l'article 59 du Code du travail concernant les réfugiés palestiniens",
+      "official_title_english": "Law Amending Article 59 of Labour Code Regarding Palestinian Refugees",
+      "date_enacted": "2010-08-24",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2010-08-24"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "إعفاء اللاجئين الفلسطينيين من رسوم تصريح العمل وشرط المعاملة بالمثل",
+      "full_text_french": "Exemption des réfugiés palestiniens des frais de permis de travail et de la condition de réciprocité",
+      "key_articles": [
+        {
+          "article_number": "59",
+          "text_arabic": "العمال الأجانب لهم نفس حقوق العمال اللبنانيين عند الفصل بناء على سياسة المعاملة بالمثل - اللاجئ الفلسطيني معفى من شرط المعاملة بالمثل ورسوم تصريح العمل",
+          "text_french": "Les travailleurs étrangers ont les mêmes droits que les travailleurs libanais sous réserve de réciprocité - le réfugié palestinien est exempté de réciprocité et frais de permis",
+          "subject": "Work Permit Exemption"
+        }
+      ],
+      "historical_context": "Historic amendment recognizing Palestinian refugees in Lebanese labor law. Exempts them from work permit fees and reciprocity principle. However, they still need work permits and are barred from liberal professions requiring syndicate membership (medicine, law, engineering, etc.).",
+      "related_laws": [
+        "Law 128/2010",
+        "Law 1/1946"
+      ],
+      "source_url": "https://www.lexismiddleeast.com",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-PUB-001",
+      "official_number": "Decree-Law 112/1959",
+      "official_title_arabic": "مرسوم بقانون نظام موظفي الإدارة العامة",
+      "official_title_french": "Décret-loi réglementant les fonctionnaires de l'administration publique",
+      "official_title_english": "Decree-Law on Civil Servants Regulation",
+      "date_enacted": "1959",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1959"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 46/2017",
+          "date": "2017-08-21",
+          "articles_affected": [
+            "Salary scale"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "ينظم شؤون موظفي القطاع العام - التعيين، الترقية، الرواتب، التقاعد",
+      "full_text_french": "Règle les affaires des fonctionnaires du secteur public - nomination, promotion, salaires, retraite",
+      "key_articles": [
+        {
+          "article_number": "Various",
+          "text_arabic": "التعيين في الوظيفة العامة - الشروط والإجراءات",
+          "text_french": "Nomination à la fonction publique - conditions et procédures",
+          "subject": "Appointment"
+        },
+        {
+          "article_number": "Various",
+          "text_arabic": "سلسلة الرتب والرواتب",
+          "text_french": "Échelle des grades et salaires",
+          "subject": "Salary Scale"
+        },
+        {
+          "article_number": "Various",
+          "text_arabic": "التقاعد في القطاع العام",
+          "text_french": "Retraite dans le secteur public",
+          "subject": "Retirement"
+        }
+      ],
+      "historical_context": "Primary legislation governing public sector employment in Lebanon. Establishes the civil service framework, salary scales, promotion criteria, and retirement system for government employees.",
+      "related_laws": [
+        "Decree-Law 115/1959",
+        "Law 46/2017"
+      ],
+      "source_url": "https://www.mondaq.com",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-PUB-002",
+      "official_number": "Law 46/2017",
+      "official_title_arabic": "قانون سلسلة الرتب والرواتب في القطاع العام",
+      "official_title_french": "Loi sur l'échelle des grades et salaires dans le secteur public",
+      "official_title_english": "Law on Public Sector Salary Scale",
+      "date_enacted": "2017-08-21",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2017-08-21"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تحديث سلسلة الرتب والرواتب للموظفين العموميين - الحد الأدنى 675,000 ل.ل",
+      "full_text_french": "Mise à jour de l'échelle des grades et salaires des fonctionnaires - minimum 675,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعديل سلسلة الرتب والرواتب للفئات الخمس",
+          "text_french": "Modification de l'échelle des grades pour les cinq catégories",
+          "subject": "Salary Scale"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "الحد الأدنى للراتب 675,000 ل.ل",
+          "text_french": "Salaire minimum 675,000 LLP",
+          "subject": "Minimum Salary"
+        }
+      ],
+      "historical_context": "Major reform of public sector salaries after years of stagnation. Unified salary scale across government sectors. Set minimum wage at LBP 675,000 matching private sector. Significant increases for teachers and military personnel.",
+      "related_laws": [
+        "Decree-Law 112/1959"
+      ],
+      "source_url": "https://www.information-international.com",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-ILO-001",
+      "official_number": "Legislative Decree 70/1977",
+      "official_title_arabic": "مرسوم تشريعي رقم 70/1977 - المصادقة على اتفاقية العمل الدولية رقم 131",
+      "official_title_french": "Décret législatif 70/1977 - ratification Convention OIT n° 131",
+      "official_title_english": "Legislative Decree 70/1977 - Ratification of ILO Convention 131",
+      "date_enacted": "1977-06-25",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1977-06-25"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "المصادقة على اتفاقية تحديد الأجور الدنيا، 1970 (رقم 131)",
+      "full_text_french": "Ratification de la Convention sur la fixation des salaires minimums, 1970 (n° 131)",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "المصادقة على اتفاقية العمل الدولية رقم 131",
+          "text_french": "Ratification de la Convention OIT n° 131",
+          "subject": "ILO Convention Ratification"
+        }
+      ],
+      "historical_context": "Ratified ILO Convention 131 on Minimum Wage Fixing, establishing international standards for minimum wage determination through tripartite consultation.",
+      "related_laws": [
+        "Law 36/67",
+        "Decree 7426/2012"
+      ],
+      "source_url": "https://normlex.ilo.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-ARB-001",
+      "official_number": "Law 183/2000",
+      "official_title_arabic": "قانون رقم 183/2000 - المصادقة على الاتفاقية العربية رقم 15",
+      "official_title_french": "Loi 183/2000 - ratification Convention arabe n° 15",
+      "official_title_english": "Law 183/2000 - Ratification of Arab Convention 15",
+      "date_enacted": "2000-05-24",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2000-05-24"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "المصادقة على الاتفاقية العربية رقم 15 لسنة 1983 بشأن تحديد الأجور وحمايتها",
+      "full_text_french": "Ratification de la Convention arabe n° 15 de 1983 concernant la fixation et la protection des salaires",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "المصادقة على الاتفاقية العربية رقم 15",
+          "text_french": "Ratification de la Convention arabe n° 15",
+          "subject": "Arab Convention Ratification"
+        }
+      ],
+      "historical_context": "Ratified Arab Labor Convention 15 (1983) on wage determination and protection. References Article 7 on employee's right to full salary even when not performing work for reasons beyond their control.",
+      "related_laws": [
+        "Law 36/67",
+        "Decree 7426/2012"
+      ],
+      "source_url": "https://normlex.ilo.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-ALL-001",
+      "official_number": "Decree 964/2025",
+      "official_title_arabic": "مرسوم تحديد بدل المدرسة للعام الدراسي 2024-2025",
+      "official_title_french": "Décret fixant l'allocation scolaire pour l'année 2024-2025",
+      "official_title_english": "Decree on Schooling Allowance for Academic Year 2024-2025",
+      "date_enacted": "2025-09-04",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2025-09-04"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "بدل مدرسة 40,000,000 ل.ل للمدارس الرسمية والجامعة اللبنانية - 12,000,000 ل.ل للمدارس والجامعات الخاصة",
+      "full_text_french": "Allocation scolaire 40,000,000 LLP pour écoles publiques et Université libanaise - 12,000,000 LLP pour écoles et universités privées",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "40,000,000 ل.ل للطالب في المدارس الرسمية والجامعة اللبنانية (حد أقصى 120,000,000 ل.ل)",
+          "text_french": "40,000,000 LLP par étudiant écoles publiques et UL (max 120,000,000 LLP)",
+          "subject": "Public Schools"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "12,000,000 ل.ل للطالب في المدارس والجامعات الخاصة (حد أقصى 36,000,000 ل.ل)",
+          "text_french": "12,000,000 LLP par étudiant écoles et universités privées (max 36,000,000 LLP)",
+          "subject": "Private Schools"
+        }
+      ],
+      "historical_context": "Annual decree setting schooling allowances for employees' children. Separate rates for public and private education.",
+      "related_laws": [],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-NSS-002",
+      "official_number": "Decree 887/2025",
+      "official_title_arabic": "مرسوم تعديل المادة 68 من قانون الضمان الاجتماعي - زيادة الحد الأقصى للأمومة والمرض",
+      "official_title_french": "Décret modifiant article 68 loi sécurité sociale - augmentation plafond maternité/maladie",
+      "official_title_english": "Decree Amending Article 68 of Social Security Law - Maternity/Sickness Ceiling Increase",
+      "date_enacted": "2025-08-21",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2025-08-21"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "رفع الحد الأقصى للراتح الخاضع لاقتطاعات الأمومة والمرض إلى 120,000,000 ل.ل",
+      "full_text_french": "Augmentation du plafond des rémunérations soumises à cotisations maternité/maladie à 120,000,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "68(2)",
+          "text_arabic": "الحد الأقصى للراتح الخاضع لاقتطاعات الأمومة والمرض 120,000,000 ل.ل (كان 90,000,000 ل.ل)",
+          "text_french": "Plafond maternité/maladie 120,000,000 LLP (était 90,000,000 LLP)",
+          "subject": "Maternity/Sickness Ceiling"
+        }
+      ],
+      "historical_context": "Increased NSSF ceiling for maternity and sickness contributions from LBP 90 million to LBP 120 million monthly.",
+      "related_laws": [
+        "Law 13955/1963"
+      ],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-NSS-003",
+      "official_number": "Decree 422/2025",
+      "official_title_arabic": "مرسوم تعديل التعويضات العائلية للضمان الاجتماعي",
+      "official_title_french": "Décret modifiant les allocations familiales de sécurité sociale",
+      "official_title_english": "Decree Amending Social Security Family Allowances",
+      "date_enacted": "2025-06-19",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2025-06-19"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تعويض عائلي للزوج/الزوجة 1,200,000 ل.ل - للطفل 660,000 ل.ل (حد أقصى 5 أطفال، المجموع 4,500,000 ل.ل)",
+      "full_text_french": "Allocation familiale conjoint 1,200,000 LLP - enfant 660,000 LLP (max 5 enfants, total 4,500,000 LLP)",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعويض عائلي للزوج/الزوجة: 1,200,000 ل.ل",
+          "text_french": "Allocation familiale conjoint: 1,200,000 LLP",
+          "subject": "Spouse Allowance"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تعويض عائلي للطفل: 660,000 ل.ل (حد أقصى 5 أطفال)",
+          "text_french": "Allocation familiale enfant: 660,000 LLP (max 5 enfants)",
+          "subject": "Child Allowance"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "المجموع الأقصى للتعويضات العائلية: 4,500,000 ل.ل",
+          "text_french": "Total maximum allocations familiales: 4,500,000 LLP",
+          "subject": "Total Cap"
+        },
+        {
+          "article_number": "4",
+          "text_arabic": "الحد الأقصى للراتح الخاضع لاقتطاعات التعويضات العائلية: 18,000,000 ل.ل",
+          "text_french": "Plafond cotisations allocations familiales: 18,000,000 LLP",
+          "subject": "Contribution Ceiling"
+        }
+      ],
+      "historical_context": "Significant increase in family allowances. Also raised the contribution ceiling from LBP 12 million to LBP 18 million.",
+      "related_laws": [
+        "Law 13955/1963",
+        "Decree 12773/2023"
+      ],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-NSS-004",
+      "official_number": "Decree 12773/2023",
+      "official_title_arabic": "مرسوم تعديل الحد الأقصى للراتح الخاضع للضمان الاجتماعي - التعويضات العائلية",
+      "official_title_french": "Décret modifiant le plafond des rémunérations soumises à sécurité sociale - allocations familiales",
+      "official_title_english": "Decree Amending NSSF Ceiling - Family Allowances",
+      "date_enacted": "2023-12-28",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2023-12-28"
+      },
+      "category": "Social Security",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Decree 422/2025",
+          "date": "2025-06-19",
+          "articles_affected": [
+            "68(2)"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "رفع الحد الأقصى للراتح الخاضع لاقتطاعات التعويضات العائلية إلى 12,000,000 ل.ل",
+      "full_text_french": "Augmentation du plafond des rémunérations soumises à cotisations allocations familiales à 12,000,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "68(2)",
+          "text_arabic": "الحد الأقصى للراتح الخاضع لاقتطاعات التعويضات العائلية 12,000,000 ل.ل (كان 2,825,000 ل.ل)",
+          "text_french": "Plafond allocations familiales 12,000,000 LLP (était 2,825,000 LLP)",
+          "subject": "Family Allowance Ceiling"
+        }
+      ],
+      "historical_context": "First major increase in NSSF family allowance ceiling in years. Raised from LBP 2.825 million to LBP 12 million.",
+      "related_laws": [
+        "Law 13955/1963"
+      ],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TRA-001",
+      "official_number": "Law 164/2011",
+      "official_title_arabic": "قانون مكافحة الاتجار بالأشخاص",
+      "official_title_french": "Loi de lutte contre la traite des personnes",
+      "official_title_english": "Anti-Trafficking Law",
+      "date_enacted": "2011",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2011"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يجرم الاتجار بالأشخاص وتحديدا الاتجار بالعمالة المنزلية - عقوبة السجن 5-15 سنة",
+      "full_text_french": "Criminalise la traite des personnes notamment des travailleurs domestiques - peine 5-15 ans prison",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تجريم الاتجار بالأشخاص",
+          "text_french": "Criminalisation de la traite des personnes",
+          "subject": "Trafficking Prohibition"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "عقوبة السجن 5-15 سنة للاتجار بالبشر",
+          "text_french": "Peine 5-15 ans pour traite d'êtres humains",
+          "subject": "Penalties"
+        }
+      ],
+      "historical_context": "Lebanon's primary anti-trafficking legislation. Addresses forced labor and sex trafficking. Important for protecting migrant workers under the kafala system.",
+      "related_laws": [
+        "Decree 4186/2010",
+        "Decree 10188/1962"
+      ],
+      "source_url": "https://www.etf.europa.eu",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-FOR-001",
+      "official_number": "Decree 4186/2010",
+      "official_title_arabic": "مرسوم تعديل المرسوم 10188/1962 المتعلق بدخول الأجانب إلى لبنان وإقامتهم ومغادرتهم",
+      "official_title_french": "Décret modifiant le Décret 10188/1962 sur entrée, séjour et sortie des étrangers",
+      "official_title_english": "Decree Amending Decree 10188/1962 on Foreigners Entry, Stay and Exit",
+      "date_enacted": "2010",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2010"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تنظيم دخول الأجانب وإقامتهم ومغادرتهم من لبنان",
+      "full_text_french": "Réglementation de l'entrée, séjour et sortie des étrangers du Liban",
+      "key_articles": [
+        {
+          "article_number": "Various",
+          "text_arabic": "إجراءات دخول الأجانب",
+          "text_french": "Procédures d'entrée des étrangers",
+          "subject": "Entry Procedures"
+        },
+        {
+          "article_number": "Various",
+          "text_arabic": "إجراءات الإقامة",
+          "text_french": "Procédures de séjour",
+          "subject": "Stay Procedures"
+        }
+      ],
+      "historical_context": "Amended the 1962 law on foreign entry and stay. Part of the legal framework governing foreign workers in Lebanon.",
+      "related_laws": [
+        "Decree 10188/1962",
+        "Law 164/2011"
+      ],
+      "source_url": "https://www.etf.europa.eu",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-FOR-002",
+      "official_number": "By-Law 17561/1964",
+      "official_title_arabic": "نظام 17561/1964 المنظم لعمل الأجانب في لبنان",
+      "official_title_french": "Règlement 17561/1964 réglementant le travail des étrangers au Liban",
+      "official_title_english": "By-Law 17561/1964 Regulating Work of Foreigners in Lebanon",
+      "date_enacted": "1964",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1964"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ينظم عمل الأجانب في لبنان - التصاريح، الشروط، القيود",
+      "full_text_french": "Règle le travail des étrangers au Liban - permis, conditions, restrictions",
+      "key_articles": [
+        {
+          "article_number": "Various",
+          "text_arabic": "تصاريح العمل للأجانب",
+          "text_french": "Permis de travail pour étrangers",
+          "subject": "Work Permits"
+        },
+        {
+          "article_number": "Various",
+          "text_arabic": "شروط تشغيل الأجانب",
+          "text_french": "Conditions d'emploi des étrangers",
+          "subject": "Employment Conditions"
+        }
+      ],
+      "historical_context": "Primary regulation governing foreign worker permits in Lebanon. Requires 3 Lebanese workers per foreign worker (not always strictly enforced).",
+      "related_laws": [
+        "Law 1/1946",
+        "Decree 4186/2010"
+      ],
+      "source_url": "https://www.etf.europa.eu",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-FOR-003",
+      "official_number": "Decision 1/41/2017",
+      "official_title_arabic": "قرار وزير العمل رقم 1/41 لسنة 2017 بشأن المهن المحصورة باللبنانيين",
+      "official_title_french": "Décision ministre du travail 1/41/2017 sur professions réservées aux Libanais",
+      "official_title_english": "Minister of Labor Decision 1/41/2017 on Occupations Reserved for Lebanese Nationals",
+      "date_enacted": "2017",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2017"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يحدد المهن المحصورة باللبنانيين - إدارية، مصرفية، هندسة، تمريض وغيرها",
+      "full_text_french": "Définit professions réservées aux Libanais - administratives, bancaires, ingénierie, soins, etc.",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "المهن الإدارية والمصرفية محصورة باللبنانيين",
+          "text_french": "Professions administratives et bancaires réservées aux Libanais",
+          "subject": "Reserved Occupations"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "استثناء إذا كانت الخبرة غير متوفرة محليا",
+          "text_french": "Exception si expertise non disponible localement",
+          "subject": "Exceptions"
+        }
+      ],
+      "historical_context": "Annual list of occupations reserved for Lebanese nationals. Updated yearly by Ministry of Labor. Foreigners can be granted permits for these positions only if their specialization is not available locally.",
+      "related_laws": [
+        "By-Law 17561/1964"
+      ],
+      "source_url": "https://www.lexmundi.com",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-OPT-001",
+      "official_number": "Law 248/2000",
+      "official_title_arabic": "قانون رقم 248/2000 - الضمان الاجتماعي الاختياري",
+      "official_title_french": "Loi 248/2000 - Sécurité sociale facultative",
+      "official_title_english": "Law 248/2000 - Optional Social Security",
+      "date_enacted": "2000-09-09",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2000-09-09"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 7352/2002",
+          "date": "2002",
+          "articles_affected": [],
+          "nature": "implementation"
+        }
+      ],
+      "full_text_arabic": "الضمان الاجتماعي الاختياري للأشخاص غير المشمولين بالضمان الإلزامي - من هم فوق 64 سنة",
+      "full_text_french": "Sécurité sociale facultative pour personnes non couvertes par régime obligatoire - 64+ ans",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "حق كل لبناني في الانتساب الاختياري للضمان الاجتماعي",
+          "text_french": "Droit de tout Libanais d'adhérer facultativement à sécurité sociale",
+          "subject": "Voluntary Coverage"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "شروط الانتساب: بلوغ 64 سنة، عدم الانتفاع من تأمين صحي آخر",
+          "text_french": "Conditions: 64 ans, ne pas bénéficier d'autre assurance santé",
+          "subject": "Conditions"
+        }
+      ],
+      "historical_context": "Created optional social security coverage for those not covered by mandatory scheme, particularly elderly. Implementation started in 2002 with Decree 7352 but has faced operational challenges.",
+      "related_laws": [
+        "Decree 7352/2002",
+        "Law 13955/1963"
+      ],
+      "source_url": "https://www.unhcr.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-RET-001",
+      "official_number": "Law 27/2017",
+      "official_title_arabic": "قانون رقم 27/2017 - السماح للمتقاعدين بالانتفاع من فروع المرض والأمومة",
+      "official_title_french": "Loi 27/2017 - Permettre aux retraités de bénéficier des branches maladie/maternité",
+      "official_title_english": "Law 27/2017 - Allowing Retirees to Benefit from Sickness and Maternity Branches",
+      "date_enacted": "2017-02-10",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2017-02-10"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "يسمح للمتقاعدين بالانتفاع من فروع المرض والأمومة في الضمان الاجتماعي",
+      "full_text_french": "Permet aux retraités de bénéficier des branches maladie et maternité",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "السماح للمتقاعدين بالانتفاع من فروع المرض والأمومة",
+          "text_french": "Permettre aux retraités de bénéficier maladie/maternité",
+          "subject": "Retiree Health Coverage"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "شرط الانتساب الفعلي 20 سنة على الأقل",
+          "text_french": "Condition d'affiliation effective 20 ans minimum",
+          "subject": "Qualifying Period"
+        }
+      ],
+      "historical_context": "Important expansion of NSSF coverage allowing retirees to access healthcare. However, requires 20 years of actual enrollment, excluding many contract workers.",
+      "related_laws": [
+        "Law 13955/1963"
+      ],
+      "source_url": "https://www.unhcr.org",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TRA-002",
+      "official_number": "Decree 8740/2022",
+      "official_title_arabic": "مرسوم زيادة بدل النقل للموظفين",
+      "official_title_french": "Décret augmentant l'allocation de transport",
+      "official_title_english": "Decree Increasing Transportation Allowance",
+      "date_enacted": "2022-02-03",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2022-02-03"
+      },
+      "category": "Labor Law",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Decree 9849/2022",
+          "date": "2022-08-18",
+          "articles_affected": [],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "زيادة بدل النقل اليومي إلى 65,000 ل.ل",
+      "full_text_french": "Augmentation allocation transport journalière à 65,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "بدل النقل اليومي 65,000 ل.ل (كان 24,000 ل.ل)",
+          "text_french": "Allocation transport journalière 65,000 LLP (était 24,000 LLP)",
+          "subject": "Transportation Allowance"
+        }
+      ],
+      "historical_context": "Increased daily transportation allowance from LBP 24,000 to LBP 65,000 during economic crisis.",
+      "related_laws": [],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-TRA-003",
+      "official_number": "Decree 9849/2022",
+      "official_title_arabic": "مرسوم تعديل بدل النقل",
+      "official_title_french": "Décret modifiant l'allocation de transport",
+      "official_title_english": "Decree Amending Transportation Allowance",
+      "date_enacted": "2022-08-18",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2022-08-18"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "زيادة بدل النقل اليومي إلى 95,000 ل.ل",
+      "full_text_french": "Augmentation allocation transport journalière à 95,000 LLP",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "بدل النقل اليومي 95,000 ل.ل (كان 65,000 ل.ل)",
+          "text_french": "Allocation transport journalière 95,000 LLP (était 65,000 LLP)",
+          "subject": "Transportation Allowance"
+        }
+      ],
+      "historical_context": "Further increase to transportation allowance from LBP 65,000 to LBP 95,000.",
+      "related_laws": [
+        "Decree 8740/2022"
+      ],
+      "source_url": "https://ramco.com/payce",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-WOR-001",
+      "official_number": "Law 1943 (Work Injury)",
+      "official_title_arabic": "قانون إصابات العمل 1943",
+      "official_title_french": "Loi sur les accidents du travail 1943",
+      "official_title_english": "Work Injury Law 1943",
+      "date_enacted": "1943",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1943"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "نظام مسؤولية صاحب العمل عن إصابات العمل - 75% من الأجر اليومي للعجز المؤقت",
+      "full_text_french": "Régime responsabilité employeur accidents travail - 75% salaire journalier incapacité temporaire",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعويض العجز المؤقت: 75% من الأجر اليومي",
+          "text_french": "Indemnité incapacité temporaire: 75% salaire journalier",
+          "subject": "Temporary Disability"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تعويض العجز الدائم: 800 يوم عمل للأعمار تحت 35 أو فوق 50، 700 يوم للأعمار 35-50",
+          "text_french": "Indemnité incapacité permanente: 800 jours <35 ou >50, 700 jours 35-50",
+          "subject": "Permanent Disability"
+        }
+      ],
+      "historical_context": "Pre-dates Labor Code 1946. Employer-liability system for work injuries. Provides temporary and permanent disability benefits. Administered through NSSF which contracts with hospitals for medical care.",
+      "related_laws": [
+        "Law 13955/1963"
+      ],
+      "source_url": "https://www.ssa.gov",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-FAM-001",
+      "official_number": "Decree 1965 (Family Allowances)",
+      "official_title_arabic": "مرسوم التعويضات العائلية 1965",
+      "official_title_french": "Décret allocations familiales 1965",
+      "official_title_english": "Family Allowances Decree 1965",
+      "date_enacted": "1965",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "1965"
+      },
+      "category": "Social Security",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Decree 422/2025",
+          "date": "2025-06-19",
+          "articles_affected": [],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "تعويضات عائلية للزوجة غير العاملة والأطفال",
+      "full_text_french": "Allocations familiales pour épouse non salariée et enfants",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعويض عائلي للزوجة: 60,000 ل.ل (قديم) - الآن 1,200,000 ل.ل",
+          "text_french": "Allocation épouse: 60,000 LLP (ancien) - maintenant 1,200,000 LLP",
+          "subject": "Spouse Allowance"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تعويض للطفل: 33,000 ل.ل (قديم) - الآن 660,000 ل.ل (حد أقصى 5 أطفال)",
+          "text_french": "Allocation enfant: 33,000 LLP (ancien) - maintenant 660,000 LLP (max 5)",
+          "subject": "Child Allowance"
+        }
+      ],
+      "historical_context": "Implemented family allowances system under Social Security Law. Originally provided LBP 60,000 for wife and LBP 33,000 per child (max 5). Significantly increased in 2025 to LBP 1.2 million for spouse and LBP 660,000 per child.",
+      "related_laws": [
+        "Law 13955/1963",
+        "Decree 422/2025"
+      ],
+      "source_url": "https://www.ssa.gov",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-JUD-001",
+      "official_number": "Law 173/2011",
+      "official_title_arabic": "قانون رقم 173/2011 - رفع رواتب القضاة",
+      "official_title_french": "Loi 173/2011 - augmentation salaires juges",
+      "official_title_english": "Law 173/2011 - Raising Judges' Salaries",
+      "date_enacted": "2011",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2011"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "رفع رواتب القضاة في لبنان",
+      "full_text_french": "Augmentation des salaires des juges au Liban",
+      "key_articles": [
+        {
+          "article_number": "Various",
+          "text_arabic": "جدول رواتب القضاة المحدث",
+          "text_french": "Tableau salaires juges actualisé",
+          "subject": "Judicial Salaries"
+        }
+      ],
+      "historical_context": "Updated salary scale for judges. Highest judicial salary was approximately $6,233 before currency collapse, now worth about $995.",
+      "related_laws": [
+        "Law 46/2017"
+      ],
+      "source_url": "https://monthlymagazine.com",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-EDU-001",
+      "official_number": "Law 206/2012",
+      "official_title_arabic": "قانون رقم 206/2012 - رفع رواتب أساتذة الجامعة اللبنانية",
+      "official_title_french": "Loi 206/2012 - augmentation salaires professeurs Université libanaise",
+      "official_title_english": "Law 206/2012 - Raising Lebanese University Professors' Salaries",
+      "date_enacted": "2012",
+      "published_in_official_gazette": {
+        "issue_number": "Unknown",
+        "date": "2012"
+      },
+      "category": "Labor Law",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "رفع رواتب أساتذة الجامعة اللبنانية",
+      "full_text_french": "Augmentation des salaires des professeurs de l'Université libanaise",
+      "key_articles": [
+        {
+          "article_number": "Various",
+          "text_arabic": "جدول رواتب أساتذة الجامعة اللبنانية",
+          "text_french": "Tableau salaires professeurs UL",
+          "subject": "University Salaries"
+        }
+      ],
+      "historical_context": "Updated salary scale for Lebanese University professors. Highest professor salary was approximately $5,617 before currency collapse, now worth about $896.",
+      "related_laws": [
+        "Law 46/2017"
+      ],
+      "source_url": "https://monthlymagazine.com",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

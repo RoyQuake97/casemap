@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "file": "constitution.json",
+    "description": "Lebanese Constitution of 1926 and all constitutional amendments, including the National Pact (1943) and Taif Agreement (1989/1990)",
+    "total_entries": 13,
+    "last_updated": "2026-02-21",
+    "phase": 1
+  },
+  "laws": [
+    {
+      "law_id": "LB-CONST-001",
+      "official_number": "Constitutional Law of May 23, 1926",
+      "official_title_arabic": "الدستور اللبناني الصادر في 23 أيار 1926",
+      "official_title_french": "Constitution de la République Libanaise du 23 mai 1926",
+      "official_title_english": "Constitution of the Lebanese Republic",
+      "date_enacted": "1926-05-23",
+      "date_effective": "1926-09-01",
+      "published_in_official_gazette": {
+        "issue_number": "Special Issue",
+        "date": "1926-05-23",
+        "page": ""
+      },
+      "category": "Constitutional Law",
+      "subcategory": "Foundation",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "French High Commissioner",
+      "legal_type": "Constitution",
+      "total_articles": 102,
+      "amendments": [
+        {
+          "amending_law": "Constitutional Law of October 17, 1927",
+          "amending_law_id": "LB-CONST-002",
+          "date": "1927-10-17",
+          "articles_affected": ["16", "17", "18", "22", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99"],
+          "nature": "modification",
+          "summary": "Major restructuring: abolished the Senate, enhanced presidential authority, subordinated legislature to executive. Published in Official Gazette No. 2116, October 19, 1927."
+        },
+        {
+          "amending_law": "Constitutional Law of May 8, 1929",
+          "amending_law_id": "LB-CONST-003",
+          "date": "1929-05-08",
+          "articles_affected": ["28"],
+          "nature": "modification",
+          "summary": "Refined legislative procedures, deputy qualifications and session rules. Allowed deputies to simultaneously hold ministerial positions."
+        },
+        {
+          "amending_law": "Order No. 129 of March 18, 1943 (French High Commissioner)",
+          "amending_law_id": "LB-CONST-004",
+          "date": "1943-03-18",
+          "articles_affected": ["24", "25", "26", "30"],
+          "nature": "modification",
+          "summary": "Abolished appointed category of deputies; required all members of the Chamber to be elected. Issued by French High Commissioner."
+        },
+        {
+          "amending_law": "Constitutional Law of November 9, 1943",
+          "amending_law_id": "LB-CONST-005",
+          "date": "1943-11-09",
+          "articles_affected": ["1", "5", "52", "92", "93", "94", "95", "96", "97", "98", "99", "102"],
+          "nature": "modification",
+          "summary": "Independence amendments: removed all references to the French Mandate, changed flag to red-white-red with cedar. Affirmed full sovereignty and independence."
+        },
+        {
+          "amending_law": "Constitutional Law of December 7, 1943",
+          "amending_law_id": "LB-CONST-006",
+          "date": "1943-12-07",
+          "articles_affected": ["5"],
+          "nature": "modification",
+          "summary": "Updated Article 5 on the national flag: 'The Lebanese flag is made of red, white and red horizontal stripes, with the cedar in green in the centre of the white stripe.'"
+        },
+        {
+          "amending_law": "Constitutional Law of January 21, 1947",
+          "amending_law_id": "LB-CONST-007",
+          "date": "1947-01-21",
+          "articles_affected": ["22", "24", "25", "26", "27", "30", "34", "36", "42", "44", "51", "53", "69", "72", "73", "85", "86", "87", "88", "89", "90", "91", "100"],
+          "nature": "modification",
+          "summary": "Post-independence adjustments: modified deputy election modalities, parliamentary operations. Abrogated Article 100. Stabilized governance structures. Extended Speaker of Parliament role to Shia community."
+        },
+        {
+          "amending_law": "Constitutional Law of February 12, 1948",
+          "amending_law_id": "LB-CONST-008",
+          "date": "1948-02-12",
+          "articles_affected": ["49"],
+          "nature": "modification",
+          "summary": "Tweaked legislative rules; adapted 1926 framework to republican realities while preserving confessional power-sharing."
+        },
+        {
+          "amending_law": "Constitutional Law of July 16, 1976",
+          "amending_law_id": "LB-CONST-009",
+          "date": "1976-07-16",
+          "articles_affected": ["42"],
+          "nature": "modification",
+          "summary": "Civil War amendment: extended the Chamber of Deputies' term due to hostilities, postponing elections."
+        },
+        {
+          "amending_law": "Constitutional Law of September 21, 1990 (Taif Agreement Implementation)",
+          "amending_law_id": "LB-CONST-010",
+          "date": "1990-09-21",
+          "articles_affected": ["Preamble", "17", "18", "19", "20", "22", "24", "25", "27", "28", "30", "32", "33", "34", "36", "38", "44", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "85", "86", "87", "88", "89", "90", "91"],
+          "nature": "modification",
+          "summary": "Taif Agreement constitutional implementation: added Preamble affirming Arab identity, equalized Christian-Muslim parliamentary representation (1:1 ratio replacing 6:5), expanded Chamber to 128 seats, shifted executive power from President to Council of Ministers, established Constitutional Council, created position of Prime Minister as head of government. The most comprehensive constitutional revision in Lebanese history."
+        },
+        {
+          "amending_law": "Constitutional Law No. 585 of September 4, 2004",
+          "amending_law_id": "LB-CONST-011",
+          "date": "2004-09-04",
+          "articles_affected": ["49"],
+          "nature": "modification",
+          "summary": "Extended presidential term: amended Article 49 to allow one-time extension of the incumbent president's term by three years. Widely controversial; seen as extending President Lahoud's mandate under Syrian pressure. UN Security Council Resolution 1559 called for free elections and opposed the extension."
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "Preamble A",
+          "text_english": "Lebanon is a sovereign, free, and independent homeland. An ultimate homeland for all its sons; unitary in terms of land, people, and institutions, within its boundaries; as provided in this Constitution, and as recognized internationally.",
+          "text_arabic": "لبنان وطن سيّد حرّ مستقلّ، وطن نهائيّ لجميع أبنائه، واحد أرضاً وشعباً ومؤسّسات",
+          "subject": "Sovereignty and territorial integrity",
+          "current_version": true
+        },
+        {
+          "article_number": "Preamble B",
+          "text_english": "Lebanon has an Arab identity and belonging. It is a founding active member of the Arab League, committed to its Charter; as it is a founding active member of the United Nations Organization.",
+          "text_arabic": "لبنان عربيّ الهويّة والانتماء، وهو عضو مؤسّس وعامل في جامعة الدول العربية",
+          "subject": "Arab identity and international affiliation",
+          "current_version": true
+        },
+        {
+          "article_number": "Preamble C",
+          "text_english": "Lebanon is a parliamentary democratic republic based on respect for public liberties, especially the freedom of opinion and belief, and respect for social justice and equality of rights and duties among all citizens without discrimination.",
+          "text_arabic": "لبنان جمهوريّة ديمقراطيّة برلمانيّة، تقوم على احترام الحرّيّات العامّة",
+          "subject": "Parliamentary democratic republic",
+          "current_version": true
+        },
+        {
+          "article_number": "Preamble D",
+          "text_english": "The people are the source of authority and sovereignty; they shall exercise these powers through the constitutional institutions.",
+          "text_arabic": "الشعب مصدر السلطات وصاحب السيادة يمارسها عبر المؤسّسات الدستوريّة",
+          "subject": "Popular sovereignty",
+          "current_version": true
+        },
+        {
+          "article_number": "7",
+          "text_english": "All Lebanese shall be equal before the law. They shall equally enjoy civil and political rights and shall equally be bound by public obligations and duties without any distinction.",
+          "text_arabic": "كلّ اللبنانيّين سواء لدى القانون وهم يتمتّعون بالسواء بالحقوق المدنيّة والسياسيّة ويتحمّلون الفرائض والواجبات العامّة دون ما فرق بينهم",
+          "subject": "Equality before the law",
+          "current_version": true
+        },
+        {
+          "article_number": "9",
+          "text_english": "There shall be absolute freedom of conscience. The state in rendering homage to the Almighty God shall respect all religions and creeds and shall guarantee, under its protection, the free exercise of all religious rites provided that public order is not disturbed. It shall also guarantee that the personal status and religious interests of the population, to whatever sect they belong, shall be respected.",
+          "text_arabic": "حرّيّة الاعتقاد مطلقة والدولة بتأديتها فروض الإجلال لله تعالى تحترم جميع الأديان والمذاهب",
+          "subject": "Freedom of conscience and personal status",
+          "current_version": true
+        },
+        {
+          "article_number": "10",
+          "text_english": "Education shall be free insofar as it is not contrary to public order and morals and does not interfere with the dignity of any of the religions or creeds. There shall be no violation of the right of religious communities to have their own schools.",
+          "text_arabic": "التعليم حرّ ما لم يخلّ بالنظام العام أو ينافِ الآداب أو يتعرّض لكرامة أحد الأديان أو المذاهب",
+          "subject": "Freedom of education; religious schools",
+          "current_version": true
+        },
+        {
+          "article_number": "11",
+          "text_english": "Arabic is the official national language. A law determines the cases in which the French language may be used.",
+          "text_arabic": "العربيّة هي اللغة الوطنيّة الرسميّة. أمّا اللغة الفرنسيّة فيحدّد القانون الأحوال التي تستعمل فيها",
+          "subject": "Official language",
+          "current_version": true
+        },
+        {
+          "article_number": "24",
+          "text_english": "The Chamber of Deputies shall be composed of elected members; their number and the method of their election shall be determined by the electoral laws in effect. Until such time as the Chamber enacts an election law on a non-confessional basis, the distribution of seats shall be according to the following principles: equally between Christians and Muslims; proportionally among the confessional groups within each of the two religious communities; proportionally among geographic regions.",
+          "text_arabic": "يتألّف مجلس النواب من نوّاب منتخبين يكون عددهم وكيفيّة انتخابهم وفاقاً لقوانين الانتخاب المرعيّة الإجراء",
+          "subject": "Parliamentary composition and confessional distribution",
+          "current_version": true
+        },
+        {
+          "article_number": "49",
+          "text_english": "The President of the Republic is the Chief of State, and the symbol of the unity of the Homeland. He ensures the respect of the Constitution... The President is elected by secret ballot, by a two-thirds majority of the Chamber of Deputies. His term is six years. He may not be reelected until six years after the expiration of his last mandate.",
+          "text_arabic": "رئيس الجمهوريّة هو رئيس الدولة ورمز وحدة الوطن",
+          "subject": "President of the Republic",
+          "current_version": true
+        },
+        {
+          "article_number": "64",
+          "text_english": "The Prime Minister is the Head of Government. He represents it and speaks in its name. He is responsible for implementing the general policy set by the Council of Ministers.",
+          "text_arabic": "رئيس مجلس الوزراء هو رئيس الحكومة يمثّلها ويتكلّم باسمها",
+          "subject": "Prime Minister",
+          "current_version": true
+        },
+        {
+          "article_number": "65",
+          "text_english": "Executive power shall be entrusted to the Council of Ministers... Basic issues need the consent of two-thirds of the Government members: Amending the Constitution, declaring and canceling the state of emergency, war and peace, public mobilization, international accords and treaties, state budget...",
+          "text_arabic": "تناط السلطة الإجرائيّة بمجلس الوزراء",
+          "subject": "Council of Ministers / Executive power",
+          "current_version": true
+        },
+        {
+          "article_number": "19",
+          "text_english": "A Constitutional Council shall be established to review the constitutionality of laws and to decide on the disputes and protests resulting from the presidential and the representative elections.",
+          "text_arabic": "ينشأ مجلس دستوريّ لمراقبة دستوريّة القوانين والبتّ في النزاعات والطعون الناشئة عن الانتخابات",
+          "subject": "Constitutional Council",
+          "current_version": true
+        }
+      ],
+      "historical_context": "The Lebanese Constitution was drafted during the French Mandate period, adopted by the Lebanese Representative Council on May 23, 1926. It established Lebanon as a republic with a confessional political system. Influenced by the French Third Republic constitution, it created a bicameral legislature (Senate abolished in 1927), established a presidency, and enshrined religious community representation. The Constitution has been amended 11 times: 1927, 1929, 1943 (three times), 1947, 1948, 1976, 1990 (Taif Agreement implementation), and 2004. The most significant amendments were the 1943 independence amendments removing French Mandate references, and the 1990 Taif Agreement amendments that restructured government power-sharing between Christian and Muslim communities.",
+      "related_laws": [
+        {"law_id": "LB-CONST-012", "relationship": "complemented_by"},
+        {"law_id": "LB-CONST-013", "relationship": "complemented_by"},
+        {"law_id": "LB-ELECT-001", "relationship": "implemented_by"},
+        {"law_id": "LB-JUD-001", "relationship": "implemented_by"}
+      ],
+      "source_urls": [
+        "https://www.constituteproject.org/constitution/Lebanon_2004",
+        "https://lp.gov.lb/backoffice/uploads/files/Lebanese%20%20Constitution-%20En.pdf",
+        "https://www.wipo.int/edocs/lexdocs/laws/en/lb/lb018en.pdf",
+        "https://biblioteka.sejm.gov.pl/wp-content/uploads/2017/06/Liban_ang_010117.pdf"
+      ],
+      "notes": "The Constitution has been amended through various legal instruments: Constitutional Laws (passed by Parliament), Orders (issued by French High Commissioner during Mandate), and one numbered law (No. 585/2004). Article 95 calls for the eventual abolition of political confessionalism, which has never been implemented.",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CONST-012",
+      "official_number": "National Pact of 1943 (الميثاق الوطني)",
+      "official_title_arabic": "الميثاق الوطني اللبناني 1943",
+      "official_title_french": "Pacte National de 1943",
+      "official_title_english": "Lebanese National Pact of 1943",
+      "date_enacted": "1943-10-07",
+      "date_effective": "1943-10-07",
+      "published_in_official_gazette": {
+        "issue_number": "N/A - Unwritten verbal agreement; formalized through Ministerial Declaration of Oct 7, 1943",
+        "date": "",
+        "page": ""
+      },
+      "category": "Constitutional Law",
+      "subcategory": "Foundational Agreement",
+      "status": "active",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Agreement",
+      "total_articles": 0,
+      "amendments": [],
+      "key_articles": [],
+      "historical_context": "An unwritten verbal agreement between President Bechara el-Khoury (Maronite Christian) and Prime Minister Riad al-Solh (Sunni Muslim) in 1943. Formalized through al-Solh's ministerial declaration to the Chamber of Deputies on October 7, 1943. Key provisions: (1) Muslims would not seek unity with Syria, (2) Christians would relinquish French protection, (3) Lebanon would have an 'Arab face', (4) Key political positions distributed by confession: President = Maronite, PM = Sunni, Speaker = Shia. The Pact established the confessional power-sharing that defines Lebanese governance. It has no formal legal text but carries constitutional weight through custom and practice. The 6:5 Christian-to-Muslim ratio in Parliament was also formalized around this period (though technically from a July 1943 French High Commissioner decision). The Taif Agreement of 1989 modified but did not replace the National Pact's core principles.",
+      "related_laws": [
+        {"law_id": "LB-CONST-001", "relationship": "complements"},
+        {"law_id": "LB-CONST-013", "relationship": "related_to"}
+      ],
+      "source_urls": [
+        "https://tile.loc.gov/storage-services/service/ll/llglrd/2018298839/2018298839.pdf"
+      ],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-CONST-013",
+      "official_number": "Taif Agreement / Document of National Accord (1989)",
+      "official_title_arabic": "وثيقة الوفاق الوطني - اتفاق الطائف",
+      "official_title_french": "Accord de Taëf / Charte de Réconciliation Nationale Libanaise",
+      "official_title_english": "Taif Agreement / Charter of Lebanese National Reconciliation",
+      "date_enacted": "1989-10-22",
+      "date_effective": "1990-09-21",
+      "published_in_official_gazette": {
+        "issue_number": "Constitutional implementation published September 21, 1990",
+        "date": "1990-09-21",
+        "page": ""
+      },
+      "category": "Constitutional Law",
+      "subcategory": "National Reconciliation",
+      "status": "active",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Agreement",
+      "total_articles": 0,
+      "amendments": [],
+      "key_articles": [],
+      "historical_context": "Signed on October 22, 1989, in Taif, Saudi Arabia, by 62 of the 73 surviving Lebanese Members of Parliament to end the 15-year Lebanese Civil War (1975-1990). Approved by Parliament on November 5, 1989, and implemented through constitutional amendments ratified on August 21, 1990, signed into law on September 21, 1990. Key reforms: (1) Equalized confessional representation in Parliament from 6:5 Christian/Muslim to 1:1, expanding to 108 then 128 seats; (2) Transferred significant executive power from President to Council of Ministers; (3) Enhanced role of Prime Minister and Speaker; (4) Established Constitutional Council; (5) Called for eventual abolition of political confessionalism (never implemented); (6) Called for administrative decentralization; (7) Disbanded militias (partially implemented); (8) Affirmed Lebanese sovereignty. Brokered by Saudi Arabia with backing from the Arab League and international community.",
+      "related_laws": [
+        {"law_id": "LB-CONST-001", "relationship": "amends"},
+        {"law_id": "LB-CONST-012", "relationship": "modifies"}
+      ],
+      "source_urls": [
+        "https://www.un.int/lebanon/sites/www.un.int/files/Lebanon/the_taif_agreement_english_version_.pdf"
+      ],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

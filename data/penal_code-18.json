@@ -1,0 +1,627 @@
+{
+  "database_info": {
+    "title": "Lebanese Criminal Legislation Database",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "total_laws": 4,
+    "jurisdiction": "Lebanon",
+    "language": [
+      "Arabic",
+      "French",
+      "English"
+    ],
+    "sources": [
+      "Ministry of Justice Lebanon (www.justice.gov.lb)",
+      "Lebanese University Legal Database",
+      "ILO NATLEX",
+      "LexisNexis Middle East",
+      "Legal Agenda",
+      "WIPO Lex",
+      "UNODC",
+      "ICJ Reports"
+    ]
+  },
+  "laws": [
+    {
+      "law_id": "LBN-CRIM-001",
+      "official_number": "Legislative Decree 340/1943",
+      "official_title_arabic": "قانون العقوبات",
+      "official_title_french": "Code Pénal",
+      "official_title_english": "Penal Code",
+      "date_enacted": "1943-03-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-03-01"
+      },
+      "category": "Criminal Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law dated 5/2/1948",
+          "date": "1948-02-05",
+          "articles_affected": [
+            "Articles 3, 8, 11"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Legislative Decree 112/1983",
+          "date": "1983-09-16",
+          "articles_affected": [
+            "Articles 29, 33, 35, 557"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 75/6/1975",
+          "date": "1975-02-21",
+          "articles_affected": [
+            "Article 278"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 239/1993",
+          "date": "1993-05-27",
+          "articles_affected": [
+            "Articles 496, 500 bis, 297, 298, 299, 393, 399, 554, 555"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 224/1993",
+          "date": "1993-05-13",
+          "articles_affected": [
+            "Article 500 bis (added)"
+          ],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "Law 129/1993",
+          "date": "1993-05-27",
+          "articles_affected": [
+            "Article 555"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 513/1996",
+          "date": "1996-06-06",
+          "articles_affected": [
+            "Article 17"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 29/1994",
+          "date": "1994-02-22",
+          "articles_affected": [
+            "Maritime jurisdiction"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "structure": {
+        "book_1": "General Provisions (Articles 1-117)",
+        "book_2": "Crimes and Misdemeanors (Articles 118-585)",
+        "book_3": "Contraventions (Petty Offenses)",
+        "volume_3": "Military Crimes"
+      },
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "لا تفرض عقوبة ولا تدبير احترازي أو إصلاحي من أجل جرم لم يكن القانون قد نص عليه حين اقترافه",
+          "text_french": "Nullum crimen, nulla poena sine lege - Aucune peine ne peut être prononcée pour un crime qui n'était pas prévu par la loi au moment de sa commission",
+          "subject": "Principle of legality"
+        },
+        {
+          "article_number": "6",
+          "text_arabic": "لا يقضي بأي عقوبة لم ينص القانون عليها حين اقتراف الجرم",
+          "text_french": "Aucune peine ne peut être prononcée qui n'était pas prévue par la loi au moment de la commission du crime",
+          "subject": "Legality of penalties"
+        },
+        {
+          "article_number": "15-21",
+          "text_arabic": "تطبيق الشريعة الجزائية من حيث المكان - الصلاحية الإقليمية والشخصية",
+          "text_french": "Application de la loi pénale selon le lieu - Compétence territoriale et personnelle",
+          "subject": "Territorial and personal jurisdiction"
+        },
+        {
+          "article_number": "49-67",
+          "text_arabic": "العقوبات الأصلية - الإعدام، الأشغال الشاقة المؤيدة والمؤقتة، الاعتقال، الحبس، التوقيف التكديري، الغرامة",
+          "text_french": "Peines principales - Mort, travaux forcés à perpétuité et à temps, réclusion, emprisonnement, détention correctionnelle, amende",
+          "subject": "Principal penalties"
+        },
+        {
+          "article_number": "68-117",
+          "text_arabic": "العقوبات الإضافية والتدابير الاحترازية والإصلاحية",
+          "text_french": "Peines complémentaires et mesures préventives et réparatrices",
+          "subject": "Additional penalties and preventive measures"
+        },
+        {
+          "article_number": "227-230",
+          "text_arabic": "أسباب الإعفاء من العقاب - الإكراه والضرورة",
+          "text_french": "Causes d'exemption de peine - Contrainte et état de nécessité",
+          "subject": "Grounds for exemption"
+        },
+        {
+          "article_number": "231-232",
+          "text_arabic": "الجنون - عدم المسؤولية والمسؤولية المخففة",
+          "text_french": "Folie - Absence de responsabilité et responsabilité atténuée",
+          "subject": "Insanity defense"
+        },
+        {
+          "article_number": "235-236",
+          "text_arabic": "السكر والتخدير - أثره على المسؤولية الجزائية",
+          "text_french": "Ivresse et intoxication - Effet sur la responsabilité pénale",
+          "subject": "Intoxication"
+        },
+        {
+          "article_number": "240",
+          "text_arabic": "لأغراض هذا القانون، الطفل هو من بلغ سبع سنين حتى اثنتي عشرة سنة، والحدث من اثنتي عشرة حتى الخامسة عشرة، والقاصر من الخامسة عشرة حتى الثامنة عشرة",
+          "text_french": "Aux fins du présent Code, l'enfant est celui âgé de 7 à 12 ans, l'adolescent de 12 à 15 ans, le mineur de 15 à 18 ans",
+          "subject": "Age definitions"
+        },
+        {
+          "article_number": "249-250",
+          "text_arabic": "أسباب العذر المنصوص عليها قانوناً",
+          "text_french": "Causes d'excuse prévues par la loi",
+          "subject": "Statutory grounds for exemption"
+        },
+        {
+          "article_number": "251",
+          "text_arabic": "أسباب تخفيف العقاب",
+          "text_french": "Causes d'atténuation de la peine",
+          "subject": "Mitigation of penalty"
+        },
+        {
+          "article_number": "257",
+          "text_arabic": "أسباب تشديد العقاب",
+          "text_french": "Causes d'aggravation de la peine",
+          "subject": "Aggravation of penalty"
+        },
+        {
+          "article_number": "262-265",
+          "text_arabic": "اعتياد الإجرام - المجرم المحترف",
+          "text_french": "Habitualité de la criminalité - Le délinquant habituel",
+          "subject": "Persistent offending"
+        },
+        {
+          "article_number": "351-358",
+          "text_arabic": "جرائم الرشوة والاختلاس والتزوير",
+          "text_french": "Crimes de corruption, détournement et faux",
+          "subject": "Corruption offenses"
+        },
+        {
+          "article_number": "367",
+          "text_arabic": "الحجر التعسفي - الاعتداء على الحرية الشخصية",
+          "text_french": "Détention arbitraire - Atteinte à la liberté personnelle",
+          "subject": "Arbitrary detention"
+        },
+        {
+          "article_number": "491-500",
+          "text_arabic": "الإجهاض والإيذاء",
+          "text_french": "Avortement et blessures",
+          "subject": "Abortion and injuries"
+        },
+        {
+          "article_number": "500 bis",
+          "text_arabic": "التخلي عن قاصر - الاتجار بالأطفال",
+          "text_french": "Abandon d'un mineur - Traite d'enfants",
+          "subject": "Child abandonment and trafficking"
+        },
+        {
+          "article_number": "553-557",
+          "text_arabic": "القتل والإيذاء والضرب",
+          "text_french": "Homicide, blessures et coups",
+          "subject": "Homicide and assault"
+        },
+        {
+          "article_number": "273-278",
+          "text_arabic": "الخيانة والتجسس",
+          "text_french": "Trahison et espionnage",
+          "subject": "Treason and espionage"
+        },
+        {
+          "article_number": "281-289",
+          "text_arabic": "التجسس - جرائم ضد أمن الدولة",
+          "text_french": "Espionnage - Crimes contre la sûreté de l'État",
+          "subject": "Espionage"
+        }
+      ],
+      "historical_context": "The Lebanese Penal Code was enacted on March 1, 1943, by Legislative Decree No. 340, shortly before Lebanon's independence. It replaced the Ottoman Penal Code and was heavily influenced by French criminal law. The Code has been amended numerous times, particularly regarding penalties, corruption offenses, and crimes against children.",
+      "related_laws": [
+        "Law 328/2001 (Code of Criminal Procedure)",
+        "Law 24/1968 (Military Judiciary Code)",
+        "Legislative Decree 112/1983",
+        "Law 1958/01/11 (Amending Penal Code Articles)",
+        "Law 239/1993 (Child Protection Amendments)"
+      ],
+      "source_url": "https://menarights.org/sites/default/files/2016-12/LBN_PenalCode1943_AR.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-CRIM-002",
+      "official_number": "Law 328/2001",
+      "official_title_arabic": "قانون أصول المحاكمات الجزائية",
+      "official_title_french": "Code de Procédure Pénale",
+      "official_title_english": "Code of Criminal Procedure",
+      "date_enacted": "2001-08-02",
+      "published_in_official_gazette": {
+        "issue_number": "38",
+        "date": "2001-08-07"
+      },
+      "category": "Procedure",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 359/2001",
+          "date": "2001-08-16",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 711/2005",
+          "date": "2005-12-09",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 111/2010",
+          "date": "2010-06-26",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 164/2011",
+          "date": "2011-08-24",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 251/2014",
+          "date": "2014-04-15",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 65/2017",
+          "date": "2017-10-20",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 191/2020",
+          "date": "2020-10-16",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 321/2023",
+          "date": "2023-12-19",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "structure": {
+        "part_1": "Public Prosecution (Articles 11-37)",
+        "part_2": "Judicial Police (Articles 38-50)",
+        "part_3": "Examining Magistrates and Their Functions (Articles 51-127)",
+        "part_4": "Indictment Division (Articles 128-146)",
+        "part_5": "Rules of Serving Legal Documents (Articles 147-149)",
+        "part_6": "Trial Courts (Articles 150-367)",
+        "part_7": "Interlocutory Matters (Articles 368-370)",
+        "part_7_bis": "Procedures of Protection Against Trafficking in Persons (Articles 370(2)-370(5))",
+        "part_8": "Cases of Forgery (Articles 371-384)",
+        "part_9": "Loss of Documents (Articles 385-390)",
+        "part_10": "Special Amnesty Procedures (Articles 391-399)",
+        "part_11": "Judicial Supervision Over Places of Custody (Articles 400-424)",
+        "part_12": "Objections to Enforcement (Articles 425-427)",
+        "part_13": "Transitional Provisions (Articles 428-429)"
+      },
+      "key_articles": [
+        {
+          "article_number": "1-10",
+          "text_arabic": "أحكام عامة",
+          "text_french": "Dispositions générales",
+          "subject": "General provisions"
+        },
+        {
+          "article_number": "11-37",
+          "text_arabic": "النيابة العامة - اختصاصاتها وصلاحياتها",
+          "text_french": "Parquet - Compétences et pouvoirs",
+          "subject": "Public Prosecution"
+        },
+        {
+          "article_number": "29",
+          "text_arabic": "الجرم المكتشف في حالة تلبس - التعريف",
+          "text_french": "Infraction flagrante - Définition",
+          "subject": "Flagrante delicto"
+        },
+        {
+          "article_number": "32, 42, 47",
+          "text_arabic": "الحجز الاحتياطي - مدته وشروطه",
+          "text_french": "Garde à vue - Durée et conditions",
+          "subject": "Police custody"
+        },
+        {
+          "article_number": "38-50",
+          "text_arabic": "الشرطة القضائية - اختصاصاتها",
+          "text_french": "Police judiciaire - Compétences",
+          "subject": "Judicial Police"
+        },
+        {
+          "article_number": "51-127",
+          "text_arabic": "قاضي التحقيق - وظائفه وصلاحياته",
+          "text_french": "Juge d'instruction - Fonctions et pouvoirs",
+          "subject": "Investigating Judge"
+        },
+        {
+          "article_number": "107",
+          "text_arabic": "الحجز الاحتياطي استثناء وليس قاعدة - الحرية أثناء انتظار المحاكمة هي الأصل",
+          "text_french": "La détention préventive est l'exception, pas la règle - La liberté en attendant le procès est le principe",
+          "subject": "Pre-trial detention principle"
+        },
+        {
+          "article_number": "108",
+          "text_arabic": "مدة الحجز الاحتياطي - شهران للجنح، ستة أشهر للجنايات",
+          "text_french": "Durée de la détention préventive - 2 mois pour délits, 6 mois pour crimes",
+          "subject": "Pre-trial detention duration"
+        },
+        {
+          "article_number": "111",
+          "text_arabic": "بدائل الحجز الاحتياطي - الكفالة والإشراف القضائي",
+          "text_french": "Alternatives à la détention préventive - Caution et surveillance judiciaire",
+          "subject": "Alternatives to detention"
+        },
+        {
+          "article_number": "113",
+          "text_arabic": "الإخلاء سبيل de jure - بعد خمسة أيام للجنح",
+          "text_french": "Remise de jure en liberté - après 5 jours pour délits",
+          "subject": "Automatic release"
+        },
+        {
+          "article_number": "128-146",
+          "text_arabic": "غرفة الاتهام - اختصاصاتها",
+          "text_french": "Chambre d'accusation - Compétences",
+          "subject": "Indictment Chamber"
+        },
+        {
+          "article_number": "150-367",
+          "text_arabic": "محاكم الحكم - الجنايات والجنح والمخالفات",
+          "text_french": "Tribunaux de jugement - Crimes, délits et contraventions",
+          "subject": "Trial Courts"
+        },
+        {
+          "article_number": "212-213",
+          "text_arabic": "الاستئناف - قبول الطعن",
+          "text_french": "Appel - Admissibilité du recours",
+          "subject": "Appeals"
+        },
+        {
+          "article_number": "400-424",
+          "text_arabic": "الإشراف القضائي على أماكن الحجز والسجون",
+          "text_french": "Surveillance judiciaire des lieux de détention et prisons",
+          "subject": "Judicial supervision of custody"
+        }
+      ],
+      "historical_context": "The Code of Criminal Procedure was enacted by Law No. 328 of August 2, 2001, and published in the Official Gazette on August 7, 2001. It replaced the previous Code of Criminal Procedure of 1948 and subsequent amendments. The new Code was a comprehensive reform of criminal procedure in Lebanon, incorporating international standards and human rights principles. It has been amended multiple times to address emerging issues including trafficking in persons.",
+      "related_laws": [
+        "Legislative Decree 340/1943 (Penal Code)",
+        "Law 24/1968 (Military Judiciary Code)",
+        "Legislative Decree 150/1983 (Judiciary Organization)",
+        "Law 18/09/1948 (Previous Criminal Procedure - abrogated)"
+      ],
+      "source_url": "https://www.lexismiddleeast.com/law/Lebanon/Law_328_2001/en",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-CRIM-003",
+      "official_number": "Law 24/1968",
+      "official_title_arabic": "قانون أصول المحاكمات العسكرية",
+      "official_title_french": "Code de Justice Militaire",
+      "official_title_english": "Code of Military Justice",
+      "date_enacted": "1968-04-13",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1968-04-13"
+      },
+      "category": "Criminal Law",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 1/71",
+          "date": "1971-01-22",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 1460/1971",
+          "date": "1971-07-08",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Legislative Decree 142/1983",
+          "date": "1983-09-16",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 306/2001",
+          "date": "2001-04-03",
+          "articles_affected": [
+            "Multiple articles"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Legislative Decree 110/1977",
+          "date": "1977-06-30",
+          "articles_affected": [
+            "Competence of military judiciary"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 148/1992",
+          "date": "1992-05-06",
+          "articles_affected": [
+            "Competence regarding security forces"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "structure": {
+        "book_1": "Organization of Military Courts",
+        "book_2": "Competence of Military Courts",
+        "book_3": "Military Crimes",
+        "book_4": "Procedure before Military Courts"
+      },
+      "key_articles": [
+        {
+          "article_number": "6",
+          "text_arabic": "المحكمة العسكرية الدائمة - تشكيلها واختصاصاتها",
+          "text_french": "Tribunal militaire permanent - Composition et compétences",
+          "subject": "Permanent Military Tribunal"
+        },
+        {
+          "article_number": "13-14",
+          "text_arabic": "تعيين القضاة العسكريين - مدة التعيين",
+          "text_french": "Nomination des juges militaires - Durée de la nomination",
+          "subject": "Appointment of military judges"
+        },
+        {
+          "article_number": "24",
+          "text_arabic": "اختصاص المحاكم العسكرية - الجرائم العسكرية وجرائم أخرى",
+          "text_french": "Compétence des tribunaux militaires - Crimes militaires et autres crimes",
+          "subject": "Jurisdiction of military courts"
+        },
+        {
+          "article_number": "24(1)",
+          "text_arabic": "جرائم عسكرية - التهرب من الخدمة، انتهاك الواجبات والشرف، انتهاك النظام العسكري",
+          "text_french": "Crimes militaires - Évasion du service, violation des devoirs et de l'honneur, violation de l'ordre militaire",
+          "subject": "Military offenses"
+        },
+        {
+          "article_number": "24(2)",
+          "text_arabic": "الخيانة والتجسس والاتصال غير المشروع بالعدو",
+          "text_french": "Trahison, espionnage et connexions illégales avec l'ennemi",
+          "subject": "Treason and espionage"
+        },
+        {
+          "article_number": "24(3)-(4)",
+          "text_arabic": "جرائم الأسلحة والذخائر، الجرائم المرتكبة في المعسكرات والثكنات العسكرية",
+          "text_french": "Crimes liés aux armes et munitions, crimes commis dans les camps et casernes militaires",
+          "subject": "Arms and military premises offenses"
+        },
+        {
+          "article_number": "27",
+          "text_arabic": "اختصاص المحاكم العسكرية في جرائم الإرهاب والجرائم ضد أمن الدولة",
+          "text_french": "Compétence des tribunaux militaires pour les crimes de terrorisme et contre la sûreté de l'État",
+          "subject": "Terrorism and state security"
+        },
+        {
+          "article_number": "39",
+          "text_arabic": "تطبيق قانون أصول المحاكمات الجزائية أمام قاضي التحقيق العسكري",
+          "text_french": "Application du Code de procédure pénale devant le juge d'instruction militaire",
+          "subject": "Application of criminal procedure"
+        },
+        {
+          "article_number": "43-44",
+          "text_arabic": "إجراءات قاضي التحقيق العسكري - قراراته",
+          "text_french": "Procédures du juge d'instruction militaire - Ses décisions",
+          "subject": "Military investigating judge procedures"
+        },
+        {
+          "article_number": "49",
+          "text_arabic": "إعلام المتهم بقرار الاتهام",
+          "text_french": "Notification à l'accusé du acte d'accusation",
+          "subject": "Notification of charges"
+        },
+        {
+          "article_number": "58",
+          "text_arabic": "حق المحامي في الاطلاع على ملف القضية",
+          "text_french": "Droit de l'avocat d'accéder au dossier de l'affaire",
+          "subject": "Defense counsel access to case file"
+        },
+        {
+          "article_number": "70",
+          "text_arabic": "محتويات الحكم الصادر عن المحكمة العسكرية",
+          "text_french": "Contenu du jugement rendu par le tribunal militaire",
+          "subject": "Content of military court judgment"
+        }
+      ],
+      "historical_context": "The Code of Military Justice was enacted by Law No. 24 of April 13, 1968. It establishes the military court system in Lebanon, which includes single military judges, the Permanent Military Tribunal, and the Military Court of Cassation. The military courts have jurisdiction over military personnel for military offenses, as well as over certain crimes committed by civilians, including crimes against state security, terrorism-related crimes, and crimes committed in military premises. The Code has been criticized by human rights organizations for allowing the trial of civilians before military courts and for not fully complying with international fair trial standards.",
+      "related_laws": [
+        "Legislative Decree 340/1943 (Penal Code)",
+        "Law 328/2001 (Code of Criminal Procedure)",
+        "Legislative Decree 110/1977 (Competence of Military Judiciary)",
+        "Law 148/1992 (Security Forces Competence)",
+        "Law 2/78 (Special Security Court - repealed)"
+      ],
+      "source_url": "https://www.justice.gov.lb/index.php/court-details/10/1",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-CRIM-004",
+      "official_number": "Law 2/78",
+      "official_title_arabic": "قانون إنشاء محكمة أمن الدولة الخاصة",
+      "official_title_french": "Loi sur la création d'un tribunal de sécurité d'État spécial",
+      "official_title_english": "Law on Establishment of Special State Security Court",
+      "date_enacted": "1978-02-15",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1978"
+      },
+      "category": "Criminal Law",
+      "status": "repealed",
+      "amendments": [
+        {
+          "amending_law": "Decree 603/1983",
+          "date": "1983-05-19",
+          "articles_affected": [
+            "All articles"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "key_articles": [
+        {
+          "article_number": "All",
+          "text_arabic": "تم إلغاؤه بموجب المرسوم 603/1983",
+          "text_french": "Abrogé par le Décret 603/1983",
+          "subject": "Repealed"
+        }
+      ],
+      "historical_context": "The Special State Security Court was established by Law No. 2/78 of February 15, 1978, during the Lebanese Civil War. It was abolished by Decree No. 603 of May 19, 1983, following the end of the war and the restoration of the regular judicial system.",
+      "related_laws": [
+        "Decree 603/1983 (Termination of Special Security Court)"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

@@ -1,0 +1,1955 @@
+{
+  "metadata": {
+    "database_title": "Recent Lebanese Laws Database (2000-2026)",
+    "compiled_by": "Lebanese Contemporary Law Expert",
+    "compilation_date": "2026-02-21",
+    "total_laws": 42,
+    "categories_covered": [
+      "Banking Sector Laws",
+      "Anti-Corruption and Transparency Laws",
+      "Electoral Law Reforms",
+      "Economic and Financial Crisis Laws",
+      "Capital Controls and Banking Restrictions",
+      "Healthcare and Pandemic-Related Laws",
+      "Women's Rights and Protection Laws",
+      "Human Trafficking and Organized Crime Laws",
+      "Environmental and Climate Laws",
+      "Telecommunications and Technology Laws",
+      "Judicial Reform Laws",
+      "Public Sector Reform Laws"
+    ],
+    "sources": [
+      "www.justice.gov.lb",
+      "www.lp.gov.lb (Parliament)",
+      "Official Gazette of Lebanon",
+      "Legal Agenda Lebanon",
+      "LexisNexis Middle East",
+      "IMF/World Bank Reports",
+      "UNDP Lebanon",
+      "Transparency International Lebanon"
+    ],
+    "disclaimer": "This database is compiled from publicly available sources. Official verification with Lebanese government sources is recommended for legal proceedings.",
+    "laws_by_category": {
+      "Recent Legislation - Electoral Reform": 3,
+      "Recent Legislation - Disability Rights": 1,
+      "Recent Legislation - Anti-Corruption and Transparency": 9,
+      "Recent Legislation - Women's Rights and Protection": 3,
+      "Recent Legislation - Human Trafficking and Organized Crime": 1,
+      "Recent Legislation - Energy and Petroleum": 2,
+      "Recent Legislation - Public Sector Reform": 1,
+      "Recent Legislation - Banking Sector Reform": 3,
+      "Recent Legislation - Healthcare and Pandemic Response": 2,
+      "Recent Legislation - Environmental and Climate": 6,
+      "Recent Legislation - Telecommunications and Technology": 1,
+      "Recent Legislation - Judicial Reform": 1,
+      "Recent Legislation - Labor and Employment": 1,
+      "Recent Legislation - Economic Reform": 1,
+      "Recent Legislation - Capital Controls and Banking Restrictions": 1,
+      "Recent Legislation - Economic and Financial Crisis": 1,
+      "Recent Legislation - Energy and Infrastructure": 1,
+      "Recent Legislation - International Treaty Ratifications": 4
+    }
+  },
+  "laws": [
+    {
+      "law_id": "LBN-2008-001",
+      "official_number": "Law 25/2008",
+      "official_title_arabic": "قانون الانتخابات النيابية",
+      "official_title_french": "Loi sur les élections législatives",
+      "official_title_english": "Parliamentary Elections Law",
+      "date_enacted": "2008-10-08",
+      "published_in_official_gazette": {
+        "issue_number": "46",
+        "date": "2008-10-16"
+      },
+      "category": "Recent Legislation - Electoral Reform",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Law 44/2017",
+          "date": "2017-06-17",
+          "articles_affected": [
+            "All articles"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "قانون انتخاب أعضاء مجلس النواب الصادر بتاريخ 8 أكتوبر 2008",
+      "full_text_french": "Loi électorale majoritaire adoptée le 8 octobre 2008",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "نظام الاقتراع الأكثري",
+          "text_french": "Système de vote majoritaire",
+          "subject": "Electoral System"
+        },
+        {
+          "article_number": "Article 98",
+          "text_arabic": "حق الأشخاص ذوي الإعاقة في الترشح والاقتراع",
+          "text_french": "Droit des personnes handicapées de se présenter et de voter",
+          "subject": "Disability Rights in Elections"
+        }
+      ],
+      "historical_context": "Passed after Doha Agreement to break political deadlock. Extended parliamentary mandate twice (2013, 2014). Repealed by Law 44/2017.",
+      "related_laws": [
+        "Law 44/2017",
+        "Legislative Decree 118/1977"
+      ],
+      "source_url": "https://www.lp.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2017-002",
+      "official_number": "Law 44/2017",
+      "official_title_arabic": "قانون الانتخابات النيابية - التمثيل النسبي",
+      "official_title_french": "Loi sur les élections législatives - Représentation proportionnelle",
+      "official_title_english": "Parliamentary Elections Law - Proportional Representation",
+      "date_enacted": "2017-06-17",
+      "published_in_official_gazette": {
+        "issue_number": "27",
+        "date": "2017-06-17"
+      },
+      "category": "Recent Legislation - Electoral Reform",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law (Amendment) 2021",
+          "date": "2021-10-19",
+          "articles_affected": [
+            "Articles on diaspora voting"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون رقم 44 تاريخ 17/6/2017 قانون انتخاب أعضاء مجلس النواب - نظام التمثيل النسبي",
+      "full_text_french": "Loi No. 44 du 17/6/2017 sur l'élection des membres du Parlement - Système proportionnel",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "نظام الاقتراع النسبي على أساس اللوائح المفتوحة",
+          "text_french": "Système de vote proportionnel avec listes ouvertes",
+          "subject": "Proportional Representation System"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "تقسيم لبنان إلى 15 دائرة انتخابية رئيسية",
+          "text_french": "Division du Liban en 15 circonscriptions électorales principales",
+          "subject": "Electoral Districts"
+        },
+        {
+          "article_number": "Article 111-123",
+          "text_arabic": "حق المغتربين في الاقتراع - 6 مقاعد للمغتربين",
+          "text_french": "Droit de vote des expatriés - 6 sièges pour la diaspora",
+          "subject": "Diaspora Voting"
+        },
+        {
+          "article_number": "Article 61",
+          "text_arabic": "حدود الإنفاق الانتخابي",
+          "text_french": "Limites des dépenses électorales",
+          "subject": "Campaign Finance"
+        }
+      ],
+      "historical_context": "First time Lebanon adopted proportional representation. Passed after years of political deadlock and two mandate extensions. Amended in 2021 regarding diaspora voting procedures.",
+      "related_laws": [
+        "Law 25/2008",
+        "Law 220/2000"
+      ],
+      "source_url": "https://aceproject.org/ero-en/regions/mideast/LB/lebanon-law-no.44-parliamentary-elections-2017",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2000-003",
+      "official_number": "Law 220/2000",
+      "official_title_arabic": "قانون حقوق الأشخاص ذوي الإعاقة",
+      "official_title_french": "Loi sur les droits des personnes handicapées",
+      "official_title_english": "Law on the Rights of Persons with Disabilities",
+      "date_enacted": "2000-05-29",
+      "published_in_official_gazette": {
+        "issue_number": "22",
+        "date": "2000-05-29"
+      },
+      "category": "Recent Legislation - Disability Rights",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 220 تاريخ 29/5/2000 المتعلق بحقوق الأشخاص ذوي الإعاقة",
+      "full_text_french": "Loi No. 220 du 29/5/2000 relative aux droits des personnes handicapées",
+      "key_articles": [
+        {
+          "article_number": "Article 1-3",
+          "text_arabic": "تعريف الأشخاص ذوي الإعاقة والبطاقة الشخصية للإعاقة",
+          "text_french": "Définition des personnes handicapées et carte de handicap",
+          "subject": "Definitions and Disability Card"
+        },
+        {
+          "article_number": "Article 58",
+          "text_arabic": "الحق في التعليم - الدمج المدرسي أو التعليم الخاص",
+          "text_french": "Droit à l'éducation - Intégration scolaire ou éducation spéciale",
+          "subject": "Right to Education"
+        },
+        {
+          "article_number": "Article 74",
+          "text_arabic": "حق العمل - نسبة تشغيل 3% للشركات الكبيرة",
+          "text_french": "Droit au travail - Quota d'emploi de 3% pour les grandes entreprises",
+          "subject": "Employment Quota"
+        },
+        {
+          "article_number": "Article 75-76",
+          "text_arabic": "إلزامية إتاحة المباني العامة والمرافق",
+          "text_french": "Obligation d'accessibilité des bâtiments publics",
+          "subject": "Accessibility Requirements"
+        }
+      ],
+      "historical_context": "Landmark legislation passed six years before UN Convention on Rights of Persons with Disabilities. First comprehensive disability rights law in Lebanon. Implementation remains weak.",
+      "related_laws": [
+        "Law 44/2017 (Article 98 on disability voting rights)"
+      ],
+      "source_url": "https://disability-hub.com/wp-content/uploads/2020/05/Law-220-2000-English.docx",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2017-004",
+      "official_number": "Law 28/2017",
+      "official_title_arabic": "قانون الحق في الوصول إلى المعلومات",
+      "official_title_french": "Loi sur le droit d'accès à l'information",
+      "official_title_english": "Access to Information Law",
+      "date_enacted": "2017-02-10",
+      "published_in_official_gazette": {
+        "issue_number": "8",
+        "date": "2017-02-16"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 233/2021",
+          "date": "2021-07-19",
+          "articles_affected": [
+            "Article 1",
+            "Article on religious courts"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون رقم 28 تاريخ 10/2/2017 قانون الحق في الوصول إلى المعلومات",
+      "full_text_french": "Loi No. 28 du 10/2/2017 sur le droit d'accès à l'information",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "الحق في الوصول إلى المعلومات لكل شخص دون الحاجة لإثبات صفة أو مصلحة",
+          "text_french": "Droit d'accès à l'information pour toute personne sans justification de qualité ou d'intérêt",
+          "subject": "Right to Access Information"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "نشر المعلومات تلقائياً من قبل الإدارات",
+          "text_french": "Publication automatique des informations par les administrations",
+          "subject": "Proactive Disclosure"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "استثناءات محدودة للوصول (الأمن القومي، الأسرار التجارية، الخصوصية)",
+          "text_french": "Exceptions limitées à l'accès (sécurité nationale, secrets commerciaux, vie privée)",
+          "subject": "Exceptions"
+        }
+      ],
+      "historical_context": "First Lebanese law on access to information. Drafted since 2001, passed after civil society advocacy. Amended in 2021 to remove requirement to specify capacity/interest and include religious courts.",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 83/2018",
+        "Law 233/2021"
+      ],
+      "source_url": "https://www.lexismiddleeast.com/law/Lebanon/Law_28_2017/en",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2018-005",
+      "official_number": "Law 83/2018",
+      "official_title_arabic": "قانون حماية المبلغين عن الفساد",
+      "official_title_french": "Loi sur la protection des lanceurs d'alerte",
+      "official_title_english": "Whistleblower Protection Law",
+      "date_enacted": "2018-10-10",
+      "published_in_official_gazette": {
+        "issue_number": "45",
+        "date": "2018-10-18"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 182/2020",
+          "date": "2020-06-12",
+          "articles_affected": [
+            "Article 9"
+          ],
+          "nature": "addition"
+        }
+      ],
+      "full_text_arabic": "قانون رقم 83 تاريخ 10/10/2018 قانون حماية المبلغين عن الفساد",
+      "full_text_french": "Loi No. 83 du 10/10/2018 sur la protection des lanceurs d'alerte",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "تعريف المبلغ عن الفساد وحمايته من الضرر المهني والشخصي",
+          "text_french": "Définition du lanceur d'alerte et protection contre les dommages professionnels et personnels",
+          "subject": "Whistleblower Definition and Protection"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "حظر الإضرار بالمبلغ (الفصل، الضغط، التخفيض في الرتبة)",
+          "text_french": "Interdiction de nuire au lanceur (licenciement, pression, rétrogradation)",
+          "subject": "Protection from Retaliation"
+        },
+        {
+          "article_number": "Article 9",
+          "text_arabic": "تدابير الحماية الجسدية للمبلغ وعائلته",
+          "text_french": "Mesures de protection physique pour le lanceur et sa famille",
+          "subject": "Physical Protection"
+        },
+        {
+          "article_number": "Article 14",
+          "text_arabic": "مكافآت مالية للمبلغين تصل إلى 5% من المبالغ المستردة",
+          "text_french": "Récompenses financières pour les lanceurs jusqu'à 5% des fonds récupérés",
+          "subject": "Financial Incentives"
+        }
+      ],
+      "historical_context": "Passed to fulfill Lebanon's obligations under UN Convention Against Corruption (ratified 2008). Amended in 2020 to allow Public Prosecution to receive disclosures alongside NACC.",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 182/2020",
+        "Law 28/2017"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4942/strengthening-whistleblower-protection",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-006",
+      "official_number": "Law 175/2020",
+      "official_title_arabic": "قانون مكافحة الفساد في القطاع العام وإنشاء الهيئة الوطنية لمكافحة الفساد",
+      "official_title_french": "Loi sur la lutte contre la corruption dans le secteur public et création de la Commission nationale anti-corruption",
+      "official_title_english": "Anti-Corruption Law and Establishment of National Anti-Corruption Commission",
+      "date_enacted": "2020-05-08",
+      "published_in_official_gazette": {
+        "issue_number": "20",
+        "date": "2020-05-14"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 175 تاريخ 8/5/2020 مكافحة الفساد في القطاع العام وإنشاء الهيئة الوطنية لمكافحة الفساد",
+      "full_text_french": "Loi No. 175 du 8/5/2020 lutte contre la corruption dans le secteur public et création de la Commission nationale anti-corruption",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "تعريف الفساد كإساءة استخدام السلطة أو النشاط المتعلق بالمال العام",
+          "text_french": "Définition de la corruption comme abus de pouvoir lié aux fonds publics",
+          "subject": "Corruption Definition"
+        },
+        {
+          "article_number": "Article 5",
+          "text_arabic": "إنشاء الهيئة الوطنية لمكافحة الفساد (NACC) - استقلال مالي وإداري",
+          "text_french": "Création de la Commission nationale anti-corruption (NACC) - indépendance financière et administrative",
+          "subject": "NACC Establishment"
+        },
+        {
+          "article_number": "Article 6",
+          "text_arabic": "تشكيل الهيئة: قاضيان متقاعدان، محامٍ، خبير محاسبة، خبير مالي، خبير إداري",
+          "text_french": "Composition de la Commission: deux juges retraités, avocat, expert-comptable, expert financier, expert administratif",
+          "subject": "NACC Composition"
+        },
+        {
+          "article_number": "Article 18",
+          "text_arabic": "مهام الهيئة: تلقي الشكاوى، التحقيق، إحالة القضايا للقضاء",
+          "text_french": "Missions de la Commission: recevoir plaintes, enquêter, renvoyer les affaires au judiciaire",
+          "subject": "NACC Functions"
+        }
+      ],
+      "historical_context": "Passed in response to October 2019 uprising against corruption. First comprehensive anti-corruption law defining corruption and establishing dedicated commission. NACC officially launched in December 2022.",
+      "related_laws": [
+        "Law 83/2018",
+        "Law 189/2020",
+        "Law 28/2017"
+      ],
+      "source_url": "https://www.lexismiddleeast.com/legislativeInsight/Lebanon/Lebanon_Anti-Corruption_Law/en",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-007",
+      "official_number": "Law 189/2020",
+      "official_title_arabic": "قانون الإثراء غير المشروع والإفصاح عن الأموال والمصالح",
+      "official_title_french": "Loi sur l'enrichissement illicite et déclaration des biens et intérêts",
+      "official_title_english": "Illicit Enrichment and Assets/Interests Declaration Law",
+      "date_enacted": "2020-10-16",
+      "published_in_official_gazette": {
+        "issue_number": "42",
+        "date": "2020-10-16"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 189 تاريخ 16/10/2020 الإثراء غير المشروع والإفصاح عن الأموال والمصالح",
+      "full_text_french": "Loi No. 189 du 16/10/2020 enrichissement illicite et déclaration des biens et intérêts",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "توسيع نطاق الملزمين بالإفصاح ليشمل كبار المسؤولين والموظفين العموميين",
+          "text_french": "Extension de l'obligation de déclaration aux hauts fonctionnaires et employés publics",
+          "subject": "Declaration Scope"
+        },
+        {
+          "article_number": "Article 10",
+          "text_arabic": "اعتبار الزوجة والأطفال القصر شخصاً واحداً مع المسؤول لأغراض الإفصاح",
+          "text_french": "Considération de l'épouse et des enfants mineurs comme une seule personne avec l'officiel",
+          "subject": "Family Assets"
+        },
+        {
+          "article_number": "Article 12",
+          "text_arabic": "حظر سقوط العقوبة بالتقادم لجرائم الإثراء غير المشروع",
+          "text_french": "Interdiction de la prescription pour les crimes d'enrichissement illicite",
+          "subject": "No Prescription"
+        }
+      ],
+      "historical_context": "Replaced obsolete 1954 law. Expanded declaration requirements and removed prescription period. Assigned NACC as sole body for receiving declarations (previously 24 different bodies).",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 28/2017"
+      ],
+      "source_url": "https://www.undp-aciac.org/resources/ac/details.aspx?aid=768",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2014-008",
+      "official_number": "Law 293/2014",
+      "official_title_arabic": "قانون حماية النساء وأفراد الأسرة من العنف الأسري",
+      "official_title_french": "Loi sur la protection des femmes et membres de la famille contre la violence domestique",
+      "official_title_english": "Law on Protection of Women and Family Members from Domestic Violence",
+      "date_enacted": "2014-05-07",
+      "published_in_official_gazette": {
+        "issue_number": "19",
+        "date": "2014-05-15"
+      },
+      "category": "Recent Legislation - Women's Rights and Protection",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 204/2020",
+          "date": "2020-09-21",
+          "articles_affected": [
+            "Articles on economic/psychological violence"
+          ],
+          "nature": "addition"
+        }
+      ],
+      "full_text_arabic": "قانون رقم 293 تاريخ 7/5/2014 حماية النساء وأفراد الأسرة من العنف الأسري",
+      "full_text_french": "Loi No. 293 du 7/5/2014 protection des femmes et membres de la famille contre la violence domestique",
+      "key_articles": [
+        {
+          "article_number": "Article 2",
+          "text_arabic": "تعريف العنف الأسري: أي فعل أو امتناع أو تهديد من أحد أفراد الأسرة",
+          "text_french": "Définition de la violence domestique: tout acte, omission ou menace par un membre de la famille",
+          "subject": "Domestic Violence Definition"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "أشكال العنف: القتل، الضرر الجسدي، النفسي، الجنسي، الاقتصادي",
+          "text_french": "Formes de violence: meurtre, dommage physique, psychologique, sexuel, économique",
+          "subject": "Forms of Violence"
+        },
+        {
+          "article_number": "Article 5",
+          "text_arabic": "إنشاء وحدة خاصة بالعنف الأسري في قوى الأمن الداخلي",
+          "text_french": "Création d'une unité spéciale de violence domestique dans les forces de sécurité",
+          "subject": "Special Police Unit"
+        },
+        {
+          "article_number": "Article 12-14",
+          "text_arabic": "أوامر الحماية الصادرة عن قاضي الأمور المستعجلة",
+          "text_french": "Ordres de protection émis par le juge des référés",
+          "subject": "Protection Orders"
+        }
+      ],
+      "historical_context": "First Lebanese law criminalizing domestic violence. Result of years of advocacy by KAFA and women's organizations. Does not criminalize marital rape. Amended in 2020 to strengthen penalties for economic/psychological violence.",
+      "related_laws": [
+        "Law 204/2020",
+        "Penal Code Articles 503-522"
+      ],
+      "source_url": "https://kafa.org.lb/sites/default/files/2021-10/law-293-english.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2011-009",
+      "official_number": "Law 164/2011",
+      "official_title_arabic": "قانون معاقبة جريمة الاتجار بالأشخاص",
+      "official_title_french": "Loi sur la répression du crime de traite des personnes",
+      "official_title_english": "Law on Punishment for the Crime of Trafficking in Persons",
+      "date_enacted": "2011-08-24",
+      "published_in_official_gazette": {
+        "issue_number": "36",
+        "date": "2011-09-01"
+      },
+      "category": "Recent Legislation - Human Trafficking and Organized Crime",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 164 تاريخ 24/8/2011 معاقبة جريمة الاتجار بالأشخاص",
+      "full_text_french": "Loi No. 164 du 24/8/2011 répression du crime de traite des personnes",
+      "key_articles": [
+        {
+          "article_number": "Article 586.1",
+          "text_arabic": "تجريم الاتجار بالأشخاص وعقوبة السجن 5-15 سنة وغرامة مالية",
+          "text_french": "Criminalisation de la traite des personnes et peine de 5-15 ans et amende",
+          "subject": "Trafficking Criminalization"
+        },
+        {
+          "article_number": "Article 586.2",
+          "text_arabic": "حماية الضحايا وعدم ملاحقتهم جنائياً",
+          "text_french": "Protection des victimes et non-poursuite pénale",
+          "subject": "Victim Protection"
+        },
+        {
+          "article_number": "Article 586.11",
+          "text_arabic": "الاختصاص القضائي اللبناني إذا ارتكب أي فعل من أفعال الجريمة على الأراضي اللبنانية",
+          "text_french": "Compétence juridictionnelle libanaise si tout acte du crime est commis sur le territoire",
+          "subject": "Jurisdiction"
+        }
+      ],
+      "historical_context": "Passed following Lebanon's ratification of UN Convention Against Transnational Organized Crime and its Trafficking Protocol (2005). First specific anti-trafficking legislation in Lebanon.",
+      "related_laws": [
+        "Penal Code Articles 524-525",
+        "Law 175/2020"
+      ],
+      "source_url": "https://www.lexismiddleeast.com/regulatory/Lebanon/BeirutBarAssociation_Practical_Guide_on_Combating_the_Crime_of_Trafficking_in_Persons/en",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2010-010",
+      "official_number": "Law 132/2010",
+      "official_title_arabic": "قانون الموارد البترولية البحرية",
+      "official_title_french": "Loi sur les ressources pétrolières offshore",
+      "official_title_english": "Offshore Petroleum Resources Law (OPRL)",
+      "date_enacted": "2010-08-24",
+      "published_in_official_gazette": {
+        "issue_number": "36",
+        "date": "2010-09-02"
+      },
+      "category": "Recent Legislation - Energy and Petroleum",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 132 تاريخ 24/8/2010 الموارد البترولية البحرية",
+      "full_text_french": "Loi No. 132 du 24/8/2010 ressources pétrolières offshore",
+      "key_articles": [
+        {
+          "article_number": "Article 1-5",
+          "text_arabic": "إنشاء الإدارة اللبنانية للبترول (LPA) كمؤسسة عامة مستقلة",
+          "text_french": "Création de l'Administration libanaise du pétrole (LPA) comme institution publique autonome",
+          "subject": "LPA Establishment"
+        },
+        {
+          "article_number": "Article 6-10",
+          "text_arabic": "حقوق الدولة في الموارد الهيدروكربونية وعقود المشاركة بالإنتاج",
+          "text_french": "Droits de l'État sur les ressources hydrocarbures et contrats de partage de production",
+          "subject": "Production Sharing"
+        },
+        {
+          "article_number": "Article 87",
+          "text_arabic": "إنشاء صندوق الثروة السيادية لإيرادات النفط والغاز",
+          "text_french": "Création du fonds souverain de richesse pour les revenus pétroliers et gaziers",
+          "subject": "Sovereign Wealth Fund"
+        }
+      ],
+      "historical_context": "Established legal framework for offshore oil and gas exploration. Created Lebanese Petroleum Administration as independent regulator. Mandated creation of sovereign wealth fund for petroleum revenues.",
+      "related_laws": [
+        "Law 84/2018",
+        "Law 320/2023"
+      ],
+      "source_url": "https://www.lpa.gov.lb",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2018-011",
+      "official_number": "Law 84/2018",
+      "official_title_arabic": "قانون تعزيز الشفافية في قطاع البترول",
+      "official_title_french": "Loi sur le renforcement de la transparence dans le secteur pétrolier",
+      "official_title_english": "Law on Enhancing Transparency in the Petroleum Sector",
+      "date_enacted": "2018-10-18",
+      "published_in_official_gazette": {
+        "issue_number": "42",
+        "date": "2018-10-25"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 84 تاريخ 18/10/2018 تعزيز الشفافية في قطاع البترول",
+      "full_text_french": "Loi No. 84 du 18/10/2018 renforcement de la transparence dans le secteur pétrolier",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "النشر الإلزامي للمعلومات المتعلقة بأنشطة البترول",
+          "text_french": "Publication obligatoire des informations relatives aux activités pétrolières",
+          "subject": "Mandatory Publication"
+        },
+        {
+          "article_number": "Article 10.7",
+          "text_arabic": "الإفصاح عن الملكية الفعلية للشركات المتعاقدة والشركات الفرعية",
+          "text_french": "Divulgation de la propriété effective des entreprises contractantes et sous-traitantes",
+          "subject": "Beneficial Ownership Disclosure"
+        },
+        {
+          "article_number": "Article 12",
+          "text_arabic": "حق الجمعيات المدنية في مراقبة شفافية قطاع النفط والغاز",
+          "text_french": "Droit des associations civiles de surveiller la transparence du secteur pétrolier et gazier",
+          "subject": "Civil Society Monitoring"
+        }
+      ],
+      "historical_context": "First sector-specific transparency law in Lebanon. Made Lebanon first Eastern Mediterranean country to publish oil contracts. Requires disclosure of beneficial ownership - a global benchmark.",
+      "related_laws": [
+        "Law 132/2010",
+        "Law 28/2017",
+        "Law 83/2018",
+        "Law 175/2020"
+      ],
+      "source_url": "https://www.lpa.gov.lb/english/transparency/transparency-and-accountability",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2023-012",
+      "official_number": "Law 320/2023",
+      "official_title_arabic": "قانون الصندوق السيادي اللبناني",
+      "official_title_french": "Loi sur le Fonds souverain libanais",
+      "official_title_english": "Lebanese Sovereign Wealth Fund Law",
+      "date_enacted": "2023-12-22",
+      "published_in_official_gazette": {
+        "issue_number": "52",
+        "date": "2023-12-28"
+      },
+      "category": "Recent Legislation - Energy and Petroleum",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 320 تاريخ 22/12/2023 الصندوق السيادي اللبناني",
+      "full_text_french": "Loi No. 320 du 22/12/2023 Fonds souverain libanais",
+      "key_articles": [
+        {
+          "article_number": "Article 1-3",
+          "text_arabic": "إنشاء الصندوق السيادي اللبناني ومجلس إدارته المستقل",
+          "text_french": "Création du Fonds souverain libanais et de son conseil d'administration indépendant",
+          "subject": "Fund Establishment"
+        },
+        {
+          "article_number": "Article 5",
+          "text_arabic": "80% من إيرادات الصندوق للادخار والاستثمار، 20% للمشاريع التنموية المحلية",
+          "text_french": "80% des revenus du fonds pour l'épargne et l'investissement, 20% pour projets de développement local",
+          "subject": "Revenue Allocation"
+        },
+        {
+          "article_number": "Article 8",
+          "text_arabic": "معايير الشفافية والمساءلة والرقابة الدولية",
+          "text_french": "Normes de transparence, responsabilité et surveillance internationale",
+          "subject": "Transparency Standards"
+        }
+      ],
+      "historical_context": "Implemented Article 87 of Law 132/2010. Establishes framework for managing future oil and gas revenues. Based on IMF standards and global best practices for sovereign wealth funds.",
+      "related_laws": [
+        "Law 132/2010",
+        "Law 84/2018"
+      ],
+      "source_url": "https://www.fao.org/faolex/country-profiles/general-profile/en/?iso3=LBN",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2021-013",
+      "official_number": "Law 244/2021",
+      "official_title_arabic": "قانون المشتريات العامة في لبنان",
+      "official_title_french": "Loi sur les marchés publics au Liban",
+      "official_title_english": "Public Procurement Law",
+      "date_enacted": "2021-07-19",
+      "published_in_official_gazette": {
+        "issue_number": "30",
+        "date": "2021-07-22"
+      },
+      "category": "Recent Legislation - Public Sector Reform",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 244 تاريخ 19/7/2021 المشتريات العامة في لبنان",
+      "full_text_french": "Loi No. 244 du 19/7/2021 marchés publics au Liban",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "المبادئ الثمانية: الشمولية، التكامل، المساءلة، الكفاءة والمنافسة، النزاهة، الشفافية، الاحترافية، الاستدامة",
+          "text_french": "Huit principes: exhaustivité, intégration, responsabilité, efficacité et concurrence, intégrité, transparence, professionnalisme, durabilité",
+          "subject": "Guiding Principles"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "نطاق التطبيق: جميع الإدارات العامة والمؤسسات العامة والبلديات",
+          "text_french": "Champ d'application: toutes administrations publiques, institutions publiques, municipalités",
+          "subject": "Scope"
+        },
+        {
+          "article_number": "Article 89-98",
+          "text_arabic": "إنشاء هيئة الشكاوى المستقلة",
+          "text_french": "Création de l'Autorité de recours indépendante",
+          "subject": "Complaints Authority"
+        },
+        {
+          "article_number": "Article 109-112",
+          "text_arabic": "النزاهة والمساءلة والعقوبات",
+          "text_french": "Intégrité, responsabilité et sanctions",
+          "subject": "Integrity and Sanctions"
+        }
+      ],
+      "historical_context": "First major update to public procurement law since 1960s. Transforms Lebanese procurement system with international standards. Created independent Complaints Authority. Took effect July 2022.",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 189/2021"
+      ],
+      "source_url": "https://lp.gov.lb/backoffice/uploads/files/Presentation%20-%20Public%20Procurement%20Law%20in%20Lebanon%20-%20Aug2021%20-%20English.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2022-014",
+      "official_number": "Law 306/2022",
+      "official_title_arabic": "قانون تعديل قانون سرية المصارف",
+      "official_title_french": "Loi modifiant la loi sur le secret bancaire",
+      "official_title_english": "Banking Secrecy Law Amendment",
+      "date_enacted": "2022-10-28",
+      "published_in_official_gazette": {
+        "issue_number": "44",
+        "date": "2022-11-03"
+      },
+      "category": "Recent Legislation - Banking Sector Reform",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Law 1/2025",
+          "date": "2025-04-24",
+          "articles_affected": [
+            "Article 150",
+            "Article 7"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون رقم 306 تاريخ 28/10/2022 تعديل قانون سرية المصارف لعام 1956",
+      "full_text_french": "Loi No. 306 du 28/10/2022 modifiant la loi sur le secret bancaire de 1956",
+      "key_articles": [
+        {
+          "article_number": "Article 150",
+          "text_arabic": "رفع السرية المصرفية للمسؤولين العمومين وزوجاتهم وأولادهم القصر",
+          "text_french": "Levée du secret bancaire pour les fonctionnaires, époux et enfants mineurs",
+          "subject": "Public Officials Exemption"
+        },
+        {
+          "article_number": "Article 7",
+          "text_arabic": "السماح للسلطات القضائية بالوصول للحسابات بأثر رجعي حتى عام 1988 في قضايا الفساد",
+          "text_french": "Autorisation d'accès aux comptes rétroactivement jusqu'en 1988 dans les affaires de corruption",
+          "subject": "Retroactive Access"
+        },
+        {
+          "article_number": "New Provisions",
+          "text_arabic": "حظر فتح أو الاحتفاظ بحسابات مرقمة أو خزائن مجهولة",
+          "text_french": "Interdiction d'ouvrir ou conserver des comptes numérotés ou coffres anonymes",
+          "subject": "Numbered Accounts Prohibition"
+        }
+      ],
+      "historical_context": "First major amendment to 1956 Banking Secrecy Law. Passed under IMF pressure. Removed secrecy for public officials, allowed retroactive access for corruption investigations. Further amended in 2025.",
+      "related_laws": [
+        "Law 1/2025",
+        "Law 28/2025",
+        "Code of Money and Credit 1963"
+      ],
+      "source_url": "https://timep.org/2025/07/09/lifting-banking-secrecy-a-major-shift-in-lebanons-financial-system/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2025-015",
+      "official_number": "Law 1/2025",
+      "official_title_arabic": "قانون تعديل قانون سرية المصارف - التعديل الثاني",
+      "official_title_french": "Loi modifiant la loi sur le secret bancaire - Deuxième amendement",
+      "official_title_english": "Banking Secrecy Law Amendment (Second)",
+      "date_enacted": "2025-04-24",
+      "published_in_official_gazette": {
+        "issue_number": "16",
+        "date": "2025-04-25"
+      },
+      "category": "Recent Legislation - Banking Sector Reform",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 1 تاريخ 24/4/2025 تعديل قانون سرية المصارف - منح صلاحيات واسعة للمصرف المركزي وهيئة التحكم المصرفي",
+      "full_text_french": "Loi No. 1 du 24/4/2025 modifiant la loi sur le secret bancaire - octroi de pouvoirs étendus à la banque centrale et à la Commission de contrôle bancaire",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "منح المصرف المركزي وهيئة التحكم المصرفي وصندوق ضمان الودائع حق رفع السرية المصرفية",
+          "text_french": "Octroi à la banque centrale, à la Commission de contrôle bancaire et au Fonds de garantie des dépôts du droit de lever le secret bancaire",
+          "subject": "Expanded Access Rights"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "الأثر الرجعي لمدة 10 سنوات للتدقيق في الهندسات المالية ومعاملات ما بعد 2019",
+          "text_french": "Effet rétroactif de 10 ans pour auditer les ingénieries financières et transactions post-2019",
+          "subject": "10-Year Retroactivity"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "الوصول للمعلومات بالاسم وليس فقط برقم الحساب للتدقيق وإعادة هيكلة القطاع المصرفي",
+          "text_french": "Accès aux informations par nom et non seulement par numéro de compte pour audit et restructuration du secteur bancaire",
+          "subject": "Name-Based Access"
+        }
+      ],
+      "historical_context": "Key IMF prior action. Grants unprecedented access to banking information for restructuring and accountability. 10-year retroactivity allows investigation of pre-crisis financial engineering. Passed with 87 votes for, 13 against.",
+      "related_laws": [
+        "Law 306/2022",
+        "Law 28/2025",
+        "Code of Money and Credit 1963"
+      ],
+      "source_url": "https://blog.blominvestbank.com/law-1-2025-bank-secrecy-law/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2025-016",
+      "official_number": "Law 28/2025",
+      "official_title_arabic": "قانون إصلاح وإعادة تنظيم المصارف في لبنان",
+      "official_title_french": "Loi sur la réforme et la réorganisation des banques au Liban",
+      "official_title_english": "Bank Reform and Reorganization Law",
+      "date_enacted": "2025-07-31",
+      "published_in_official_gazette": {
+        "issue_number": "31",
+        "date": "2025-08-05"
+      },
+      "category": "Recent Legislation - Banking Sector Reform",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 28 تاريخ 31/7/2025 إصلاح وإعادة تنظيم المصارف في لبنان",
+      "full_text_french": "Loi No. 28 du 31/7/2025 réforme et réorganisation des banques au Liban",
+      "key_articles": [
+        {
+          "article_number": "Article 3-5",
+          "text_arabic": "إنشاء الهيئة المصرفية العليا (HBC) في مصرف لبنان",
+          "text_french": "Création de la Haute Commission bancaire (HBC) à la Banque du Liban",
+          "subject": "Higher Banking Commission"
+        },
+        {
+          "article_number": "Article 6-7",
+          "text_arabic": "تشكيل غرفتين: الأولى للعقوبات، الثانية لإعادة الهيكلة والتصفية",
+          "text_french": "Formation de deux chambres: première pour sanctions, deuxième pour restructuration et liquidation",
+          "subject": "Two-Chamber Structure"
+        },
+        {
+          "article_number": "Article 10-11",
+          "text_arabic": "تعيين مقيّمين مستقلين لتقييم المصارف وفق المعايير الدولية",
+          "text_french": "Nomination d'évaluateurs indépendants pour évaluer les banques selon normes internationales",
+          "subject": "Independent Valuation"
+        },
+        {
+          "article_number": "Article 15-20",
+          "text_arabic": "صلاحيات إعادة الهيكلة: زيادة رأس المال، الدمج، البيع، التصفية",
+          "text_french": "Pouvoirs de restructuration: augmentation capital, fusion, vente, liquidation",
+          "subject": "Restructuring Powers"
+        }
+      ],
+      "historical_context": "One of three key IMF prior actions. Establishes framework for bank restructuring six years into financial crisis. Gives BdL Governor significant powers. Criticized for banking lobby influence in HBC composition.",
+      "related_laws": [
+        "Law 1/2025",
+        "Law 306/2022",
+        "Code of Money and Credit 1963"
+      ],
+      "source_url": "https://blog.blominvestbank.com/wp-content/uploads/2025/08/A-Brief-on-the-New-Bank-Restructuring-Law.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-017",
+      "official_number": "Decree 6198/2020",
+      "official_title_arabic": "مرسوم إعلان حالة التعبئة العامة لمواجهة انتشار فيروس كورونا",
+      "official_title_french": "Décret déclarant l'état de mobilisation générale pour contrer la propagation du coronavirus",
+      "official_title_english": "Decree Declaring State of General Mobilization to Counter Coronavirus Spread",
+      "date_enacted": "2020-03-15",
+      "published_in_official_gazette": {
+        "issue_number": "12",
+        "date": "2020-03-19"
+      },
+      "category": "Recent Legislation - Healthcare and Pandemic Response",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "مرسوم رقم 6198 تاريخ 15/3/2020 إعلان حالة التعبئة العامة",
+      "full_text_french": "Décret No. 6198 du 15/3/2020 déclaration état de mobilisation générale",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "منع التجمعات في الأماكن العامة والخاصة",
+          "text_french": "Interdiction des rassemblements dans lieux publics et privés",
+          "subject": "Gathering Restrictions"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "تقييد حرية التنقل للضرورة القصوى فقط",
+          "text_french": "Restriction de liberté de mouvement pour nécessité absolue uniquement",
+          "subject": "Movement Restrictions"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "إغلاق الحدود والمدارس والجامعات والمؤسسات الخاصة",
+          "text_french": "Fermeture frontières, écoles, universités, institutions privées",
+          "subject": "Closures"
+        }
+      ],
+      "historical_context": "First COVID-19 response measure. Based on 1957 Infectious Diseases Law and Legislative Decree 102/1983 on National Defense. Imposed strict lockdown measures without parliamentary legislation.",
+      "related_laws": [
+        "Law 1957 on Infectious Diseases",
+        "Legislative Decree 102/1983"
+      ],
+      "source_url": "https://verfassungsblog.de/lebanon-in-times-of-covid-19-a-series-of-crises/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2021-018",
+      "official_number": "Law 211/2021",
+      "official_title_arabic": "قانون تنظيم الاستخدام الطارئ للمنتجات الطبية لمواجهة جائحة كوفيد-19",
+      "official_title_french": "Loi réglementant l'utilisation d'urgence des produits médicaux pour combattre la pandémie COVID-19",
+      "official_title_english": "Law Regulating Emergency Use of Medical Products to Combat COVID-19 Pandemic",
+      "date_enacted": "2021-01-16",
+      "published_in_official_gazette": {
+        "issue_number": "3",
+        "date": "2021-01-21"
+      },
+      "category": "Recent Legislation - Healthcare and Pandemic Response",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 211 تاريخ 16/1/2021 تنظيم الاستخدام الطارئ للمنتجات الطبية لمواجهة كوفيد-19",
+      "full_text_french": "Loi No. 211 du 16/1/2021 réglementant l'utilisation d'urgence des produits médicaux pour COVID-19",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "حماية مقدمي الرعاية الصحية والمصنعين من المسؤولية عن إصابات اللقاح (باستثناء الإهمال المتعمد)",
+          "text_french": "Protection des professionnels de santé et fabricants contre responsabilité pour blessures vaccinales (sauf négligence intentionnelle)",
+          "subject": "Liability Protection"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "إنشاء صندوق تعويض للإصابات المرتبطة بلقاح كوفيد-19",
+          "text_french": "Création d'un fonds de compensation pour blessures liées au vaccin COVID-19",
+          "subject": "Compensation Fund"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "السماح للقطاع الخاص بشراء اللقاحات بترخيص من وزارة الصحة",
+          "text_french": "Autorisation du secteur privé d'acheter vaccins avec licence du ministère de la Santé",
+          "subject": "Private Sector Procurement"
+        }
+      ],
+      "historical_context": "Provided legal framework for COVID-19 vaccination campaign. Shielded healthcare providers and manufacturers from liability. Allowed private sector to procure vaccines alongside government.",
+      "related_laws": [
+        "Decree 6198/2020",
+        "Law 1957 on Infectious Diseases"
+      ],
+      "source_url": "https://www.moph.gov.lb/userfiles/files/Prevention/COVID-19%20Vaccine/Lebanon%20NDVP-%20Feb%2016%202021.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2002-019",
+      "official_number": "Law 444/2002",
+      "official_title_arabic": "قانون حماية البيئة",
+      "official_title_french": "Loi sur la protection de l'environnement",
+      "official_title_english": "Environmental Protection Law",
+      "date_enacted": "2002-07-29",
+      "published_in_official_gazette": {
+        "issue_number": "30",
+        "date": "2002-08-02"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 444 تاريخ 29/7/2002 حماية البيئة",
+      "full_text_french": "Loi No. 444 du 29/7/2002 protection de l'environnement",
+      "key_articles": [
+        {
+          "article_number": "Article 1-3",
+          "text_arabic": "التنمية المستدامة والحفاظ على البيئة لأجيال المستقبل",
+          "text_french": "Développement durable et préservation de l'environnement pour les générations futures",
+          "subject": "Sustainable Development"
+        },
+        {
+          "article_number": "Article 20-25",
+          "text_arabic": "التقييم البيئي للمشاريع الكبرى (EIA)",
+          "text_french": "Évaluation environnementale des grands projets (EIA)",
+          "subject": "Environmental Impact Assessment"
+        },
+        {
+          "article_number": "Article 40-50",
+          "text_arabic": "مراقبة التلوث ومعايير جودة الهواء والمياه والتربة",
+          "text_french": "Surveillance de la pollution et normes qualité de l'air, eau et sol",
+          "subject": "Pollution Control"
+        }
+      ],
+      "historical_context": "Cornerstone of Lebanese environmental legislation. Mandates Environmental Impact Assessments for major projects. Established framework for pollution control and biodiversity protection.",
+      "related_laws": [
+        "Law 78/2018 (Air Quality)",
+        "Decree 16/1/2022 (Emission Limits)"
+      ],
+      "source_url": "https://lawgratis.com/blog-detail/environmental-laws-at-lebanon",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2018-020",
+      "official_number": "Law 78/2018",
+      "official_title_arabic": "قانون جودة الهواء",
+      "official_title_french": "Loi sur la qualité de l'air",
+      "official_title_english": "Air Quality Law",
+      "date_enacted": "2018-10-23",
+      "published_in_official_gazette": {
+        "issue_number": "43",
+        "date": "2018-10-25"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 78 تاريخ 23/10/2018 جودة الهواء",
+      "full_text_french": "Loi No. 78 du 23/10/2018 qualité de l'air",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "إطار قانوني لمراقبة جودة الهواء وتقييمها",
+          "text_french": "Cadre juridique pour surveillance et évaluation qualité de l'air",
+          "subject": "Air Quality Monitoring"
+        },
+        {
+          "article_number": "Article 5",
+          "text_arabic": "الاستراتيجية الوطنية لإدارة جودة الهواء المحيط 2015-2030",
+          "text_french": "Stratégie nationale pour gestion qualité de l'air ambiant 2015-2030",
+          "subject": "National Strategy"
+        },
+        {
+          "article_number": "Article 10",
+          "text_arabic": "التحكم بانبعاثات المصادر الثابتة والمتحركة وجودة الوقود",
+          "text_french": "Contrôle émissions sources fixes et mobiles et qualité carburant",
+          "subject": "Emissions Control"
+        }
+      ],
+      "historical_context": "Complements Law 444/2002. Addresses air pollution from power plants, vehicles, generators. Aligns with Lebanon's NDC targets for 2030.",
+      "related_laws": [
+        "Law 444/2002",
+        "MoE Decision 16/1/2022"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/FourthNationalCommunicationonClimateChange2022MoEcompressed.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2002-021",
+      "official_number": "Law 431/2002",
+      "official_title_arabic": "قانون قطاع الاتصالات",
+      "official_title_french": "Loi sur le secteur des télécommunications",
+      "official_title_english": "Telecommunications Sector Law",
+      "date_enacted": "2002-12-18",
+      "published_in_official_gazette": {
+        "issue_number": "52",
+        "date": "2002-12-27"
+      },
+      "category": "Recent Legislation - Telecommunications and Technology",
+      "status": "partially_implemented",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 431 تاريخ 18/12/2002 قطاع الاتصالات - إنشاء هيئة تنظيم الاتصالات وشركة الاتصالات اللبنانية",
+      "full_text_french": "Loi No. 431 du 18/12/2002 secteur des télécommunications - création Autorité régulation et Liban Telecom",
+      "key_articles": [
+        {
+          "article_number": "Articles 1-10",
+          "text_arabic": "إنشاء هيئة تنظيم الاتصالات (TRA) كهيئة مستقلة",
+          "text_french": "Création de l'Autorité de régulation des télécommunications (TRA) comme autorité indépendante",
+          "subject": "TRA Establishment"
+        },
+        {
+          "article_number": "Articles 44-45",
+          "text_arabic": "إنشاء شركة الاتصالات اللبنانية (Liban Telecom)",
+          "text_french": "Création de la Compagnie libanaise de télécommunications (Liban Telecom)",
+          "subject": "Liban Telecom"
+        },
+        {
+          "article_number": "Article 50",
+          "text_arabic": "خصخصة قطاع الاتصالات تدريجياً",
+          "text_french": "Privatisation progressive du secteur des télécommunications",
+          "subject": "Privatization Framework"
+        }
+      ],
+      "historical_context": "Passed in anticipation of Paris II donors conference. TRA board expired in 2012 and never reconstituted. Liban Telecom never established. Law remains largely unimplemented after 20+ years.",
+      "related_laws": [
+        "Law 21/1972 (Ogero)",
+        "Decree 5613/1994"
+      ],
+      "source_url": "https://smex.org/billions-in-squandered-funds-court-of-audit-report-on-the-telecom-sector-in-lebanon/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2025-022",
+      "official_number": "Law (Judicial Reform) 2025",
+      "official_title_arabic": "قانون تنظيم القضاء العادي",
+      "official_title_french": "Loi sur l'organisation du pouvoir judiciaire ordinaire",
+      "official_title_english": "Law Regulating the Ordinary Judiciary",
+      "date_enacted": "2025-07-31",
+      "published_in_official_gazette": {
+        "issue_number": "31",
+        "date": "2025-08-05"
+      },
+      "category": "Recent Legislation - Judicial Reform",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون تنظيم القضاء العادي الصادر بتاريخ 31/7/2025 - دخوله حيز التنفيذ يناير 2026",
+      "full_text_french": "Loi sur l'organisation du pouvoir judiciaire ordinaire du 31/7/2025 - entrée en vigueur janvier 2026",
+      "key_articles": [
+        {
+          "article_number": "Articles on SJC",
+          "text_arabic": "توسيع مشاركة القضاة في انتخابات المجلس الأعلى للقضاء - 5 أعضاء منتخبون من القضاة",
+          "text_french": "Expansion participation juges élections Conseil supérieur de la magistrature - 5 membres élus par juges",
+          "subject": "SJC Elections"
+        },
+        {
+          "article_number": "Article on Independence",
+          "text_arabic": "تعزيز استقلال القضاء وحقوق القضاة في حرية التعبير",
+          "text_french": "Renforcement indépendance judiciaire et droits juges liberté d'expression",
+          "subject": "Judicial Independence"
+        },
+        {
+          "article_number": "Article on Terms",
+          "text_arabic": "مدد ولاية مدتها 4 سنوات للمناصب القضائية",
+          "text_french": "Mandats de 4 ans pour postes judiciaires",
+          "subject": "Judicial Terms"
+        },
+        {
+          "article_number": "Article 42",
+          "text_arabic": "سلطة النائب العام في طلب وقف الدعاوى (مثير للجدل)",
+          "text_french": "Pouvoir du procureur général de demander arrêt des poursuites (controversé)",
+          "subject": "Prosecution Powers"
+        }
+      ],
+      "historical_context": "First major judicial reform since independence. Based on draft from 2018 by coalition of legal NGOs. Criticized by HRW and Venice Commission for not fully meeting international standards. Enters force January 2026.",
+      "related_laws": [
+        "Code of Civil Procedure",
+        "Code of Criminal Procedure"
+      ],
+      "source_url": "https://www.jurist.org/news/2025/08/law-on-judicial-reform-in-lebanon-must-go-further-rights-group-says/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2000-023",
+      "official_number": "Labor Law Amendment 2000",
+      "official_title_arabic": "تعديل المادة 26 من قانون العمل - عدم التمييز بين الرجل والمرأة",
+      "official_title_french": "Amendement Article 26 Code du travail - non-discrimination homme-femme",
+      "official_title_english": "Labor Law Article 26 Amendment - Gender Non-Discrimination",
+      "date_enacted": "2000-05-26",
+      "published_in_official_gazette": {
+        "issue_number": "21",
+        "date": "2000-05-29"
+      },
+      "category": "Recent Legislation - Women's Rights and Protection",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 22/2025",
+          "date": "2025-05-16",
+          "articles_affected": [
+            "Article 1",
+            "Article 2",
+            "Article 12"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "تعديل المادة 26 من قانون العمل لعام 1946 - عدم التمييز في نوع العمل والأجر والتوظيف والترقية والتدريب المهني",
+      "full_text_french": "Amendement Article 26 Code travail 1946 - non-discrimination type travail, salaire, emploi, promotion, formation professionnelle",
+      "key_articles": [
+        {
+          "article_number": "Article 26",
+          "text_arabic": "يجوز لصاحب العمل أن يميز بين العاملين والعاملات في نوع العمل ومقدار الأجر أو الراتب والتوظيف والترقية والتأهيل المهني واللباس",
+          "text_french": "L'employeur ne peut pas discriminer entre travailleurs et travailleuses dans type travail, montant salaire, emploi, promotion, qualification professionnelle, vêtements",
+          "subject": "Gender Non-Discrimination"
+        },
+        {
+          "article_number": "Article 27",
+          "text_arabic": "استمرار المادة 27 التي تحظر عمل النساء في بعض الصناعات (قائمة مرفقة)",
+          "text_french": "Maintien Article 27 interdisant travail femmes dans certaines industries (liste annexée)",
+          "subject": "Women's Employment Restrictions"
+        },
+        {
+          "article_number": "Article 28",
+          "text_arabic": "إجازة الأمومة 7 أسابيع في القطاع الخاص",
+          "text_french": "Congé maternité 7 semaines secteur privé",
+          "subject": "Maternity Leave"
+        }
+      ],
+      "historical_context": "First amendment prohibiting gender discrimination in Labor Law. However, Article 27 restrictions on women's work in certain industries remained. Maternity leave extended to 60 days (public sector) and 7 weeks (private sector).",
+      "related_laws": [
+        "Labor Law 1946",
+        "Law 22/2025"
+      ],
+      "source_url": "https://www.rdflwomen.org/eng/a-historical-overview-of-womens-achievements-in-lebanon/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2025-024",
+      "official_number": "Law 22/2025",
+      "official_title_arabic": "قانون تعديل قانون العمل - الاعتراف بالعمل عن بُعد وغير التقليدي",
+      "official_title_french": "Loi modifiant le Code du travail - reconnaissance travail à distance et non traditionnel",
+      "official_title_english": "Labor Law Amendment - Recognition of Remote and Non-Traditional Work",
+      "date_enacted": "2025-05-16",
+      "published_in_official_gazette": {
+        "issue_number": "19",
+        "date": "2025-05-20"
+      },
+      "category": "Recent Legislation - Labor and Employment",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 22 تاريخ 16/5/2025 تعديل قانون العمل - الاعتراف بالعمل عن بُعد والعمل الجزئي والمضغوط والموسمي",
+      "full_text_french": "Loi No. 22 du 16/5/2025 modifiant Code travail - reconnaissance travail à distance, à temps partiel, compressé, saisonnier",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "تعريف جديد لصاحب العمل: صاحب العمل بدلاً من رب العمل",
+          "text_french": "Nouvelle définition employeur: 'patron' au lieu de 'maître de travail'",
+          "subject": "Employer Definition"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "الاعتراف الرسمي بالعمل عن بُعد لأول مرة",
+          "text_french": "Reconnaissance officielle du travail à distance pour première fois",
+          "subject": "Remote Work Recognition"
+        },
+        {
+          "article_number": "Article 12",
+          "text_arabic": "إطار شامل لأشكال العمل غير التقليدي: المضغوط، الجزئي، الموسمي، عن بُعد",
+          "text_french": "Cadre complet formes travail non traditionnel: compressé, à temps partiel, saisonnier, à distance",
+          "subject": "Non-Traditional Work Forms"
+        }
+      ],
+      "historical_context": "First major labor law reform in decades. Recognizes remote work, part-time employment, compressed schedules, and seasonal work. Brings Lebanese labor law closer to international standards.",
+      "related_laws": [
+        "Labor Law 1946",
+        "Labor Law Amendment 2000"
+      ],
+      "source_url": "https://tohmelaw.com/publications/lebanese-labor-law-amendments-may-2025",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2021-025",
+      "official_number": "Law 189/2021",
+      "official_title_arabic": "قانون المنافسة",
+      "official_title_french": "Loi sur la concurrence",
+      "official_title_english": "Competition Law",
+      "date_enacted": "2021-12-21",
+      "published_in_official_gazette": {
+        "issue_number": "52",
+        "date": "2021-12-23"
+      },
+      "category": "Recent Legislation - Economic Reform",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 189 تاريخ 21/12/2021 المنافسة - إنشاء هيئة المنافسة الوطنية",
+      "full_text_french": "Loi No. 189 du 21/12/2021 concurrence - création Autorité nationale de la concurrence",
+      "key_articles": [
+        {
+          "article_number": "Article 7",
+          "text_arabic": "حظر الاتفاقات المناهضة للمنافسة: التثبيت السعري، تقسيم الأسواق، التلاعب بالمناقصات",
+          "text_french": "Interdiction accords anti-concurrentiels: fixation prix, partage marchés, manipulation appels d'offres",
+          "subject": "Anti-Competitive Agreements"
+        },
+        {
+          "article_number": "Article 9",
+          "text_arabic": "تعريف الموقف المهيمن (35% حصة سوق فردية، 45-55% جماعية) وإساءة استخدامه",
+          "text_french": "Définition position dominante (35% part marché individuelle, 45-55% collective) et abus",
+          "subject": "Abuse of Dominant Position"
+        },
+        {
+          "article_number": "Article 14",
+          "text_arabic": "الرقابة على الاندماجات: إلزامية الموافقة للاندماجات التي تتجاوز 30% من الحصة السوقية",
+          "text_french": "Contrôle des fusions: obligation approbation pour fusions dépassant 30% part marché",
+          "subject": "Merger Control"
+        },
+        {
+          "article_number": "Article 22",
+          "text_arabic": "العقوبات: غرامات تصل إلى 10% من الدخل السنوي",
+          "text_french": "Sanctions: amendes jusqu'à 10% du revenu annuel",
+          "subject": "Penalties"
+        }
+      ],
+      "historical_context": "First comprehensive competition law in Lebanon. Establishes National Competition Authority (not yet created). Addresses cartels, abuse of dominance, and merger control. Critical for economic recovery and reducing inequality.",
+      "related_laws": [
+        "Law 244/2021 (Public Procurement)"
+      ],
+      "source_url": "https://www.unescwa.org/sites/default/files/pubs/pdf/competition-lebanon-english.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2019-026",
+      "official_number": "Informal Capital Controls (No Law)",
+      "official_title_arabic": "الضوابط الرأسمالية غير الرسمية - لا قانون رسمي",
+      "official_title_french": "Contrôles de capitaux informels - aucune loi formelle",
+      "official_title_english": "Informal Capital Controls - No Formal Law",
+      "date_enacted": "2019-10-18",
+      "published_in_official_gazette": {
+        "issue_number": "N/A",
+        "date": "N/A"
+      },
+      "category": "Recent Legislation - Capital Controls and Banking Restrictions",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "ضوابط رأسمالية غير رسمية فرضتها المصارف منذ أكتوبر 2019 دون سند قانوني",
+      "full_text_french": "Contrôles de capitaux informels imposés par banques depuis octobre 2019 sans base légale",
+      "key_articles": [
+        {
+          "article_number": "N/A",
+          "text_arabic": "حظر السحب بالدولار الأمريكي أو تحويله إلى الخارج للودائع المفتوحة قبل 17 أكتوبر 2019",
+          "text_french": "Interdiction retrait USD ou transfert à l'étranger pour dépôts ouverts avant 17 octobre 2019",
+          "subject": "Withdrawal Restrictions"
+        },
+        {
+          "article_number": "N/A",
+          "text_arabic": "السماح بالتحويلات من حسابات 'الدولار الطازج' (فتحت بعد أكتوبر 2019)",
+          "text_french": "Autorisation transferts depuis comptes 'fresh dollars' (ouverts après octobre 2019)",
+          "subject": "Fresh Dollar Exception"
+        }
+      ],
+      "historical_context": "Banks imposed informal capital controls on October 18, 2019 following bank run. No parliamentary legislation passed despite IMF requirements. Multiple draft laws debated but never enacted as of April 2025.",
+      "related_laws": [
+        "Law 1/2025 (Banking Secrecy)",
+        "Law 28/2025 (Bank Restructuring)"
+      ],
+      "source_url": "https://www.state.gov/reports/2025-investment-climate-statements/lebanon",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-027",
+      "official_number": "National Anti-Corruption Strategy 2020-2025",
+      "official_title_arabic": "الاستراتيجية الوطنية لمكافحة الفساد 2020-2025",
+      "official_title_french": "Stratégie nationale de lutte contre la corruption 2020-2025",
+      "official_title_english": "National Anti-Corruption Strategy 2020-2025",
+      "date_enacted": "2020-05-01",
+      "published_in_official_gazette": {
+        "issue_number": "Special",
+        "date": "2020-05-01"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "الاستراتيجية الوطنية لمكافحة الفساد 2020-2025 - 7 نتائج مستهدفة و34 مخرجاً",
+      "full_text_french": "Stratégie nationale anti-corruption 2020-2025 - 7 résultats ciblés et 34 produits",
+      "key_articles": [
+        {
+          "article_number": "Outcome 1",
+          "text_arabic": "إكمال وتفعيل التشريعات المتخصصة لمكافحة الفساد",
+          "text_french": "Achèvement et activation législations spécialisées lutte corruption",
+          "subject": "Legislative Framework"
+        },
+        {
+          "article_number": "Outcome 2-3",
+          "text_arabic": "تعزيز النزاهة في الوظيفة العامة والمشتريات العامة",
+          "text_french": "Renforcement intégrité fonction publique et marchés publics",
+          "subject": "Public Sector Integrity"
+        },
+        {
+          "article_number": "Outcome 4-5",
+          "text_arabic": "تعزيز النزاهة في النظامين القضائي والرقابي",
+          "text_french": "Renforcement intégrité systèmes judiciaire et de contrôle",
+          "subject": "Judicial and Oversight Systems"
+        },
+        {
+          "article_number": "Outcome 6",
+          "text_arabic": "إشراك جميع مكونات المجتمع اللبناني في تعزيز ثقافة النزاهة",
+          "text_french": "Engagement composantes société libanaise promotion culture intégrité",
+          "subject": "Cultural Change"
+        }
+      ],
+      "historical_context": "Comprehensive roadmap for anti-corruption efforts. Developed with UNDP/UNODC support. Approved by Ministerial Anti-Corruption Committee. Implementation remains limited due to political and economic crises.",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 189/2020",
+        "Law 83/2018",
+        "Law 28/2017"
+      ],
+      "source_url": "https://www.unodc.org/cld/fr/treaties/strategies/lebanon/lbn0001s.html",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2025-028",
+      "official_number": "Draft Financial Gap Law 2025",
+      "official_title_arabic": "مشروع قانون سد الفجوة المالية - مسودة",
+      "official_title_french": "Projet de loi sur le comblement de l'écart financier - ébauche",
+      "official_title_english": "Draft Financial Gap Law (Gap Law)",
+      "date_enacted": "2025-12-27",
+      "published_in_official_gazette": {
+        "issue_number": "Pending",
+        "date": "Pending"
+      },
+      "category": "Recent Legislation - Economic and Financial Crisis",
+      "status": "pending",
+      "amendments": [],
+      "full_text_arabic": "مشروع قانون لتوزيع خسائر الأزمة المالية (70 مليار دولار) بين الدولة والمصرف المركزي والمصارف والمودعين",
+      "full_text_french": "Projet loi distribution pertes crise financière (70 milliards USD) entre État, banque centrale, banques, déposants",
+      "key_articles": [
+        {
+          "article_number": "Article (Draft)",
+          "text_arabic": "رد الودائع حتى 100,000 دولار خلال 4 سنوات للمودعين الصغار (85% من المودعين)",
+          "text_french": "Remboursement dépôts jusqu'à 100,000 USD en 4 ans pour petits déposants (85% des déposants)",
+          "subject": "Small Depositor Protection"
+        },
+        {
+          "article_number": "Article (Draft)",
+          "text_arabic": "تعويض المودعين الكبار بأوراق مالية مضمونة بالأصول",
+          "text_french": "Compensation grands déposants avec titres garantis par actifs",
+          "subject": "Large Depositor Compensation"
+        },
+        {
+          "article_number": "Article (Draft)",
+          "text_arabic": "تحمل الدولة جزءاً من الخسائر عبر أصول غير الذهبية (الكهرباء، الاتصالات، الموانئ)",
+          "text_french": "Prise en charge partie pertes par État via actifs non-or (électricité, télécommunications, ports)",
+          "subject": "State Contribution"
+        }
+      ],
+      "historical_context": "Third key IMF prior action. Cabinet approved December 27, 2025. Parliament approval pending. Determines loss-sharing between state, BdL, banks, and depositors for $70 billion gap. Hotly debated with banking lobby opposition.",
+      "related_laws": [
+        "Law 1/2025",
+        "Law 28/2025",
+        "Law 306/2022"
+      ],
+      "source_url": "https://www.aljazeera.com/news/2025/12/30/what-is-lebanons-gap-law-that-attempts-to-end-the-financial-crisis",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2002-029",
+      "official_number": "Law 462/2002",
+      "official_title_arabic": "قانون تنظيم قطاع الكهرباء",
+      "official_title_french": "Loi sur la régulation du secteur de l'électricité",
+      "official_title_english": "Electricity Sector Regulation Law",
+      "date_enacted": "2002-09-02",
+      "published_in_official_gazette": {
+        "issue_number": "35",
+        "date": "2002-09-05"
+      },
+      "category": "Recent Legislation - Energy and Infrastructure",
+      "status": "partially_implemented",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 462 تاريخ 2/9/2002 تنظيم قطاع الكهرباء - إنشاء هيئة تنظيم الكهرباء",
+      "full_text_french": "Loi No. 462 du 2/9/2002 régulation secteur électricité - création Autorité régulation électricité",
+      "key_articles": [
+        {
+          "article_number": "Article 1-5",
+          "text_arabic": "إنشاء هيئة تنظيم قطاع الكهرباء (ERA) كهيئة مستقلة",
+          "text_french": "Création Autorité régulation électricité (ERA) comme autorité indépendante",
+          "subject": "ERA Establishment"
+        },
+        {
+          "article_number": "Article 12",
+          "text_arabic": "حق الجمهور في الوصول للمعلومات والمشاركة في صنع السياسات",
+          "text_french": "Droit public accès information et participation élaboration politiques",
+          "subject": "Transparency and Participation"
+        },
+        {
+          "article_number": "Article 16-18",
+          "text_arabic": "تراخيص إنتاج ونقل وتوزيع الكهرباء",
+          "text_french": "Licences production, transport, distribution électricité",
+          "subject": "Licensing Framework"
+        }
+      ],
+      "historical_context": "Passed before Paris II conference. Electricity Regulatory Authority never established. Law remains largely unimplemented. Electricité du Liban (EdL) continues as state monopoly with massive deficits.",
+      "related_laws": [
+        "Law 431/2002 (Telecommunications)",
+        "Law 132/2010 (Petroleum)"
+      ],
+      "source_url": "https://schoolofgovernance.net/storage/uploads/1670495041-power-lta-g-final-2.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2017-030",
+      "official_number": "Decree 167/2017",
+      "official_title_arabic": "مرسوم الحوافز الضريبية على المنتجات والخدمات البيئية",
+      "official_title_french": "Décret incitations fiscales produits et services environnementaux",
+      "official_title_english": "Tax Incentives on Environmental Products and Services Decree",
+      "date_enacted": "2017-03-15",
+      "published_in_official_gazette": {
+        "issue_number": "12",
+        "date": "2017-03-16"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "MoF Decision 18/1/2020",
+          "date": "2020-01-18",
+          "articles_affected": [],
+          "nature": "addition"
+        },
+        {
+          "amending_law": "MoF Decision 35/1/2021",
+          "date": "2021-01-35",
+          "articles_affected": [],
+          "nature": "addition"
+        }
+      ],
+      "full_text_arabic": "مرسوم رقم 167 تاريخ 15/3/2017 تخفيضات جمركية على المنتجات البيئية بما فيها معدات كفاءة الطاقة والطاقة المتجددة وإعادة تدوير النفايات",
+      "full_text_french": "Décret No. 167 du 15/3/2017 réductions douanières produits environnementaux incluant équipements efficacité énergétique, énergies renouvelables, recyclage déchets",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "تخفيضات جمركية على المنتجات البيئية والمعدات المتعلقة بالطاقة المتجددة وكفاءة الطاقة",
+          "text_french": "Réductions douanières produits environnementaux et équipements énergies renouvelables et efficacité énergétique",
+          "subject": "Customs Reductions"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "إعفاءات ضريبية للشركات التي تقوم بمشاريع بيئية بما فيها مشاريع المناخ",
+          "text_french": "Exonérations fiscales entreprises réalisant projets environnementaux incluant projets climat",
+          "subject": "Tax Breaks"
+        }
+      ],
+      "historical_context": "Part of Lebanon's climate mitigation strategy. Encourages deployment of climate-friendly technologies. Complements vehicle tax reductions for hybrid/electric cars in budget laws.",
+      "related_laws": [
+        "Budget Law 79/2018 Article 55",
+        "Budget Law 10/2022 Article 95",
+        "Law 78/2018 (Air Quality)"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/FourthNationalCommunicationonClimateChange2022MoEcompressed.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2022-031",
+      "official_number": "MoE Decision 16/1/2022",
+      "official_title_arabic": "قرار حدود انبعاث الملوثات الهوائية",
+      "official_title_french": "Décision limites émission polluants atmosphériques",
+      "official_title_english": "Emission Limit Values for Air Pollutants Decision",
+      "date_enacted": "2022-01-16",
+      "published_in_official_gazette": {
+        "issue_number": "3",
+        "date": "2022-01-20"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قرار وزارة البيئة رقم 16/1 تاريخ 16/1/2022 تحديد حدود انبعاث الملوثات الهوائية من محطات الطاقة والمولدات الخاصة والصناعات ومحطات النفايات",
+      "full_text_french": "Décision ministère Environnement No. 16/1 du 16/1/2022 fixation limites émission polluants atmosphériques centrales électriques, groupes électrogènes privés, industries, usines déchets",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "حدود انبعاث الملوثات من محطات توليد الطاقة (الأوزون، أول أكسيد الكربون، الجسيمات)",
+          "text_french": "Limites émission polluants centrales production énergie (ozone, monoxyde carbone, particules)",
+          "subject": "Power Plant Emissions"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "حدود انبعاث المولدات الخاصة",
+          "text_french": "Limites émission groupes électrogènes privés",
+          "subject": "Private Generator Emissions"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "معايير جودة الوقود",
+          "text_french": "Normes qualité carburant",
+          "subject": "Fuel Quality Standards"
+        }
+      ],
+      "historical_context": "Implements Lebanon's NDC commitments. Limits emissions from major pollution sources. Addresses severe air quality problems in Lebanon, especially from private generators during electricity crisis.",
+      "related_laws": [
+        "Law 78/2018 (Air Quality)",
+        "Law 444/2002 (Environment)"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/FourthNationalCommunicationonClimateChange2022MoEcompressed.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2008-032",
+      "official_number": "Law 33/2008",
+      "official_title_arabic": "قانون الموافقة على انضمام لبنان إلى اتفاقية الأمم المتحدة لمكافحة الفساد",
+      "official_title_french": "Loi approuvant adhésion Liban à Convention ONU contre corruption",
+      "official_title_english": "Law Approving Lebanon's Accession to UN Convention Against Corruption (UNCAC)",
+      "date_enacted": "2008-10-16",
+      "published_in_official_gazette": {
+        "issue_number": "44",
+        "date": "2008-10-23"
+      },
+      "category": "Recent Legislation - International Treaty Ratifications",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 33 تاريخ 16/10/2008 الموافقة على انضمام لبنان إلى اتفاقية الأمم المتحدة لمكافحة الفساد UNCAC",
+      "full_text_french": "Loi No. 33 du 16/10/2008 approbation adhésion Liban Convention ONU lutte corruption UNCAC",
+      "key_articles": [
+        {
+          "article_number": "Single Article",
+          "text_arabic": "الموافقة على انضمام لبنان إلى اتفاقية الأمم المتحدة لمكافحة الفساد المعتمدة من الجمعية العامة في قرارها 58/4",
+          "text_french": "Approbation adhésion Liban Convention ONU lutte corruption adoptée par Assemblée générale résolution 58/4",
+          "subject": "UNCAC Ratification"
+        }
+      ],
+      "historical_context": "Lebanon ratified UNCAC in 2008. Led to subsequent anti-corruption legislation including Whistleblower Protection Law (2018), Access to Information Law (2017), and National Anti-Corruption Commission Law (2020).",
+      "related_laws": [
+        "Law 83/2018",
+        "Law 28/2017",
+        "Law 175/2020"
+      ],
+      "source_url": "https://www.unodc.org/unodc/en/treaties/CAC/signatories.html",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2022-033",
+      "official_number": "Law (Ratification) 2022",
+      "official_title_arabic": "قانون التصديق على اتفاقية حقوق الأشخاص ذوي الإعاقة وملحقها الاختياري",
+      "official_title_french": "Loi ratifiant Convention droits personnes handicapées et Protocole facultatif",
+      "official_title_english": "Law Ratifying Convention on Rights of Persons with Disabilities and Optional Protocol",
+      "date_enacted": "2022-04-15",
+      "published_in_official_gazette": {
+        "issue_number": "16",
+        "date": "2022-04-21"
+      },
+      "category": "Recent Legislation - International Treaty Ratifications",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون التصديق على اتفاقية حقوق الأشخاص ذوي الإعاقة لعام 2006 وملحقها الاختياري",
+      "full_text_french": "Loi ratifiant Convention droits personnes handicapées 2006 et Protocole facultatif",
+      "key_articles": [
+        {
+          "article_number": "Single Article",
+          "text_arabic": "التصديق على اتفاقية حقوق الأشخاص ذوي الإعاقة والملحق الاختياري",
+          "text_french": "Ratification Convention droits personnes handicapées et Protocole facultatif",
+          "subject": "CRPD Ratification"
+        }
+      ],
+      "historical_context": "Lebanon signed CRPD in 2007 but ratification took 15 years. Law 220/2000 (Disability Rights) preceded the UN Convention. Ratification strengthens legal framework for disability rights in Lebanon.",
+      "related_laws": [
+        "Law 220/2000"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4879/reform-monitor-%7C-status-review-of-disability-rights-in-lebanon",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-034",
+      "official_number": "Law 204/2020",
+      "official_title_arabic": "قانون تعديل قانون حماية النساء من العنف الأسري",
+      "official_title_french": "Loi modifiant loi protection femmes contre violence domestique",
+      "official_title_english": "Amendment to Domestic Violence Protection Law",
+      "date_enacted": "2020-09-21",
+      "published_in_official_gazette": {
+        "issue_number": "38",
+        "date": "2020-09-24"
+      },
+      "category": "Recent Legislation - Women's Rights and Protection",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 204 تاريخ 21/9/2020 تعديل قانون 293/2014 - تعزيز عقوبات العنف الاقتصادي والنفسي والتحرش",
+      "full_text_french": "Loi No. 204 du 21/9/2020 modifiant loi 293/2014 - renforcement peines violence économique, psychologique, harcèlement",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "تعزيز العقوبات على العنف الاقتصادي والنفسي",
+          "text_french": "Renforcement peines violence économique et psychologique",
+          "subject": "Economic/Psychological Violence"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "تجريم أشكال جديدة من التحرش",
+          "text_french": "Criminalisation nouvelles formes harcèlement",
+          "subject": "Harassment"
+        }
+      ],
+      "historical_context": "Amended Law 293/2014 to address gaps identified in implementation. Strengthened penalties for non-physical forms of violence. Still does not criminalize marital rape.",
+      "related_laws": [
+        "Law 293/2014"
+      ],
+      "source_url": "https://legalactionworldwide.org/wp-content/uploads/Womens-day-Legal-Guide-EN.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2021-035",
+      "official_number": "Law 233/2021",
+      "official_title_arabic": "قانون تعديل قانون الحق في الوصول إلى المعلومات",
+      "official_title_french": "Loi modifiant loi droit accès à l'information",
+      "official_title_english": "Amendment to Access to Information Law",
+      "date_enacted": "2021-07-19",
+      "published_in_official_gazette": {
+        "issue_number": "30",
+        "date": "2021-07-22"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 233 تاريخ 19/7/2021 تعديل قانون 28/2017 - إزالة شرط إثبات الصفة والمصلحة وإدراج المحاكم الشرعية",
+      "full_text_french": "Loi No. 233 du 19/7/2021 modifiant loi 28/2017 - suppression condition justification qualité et intérêt et inclusion juridictions religieuses",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "إزالة شرط إثبات الصفة أو المصلحة للحصول على المعلومات",
+          "text_french": "Suppression condition justification qualité ou intérêt pour obtenir informations",
+          "subject": "No Capacity Requirement"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "إدراج المحاكم الشرعية ضمن نطاق القانون",
+          "text_french": "Inclusion juridictions religieuses dans champ d'application loi",
+          "subject": "Religious Courts"
+        },
+        {
+          "article_number": "Article 3",
+          "text_arabic": "الإلزام بالرد على طلبات المعلومات وعدم الإحالة لجهات أخرى",
+          "text_french": "Obligation répondre demandes informations et non-renvoi autres instances",
+          "subject": "Mandatory Response"
+        }
+      ],
+      "historical_context": "Strengthened Law 28/2017 based on civil society advocacy. Removed barriers to accessing information. Included religious courts previously exempted.",
+      "related_laws": [
+        "Law 28/2017",
+        "Law 175/2020"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4833/access-to-information-in-lebanon-the-law-and-its-implementation",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2021-036",
+      "official_number": "Law 214/2021",
+      "official_title_arabic": "قانون استرداد الأموال الناتجة عن جرائم الفساد",
+      "official_title_french": "Loi sur récupération fonds provenant crimes corruption",
+      "official_title_english": "Asset Recovery Law",
+      "date_enacted": "2021-12-15",
+      "published_in_official_gazette": {
+        "issue_number": "51",
+        "date": "2021-12-23"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 214 تاريخ 15/12/2021 استرداد الأموال المكتسبة من جرائم الفساد",
+      "full_text_french": "Loi No. 214 du 15/12/2021 récupération fonds acquis crimes corruption",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "آليات استرداد الأموال المنهوبة وإعادتها للدولة",
+          "text_french": "Mécanismes récupération fonds détournés et restitution État",
+          "subject": "Asset Recovery Mechanisms"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "التعاون الدولي في استرداد الأموال",
+          "text_french": "Coopération internationale récupération fonds",
+          "subject": "International Cooperation"
+        }
+      ],
+      "historical_context": "Complements Law 175/2020 and Law 189/2020. Implements UNCAC provisions on asset recovery. Provides framework for recovering stolen assets from abroad.",
+      "related_laws": [
+        "Law 175/2020",
+        "Law 189/2020",
+        "Law 33/2008 (UNCAC)"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4793/the-national-anti-corruption-commission",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2020-037",
+      "official_number": "Law 182/2020",
+      "official_title_arabic": "قانون تعديل قانون حماية المبلغين عن الفساد",
+      "official_title_french": "Loi modifiant loi protection lanceurs d'alerte",
+      "official_title_english": "Amendment to Whistleblower Protection Law",
+      "date_enacted": "2020-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "25",
+        "date": "2020-06-16"
+      },
+      "category": "Recent Legislation - Anti-Corruption and Transparency",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قانون رقم 182 تاريخ 12/6/2020 تعديل المادة 9 من قانون 83/2018 - إضافة النيابة العامة كجهة استقبال بلاغات الفساد",
+      "full_text_french": "Loi No. 182 du 12/6/2020 modifiant Article 9 loi 83/2018 - ajout parquet comme destinataire dénonciations corruption",
+      "key_articles": [
+        {
+          "article_number": "Article 9 (Amended)",
+          "text_arabic": "إمكانية تقديم البلاغات للنيابة العامة بالإضافة للهيئة الوطنية لمكافحة الفساد",
+          "text_french": "Possibilité soumettre dénonciations au parquet en plus Commission nationale anti-corruption",
+          "subject": "Public Prosecution Access"
+        }
+      ],
+      "historical_context": "Amended Law 83/2018 to allow Public Prosecution to receive whistleblower complaints alongside NACC. Created Whistleblowers Reception Office at Ministry of Justice.",
+      "related_laws": [
+        "Law 83/2018",
+        "Law 175/2020"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4942/strengthening-whistleblower-protection",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-1977-038",
+      "official_number": "Legislative Decree 118/1977",
+      "official_title_arabic": "المرسوم الاشتراعي رقم 118 قانون البلديات",
+      "official_title_french": "Décret-loi No. 118 Code des municipalités",
+      "official_title_english": "Municipalities Law",
+      "date_enacted": "1977-06-30",
+      "published_in_official_gazette": {
+        "issue_number": "26",
+        "date": "1977-07-04"
+      },
+      "category": "Recent Legislation - Electoral Reform",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Law 665/1997",
+          "date": "1997-12-15",
+          "articles_affected": [],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 25/2008",
+          "date": "2008-10-08",
+          "articles_affected": [
+            "Article 16"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "المرسوم الاشتراعي رقم 118 تاريخ 30/6/1977 قانون البلديات - تطبيق أحكام قانون الانتخابات النيابية على الانتخابات البلدية",
+      "full_text_french": "Décret-loi No. 118 du 30/6/1977 Code municipalités - application dispositions loi élections législatives aux élections municipales",
+      "key_articles": [
+        {
+          "article_number": "Article 16",
+          "text_arabic": "تطبيق أحكام قانون الانتخابات النيابية على الانتخابات البلدية",
+          "text_french": "Application dispositions loi élections législatives aux élections municipales",
+          "subject": "Parliamentary Election Provisions Apply"
+        }
+      ],
+      "historical_context": "Passed at end of 1975-1977 civil war. Municipal elections still use majoritarian system (Law 25/2008) unlike parliamentary elections which use proportional representation (Law 44/2017). Proposed reforms in 2023 would introduce proportional representation for municipal elections.",
+      "related_laws": [
+        "Law 665/1997",
+        "Law 25/2008",
+        "Law 44/2017"
+      ],
+      "source_url": "https://www.lcps-lebanon.org/en/articles/details/4888/reforming-municipal-elections-in-lebanon",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2013-039",
+      "official_number": "MoE Decision 99/1/2013",
+      "official_title_arabic": "قرار آلية الإبلاغ عن الكربون",
+      "official_title_french": "Décision mécanisme rapport carbone",
+      "official_title_english": "Carbon Reporting Mechanism Decision",
+      "date_enacted": "2013-03-15",
+      "published_in_official_gazette": {
+        "issue_number": "12",
+        "date": "2013-03-21"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "قرار وزارة البيئة رقم 99/1 تاريخ 15/3/2013 إطار وأداة للقطاع الخاص للإبلاغ السنوي عن انبعاثات الغازات الدفيئة (طوعي)",
+      "full_text_french": "Décision ministère Environnement No. 99/1 du 15/3/2013 cadre et outil secteur privé rapport annuel émissions gaz effet serre (volontaire)",
+      "key_articles": [
+        {
+          "article_number": "Article 1",
+          "text_arabic": "إطار للقطاع الخاص للإبلاغ عن انبعاثات الغازات الدفيئة على أساس طوعي",
+          "text_french": "Cadre secteur privé rapport émissions gaz effet serre sur base volontaire",
+          "subject": "Voluntary Reporting"
+        },
+        {
+          "article_number": "Article 2",
+          "text_arabic": "منح شهادة إبلاغ من وزارة البيئة",
+          "text_french": "Attribution certificat rapport ministère Environnement",
+          "subject": "Reporting Certificate"
+        }
+      ],
+      "historical_context": "Early climate action measure. Voluntary carbon reporting for private sector. Part of Lebanon's climate mitigation strategy and NDC implementation.",
+      "related_laws": [
+        "Law 444/2002",
+        "Law 78/2018"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/FourthNationalCommunicationonClimateChange2022MoEcompressed.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2018-040",
+      "official_number": "Budget Law 79/2018 Article 55",
+      "official_title_arabic": "قانون الموازنة 79/2018 - المادة 55 - تخفيض ضريبة المركبات الهجينة والكهربائية",
+      "official_title_french": "Loi budget 79/2018 Article 55 - réduction taxe véhicules hybrides et électriques",
+      "official_title_english": "Budget Law 79/2018 Article 55 - Vehicle Tax Reduction for Hybrid/Electric Vehicles",
+      "date_enacted": "2018-04-20",
+      "published_in_official_gazette": {
+        "issue_number": "16",
+        "date": "2018-04-23"
+      },
+      "category": "Recent Legislation - Environmental and Climate",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Budget Law 10/2022 Article 95",
+          "date": "2022-02-15",
+          "articles_affected": [],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "المادة 55 من قانون الموازنة 79/2018 تخفيضات ضريبية وإعفاءات جمركية للمركبات الهجينة والكهربائية",
+      "full_text_french": "Article 55 loi budget 79/2018 réductions fiscales et exonérations douanières véhicules hybrides et électriques",
+      "key_articles": [
+        {
+          "article_number": "Article 55",
+          "text_arabic": "إعفاء جمركي وضريبي للمركبات الهجينة والكهربائية",
+          "text_french": "Exonération douanière et fiscale véhicules hybrides et électriques",
+          "subject": "Tax Exemptions"
+        }
+      ],
+      "historical_context": "Incentivizes low-emission vehicles. Maintained through 2019-2022 despite economic crisis. Extended by Budget Law 10/2022.",
+      "related_laws": [
+        "Budget Law 10/2022",
+        "Decree 167/2017"
+      ],
+      "source_url": "http://data.infopro.com.lb/file/FourthNationalCommunicationonClimateChange2022MoEcompressed.pdf",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-2007-041",
+      "official_number": "Law (Ratification) 2007",
+      "official_title_arabic": "قانون التصديق على اتفاقية نيويورك 1958",
+      "official_title_french": "Loi ratifiant Convention New York 1958",
+      "official_title_english": "Law Ratifying New York Convention 1958",
+      "date_enacted": "2007-07-11",
+      "published_in_official_gazette": {
+        "issue_number": "28",
+        "date": "2007-07-12"
+      },
+      "category": "Recent Legislation - International Treaty Ratifications",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "التصديق على اتفاقية نيويورك لعام 1958 حول الاعتراف بالأحكام التحكيمية الأجنبية",
+      "full_text_french": "Ratification Convention New York 1958 reconnaissance sentences arbitrales étrangères",
+      "key_articles": [
+        {
+          "article_number": "Single Article",
+          "text_arabic": "التصديق على اتفاقية نيويورك 1958",
+          "text_french": "Ratification Convention New York 1958",
+          "subject": "New York Convention Ratification"
+        }
+      ],
+      "historical_context": "Lebanon ratified New York Convention on Recognition and Enforcement of Foreign Arbitral Awards. Important for international trade and investment disputes.",
+      "related_laws": [
+        "Code of Civil Procedure"
+      ],
+      "source_url": "https://www.state.gov/reports/2025-investment-climate-statements/lebanon",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LBN-ICSID",
+      "official_number": "ICSID Convention Member",
+      "official_title_arabic": "عضوية لبنان في اتفاقية ICSID",
+      "official_title_french": "Membre Liban Convention ICSID",
+      "official_title_english": "Lebanon ICSID Convention Member",
+      "date_enacted": "1971-04-15",
+      "published_in_official_gazette": {
+        "issue_number": "N/A",
+        "date": "N/A"
+      },
+      "category": "Recent Legislation - International Treaty Ratifications",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "لبنان عضو في اتفاقية ICSID لتسوية المنازعات الاستثمارية بين الدول ورعايا الدول الأخرى",
+      "full_text_french": "Liban membre Convention ICSID règlement différends investissements entre États et ressortissants autres États",
+      "key_articles": [
+        {
+          "article_number": "N/A",
+          "text_arabic": "قبول التحكيم الدولي في منازعات الاستثمار",
+          "text_french": "Acceptation arbitrage international différends investissement",
+          "subject": "Investment Arbitration"
+        }
+      ],
+      "historical_context": "Lebanon member of ICSID Convention since 1971. Government accepts international arbitration for investment disputes, especially with countries having investment protection agreements.",
+      "related_laws": [
+        "Code of Civil Procedure",
+        "New York Convention 2007"
+      ],
+      "source_url": "https://www.state.gov/reports/2025-investment-climate-statements/lebanon",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

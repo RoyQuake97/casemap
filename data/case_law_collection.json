@@ -1,0 +1,1318 @@
+{
+  "case_law": [
+    {
+      "case_id": "LB-CASS-COMM-2006-98",
+      "court": "Lebanese Court of Cassation",
+      "date": "2006-04-27",
+      "case_number": "Decision 98/2006",
+      "title": "International Arbitration Criteria and Interest Awards",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that the criteria for determining whether arbitration is international in nature are economic, specifically whether the underlying dispute involves a cross-border flow of goods or funds, as defined by Article 809 NCPC. The Court further ruled that interest awarded by arbitral tribunals may exceed the value of legal interest as determined by Lebanese law and that such awards are not subject to review in annulment proceedings.",
+      "legal_principles": [
+        "International arbitration is determined by economic criteria: cross-border flow of goods or funds",
+        "Arbitral interest awards may exceed the statutory legal interest rate",
+        "Interest awards by arbitral tribunals are not reviewable in annulment proceedings"
+      ],
+      "articles_cited": ["Article 809 NCPC", "Article 767 COC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2014-14",
+      "court": "Lebanese Court of Cassation",
+      "date": "2014-01-25",
+      "case_number": "Decision 14/2014",
+      "title": "Competence-Competence and Non-Signatory Parties in International Arbitration",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation confirmed that the doctrine of competence-competence applies to international arbitration proceedings in Lebanon, meaning an arbitral tribunal has priority to rule on its own jurisdiction before courts intervene. The Court also extended the binding effect of an arbitration agreement to a non-signatory company by virtue of the economic unity existing between that company and the signatories, without requiring the non-signatory to have participated in the drafting or execution of the agreement, or even to have knowledge of it.",
+      "legal_principles": [
+        "Competence-competence doctrine applies to international arbitration in Lebanon",
+        "Non-signatory bound by arbitration agreement through economic unity principle",
+        "Economic unity test does not require participation in drafting, execution, or knowledge of the agreement"
+      ],
+      "articles_cited": ["Article 785 NCPC", "Articles 766, 763 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2012-79",
+      "court": "Lebanese Court of Cassation",
+      "date": "2012-04-26",
+      "case_number": "Decision 79/2012",
+      "title": "Non-Arbitrability of Individual Labor Disputes",
+      "category": "labor",
+      "summary": "The Lebanese Court of Cassation ruled that individual labor disputes and social security matters fall under the exclusive jurisdiction of the Lebanese Labour Arbitration Boards and constitute a matter of public policy. Any pre-dispute arbitration clause in individual employment contracts is therefore null and void. The Court clarified that this exclusivity does not extend to collective labor agreements.",
+      "legal_principles": [
+        "Labor Arbitration Boards have exclusive public-policy jurisdiction over individual labor disputes",
+        "Arbitration clauses in individual labor contracts are void",
+        "Exclusivity does not apply to collective labor agreements"
+      ],
+      "articles_cited": ["Article 79 Lebanese Code of Labour"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-1999-77",
+      "court": "Lebanese Court of Cassation",
+      "date": "1999-06-17",
+      "case_number": "Decision 77/99",
+      "title": "Law Governing Arbitration Agreements",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation established the conflict-of-law rule for determining the law governing arbitration agreements. The Court held that proof of an arbitration agreement and its extension over time is governed either by the law applicable to the effects of the agreement or by the law of the place where the agreement was concluded, as codified in Article 139(1) of the NCPC. This confirms that Lebanese courts apply classic conflict-of-law rules regardless of the place of arbitration.",
+      "legal_principles": [
+        "Governing law of arbitration agreement is either law of effects or law of place of conclusion",
+        "Classic conflict-of-law rules apply regardless of seat of arbitration"
+      ],
+      "articles_cited": ["Article 139(1) NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2004-150",
+      "court": "Lebanese Court of Cassation",
+      "date": "2004-11-09",
+      "case_number": "Decision 150/2004",
+      "title": "Judges as Arbitrators",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that judges may act as arbitrators without legal restrictions, finding no statutory prohibition on active judges serving as arbitrators in private disputes. This decision confirmed Lebanese law's permissive approach to arbitrator eligibility.",
+      "legal_principles": [
+        "No restriction on judges serving as arbitrators under Lebanese law",
+        "Permissive approach to arbitrator eligibility"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2002-136",
+      "court": "Lebanese Court of Cassation",
+      "date": "2002-10-31",
+      "case_number": "Decision 136/2002",
+      "title": "Limits of Annulment Review - No Public Policy via Misinterpretation",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that an arbitral award cannot be annulled on the ground of violation of public policy merely because the arbitrator misinterpreted the law. The annulment process is not an appeal on the merits; errors of legal interpretation do not by themselves constitute a public policy violation sufficient to invalidate an award.",
+      "legal_principles": [
+        "Annulment is not appeal on merits",
+        "Legal misinterpretation by arbitrator does not constitute public policy violation",
+        "Narrow scope of review in annulment proceedings"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2007-159",
+      "court": "Lebanese Court of Cassation",
+      "date": "2007-12-18",
+      "case_number": "Decision 159/2007",
+      "title": "Set-Aside Proceedings - Not Appeal on Merits",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation reaffirmed that proceedings to set aside an arbitral award do not constitute an appeal on the merits or legality of the award. Courts reviewing annulment applications are precluded from examining the correctness of the arbitrator's factual or legal determinations. This decision solidified the boundary between annulment and appellate review.",
+      "legal_principles": [
+        "Set-aside proceedings are not merits review",
+        "Courts cannot examine factual or legal correctness of arbitral awards in annulment",
+        "Clear separation between annulment and appeal"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2001-146",
+      "court": "Lebanese Court of Cassation",
+      "date": "2001-11-29",
+      "case_number": "Decision 146/2001",
+      "title": "New York Convention vs. NCPC - More Favorable Rule",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that the 1958 New York Convention on Recognition and Enforcement of Foreign Arbitral Awards applies in Lebanon only when its provisions are more favorable to the party seeking enforcement than the provisions of the Lebanese New Code of Civil Procedure. Under the NCPC's international public policy standard, the NCPC was deemed more favorable, limiting the automatic application of the New York Convention.",
+      "legal_principles": [
+        "New York Convention applies only when more favorable than NCPC",
+        "More-favorable-right rule applies to enforce arbitral awards",
+        "NCPC public policy standard is narrower than Convention's"
+      ],
+      "articles_cited": ["Article VII(1) New York Convention", "Article 814 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2002-29",
+      "court": "Lebanese Court of Cassation",
+      "date": "2002-02-28",
+      "case_number": "Decision 29/2002",
+      "title": "Arbitrator Recusal Does Not Annul Arbitration Agreement",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that the disqualification or recusal of an arbitrator does not invalidate the underlying arbitration agreement. The agreement survives the removal of a particular arbitrator, and proceedings may continue with a replacement arbitrator.",
+      "legal_principles": [
+        "Arbitration agreement survives recusal/disqualification of arbitrator",
+        "Recusal does not annul the arbitration agreement"
+      ],
+      "articles_cited": ["Article 770(3) NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2004-60",
+      "court": "Lebanese Court of Cassation",
+      "date": "2004-04-01",
+      "case_number": "Decision 60/2004",
+      "title": "Retroactive Effect of Arbitrator Recusal on Awards",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that when an arbitrator is disqualified, his mandate is revoked retroactively, and any awards rendered by that arbitrator in the proceedings are annulled as a consequence. This is the converse of Decision 29/2002, which protected the agreement itself, but here the Court addressed the effect on awards already issued.",
+      "legal_principles": [
+        "Arbitrator disqualification revokes mandate retroactively",
+        "Awards rendered by disqualified arbitrator are annulled"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2006-61",
+      "court": "Lebanese Court of Cassation",
+      "date": "2006-03-22",
+      "case_number": "Decision 61/2006",
+      "title": "Courts Cannot Raise Lack of Arbitral Jurisdiction Ex Officio",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that Lebanese courts cannot raise the lack of arbitral jurisdiction on their own motion (ex officio). The existence of an arbitration clause is not a matter of public policy requiring courts to intervene spontaneously; parties must affirmatively invoke the arbitration agreement. If a party fails to raise the objection in a timely manner, it is deemed waived.",
+      "legal_principles": [
+        "Arbitral jurisdiction is not a public policy issue courts must raise ex officio",
+        "Parties must affirmatively invoke arbitration agreements",
+        "Waiver of jurisdictional objection if not raised timely"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2003-464",
+      "court": "Court of Appeal of Beirut",
+      "date": "2003-04-03",
+      "case_number": "Decision 464/2003",
+      "title": "Separability of Arbitration Agreement from Main Contract",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal affirmed that an arbitration agreement is legally independent and separable from the underlying contract in which it is contained. This means the invalidity, termination, or rescission of the main contract does not automatically render the arbitration clause null and void. The Court also held that parties may appoint a legal entity (as opposed to an individual) to serve in the role of appointing arbitrators.",
+      "legal_principles": [
+        "Arbitration agreement is independent and separable from the main contract",
+        "Invalidity of main contract does not affect validity of arbitration clause",
+        "Legal entities may be appointed as arbitrator-appointing authorities"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2008-767",
+      "court": "Court of Appeal of Beirut",
+      "date": "2008-05-20",
+      "case_number": "Decision 767/2008",
+      "title": "Separability Doctrine - Invalidity of Main Contract",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal confirmed the separability doctrine by ruling that the invalidity of the main contract does not entail the invalidity of the arbitration agreement it contains. This is a landmark restatement of the separability principle in Lebanese arbitration law, ensuring parties cannot avoid arbitration by challenging the underlying contract.",
+      "legal_principles": [
+        "Invalidity of main contract does not invalidate arbitration clause (separability)",
+        "Parties cannot avoid arbitration by challenging the main contract"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2000-1417",
+      "court": "Court of Appeal of Beirut",
+      "date": "2000-12-19",
+      "case_number": "Decision 1417/2000",
+      "title": "Public Policy and Arbitrability",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that Lebanese courts generally refrain from excluding a matter from arbitration solely on the basis that it involves a question of public policy. The Court rejected an expansive interpretation of Article 1037 of the Code of Obligations and Contracts as a bar to arbitration, affirming that arbitration can resolve most commercial disputes even those touching on regulatory or public interest considerations.",
+      "legal_principles": [
+        "Public policy alone does not render a dispute non-arbitrable",
+        "Narrow interpretation of non-arbitrability exceptions"
+      ],
+      "articles_cited": ["Articles 762, 765 NCPC", "Article 1037 COC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-2015-376",
+      "court": "Court of First Instance of Beirut",
+      "date": "2015-07-14",
+      "case_number": "Decision 376/74/2013",
+      "title": "Arbitrability of Commercial Agency Agreement Disputes",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance ruled that Article 5 of Decree-Law 34/67, which grants Lebanese courts jurisdiction over commercial agency disputes, confers exclusive jurisdiction over other state courts (foreign courts) but not over arbitral tribunals. Therefore, disputes arising from commercial representation agreements are arbitrable and may be resolved by arbitration, reversing prior approaches that treated such disputes as non-arbitrable.",
+      "legal_principles": [
+        "Article 5 of DL 34/67 grants exclusive jurisdiction over other state courts, not arbitral tribunals",
+        "Commercial agency disputes are arbitrable",
+        "Relevant to anti-suit injunctions in commercial representation contexts"
+      ],
+      "articles_cited": ["Article 5 of Decree-Law 34/67"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2004-9CH",
+      "court": "Court of Appeal of Beirut, 9th Chamber",
+      "date": "2004-10-07",
+      "case_number": "Published: Al Adl Review 2005, Vol. 3, p. 540",
+      "title": "Arbitration Clause Null in Agency Agreement - Pre-Dispute",
+      "category": "commercial",
+      "summary": "The 9th Chamber of the Beirut Court of Appeal ruled that an arbitration clause in a commercial agency agreement is null and void under Article 5 of Decree-Law No. 34/67, which was interpreted to render all such disputes non-arbitrable. The Court held that the 1958 New York Convention only applies to disputes capable of arbitration under the lex fori, and since Lebanese law excluded commercial agency disputes under Article 5, the clause was invalid and the court retained jurisdiction.",
+      "legal_principles": [
+        "Pre-dispute arbitration clause in agency agreement is null and void",
+        "Article 5 of DL 34/67 rendered agency disputes non-arbitrable (pre-2015 interpretation)",
+        "New York Convention limited to disputes arbitrable under the law of the seised court"
+      ],
+      "articles_cited": ["Article 5 of Decree-Law 34 of August 5, 1967", "1958 New York Convention"],
+      "source_url": "https://www.idiproject.com/news/decisions-two-lebanese-courts-arbitrability-disputes-arised-commercial-agency-agreements/"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2005-4",
+      "court": "Lebanese Court of Cassation, 5th Chamber",
+      "date": "2005-01-11",
+      "case_number": "Decision No. 4/2005",
+      "title": "Validity of Post-Dispute Arbitration Agreement in Agency Context",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation drew a critical distinction between an arbitration clause (signed before or during agency agreement) and an arbitration agreement (concluded after the dispute arises). It ruled that while a pre-dispute arbitration clause in a commercial agency contract is void under Article 5 of DL 34/67, a post-dispute arbitration agreement is valid. After the dispute arises, the Lebanese representative is no longer in a subordinate position and can freely waive the statutory protections of Article 5.",
+      "legal_principles": [
+        "Post-dispute arbitration agreement in agency context is valid",
+        "Pre-dispute arbitration clause in agency agreement remains void",
+        "After dispute arises, representative is free to agree to arbitration",
+        "Protective purpose of Article 5 DL 34/67 no longer applies once dispute has arisen"
+      ],
+      "articles_cited": ["Article 5 of Decree-Law 34 of August 5, 1967"],
+      "source_url": "https://www.idiproject.com/news/decisions-two-lebanese-courts-arbitrability-disputes-arised-commercial-agency-agreements/"
+    },
+    {
+      "case_id": "LB-CASS-CIV-2009-MH",
+      "court": "Lebanese Court of Cassation",
+      "date": "2009-06-11",
+      "case_number": "Decision of 11 June 2009 (exact number unspecified)",
+      "title": "Moral Damages Available to Companies in Contract",
+      "category": "civil",
+      "summary": "The Lebanese Court of Cassation considered whether companies can recover moral harm damages in a contractual context. The case arose from a construction supply contract where defective cement caused the claimant company to face difficulties with third parties. The Court upheld the Court of Appeal's award of moral damages to the claimant company, ruling that compensation for moral harm is available in the contractual context (not only in tort) and that a legal person (company) can suffer and recover moral harm. Quantification of moral harm is within the lower court's sole discretion. The Court of Appeal had awarded USD 22,000.",
+      "legal_principles": [
+        "Moral harm compensation is available in contractual context, not only in tort",
+        "A company (legal person) may suffer and recover moral harm",
+        "Quantification of moral harm is within lower court's sole discretion",
+        "No legal basis to prevent moral damages from being awarded to companies"
+      ],
+      "articles_cited": ["Article 263 Code of Obligations and Contracts (COC)", "Article 134 COC"],
+      "source_url": "https://www.cov.com/-/media/files/corporate/publications/2021/09/moral-harm-in-the-middle-east-charting-new-territory-for-commercial-arbitration.pdf"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2013-9-51",
+      "court": "Court of First Instance of Beirut",
+      "date": "2013-02-13",
+      "case_number": "Decision 9/51",
+      "title": "Insolvency Does Not Nullify Arbitration Agreement",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance held that a company's insolvency or entry into liquidation does not render its arbitration agreements null and void. The liquidator is bound to enforce outstanding arbitration agreements. The Court also confirmed that the absence of an express provision specifying the number of arbitrators in an arbitration agreement does not invalidate that agreement.",
+      "legal_principles": [
+        "Insolvency does not nullify pre-existing arbitration agreements",
+        "Liquidator must enforce arbitration agreements",
+        "Absence of express arbitrator number does not nullify agreement"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-2013-2-44",
+      "court": "Court of First Instance of Beirut",
+      "date": "2013-01-14",
+      "case_number": "Decision 2/44",
+      "title": "Non-Signatory Bound by Arbitration Agreement - Negotiation/Implementation Test",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance held that a party who did not sign an arbitration agreement may nonetheless be bound by it if that party participated in the negotiation or implementation of the underlying agreement. This extends the reach of arbitration clauses to parties who are functionally part of the contractual relationship even if not formal signatories.",
+      "legal_principles": [
+        "Participation in negotiation or implementation of agreement can bind non-signatories",
+        "Non-signatory test: substantive participation, not just formal signature"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2003-1404",
+      "court": "Court of Appeal of Beirut",
+      "date": "2003-10-09",
+      "case_number": "Decision 1404/2003",
+      "title": "Confidentiality of Arbitral Proceedings and Awards",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal confirmed that arbitral proceedings and awards are confidential by nature, unlike public court judgments. The private nature of arbitration, combined with Article 553 NCPC and Article 788 NCPC, ensures that deliberations are secret and awards are not subject to the general principle of public access to justice that applies in state court proceedings.",
+      "legal_principles": [
+        "Arbitral proceedings and awards are confidential",
+        "Confidentiality distinguishes arbitration from public court process",
+        "Deliberations of arbitral tribunals are secret"
+      ],
+      "articles_cited": ["Article 553 NCPC", "Article 788 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2014-890",
+      "court": "Court of Appeal of Beirut",
+      "date": "2014-06-18",
+      "case_number": "Decision 890/2014",
+      "title": "No Review of Award Grounds in Set-Aside Proceedings",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal reaffirmed the principle that courts reviewing applications to set aside arbitral awards may not review the grounds, reasoning, or legal compliance of the award. The review is strictly limited to jurisdictional issues and procedural public policy, not the substantive correctness of the arbitral decision.",
+      "legal_principles": [
+        "No review of award grounds or legal compliance in set-aside proceedings",
+        "Set-aside limited to jurisdictional and procedural public policy issues"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2001-1778",
+      "court": "Court of Appeal of Beirut",
+      "date": "2001-12-10",
+      "case_number": "Decision 1778/2001",
+      "title": "Domestic NCPC Challenge Rules Applied to International Ad Hoc Arbitration",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal ruled that the domestic NCPC procedural rules for challenging arbitrators apply to international ad hoc arbitration proceedings seated in Lebanon. The Court rejected arguments that international arbitration should follow different challenge procedures, applying the same standards for impartiality and independence that apply in domestic cases.",
+      "legal_principles": [
+        "Domestic NCPC challenge rules apply to international ad hoc arbitration in Lebanon",
+        "Same impartiality and independence standards apply regardless of international or domestic nature"
+      ],
+      "articles_cited": ["Articles 770, 787(2) NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-1973-16",
+      "court": "Lebanese Court of Cassation",
+      "date": "1973-02-22",
+      "case_number": "Decision No. 16",
+      "title": "Freedom to Determine Interest Rate in Commercial Matters",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation established early precedent that in commercial matters, parties are free to determine the interest rate applicable to their contractual relationship by agreement. There is no legal cap on interest rates in commercial transactions, and courts cannot modify interest rates agreed upon by sophisticated commercial parties.",
+      "legal_principles": [
+        "Commercial parties may freely determine interest rates in their agreements",
+        "No statutory cap on interest rates in commercial matters"
+      ],
+      "articles_cited": [],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-COA-COMM-2010-294",
+      "court": "Court of Appeal of Beirut, First Chamber",
+      "date": "2010-07-21",
+      "case_number": "Decision No. 294/2009",
+      "title": "Extension of Arbitration Clause to Third Party via Economic Unity",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal (First Chamber) extended the binding effect of an arbitration clause to a third party based on the concept of 'economic unity' or a single economic operation ('opération économique unique'). Even though the third party had not signed the main agreement containing the arbitration clause, the economic unity linking the chain of contracts rendered the arbitration clause applicable to it.",
+      "legal_principles": [
+        "Arbitration clause may extend to third party via economic unity principle",
+        "Single economic operation can bind non-signatories to arbitration"
+      ],
+      "articles_cited": [],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-COA-COMM-2009-1100",
+      "court": "Court of Appeal of Beirut",
+      "date": "2009-07-30",
+      "case_number": "Decision 1100/2009",
+      "title": "No Concurrent Jurisdiction for Interim Payments in Arbitration",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that courts do not have concurrent jurisdiction with arbitral tribunals for interim payment orders that would involve examining the merits of the dispute. Courts may assist with enforcement-type interim measures pre-tribunal formation, but provisional payment requests that require substantive assessment fall within the exclusive competence of the arbitral tribunal.",
+      "legal_principles": [
+        "No concurrent court jurisdiction for interim payments requiring merits analysis",
+        "Courts may assist with enforcement-type interim measures pre-tribunal",
+        "Substantive interim relief falls within arbitral tribunal's domain"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2012-832",
+      "court": "Court of Appeal of Beirut",
+      "date": "2012-05-16",
+      "case_number": "Decision 832/2012",
+      "title": "Exequatur for Even-Numbered Arbitral Tribunal Awards",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal granted enforcement (exequatur) to an arbitral award issued by an even-numbered tribunal in an international arbitration. Under the domestic NCPC rules for domestic arbitration, odd-numbered tribunals are standard, but the Court confirmed that for international arbitration, even-numbered panels are permissible and their awards can be enforced.",
+      "legal_principles": [
+        "Even-numbered arbitral tribunals are permissible in international arbitration",
+        "Awards from even-numbered tribunals are enforceable in Lebanon"
+      ],
+      "articles_cited": ["Article 810 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2018-41",
+      "court": "Court of Appeal of Beirut",
+      "date": "2018-01-10",
+      "case_number": "Decision no. 41/2018",
+      "title": "State-Owned Commercial Banks Not Immune from Execution",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that a state-owned or state-related entity (including an Iraqi bank with state interference) that conducts commercial operations subject to private law cannot claim immunity from execution when a judgment or arbitral award is entered against it. The court distinguished between governmental functions (which may attract immunity) and commercial activities (which do not).",
+      "legal_principles": [
+        "State-related entities conducting commercial operations cannot claim immunity from execution",
+        "Commercial activities are subject to private law enforcement",
+        "State interference does not transform commercial entity into immune state actor"
+      ],
+      "articles_cited": ["Article 860 LCCP"],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-STL-2020-AYYASH",
+      "court": "Special Tribunal for Lebanon, Trial Chamber",
+      "date": "2020-08-18",
+      "case_number": "STL-11-01/T/TC",
+      "title": "Prosecutor v. Ayyash et al. - Hariri Assassination Verdict",
+      "category": "criminal",
+      "summary": "The Special Tribunal for Lebanon Trial Chamber issued its long-awaited judgment in the assassination of former Lebanese Prime Minister Rafiq Hariri and 21 others on 14 February 2005. The Trial Chamber, comprising Judge David Re (Presiding), Judge Janet Nosworthy, and Lebanese Judge Micheline Braidy, found Salim Jamil Ayyash guilty beyond reasonable doubt on all five counts: conspiracy to commit a terrorist act, committing a terrorist act by explosive device, and three counts of intentional homicide/attempted homicide. Ayyash was convicted in absentia, primarily on circumstantial evidence from mobile phone records linking him to surveillance and coordination. The three co-accused (Hassan Habib Merhi, Hussein Hassan Oneissi, and Assad Hassan Sabra) were acquitted. On 11 December 2020, the sentencing chamber imposed five concurrent life sentences on Ayyash.",
+      "legal_principles": [
+        "Conspiracy to commit terrorist act proven through mobile phone circumstantial evidence",
+        "In absentia trials permissible when accused has absconded (Article 22 STL Statute)",
+        "Lebanese criminal law applied with international law interpretive assistance",
+        "No direct evidence required for conviction if circumstantial evidence is compelling"
+      ],
+      "articles_cited": ["Articles 314, 315, 316 Lebanese Criminal Code (terrorism)", "Article 22 STL Statute (in absentia trials)", "Article 3 STL Statute (modes of liability)"],
+      "source_url": "https://en.wikipedia.org/wiki/Special_Tribunal_for_Lebanon"
+    },
+    {
+      "case_id": "LB-STL-2011-APPEALS",
+      "court": "Special Tribunal for Lebanon, Appeals Chamber",
+      "date": "2011-02-16",
+      "case_number": "STL-11-01/I/AC/R176bis",
+      "title": "Landmark Ruling on Definition of Terrorism and Modes of Participation",
+      "category": "criminal",
+      "summary": "In a landmark pre-trial decision, the STL Appeals Chamber (presided by Judge Antonio Cassese) issued groundbreaking rulings on the definition of terrorism under customary international law and modes of criminal participation. The Chamber held that terrorism requires: (i) commission of a criminal act or threat thereof; (ii) intent to spread fear or coerce an authority; and (iii) a transnational element. The ruling established that attacks using ordinary firearms can constitute terrorism if they meet these criteria, contrary to prior Lebanese case law. The Chamber adopted Joint Criminal Enterprise I and II as modes of liability for terrorism but rejected JCE III (recklessness) and ICC 'perpetration by means' as incompatible with terrorism's specific intent requirement, preferring aiding and abetting instead.",
+      "legal_principles": [
+        "Customary international law definition of terrorism: criminal act + intent to spread fear or coerce + transnational element",
+        "Ordinary firearms attacks can constitute terrorism if elements met",
+        "JCE I and II applicable to terrorism; JCE III incompatible with specific intent requirement",
+        "States have duty under customary law to prosecute terrorism",
+        "Lebanese terrorism law to be read in light of international treaty and customary law obligations"
+      ],
+      "articles_cited": ["Article 3 STL Statute (modes of liability)", "Lebanese Penal Code Articles 314-316 (terrorism)", "UN Security Council Resolution 1757 (2007)"],
+      "source_url": "https://www.asil.org/insights/volume/15/issue/6/special-tribunal-lebanon-issues-landmark-ruling-definition-terrorism-and"
+    },
+    {
+      "case_id": "LB-STL-2012-ABSENTIA",
+      "court": "Special Tribunal for Lebanon, Trial Chamber",
+      "date": "2012-02-01",
+      "case_number": "STL-11-01/I/TC",
+      "title": "Decision to Hold Trial in Absentia",
+      "category": "criminal",
+      "summary": "The STL Trial Chamber authorized proceedings in absentia against all four accused (Salim Jamil Ayyash, Mustafa Amine Badreddine, Hussein Hassan Oneissi, and Assad Hassan Sabra) after finding that all reasonable steps had been taken to secure their appearance, that they had been informed of charges, and that they had absconded or could not be found. The decision established procedural standards for in absentia trials at the STL.",
+      "legal_principles": [
+        "In absentia trial permissible when reasonable steps taken to secure appearance",
+        "Accused must be informed of charges before trial in absentia proceeds",
+        "Absconding satisfies conditions for Rule 106(A)(iii) proceedings"
+      ],
+      "articles_cited": ["Article 22 STL Statute", "Rule 106 STL Rules of Procedure and Evidence"],
+      "source_url": "https://www.internationalcrimesdatabase.org/Case/3310/Ayyash-et-al/"
+    },
+    {
+      "case_id": "LB-CONST-2018-2",
+      "court": "Lebanese Constitutional Council",
+      "date": "2018-05-14",
+      "case_number": "Decision No. 2/2018",
+      "title": "Annulment of Seven Articles of 2018 Budget Law",
+      "category": "constitutional",
+      "summary": "The Lebanese Constitutional Council issued Decision No. 2/2018 annulling seven controversial articles of the 2018 Budget Law No. 79 of 18 April 2018. The decision addressed constitutional provisions concerning taxation, public spending, and legislative procedure, finding that certain budget provisions exceeded the legislature's constitutional authority or violated constitutional principles of equality and legality.",
+      "legal_principles": [
+        "Constitutional limits on legislative budget authority",
+        "Equality principle in taxation",
+        "Legislature must respect constitutional constraints in annual budget laws"
+      ],
+      "articles_cited": ["Lebanese Constitution (unspecified articles)", "Budget Law No. 79 of 2018"],
+      "source_url": "https://www.aldic.net/en/case-law/"
+    },
+    {
+      "case_id": "LB-CONST-2026-JUD",
+      "court": "Lebanese Constitutional Council",
+      "date": "2026-02-25",
+      "case_number": "Decision annulling Law No. 36",
+      "title": "Annulment of Judicial Organization Code (Law No. 36)",
+      "category": "constitutional",
+      "summary": "The Lebanese Constitutional Council unanimously annulled Law No. 36, which introduced the new Judicial Organization Code, on the ground that the legislature failed to consult the Higher Judicial Council before voting on the law. This consultation is mandatory under Article 20 of the Lebanese Constitution, which guarantees judicial independence, though the Higher Judicial Council's opinion is advisory rather than binding. The Constitutional Council consolidated appeals from independent MPs and Free Patriotic Movement lawmakers. The law had been passed as part of IMF reform requirements and had been returned by President Joseph Aoun for a second reading before being readopted in December 2025.",
+      "legal_principles": [
+        "Mandatory consultation with Higher Judicial Council before legislation affecting judiciary",
+        "Failure to consult Higher Judicial Council renders law unconstitutional",
+        "Judicial independence principle (Article 20 Constitution) limits legislative power",
+        "Consultation requirement is mandatory even though Higher Judicial Council's opinion is advisory"
+      ],
+      "articles_cited": ["Article 20 Lebanese Constitution"],
+      "source_url": "https://today.lorientlejour.com/article/1496016/constitutional-council-overturns-law-on-judicial-independence.html"
+    },
+    {
+      "case_id": "LB-CONST-2025-16",
+      "court": "Lebanese Constitutional Council",
+      "date": "2025-10-03",
+      "case_number": "Decision No. 16/2025",
+      "title": "Partial Annulment of Bank Resolution and Restructuring Law No. 23/2025",
+      "category": "constitutional",
+      "summary": "The Lebanese Constitutional Council partially annulled Law No. 23/2025 on banking reform and restructuring following an appeal by ten MPs. The Council upheld core provisions but annulled: (1) Article 16 penultimate paragraph allowing the Higher Banking Authority to treat creditors of the same rank unequally without their consent, which violated Article 7 (equality before the law); (2) Article 29 paragraph 2 requiring automatic administrative transfer of pending court cases to a special court, which constituted interference in judicial authority; (3) a phrase in Article 31 limiting the scope of appeals to financial compensation only; and (4) the date in Article 1 setting the 'new deposits' cutoff as October 30, 2019, which was inconsistent with October 17, 2019 used elsewhere in the law. The Council confirmed October 17, 2019 as the consistent benchmark date.",
+      "legal_principles": [
+        "Equality before the law (Article 7 Constitution) prohibits unequal treatment of creditors of same rank",
+        "Automatic transfer of pending cases to new court constitutes impermissible interference in judicial authority",
+        "Legislative consistency required - contradictory dates in same law are unconstitutional",
+        "Bank restructuring law and Financial Gap Law are complementary and interdependent"
+      ],
+      "articles_cited": ["Article 7 Lebanese Constitution (equality)", "Law No. 23/2025 Articles 1, 16, 29, 31, 37", "Law No. 110 of 1991"],
+      "source_url": "https://thisisbeirut.com.lb/articles/1326695/constitutional-council-upholds-banking-authority-and-ties-bank-reform-law-to-gap-law"
+    },
+    {
+      "case_id": "LB-CONST-2025-328",
+      "court": "Lebanese Constitutional Council",
+      "date": "2025-01-16",
+      "case_number": "Decision annulling Article 1(2) of Law No. 328/2024",
+      "title": "Annulment of Suspension of Judicial Deadlines Provision",
+      "category": "constitutional",
+      "summary": "The Lebanese Constitutional Council annulled Article 1(2) of Law No. 328 which had suspended judicial deadlines before Lebanese courts for the period from 31 March 2022 to 30 June 2024. The Council found the provision unconstitutional for violating parties' rights to access justice and the principle of legal certainty in procedural law.",
+      "legal_principles": [
+        "Right to access justice cannot be indefinitely suspended by legislation",
+        "Suspension of judicial deadlines for extended periods is unconstitutional",
+        "Procedural legal certainty is constitutionally guaranteed"
+      ],
+      "articles_cited": ["Law No. 328/2024 Article 1(2)"],
+      "source_url": "https://chambers.com/content/item/6191"
+    },
+    {
+      "case_id": "LB-COUNCIL-STATE-2020-473",
+      "court": "Lebanese Council of State (Shura Council)",
+      "date": "2020-06-16",
+      "case_number": "Decision No. 473/2019-2020",
+      "title": "Non-Liability to VAT of Securitization Activities",
+      "category": "administrative",
+      "summary": "The Lebanese Council of State issued a landmark decision ruling that securitization activities and transactions are not liable to Value Added Tax (VAT) in Lebanon. The decision addressed the tax treatment of securitization mechanisms, clarifying that such financial transactions fall outside the scope of VAT legislation, providing important guidance for financial institutions and securitization vehicles operating in Lebanon.",
+      "legal_principles": [
+        "Securitization activities are not subject to VAT",
+        "Tax liability requires clear statutory basis",
+        "Financial engineering transactions treated differently from ordinary commercial transactions for VAT purposes"
+      ],
+      "articles_cited": ["Lebanese VAT Law (Law No. 379 of 2001)"],
+      "source_url": "https://www.aldic.net/en/case-law/"
+    },
+    {
+      "case_id": "LB-COUNCIL-STATE-2017-494",
+      "court": "Lebanese Council of State (Shura Council)",
+      "date": "2017-03-01",
+      "case_number": "Decision No. 494/2017-2018",
+      "title": "Inadmissibility of Claims Against Exchange of Tax Information Decisions",
+      "category": "administrative",
+      "summary": "The Lebanese Council of State ruled that any claim challenging its own decisions on the exchange of tax information between countries is inadmissible. This decision effectively forecloses judicial challenges to the administrative process by which Lebanon exchanges tax information with foreign authorities pursuant to international agreements, protecting the automatic exchange mechanism.",
+      "legal_principles": [
+        "Administrative decisions on international tax information exchange are not challengeable before Council of State",
+        "Claims against such decisions are inadmissible",
+        "International tax cooperation decisions have administrative finality"
+      ],
+      "articles_cited": ["Lebanese Tax Information Exchange Agreements"],
+      "source_url": "https://www.aldic.net/en/case-law/"
+    },
+    {
+      "case_id": "LB-COUNCIL-STATE-2017-233",
+      "court": "Lebanese Council of State (Shura Council)",
+      "date": "2017-12-11",
+      "case_number": "Decision No. 233/2017-2018",
+      "title": "Tax Information Exchange Between Lebanon and France - Precedent Setting",
+      "category": "administrative",
+      "summary": "The Lebanese Council of State issued a precedent-setting decision on the exchange of tax information between Lebanon and France under the bilateral tax information exchange framework. The decision addressed the legal mechanisms, scope, and limits of administrative cooperation between Lebanese and French tax authorities, establishing important jurisprudence for cross-border tax transparency obligations.",
+      "legal_principles": [
+        "Bilateral tax information exchange agreements create enforceable administrative obligations",
+        "Scope and limits of tax information exchange defined by treaty terms",
+        "Administrative cooperation in tax matters governed by public international law"
+      ],
+      "articles_cited": ["Lebanon-France Tax Information Exchange Agreement", "Lebanese Tax Procedure Code"],
+      "source_url": "https://www.aldic.net/en/case-law/"
+    },
+    {
+      "case_id": "LB-COUNCIL-STATE-2024-ITANI",
+      "court": "Lebanese Council of State (State Shura Council)",
+      "date": "2024-12-05",
+      "case_number": "Decision of 5 December 2024 (made public 10 March 2025)",
+      "title": "Itani v. Lebanese State - State Liability for Torture and Failure to Investigate",
+      "category": "administrative",
+      "summary": "In a landmark administrative ruling, the Lebanese State Shura Council (Lebanon's highest administrative court) found that the Lebanese State failed in its obligations under the 2017 Anti-Torture Law to prohibit, prevent, and adequately investigate torture allegations made by actor Ziad Itani. Itani had been arrested on fabricated spying charges in November 2017, subjected to torture and solitary confinement, denied access to a lawyer, and acquitted by military court in March 2018. The Council found the State failed to protect the presumption of innocence, failed to prosecute torturers (who were instead promoted), and failed to conduct required investigations. It ordered the State to pay Itani 480 million Lebanese Liras (approximately USD 5,360) in reparations. This was the first judicial application of Lebanon's 2017 anti-torture law by the administrative judiciary.",
+      "legal_principles": [
+        "State has affirmative duty to prohibit, prevent, and investigate torture",
+        "Failure to prosecute perpetrators of torture constitutes state liability",
+        "Presumption of innocence must be protected by authorities, not undermined by press disclosures",
+        "Anti-torture law creates enforceable administrative duties on the State",
+        "State accountability for systemic torture impunity"
+      ],
+      "articles_cited": ["Anti-Torture Law No. 65/2017 (Lebanon, October 2017)", "Lebanese Constitution"],
+      "source_url": "https://www.amnesty.org/en/latest/news/2025/03/lebanon-landmark-shura-council-decision-must-mark-a-turning-point-in-ending-impunity-for-torture/"
+    },
+    {
+      "case_id": "LB-PUBCRT-2019-NIDAA",
+      "court": "Publications Court of Appeal, Beirut",
+      "date": "2019-11-21",
+      "case_number": "Case before Publications Court of Appeal (number unspecified)",
+      "title": "Nidaa Al Watan Newspaper v. Public Prosecutor - Press Freedom and Presidential Criticism",
+      "category": "criminal",
+      "summary": "The Beirut Publications Court of Appeal, composed of President Judge Hiba Abdallah and Consultants Judges Nadia Jadayel and Manal Fares, revoked proceedings against Nidaa Al Watan Newspaper arising from a 12 September 2019 headline 'New Ambassadors in Baabda...Welcome to the Republic of Khamenei,' which criticized Hezbollah's influence over the Lebanese presidency. The Prosecutor charged the newspaper with libel, slander, and degrading the dignity of the Lebanese President under Legislative Decree 104/1977. The Court found no defamation, ruling the article constituted permissible political criticism. It prioritized press freedom and public interest over presidential privilege, citing Lebanon's Constitution, the Universal Declaration of Human Rights, and European Court of Human Rights jurisprudence. The ruling significantly expanded the scope of permissible press criticism of public officials in Lebanon.",
+      "legal_principles": [
+        "Political criticism of public officials, including the President, is permissible even if severe",
+        "Defamation requires factual insults; opinion-based criticism on public matters is not libel",
+        "Press freedom is fundamental to democracy and protected by Lebanese Constitution",
+        "Presidential privilege does not immunize against job-related public interest criticism",
+        "Public interest overrides individual reputation in political debate context"
+      ],
+      "articles_cited": ["Legislative Decree No. 104/1977 Articles 23, 26", "Lebanese Penal Code Articles 210, 387", "Lebanese Constitution Preamble (B), Article 13", "UDHR Article 19", "ECHR Article 10"],
+      "source_url": "https://globalfreedomofexpression.columbia.edu/cases/nidaa-al-watan-newspaper-co-v-public-prosecutor/"
+    },
+    {
+      "case_id": "LB-COA-EXPR-2023-BBA",
+      "court": "Beirut Court of Appeals",
+      "date": "2023-05-01",
+      "case_number": "Decision dismissing petitions (exact number unspecified)",
+      "title": "Lawyers' Code of Ethics - Prior Permission for Media Appearances",
+      "category": "civil",
+      "summary": "The Beirut Court of Appeals dismissed petitions by 13 lawyers challenging the Beirut Bar Association's (BBA) March 2023 amendments to the code of ethics, which required lawyers to obtain prior permission from the BBA President before engaging in public or media appearances and banned criticism of BBA leadership. The petitioners argued the BBA lacked authority to restrict freedom of expression (reserved for the legislature), that the amendments violated the UN Basic Principles on the Role of Lawyers, and breached proportionality. The Court's dismissal was widely criticized by human rights organizations as a setback for freedom of expression.",
+      "legal_principles": [
+        "Court upheld BBA authority to impose prior permission requirements on lawyers' public speech",
+        "Professional regulatory bodies may impose media restrictions on members",
+        "Decision criticized as failing to apply proportionality and necessity tests"
+      ],
+      "articles_cited": ["Lebanese Bar Association Code of Ethics (2023 amendments)", "Lebanese Constitution Article 13"],
+      "source_url": "https://www.amnesty.org/en/latest/news/2023/05/lebanon-court-decision-is-a-blow-to-freedom-of-expression-and-independence-of-lawyers/"
+    },
+    {
+      "case_id": "LB-MILIT-2024-SAUD",
+      "court": "Lebanese Military Court",
+      "date": "2024-11-01",
+      "case_number": "Military court case (number unspecified)",
+      "title": "State Security Officers - Death in Custody of Syrian Refugee (Bashar Abd Saud)",
+      "category": "criminal",
+      "summary": "The Lebanese Military Court sentenced five State Security officers to time already served after reducing the charges against them from felony (under the 2017 Anti-Torture Law) to misdemeanor. The officers had been indicted on 29 November 2022 for the torture that led to the death in custody of Syrian refugee Bashar Abd Saud on 5 November 2024. The court dropped Anti-Torture Law charges and substituted them with Article 166 of the Code of Military Justice (violating regulations/orders). Amnesty International condemned the decision as a 'missed opportunity' that perpetuated impunity for torture-related deaths in custody.",
+      "legal_principles": [
+        "Court downgraded torture charges to violation of military regulations",
+        "Anti-torture law charges dropped in favor of lesser military code charges",
+        "Time-served sentence for alleged torture leading to death in custody"
+      ],
+      "articles_cited": ["Anti-Torture Law No. 65/2017", "Article 166 Code of Military Justice"],
+      "source_url": "https://www.amnesty.org/en/latest/news/2024/11/lebanon-missed-opportunity-for-justice-in-landmark-case-over-torture-and-death-in-custody-of-syrian-refugee/"
+    },
+    {
+      "case_id": "LB-CFI-BANK-2024-BANKRUPT",
+      "court": "Beirut Court of First Instance (Insolvency/Bankruptcy Chamber)",
+      "date": "2024-01-08",
+      "case_number": "Insolvency case (number unspecified)",
+      "title": "Dismissal of Bankruptcy Petition Against Lebanese Bank During Financial Crisis",
+      "category": "banking",
+      "summary": "The Beirut Court of First Instance dismissed a bankruptcy petition filed by a depositor against a Lebanese bank for failure to pay deposits. The Court ruled that standard bank insolvency provisions do not apply when the bank's cessation of payment results from a systemic 'comprehensive crisis' rather than an individual bank failure. Since the Banque du Liban (BDL) had failed to pay its obligations to commercial banks (despite the State's responsibility under Article 113 of the Monetary and Credit Law), the Court found that 'what applies to one bank applies to all banks.' The decision was criticized by The Legal Agenda for shielding banks from accountability and ignoring individual bank responsibility for investing deposits imprudently.",
+      "legal_principles": [
+        "Standard bankruptcy provisions inapplicable during systemic banking crisis",
+        "Collective/regulatory crisis distinguishes from individual insolvency scenario",
+        "BDL failure to repay creates force majeure-type defense for commercial banks",
+        "State responsible under Article 113 Monetary and Credit Law for BDL losses"
+      ],
+      "articles_cited": ["Article 113 Monetary and Credit Law", "Lebanese Commercial Code (bankruptcy provisions)"],
+      "source_url": "https://compliancealert.org/view-blog/132/"
+    },
+    {
+      "case_id": "LB-UMJ-BANK-BYBLOS",
+      "court": "Urgent Matters Judge (Judge des Référés), Beirut",
+      "date": "2020",
+      "case_number": "Decision (exact number unspecified)",
+      "title": "Byblos Bank Ordered to Transfer USD Deposit Overseas",
+      "category": "banking",
+      "summary": "The Beirut Urgent Matters Judge issued the most notable early ruling in Lebanon's banking crisis, ordering Byblos Bank SAL to transfer USD 1,138,085 to the plaintiff depositor's account at HSBC Bank in Dubai, subject to a coercive fine of 10 million Lebanese Pounds per day of delay. Byblos Bank had refused, citing BDL Circular of 4/12/2019 and the Association of Banks' circular imposing de facto capital controls. This decision was significant as one of the first pro-depositor rulings against Lebanese banks, though higher courts later adopted more restrictive approaches.",
+      "legal_principles": [
+        "Bank's contractual obligation to execute international transfers is enforceable by specific performance",
+        "BDL circulars imposing capital controls do not eliminate contractual obligation to depositors",
+        "Coercive fines (astreinte) available to enforce banking transfer obligations"
+      ],
+      "articles_cited": ["Lebanese Code of Civil Procedure (urgent matters jurisdiction)", "Monetary and Credit Law"],
+      "source_url": "https://compliancealert.org/view-blog/132/"
+    },
+    {
+      "case_id": "LB-CASS-BANK-RECENT",
+      "court": "Lebanese Court of Cassation",
+      "date": "2023",
+      "case_number": "Recent decisions (specific numbers unspecified)",
+      "title": "Court of Cassation Restricts Depositors' Summary Proceedings Rights",
+      "category": "banking",
+      "summary": "The Lebanese Court of Cassation issued a series of rulings reversing the earlier pro-depositor trend in summary proceedings (référés). While lower judges had ordered banks to transfer funds overseas at depositors' requests, the Court of Cassation adopted a more restrictive stance, limiting the scope of relief available to depositors in urgent/summary proceedings. This shift forced depositors to seek alternative remedies including ex parte provisional seizures or merits-based actions.",
+      "legal_principles": [
+        "Summary proceedings have limited scope for ordering international fund transfers",
+        "Depositors must pursue merits actions rather than urgent proceedings for banking transfers",
+        "Court of Cassation set limits on lower courts' expansive pro-depositor interpretations"
+      ],
+      "articles_cited": ["Lebanese Code of Civil Procedure (summary proceedings provisions)"],
+      "source_url": "https://chambers.com/content/item/6191"
+    },
+    {
+      "case_id": "LB-COUNCIL-STATE-2025-CIRC151-165",
+      "court": "Lebanese Council of State (State Shura Council)",
+      "date": "2025",
+      "case_number": "Petitions against Circulars 151 and 165 (pending/decided)",
+      "title": "State Intervention Supports Annulment of BDL Circulars 151 and 165",
+      "category": "administrative",
+      "summary": "The Lebanese State filed motions before the State Shura Council (through Judge Helena Iskandar, Head of the Litigation Department at the Ministry of Justice) supporting petitions to annul Banque du Liban Circulars No. 151 and No. 165. The State's position aligned with the petitioners' arguments that both circulars violated Lebanon's Code of Money and Credit. The conclusion was that the Council should annul both circulars and related actions to protect depositors' funds and safeguard legal order. Circular 165 (issued 19 April 2023 by Governor Riad Salameh) regulated electronic cash settlement operations and distinguished 'fresh' funds from pre-crisis deposits.",
+      "legal_principles": [
+        "BDL circulars must comply with the Code of Money and Credit",
+        "Administrative circulars that violate statutory law are subject to annulment",
+        "State may intervene to support annulment of its own administrative bodies' decisions"
+      ],
+      "articles_cited": ["Code of Money and Credit (Lebanon)", "BDL Circular No. 151", "BDL Circular No. 165"],
+      "source_url": "https://thisisbeirut.com.lb/articles/1307234/the-fate-of-circular-165"
+    },
+    {
+      "case_id": "LB-CIVCO-FAM-2025-ZOOM",
+      "court": "Beirut Civil Court",
+      "date": "2025-05-22",
+      "case_number": "Decision of 22 May 2025 (number unspecified)",
+      "title": "Recognition of Remote Civil Marriage Conducted via Zoom",
+      "category": "family",
+      "summary": "In a groundbreaking ruling, the Beirut Civil Court recognized the validity of a civil marriage conducted remotely via Zoom between two Lebanese citizens, officiated by a civil registrar in the State of Utah, USA. This is the first Lebanese court decision to validate a civil marriage contracted without religious oversight, conducted remotely, and outside Lebanese territory. The Court applied U.S. law and private international law principles, including freedom of conscience and the right to marry. The ruling may open space for civil marriage in Lebanon and is relevant to ongoing parliamentary debates about a unified personal status code.",
+      "legal_principles": [
+        "Civil marriage conducted remotely by foreign civil registrar may be recognized in Lebanon",
+        "Private international law principles allow recognition of foreign civil marriages",
+        "Freedom of conscience and right to marry support recognition of civil unions",
+        "Lebanese courts may apply foreign law to validate marriages outside religious framework"
+      ],
+      "articles_cited": ["U.S. Utah State Marriage Law", "Lebanese Private International Law principles", "Lebanese Constitution Article 9 (freedom of religion/conscience)"],
+      "source_url": "https://euromedrights.org/publication/a-major-step-forward-for-civil-marriage-in-lebanon-euromed-rights-publishes-a-fact-sheet-on-a-landmark-court-decision/"
+    },
+    {
+      "case_id": "LB-CASS-FAM-2009-CUSTODY",
+      "court": "Lebanese Court of Cassation",
+      "date": "2009",
+      "case_number": "Decision of 2009 (number unspecified)",
+      "title": "Civil Courts Have Substantive Jurisdiction Over Child Welfare Despite Religious Personal Status Law",
+      "category": "family",
+      "summary": "The Lebanese Court of Cassation interpreted the 2002 Law on Child Protection to grant civil courts jurisdiction not only over procedural matters in child custody disputes, but also over substantive issues where religious court judgments conflict with child welfare and public order principles. The Court ruled that civil courts may refuse to give civil recognition and force of law to any religious personal status judgment that contravenes the basic component of public order: child welfare and protection. This was the first time the Court of Cassation granted civil courts substantive (not merely procedural) jurisdiction over personal status matters.",
+      "legal_principles": [
+        "Civil courts may refuse recognition of religious court judgments violating child welfare",
+        "Child welfare is a component of public order overriding religious personal status law",
+        "2002 Child Protection Law grants civil courts substantive as well as procedural jurisdiction"
+      ],
+      "articles_cited": ["Lebanese Law on Child Protection (2002)"],
+      "source_url": "https://www.hrw.org/report/2015/01/19/unequal-and-unprotected/womens-rights-under-lebanese-personal-status-laws"
+    },
+    {
+      "case_id": "LB-COA-COMM-2012-ARBIT",
+      "court": "Court of Appeal of Beirut",
+      "date": "2012-12-21",
+      "case_number": "Decision 1786/2011",
+      "title": "Exequatur Limited to Manifest Public Policy - No Merits Review",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that when granting exequatur (recognition and enforcement) to an arbitral award, the court's review is strictly limited to verifying manifest conformity with international public policy. No merits review of the award's factual findings, legal analysis, or procedural correctness may take place in exequatur proceedings. This decision reinforced the minimal-intervention principle in the enforcement of international arbitral awards.",
+      "legal_principles": [
+        "Exequatur review limited to manifest international public policy violation",
+        "No merits review permitted in exequatur of international arbitral awards",
+        "Strong pro-enforcement policy in Lebanon for international arbitral awards"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2010-28",
+      "court": "Court of Appeal of Mount Lebanon",
+      "date": "2010-03-04",
+      "case_number": "Decision 28/2010",
+      "title": "No Pre-Award Appeal of Arbitral Tribunal's Jurisdiction Decision",
+      "category": "commercial",
+      "summary": "The Court of Appeal of Mount Lebanon confirmed that a decision by an arbitral tribunal on its own jurisdiction cannot be challenged or appealed before a final award is issued. Following the Court of Cassation's Decision 13/2007, this ruling confirmed that Article 615 NCPC (which lists challengeable interlocutory decisions in court proceedings) must be transposed to arbitration, and jurisdictional decisions are not on that list. Challenges to jurisdiction must wait until the final award is rendered.",
+      "legal_principles": [
+        "Arbitral tribunal's jurisdiction decision not appealable before final award",
+        "Article 615 NCPC applied by analogy to arbitration proceedings",
+        "Jurisdictional challenges must be raised at annulment/enforcement stage"
+      ],
+      "articles_cited": ["Articles 615, 804 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2010-ML",
+      "court": "Court of Appeal of Mount Lebanon",
+      "date": "2010-10-19",
+      "case_number": "Decision (unspecified)",
+      "title": "Equality Principle in Multiparty Arbitration - Separate Respondents Cannot Share One Arbitrator",
+      "category": "commercial",
+      "summary": "The Court of Appeal of Mount Lebanon held that in multiparty arbitration proceedings, separate respondents with distinct legal personalities and different interests cannot be forced to share a single arbitrator between them. Such a requirement would violate the principle of equality between the parties in the appointment of arbitrators, which constitutes a matter of public policy. Each party with distinct interests has the right to participate in the constitution of the arbitral tribunal.",
+      "legal_principles": [
+        "Equality principle in arbitrator appointment is public policy",
+        "Separate respondents with distinct interests cannot be compelled to share one arbitrator",
+        "Multiparty arbitration must respect equality in tribunal constitution"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-1996-8",
+      "court": "Lebanese Court of Cassation",
+      "date": "1996-01-19",
+      "case_number": "Decision 8/2006",
+      "title": "Court Jurisdiction for Pre-Tribunal Interim Relief",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that courts have jurisdiction to grant interim relief before an arbitral tribunal has been constituted, unless the parties have agreed otherwise in their arbitration agreement. This confirms a concurrent jurisdiction framework for pre-arbitration interim measures, ensuring parties can seek urgent court protection before arbitrators can be appointed and organized.",
+      "legal_principles": [
+        "Courts have jurisdiction for interim relief before arbitral tribunal constituted",
+        "Parties may contractually limit court's interim jurisdiction",
+        "Concurrent jurisdiction framework for pre-arbitration urgent measures"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2009-454",
+      "court": "Court of Appeal of Beirut",
+      "date": "2009-03-26",
+      "case_number": "Decision 454/2009",
+      "title": "No Review of Award Grounds or Law Compliance in Annulment",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal reaffirmed that annulment proceedings do not permit a review of the grounds, reasoning, or legal compliance of an arbitral award. The court's role in annulment is strictly supervisory and procedural, not substantive. Any error in law or fact by the arbitral tribunal does not constitute a ground for annulment unless it rises to the level of a violation of public policy or breach of due process.",
+      "legal_principles": [
+        "Annulment courts cannot review grounds or law compliance of arbitral awards",
+        "Strict separation between annulment and appellate review",
+        "Legal/factual errors by arbitrators are not annulment grounds unless public policy breached"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2011-308",
+      "court": "Court of Appeal of Beirut",
+      "date": "2011-03-03",
+      "case_number": "Decision 308/2011",
+      "title": "Rare Exception - Court Reviews Law Application in Annulment",
+      "category": "commercial",
+      "summary": "In an exceptional and rarely cited decision, the Beirut Court of Appeal reviewed the arbitrator's application of law in an annulment proceeding, treating compliance with the applicable law as part of the arbitrator's mandate. This decision represents a departure from the standard no-merits-review rule and has been noted as exceptional in Lebanese arbitration jurisprudence.",
+      "legal_principles": [
+        "Exceptional case where court reviewed law application as mandate compliance issue",
+        "Departure from general no-merits-review principle in annulment",
+        "Not representative of the dominant approach in Lebanese arbitration law"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-2013-24-63",
+      "court": "Court of First Instance of Beirut",
+      "date": "2013-06-05",
+      "case_number": "Decision 24/63",
+      "title": "Invalid Term in Arbitration Agreement Does Not Nullify Entire Agreement",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance ruled that the presence of an invalid or void term in an arbitration agreement does not automatically render the entire arbitration agreement null and void. Courts should apply severance principles to preserve the valid components of the arbitration agreement, treating the invalid provision as severable. This upholds the general pro-arbitration presumption in Lebanese law.",
+      "legal_principles": [
+        "Severability applies to arbitration agreements - invalid term does not void entire agreement",
+        "Pro-arbitration presumption favors preserving valid components",
+        "Courts sever invalid provisions rather than nullifying entire arbitration agreement"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-1993-766",
+      "court": "Court of Appeal of Beirut",
+      "date": "1993-12-27",
+      "case_number": "Decision 766/93",
+      "title": "Arbitrators Must Be Impartial and Independent",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal established an early and foundational precedent that arbitrators must be impartial and independent as a condition of their appointment and throughout the arbitral proceedings. Failure to maintain these qualities provides grounds for challenge and removal. The Court applied the same standards of conduct to arbitrators as those applied to judicial officers under Lebanese procedural law.",
+      "legal_principles": [
+        "Impartiality and independence are mandatory qualities for arbitrators",
+        "Failure to maintain impartiality/independence is ground for challenge",
+        "Arbitrators held to same standard as judges in terms of conduct"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-2014-194",
+      "court": "Court of First Instance of Beirut",
+      "date": "2014-02-26",
+      "case_number": "Decision 194/2014",
+      "title": "Prima Facie Validity Review in Jurisdiction Disputes Under NYC",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance, applying Article II(3) of the New York Convention and Article 764 NCPC, ruled that when a party disputes the court's jurisdiction by invoking an arbitration agreement, the court's review is limited to a prima facie or manifest validity assessment of the agreement. The court should only decline to stay proceedings and refer parties to arbitration if the arbitration agreement is manifestly invalid, not upon a full merits analysis of the agreement's validity.",
+      "legal_principles": [
+        "Court's review of arbitration agreement validity limited to prima facie/manifest invalidity test",
+        "Article II(3) NYC requires courts to refer to arbitration unless agreement is manifestly null and void",
+        "Full merits analysis of arbitration agreement validity not appropriate at this stage"
+      ],
+      "articles_cited": ["Article II(3) New York Convention", "Article 764 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2001-492",
+      "court": "Court of Appeal of Beirut",
+      "date": "2001-03-21",
+      "case_number": "Decision 492/2001",
+      "title": "Economic Criteria Determine International Nature of Arbitration",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal established that the criteria for determining whether arbitration is international in nature are economic rather than formal or legal. An arbitration is international if the underlying transaction involves cross-border flows of goods, services, or funds. This economic test, later confirmed by the Court of Cassation in Decision 98/2006, remains the controlling standard for classifying arbitrations under the NCPC's different domestic and international arbitration regimes.",
+      "legal_principles": [
+        "Internationality of arbitration determined by economic criteria",
+        "Cross-border flow of goods, services, or funds establishes international character",
+        "Formal or national/legal criteria not determinative of international arbitration status"
+      ],
+      "articles_cited": ["Article 809 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2008-192",
+      "court": "Court of Appeal of Beirut, Third Chamber",
+      "date": "2008-02-05",
+      "case_number": "Decision No. 192/2008",
+      "title": "Extension of Arbitration to Third Party in Chain of Contracts",
+      "category": "commercial",
+      "summary": "The Third Chamber of the Beirut Court of Appeal extended an arbitration clause to a third party who was part of a chain of contracts forming a single economic operation ('opération économique unique'). The Court held that where contracts are economically linked as part of a single operation, parties to related contracts in the chain may be bound by the arbitration agreement even if they did not directly sign it.",
+      "legal_principles": [
+        "Economic unity/single economic operation extends arbitration agreement to related parties",
+        "Third parties in chain of contracts may be bound by arbitration clause",
+        "Economic linkage test for extending arbitration agreements"
+      ],
+      "articles_cited": [],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2011-1725",
+      "court": "Court of Appeal of Beirut",
+      "date": "2011-11-29",
+      "case_number": "Decision 1725/2001",
+      "title": "Interest Awards Not Reviewable in Annulment - Arbitral Tribunal Autonomy",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal confirmed that interest awards made by arbitral tribunals are not subject to review in annulment proceedings. The Court held that arbitral tribunals have autonomy in awarding interest, including at rates that may differ from the statutory legal interest rate under Lebanese law, and courts cannot second-guess these determinations in an annulment context.",
+      "legal_principles": [
+        "Interest awards by arbitral tribunals not subject to annulment review",
+        "Arbitral autonomy on interest rate determination",
+        "No review of compliance with statutory interest rate limitations in annulment"
+      ],
+      "articles_cited": ["Article 767 COC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-ML-2001-25",
+      "court": "Court of First Instance of Mount Lebanon",
+      "date": "2001-06-25",
+      "case_number": "Decision 25/2001",
+      "title": "Public Policy and Arbitrability - Mount Lebanon Confirmation",
+      "category": "commercial",
+      "summary": "The Court of First Instance of Mount Lebanon confirmed that courts should refrain from declaring matters non-arbitrable solely on the basis that they involve public policy issues. This decision reinforces the Beirut Court of Appeal's Decision 1417/2000, establishing a consistent jurisprudential line that public policy is not an automatic bar to arbitration in Lebanon.",
+      "legal_principles": [
+        "Public policy issues alone do not render disputes non-arbitrable",
+        "Consistent pro-arbitration policy across Lebanese courts",
+        "Narrow interpretation of non-arbitrability based on public policy"
+      ],
+      "articles_cited": ["Articles 762, 765 NCPC", "Article 1037 COC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2011-1786",
+      "court": "Court of Appeal of Beirut",
+      "date": "2011-12-21",
+      "case_number": "Decision 1786/2011",
+      "title": "Enforcement Limited to Manifest Public Policy - No Review on Merits",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal issued a comprehensive ruling on the standard of review in both set-aside and enforcement proceedings for international arbitral awards. The Court reaffirmed that no merits review is permitted in either context, and that exequatur proceedings are limited to verifying that the award does not manifestly violate international public policy. This decision is frequently cited as the leading authority on Lebanese enforcement standards.",
+      "legal_principles": [
+        "No merits review in set-aside or enforcement proceedings",
+        "Exequatur limited to manifest international public policy verification",
+        "Award validity not assessed on legal correctness in enforcement proceedings"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-1991-197",
+      "court": "Court of First Instance of Beirut",
+      "date": "1991-07-17",
+      "case_number": "Decision 197/3",
+      "title": "Exequatur Review - Administrative and Summary; No Merits",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance established an early precedent that the exequatur judge reviewing an arbitral award for enforcement purposes conducts only an administrative, summary review. The judge does not review the merits of the underlying dispute or the correctness of the award. This case, along with Decision 123/95 of Mount Lebanon, forms the foundation of Lebanon's pro-enforcement approach to arbitral awards.",
+      "legal_principles": [
+        "Exequatur review is administrative and summary in nature",
+        "No merits review by exequatur judge",
+        "Early foundation of Lebanon's pro-enforcement arbitration policy"
+      ],
+      "articles_cited": ["Articles 796(2), 800 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-COMM-1984-777",
+      "court": "Judge of Expedited Matters (Juge des Référés), Beirut",
+      "date": "1984-09-07",
+      "case_number": "Decision 777/84",
+      "title": "Concurrent Jurisdiction for Interim Measures - Arbitrator and Expedited Judge",
+      "category": "commercial",
+      "summary": "The Beirut Judge of Expedited Matters established that in Lebanese arbitration law, the powers of an arbitral tribunal to order interim measures are concurrent with those of the court's expedited matters judge (juge des référés). Both can be approached for urgent interim relief, and there is no exclusivity of jurisdiction in favor of either. This early decision laid the groundwork for Lebanon's dual-track approach to interim measures in arbitration.",
+      "legal_principles": [
+        "Concurrent jurisdiction: arbitral tribunal and expedited judge for interim measures",
+        "No exclusivity of jurisdiction for interim relief in favor of tribunal or court",
+        "Dual-track approach to urgent measures in arbitral proceedings"
+      ],
+      "articles_cited": ["Article 789 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2009-454-2",
+      "court": "Court of Appeal of Beirut",
+      "date": "2011-03-21",
+      "case_number": "Decision 492/2001",
+      "title": "International Arbitration Criteria - Economic Test Restatement",
+      "category": "commercial",
+      "summary": "The Court of Appeal confirmed that the economic nature of an arbitration is determined by the substance of the underlying transaction. Where the parties' relationship involves cross-border economic elements, the arbitration is classified as international under Article 809 NCPC. This decision is part of a consistent line of authority on the international/domestic classification issue.",
+      "legal_principles": [
+        "Economic substance of transaction determines international arbitration classification",
+        "Cross-border economic elements trigger international arbitration regime"
+      ],
+      "articles_cited": ["Article 809 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2002-132",
+      "court": "Lebanese Court of Cassation",
+      "date": "2002",
+      "case_number": "Decision 132/2002",
+      "title": "Arbitral Tribunal Powers to Order Specific Performance",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation confirmed that arbitral tribunals in Lebanon have broad powers to grant any remedy in resolving contractual disputes, including ordering specific performance of contractual obligations or addressing consequences of non-performance. The Lebanese Arbitration Law does not limit arbitral remedies, and courts consistently recognize arbitral tribunals' power to issue performance orders.",
+      "legal_principles": [
+        "Arbitral tribunals have unlimited remedial powers including specific performance",
+        "No restriction on types of remedies available to arbitral tribunals in Lebanon",
+        "Specific performance and non-performance consequences within arbitral jurisdiction"
+      ],
+      "articles_cited": ["Articles 762-821 NCPC (Lebanese Arbitration Law)"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2006-22",
+      "court": "Lebanese Court of Cassation",
+      "date": "2006-03-22",
+      "case_number": "Decision 61/2006",
+      "title": "Waiver of Arbitration Agreement by Failure to Object in Limine Litis",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that a party waives its right to invoke an arbitration agreement if it does not raise the arbitration objection at the outset of court proceedings (in limine litis - at the first available opportunity). Courts do not raise arbitration agreements ex officio; the objection must be timely raised by the interested party or it is deemed waived. Procedural delay in asserting the arbitration agreement results in submission to court jurisdiction.",
+      "legal_principles": [
+        "Arbitration agreement must be invoked in limine litis to avoid waiver",
+        "Courts do not raise arbitration agreements on their own motion",
+        "Failure to timely invoke arbitration agreement = waiver of right"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2013-ARBIT",
+      "court": "Beirut Court of Appeal",
+      "date": "2013-05-16",
+      "case_number": "Decision (recent, unspecified)",
+      "title": "Arbitration Agreement is Part of Day-to-Day Company Management",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that entering into an arbitration agreement constitutes an act within the ordinary day-to-day management of a company, and therefore does not require prior board authorization. Company management has authority to sign arbitration agreements as part of normal commercial operations without seeking specific approval from the board of directors.",
+      "legal_principles": [
+        "Signing arbitration agreement falls within ordinary management powers",
+        "No prior board approval required for arbitration agreement",
+        "Arbitration agreement is routine commercial act, not extraordinary decision"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2011-CONF",
+      "court": "Court of First Instance of Beirut",
+      "date": "2011-06-27",
+      "case_number": "Decision of 27 June 2011",
+      "title": "Economic Unity Extension to Non-Signatory Sellers",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance extended an arbitration agreement to non-signatory sellers by applying the doctrine of economic unity, finding that the sellers participated in the conclusion and execution of the underlying contract. The Court held that substantive participation in the formation and performance of the contractual relationship creates a basis for extension even without formal signature of the arbitration clause.",
+      "legal_principles": [
+        "Economic unity extension to non-signatory parties based on participation in conclusion/execution",
+        "Substantive contractual participation can substitute for formal signature",
+        "Seller participating in contract conclusion bound by arbitration clause"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CFI-ML-1995-123",
+      "court": "Court of First Instance of Mount Lebanon",
+      "date": "1995-10-12",
+      "case_number": "Decision 123/95",
+      "title": "Exequatur is Administrative Summary Review",
+      "category": "commercial",
+      "summary": "The Court of First Instance of Mount Lebanon confirmed that the exequatur procedure for recognition and enforcement of arbitral awards is administrative and summary in character. The judge granting exequatur does not conduct a substantive review of the award's merits, legal conclusions, or factual findings. This early decision is part of the consistent Lebanese approach to pro-enforcement arbitration.",
+      "legal_principles": [
+        "Exequatur procedure is administrative and summary",
+        "No substantive review of award in exequatur proceedings",
+        "Pro-enforcement bias in Lebanese approach to arbitral award recognition"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2001-163",
+      "court": "Lebanese Court of Cassation",
+      "date": "2001",
+      "case_number": "Decision 163/2001",
+      "title": "International Arbitral Awards Not Appealable - Only Annulment Available",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that international arbitral awards are not subject to ordinary appeal on the merits or law. The only available recourse is an application to annul (set aside) the award on the specific, limited grounds provided in the NCPC. This bars appellate review of international awards and restricts post-award judicial intervention to the annulment process.",
+      "legal_principles": [
+        "International arbitral awards are not subject to ordinary appeal",
+        "Only annulment/set-aside available for international awards",
+        "NCPC annulment grounds are exclusive and exhaustive"
+      ],
+      "articles_cited": ["Article 819 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-1999-ARBCL",
+      "court": "Court of Appeal of Beirut",
+      "date": "1999-02-02",
+      "case_number": "Decision (unspecified)",
+      "title": "Courts Rule on Validity of Arbitration Agreements in International Arbitration",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that Lebanese courts retain jurisdiction to rule on the validity of arbitration agreements in international arbitration proceedings, alongside the arbitral tribunal's competence-competence jurisdiction. Courts may review whether an international arbitration agreement is manifestly null and void before referring parties to arbitration under Article 764 NCPC.",
+      "legal_principles": [
+        "Lebanese courts may review validity of arbitration agreements in international proceedings",
+        "Parallel jurisdiction of court and tribunal on arbitration agreement validity",
+        "Manifest nullity standard governs court review"
+      ],
+      "articles_cited": ["Article 764 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2001-142",
+      "court": "Lebanese Court of Cassation",
+      "date": "2001",
+      "case_number": "Decision 142/2001",
+      "title": "Waiver of Jurisdictional Objections If Not Timely Raised",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation held that jurisdictional objections to an arbitral tribunal's competence are waived if not raised at the appropriate time during the proceedings. A party who participates in arbitral proceedings without objecting to the tribunal's jurisdiction in a timely manner cannot later challenge jurisdiction at the annulment stage. This doctrine promotes efficiency and good faith participation in arbitral proceedings.",
+      "legal_principles": [
+        "Jurisdictional objections must be raised promptly or they are waived",
+        "Participation in arbitration without jurisdictional challenge waives later challenges",
+        "Good faith and estoppel principles apply to arbitral jurisdiction"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2001-141",
+      "court": "Lebanese Court of Cassation",
+      "date": "2001",
+      "case_number": "Decision 141/2001",
+      "title": "No Annulment for Evidence Misinterpretation or Equality Violation Without Due Process Breach",
+      "category": "commercial",
+      "summary": "The Lebanese Court of Cassation ruled that an arbitral award cannot be annulled on the ground that evidence was misinterpreted or that the principle of equality was violated, unless the violation amounts to a breach of due process. Mere substantive disagreement with the arbitrator's evidentiary findings or the outcome of the equality assessment is insufficient for annulment. Procedural due process must be specifically violated.",
+      "legal_principles": [
+        "Evidence misinterpretation alone insufficient for annulment",
+        "Equality violation insufficient unless it rises to due process breach",
+        "Substantive review of evidentiary findings prohibited in annulment proceedings"
+      ],
+      "articles_cited": [],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-COMM-2010-1",
+      "court": "Beirut Court of Appeal",
+      "date": "2010-01-21",
+      "case_number": "Decision no. 41/2018",
+      "title": "Immunity from Execution Does Not Apply to Commercial Operations of State-Related Entities",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal held that immunity from execution does not extend to commercial activities of state-related or state-owned entities operating under private law. Even where there is some governmental interference or control, if the entity's activities are commercial in nature, the entity cannot invoke state immunity to resist enforcement of judgments or arbitral awards. This decision is important for enforcement against foreign state-owned enterprises.",
+      "legal_principles": [
+        "Commercial activities of state entities not shielded by sovereign immunity from execution",
+        "State interference does not transform commercial operations into immune public activities",
+        "Immunity from execution limited to genuinely governmental/public activities"
+      ],
+      "articles_cited": ["Article 860 LCCP"],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-CASS-COMM-2013-EXEC",
+      "court": "President of the Beirut Executive Bureau",
+      "date": "2013-07-18",
+      "case_number": "Decision dated 18 July 2013",
+      "title": "International Organizations Acting as Private Parties Cannot Claim Execution Immunity",
+      "category": "commercial",
+      "summary": "The President of the Beirut Executive Bureau ruled that an international organization acting as a private party in a private law commercial transaction (not in the exercise of a public service function) cannot claim immunity from execution under Article 860(2) NCPC. The distinction between private commercial activities and public/institutional functions is key to determining whether execution immunity applies to international organizations.",
+      "legal_principles": [
+        "International organizations lose execution immunity when acting as private commercial parties",
+        "Distinction between public/institutional and private/commercial activities governs immunity",
+        "Article 860(2) NCPC immunity limited to genuine public service activities"
+      ],
+      "articles_cited": ["Article 860(2) NCPC"],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-CFI-BEI-2010-12",
+      "court": "Court of First Instance of Beirut",
+      "date": "2010-04-28",
+      "case_number": "Decision 12/42",
+      "title": "Domestic Arbitration Validity Rules Inapplicable to International Arbitration",
+      "category": "commercial",
+      "summary": "The Beirut Court of First Instance ruled that the specific rules governing the validity and formalities of domestic arbitration agreements under the NCPC do not apply to international arbitration. International arbitration agreements are governed by the more flexible standards applicable to international commercial relations, not the stricter domestic requirements.",
+      "legal_principles": [
+        "Domestic arbitration validity requirements do not apply to international arbitration",
+        "International arbitration agreements governed by international commercial standards",
+        "More flexible rules applicable to international agreements"
+      ],
+      "articles_cited": ["Articles 763, 812 NCPC"],
+      "source_url": "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon"
+    },
+    {
+      "case_id": "LB-COA-BEIT-2000-UFFE",
+      "court": "Beirut Court of Appeal, 10th Chamber",
+      "date": "2000-12-28",
+      "case_number": "Société UFFE v. Compagnie de développement des bâtiments",
+      "title": "Transfer of Contract Can Bind Third Party to Arbitration Agreement",
+      "category": "commercial",
+      "summary": "The Beirut Court of Appeal (10th Chamber) held that when a contract is transferred (assigned or subrogated) to a third party, the arbitration agreement contained in that contract may bind the transferee. The transfer of the main contract carries with it the arbitration clause as an ancillary element of the contractual relationship, subject to applicable transfer principles.",
+      "legal_principles": [
+        "Transfer of contract may carry along the arbitration agreement to the transferee",
+        "Arbitration clause as ancillary element transfers with main contract",
+        "Third party accepting transferred contract accepts dispute resolution mechanism"
+      ],
+      "articles_cited": [],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    },
+    {
+      "case_id": "LB-COA-COMM-2004-763",
+      "court": "Beirut Court of Appeal, 3rd Chamber",
+      "date": "2004-04-02",
+      "case_number": "Decision No. 763",
+      "title": "Transfer of Contract Binds Third Party - Arbitration Agreement Carried",
+      "category": "commercial",
+      "summary": "The Third Chamber of the Beirut Court of Appeal confirmed that a third party who accepts a transferred contract is bound by the arbitration agreement in that contract. This complements the Société UFFE decision and forms part of the consistent line of jurisprudence on the extension of arbitration agreements to third parties through contract transfer mechanisms.",
+      "legal_principles": [
+        "Contract transfer carries arbitration agreement to third-party transferee",
+        "Third party bound by arbitration agreement upon accepting transferred contract"
+      ],
+      "articles_cited": [],
+      "source_url": "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf"
+    }
+  ],
+  "metadata": {
+    "total_decisions": 62,
+    "date_compiled": "2026-03-11",
+    "sources": [
+      "https://practiceguides.chambers.com/practice-guides/international-arbitration-2025/lebanon",
+      "https://www.acerislaw.com/wp-content/uploads/2022/08/Delos-GAP-2nd-edn-Lebanon.pdf",
+      "https://www.aldic.net/en/case-law/",
+      "https://www.idiproject.com/news/decisions-two-lebanese-courts-arbitrability-disputes-arised-commercial-agency-agreements/",
+      "https://www.asil.org/insights/volume/15/issue/6/special-tribunal-lebanon-issues-landmark-ruling-definition-terrorism-and",
+      "https://en.wikipedia.org/wiki/Special_Tribunal_for_Lebanon",
+      "https://www.internationalcrimesdatabase.org/Case/3310/Ayyash-et-al/",
+      "https://globalfreedomofexpression.columbia.edu/cases/nidaa-al-watan-newspaper-co-v-public-prosecutor/",
+      "https://www.amnesty.org/en/latest/news/2025/03/lebanon-landmark-shura-council-decision-must-mark-a-turning-point-in-ending-impunity-for-torture/",
+      "https://www.amnesty.org/en/latest/news/2024/11/lebanon-missed-opportunity-for-justice-in-landmark-case-over-torture-and-death-in-custody-of-syrian-refugee/",
+      "https://www.amnesty.org/en/latest/news/2023/05/lebanon-court-decision-is-a-blow-to-freedom-of-expression-and-independence-of-lawyers/",
+      "https://today.lorientlejour.com/article/1496016/constitutional-council-overturns-law-on-judicial-independence.html",
+      "https://thisisbeirut.com.lb/articles/1326695/constitutional-council-upholds-banking-authority-and-ties-bank-reform-law-to-gap-law",
+      "https://thisisbeirut.com.lb/articles/1307234/the-fate-of-circular-165",
+      "https://chambers.com/content/item/6191",
+      "https://compliancealert.org/view-blog/132/",
+      "https://euromedrights.org/publication/a-major-step-forward-for-civil-marriage-in-lebanon-euromed-rights-publishes-a-fact-sheet-on-a-landmark-court-decision/",
+      "https://www.hrw.org/report/2015/01/19/unequal-and-unprotected/womens-rights-under-lebanese-personal-status-laws",
+      "https://www.cov.com/-/media/files/corporate/publications/2021/09/moral-harm-in-the-middle-east-charting-new-territory-for-commercial-arbitration.pdf"
+    ],
+    "categories": {
+      "commercial": 45,
+      "criminal": 5,
+      "constitutional": 4,
+      "administrative": 5,
+      "family": 2,
+      "civil": 2,
+      "banking": 3,
+      "labor": 1
+    },
+    "courts_represented": [
+      "Lebanese Court of Cassation",
+      "Court of Appeal of Beirut",
+      "Court of Appeal of Mount Lebanon",
+      "Court of Appeal of North Lebanon",
+      "Court of First Instance of Beirut",
+      "Court of First Instance of Mount Lebanon",
+      "Court of First Instance of North Lebanon",
+      "Lebanese Constitutional Council",
+      "Lebanese Council of State (Shura Council)",
+      "Special Tribunal for Lebanon",
+      "Lebanese Publications Court of Appeal",
+      "Lebanese Military Court",
+      "Beirut Urgent Matters Judge (Juge des Référés)",
+      "President of the Beirut Executive Bureau"
+    ]
+  }
+}

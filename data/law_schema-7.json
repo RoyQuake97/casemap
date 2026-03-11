@@ -1,0 +1,159 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lebanese Law Entry",
+  "description": "Schema for individual law entries in the Lebanese Legal Database",
+  "type": "object",
+  "required": ["law_id", "official_number", "date_enacted", "category", "status"],
+  "properties": {
+    "law_id": {
+      "type": "string",
+      "pattern": "^LB-[A-Z]+-[0-9]+$",
+      "description": "Unique identifier: LB-{CATEGORY}-{NUMBER}"
+    },
+    "official_number": {
+      "type": "string",
+      "description": "Official law number as published (e.g., 'Law No. 44/2017', 'Decree-Law No. 340/1943')"
+    },
+    "official_title_arabic": { "type": "string" },
+    "official_title_french": { "type": "string" },
+    "official_title_english": { "type": "string" },
+    "date_enacted": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO 8601 date"
+    },
+    "date_effective": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Date law came into force (if different from enactment)"
+    },
+    "published_in_official_gazette": {
+      "type": "object",
+      "properties": {
+        "issue_number": { "type": "string" },
+        "date": { "type": "string", "format": "date" },
+        "page": { "type": "string" }
+      }
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Constitutional Law",
+        "Civil Law",
+        "Criminal Law",
+        "Commercial Law",
+        "Labor & Social Security",
+        "Tax & Fiscal",
+        "Administrative & Municipal",
+        "Banking & Financial",
+        "Electoral Law",
+        "Personal Status",
+        "Military & Security",
+        "Environmental",
+        "International Treaty",
+        "Legislative Decree",
+        "Presidential Decree",
+        "Judicial Organization",
+        "Property & Real Estate",
+        "Education",
+        "Health",
+        "Media & Press",
+        "Transportation",
+        "Telecommunications",
+        "Other"
+      ]
+    },
+    "subcategory": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["active", "amended", "repealed", "suspended", "partially_repealed"]
+    },
+    "current_consolidated_version": { "type": "boolean" },
+    "issuing_authority": {
+      "type": "string",
+      "enum": [
+        "Parliament",
+        "President of the Republic",
+        "Council of Ministers",
+        "French High Commissioner",
+        "Ottoman Authority",
+        "Ministry",
+        "Central Bank",
+        "Constitutional Council",
+        "Other"
+      ]
+    },
+    "legal_type": {
+      "type": "string",
+      "enum": [
+        "Constitution",
+        "Constitutional Amendment",
+        "Law",
+        "Decree-Law",
+        "Legislative Decree",
+        "Presidential Decree",
+        "Ministerial Decision",
+        "Regulation",
+        "International Treaty",
+        "Agreement",
+        "Code",
+        "Order"
+      ]
+    },
+    "amendments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "amending_law": { "type": "string" },
+          "amending_law_id": { "type": "string" },
+          "date": { "type": "string", "format": "date" },
+          "articles_affected": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "nature": {
+            "type": "string",
+            "enum": ["modification", "addition", "repeal", "substitution", "suspension"]
+          },
+          "summary": { "type": "string" }
+        }
+      }
+    },
+    "key_articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "article_number": { "type": "string" },
+          "text_arabic": { "type": "string" },
+          "text_french": { "type": "string" },
+          "text_english": { "type": "string" },
+          "subject": { "type": "string" },
+          "current_version": { "type": "boolean" }
+        }
+      }
+    },
+    "total_articles": { "type": "integer" },
+    "historical_context": { "type": "string" },
+    "related_laws": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "law_id": { "type": "string" },
+          "relationship": {
+            "type": "string",
+            "enum": ["amends", "amended_by", "repeals", "repealed_by", "implements", "implemented_by", "supersedes", "superseded_by", "related_to", "complements"]
+          }
+        }
+      }
+    },
+    "source_urls": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    },
+    "notes": { "type": "string" },
+    "last_verified": { "type": "string", "format": "date" }
+  }
+}

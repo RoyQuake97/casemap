@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "file": "tax_laws.json",
+    "description": "Lebanese tax and fiscal legislation: income tax, VAT, customs, property tax, stamp duty",
+    "total_entries": 8,
+    "last_updated": "2026-02-21",
+    "phase": 2
+  },
+  "laws": [
+    {
+      "law_id": "LB-TAX-001",
+      "official_number": "Decree-Law No. 144 of June 12, 1959 (Income Tax)",
+      "official_title_arabic": "مرسوم اشتراعي رقم 144/1959 - ضريبة الدخل",
+      "official_title_french": "Décret-loi No. 144/1959 - Impôt sur le Revenu",
+      "official_title_english": "Income Tax Law",
+      "date_enacted": "1959-06-12",
+      "date_effective": "1959-06-12",
+      "category": "Tax & Fiscal",
+      "subcategory": "Income Tax",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 80,
+      "amendments": [
+        {"amending_law": "Decree-Law No. 83/1977", "date": "1977-01-01", "articles_affected": ["7.8"], "nature": "modification", "summary": "Authorized banks to set aside provisions for doubtful debts."},
+        {"amending_law": "Various budget laws", "date": "", "articles_affected": [], "nature": "modification", "summary": "Tax rates and brackets have been modified through annual budget laws."},
+        {"amending_law": "Law No. 44/2008 (Tax Procedures)", "date": "2008-11-14", "articles_affected": [], "nature": "modification", "summary": "Unified and simplified tax procedures."}
+      ],
+      "key_articles": [
+        {"article_number": "1-15", "text_english": "Tax on profits from industrial, commercial, and non-commercial professions. Schedular system: profits from trade/industry, profits from professions, salaries/wages, movable capital income.", "subject": "Tax categories", "current_version": true},
+        {"article_number": "31-45", "text_english": "Tax on salaries, wages, and pensions. Employer withholding obligations.", "subject": "Salary tax", "current_version": true},
+        {"article_number": "51-65", "text_english": "Tax on income from movable capital: interest, dividends, investment returns.", "subject": "Capital income tax", "current_version": true}
+      ],
+      "historical_context": "Lebanon's income tax system is a schedular (cedular) system where different types of income are taxed separately rather than aggregated. There is no unified personal income tax. Tax rates are relatively low compared to regional and international averages, reflecting Lebanon's traditionally liberal economic model. The system has been criticized for its regressive nature and weak enforcement.",
+      "related_laws": [
+        {"law_id": "LB-TAX-002", "relationship": "related_to"},
+        {"law_id": "LB-TAX-003", "relationship": "related_to"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-002",
+      "official_number": "Law No. 379 of December 14, 2001 (VAT)",
+      "official_title_arabic": "قانون الضريبة على القيمة المضافة - قانون رقم 379/2001",
+      "official_title_french": "Loi No. 379/2001 - Taxe sur la Valeur Ajoutée (TVA)",
+      "official_title_english": "Value Added Tax (VAT) Law",
+      "date_enacted": "2001-12-14",
+      "date_effective": "2002-02-01",
+      "category": "Tax & Fiscal",
+      "subcategory": "VAT",
+      "status": "amended",
+      "current_consolidated_version": true,
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 63,
+      "amendments": [
+        {"amending_law": "Law No. 44/2008", "date": "2008-11-14", "articles_affected": [], "nature": "modification", "summary": "Unified tax procedures law."},
+        {"amending_law": "Various budget laws (rate adjustments)", "date": "", "articles_affected": [], "nature": "modification", "summary": "VAT rate increased from 10% to 11% via Law No. 64/2017 (2017 budget)."}
+      ],
+      "key_articles": [
+        {"article_number": "1-5", "text_english": "Scope: VAT applies to supply of goods and services in Lebanon, and importation of goods. Standard rate: 11%.", "subject": "Scope and rate", "current_version": true}
+      ],
+      "historical_context": "Introduced in 2002 at a rate of 10%, later increased to 11%. Replaced the consumption tax system. Registration threshold applies for businesses with turnover above a set threshold. Exemptions include financial services, education, and certain basic food items. Administration by the VAT Directorate within the Ministry of Finance.",
+      "related_laws": [{"law_id": "LB-TAX-001", "relationship": "related_to"}],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-003",
+      "official_number": "Legislative Decree of October 31, 1967 (Stamp Duty)",
+      "official_title_arabic": "قانون الطوابع المالية",
+      "official_title_french": "Loi sur le Timbre Fiscal",
+      "official_title_english": "Stamp Duty / Fiscal Stamps Law",
+      "date_enacted": "1967-10-31",
+      "date_effective": "1967-10-31",
+      "category": "Tax & Fiscal",
+      "subcategory": "Stamp Duty",
+      "status": "amended",
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Imposes stamp duty on various legal documents, contracts, receipts, and official papers. Rates vary by document type. A significant source of government revenue and a common feature of Lebanese administrative processes.",
+      "related_laws": [],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-004",
+      "official_number": "Customs Code (Various decrees, consolidated)",
+      "official_title_arabic": "قانون الجمارك",
+      "official_title_french": "Code des Douanes",
+      "official_title_english": "Customs Code",
+      "date_enacted": "2000-09-06",
+      "date_effective": "2000-09-06",
+      "category": "Tax & Fiscal",
+      "subcategory": "Customs",
+      "status": "amended",
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Governs customs duties, import/export procedures, transit goods, customs zones, and enforcement. Lebanon has been in accession negotiations with the WTO and has bilateral trade agreements affecting customs rates. Customs revenue has historically been a major source of government income.",
+      "related_laws": [],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-005",
+      "official_number": "Law No. 44 of November 14, 2008 (Tax Procedures)",
+      "official_title_arabic": "قانون الإجراءات الضريبية - قانون رقم 44/2008",
+      "official_title_french": "Loi No. 44/2008 - Procédures Fiscales",
+      "official_title_english": "Tax Procedures Law (Unified)",
+      "date_enacted": "2008-11-14",
+      "date_effective": "2008-11-14",
+      "category": "Tax & Fiscal",
+      "subcategory": "Tax Administration",
+      "status": "active",
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Unified and simplified tax procedures across income tax, VAT, and other fiscal obligations. Implementing decree No. 2488 of July 3, 2009. Streamlined tax filing, assessment, objection, and collection procedures.",
+      "related_laws": [
+        {"law_id": "LB-TAX-001", "relationship": "complements"},
+        {"law_id": "LB-TAX-002", "relationship": "complements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-006",
+      "official_number": "Built Property Tax (Decree-Law No. 148/1959)",
+      "official_title_arabic": "ضريبة الأملاك المبنية - مرسوم اشتراعي رقم 148/1959",
+      "official_title_french": "Impôt Foncier sur les Propriétés Bâties",
+      "official_title_english": "Built Property Tax",
+      "date_enacted": "1959-06-12",
+      "date_effective": "1959-06-12",
+      "category": "Tax & Fiscal",
+      "subcategory": "Property Tax",
+      "status": "amended",
+      "issuing_authority": "President of the Republic",
+      "legal_type": "Decree-Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Taxes on built property (buildings and structures). Calculated based on estimated rental value. One of the oldest existing tax instruments in Lebanon.",
+      "related_laws": [],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-007",
+      "official_number": "Law No. 43 of November 24, 2015 (Exchange of Tax Information)",
+      "official_title_arabic": "قانون تبادل المعلومات الضريبية - قانون رقم 43/2015",
+      "official_title_french": "Loi No. 43/2015 - Échange de Renseignements Fiscaux",
+      "official_title_english": "Exchange of Tax Information Law",
+      "date_enacted": "2015-11-24",
+      "date_effective": "2015-11-24",
+      "category": "Tax & Fiscal",
+      "subcategory": "International Tax Cooperation",
+      "status": "active",
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Enacted to comply with international standards on tax transparency (OECD/Global Forum). Allows exchange of tax-related information with treaty partner countries. Significant in the context of Lebanon's banking secrecy tradition.",
+      "related_laws": [
+        {"law_id": "LB-BANK-001", "relationship": "modifies"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LB-TAX-008",
+      "official_number": "Annual Budget Laws (various)",
+      "official_title_arabic": "قوانين الموازنة العامة",
+      "official_title_french": "Lois de Finances",
+      "official_title_english": "Annual Budget Laws",
+      "date_enacted": "1920-01-01",
+      "date_effective": "1920-01-01",
+      "category": "Tax & Fiscal",
+      "subcategory": "Budget",
+      "status": "active",
+      "issuing_authority": "Parliament",
+      "legal_type": "Law",
+      "total_articles": 0,
+      "amendments": [],
+      "historical_context": "Annual budget laws authorize government spending and often contain tax rate modifications. Lebanon notably failed to pass a budget from 2005 to 2017 (12 years), operating on extended twelve-monthly budgets. A budget was finally passed in 2017 (Law No. 64/2017), followed by the 2018 and 2019 budgets. Budget laws often include fiscal provisions that amend tax rates and thresholds.",
+      "related_laws": [
+        {"law_id": "LB-CONST-001", "relationship": "implements"}
+      ],
+      "source_urls": [],
+      "last_verified": "2026-02-21"
+    }
+  ]
+}

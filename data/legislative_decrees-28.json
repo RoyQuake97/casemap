@@ -1,0 +1,1682 @@
+{
+  "metadata": {
+    "title": "Lebanese Legislative Decrees Database - French Mandate Period (1920-1943)",
+    "description": "Comprehensive database of Lebanese Legislative Decrees from the French Mandate period and related post-independence legislation",
+    "created_date": "2026-02-21",
+    "last_updated": "2026-02-21",
+    "version": "1.0",
+    "compiler": "Lebanese Legal Historian AI",
+    "sources": [
+      "Lebanese Ministry of Justice (www.justice.gov.lb)",
+      "Lebanese Parliament (www.lp.gov.lb)",
+      "Lebanese Official Gazette archives",
+      "Academic research on mandate period legislation",
+      "French colonial archives"
+    ],
+    "statistics": {
+      "total_entries": 36,
+      "mandate_period_entries": 31,
+      "post_mandate_entries": 5,
+      "by_status": {
+        "historical": 22,
+        "active": 7,
+        "amended": 6,
+        "repealed": 1
+      },
+      "by_decade": {
+        "1910s": 1,
+        "1920s": 15,
+        "1930s": 9,
+        "1940s": 6,
+        "1950s": 2,
+        "1970s": 1,
+        "1980s": 2
+      }
+    }
+  },
+  "decrees": [
+    {
+      "law_id": "LD-1920-318",
+      "official_number": "Decree 318/1920",
+      "official_title_arabic": "مرسوم إعلان قيام دولة لبنان الكبير",
+      "official_title_french": "Décret n° 318 proclamant l'établissement de l'État du Grand Liban",
+      "official_title_english": "Decree No. 318 Proclaiming the Establishment of the State of Greater Lebanon",
+      "date_enacted": "1920-08-31",
+      "published_in_official_gazette": {
+        "issue_number": "1",
+        "date": "1920-09-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "أعلن الجنرال غورو قيام دولة لبنان الكبير بحدودها الحالية من نهر الكبير في الشمال إلى حدود فلسطين في الجنوب",
+      "full_text_french": "Le Général Gouraud proclame l'établissement du Grand Liban avec ses frontières actuelles, du Nahr el-Kébir au nord jusqu'à la frontière de la Palestine au sud",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تشكيل دولة لبنان الكبير",
+          "text_french": "Formation de l'État du Grand Liban",
+          "subject": "Establishment of Greater Lebanon"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تحديد الحدود الإدارية للدولة",
+          "text_french": "Délimitation des frontières administratives de l'État",
+          "subject": "Territorial boundaries"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner General Henri Gouraud issued this decree one day before the public proclamation of Greater Lebanon on September 1, 1920",
+      "related_laws": [
+        "LD-1920-336",
+        "LD-1920-343"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-336",
+      "official_number": "Decree 336/1920",
+      "official_title_arabic": "النظام الأساسي المؤقت لدولة لبنان الكبير",
+      "official_title_french": "Décret n° 336 portant règlement provisoire de l'État du Grand Liban",
+      "official_title_english": "Decree No. 336 on the Interim Bylaws of the State of Greater Lebanon",
+      "date_enacted": "1920-09-01",
+      "published_in_official_gazette": {
+        "issue_number": "1",
+        "date": "1920-09-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 5/1926",
+          "date": "1926-05-31",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "يحدد هذا المرسوم السلطة المركزية والخدمات العامة للدولة وينظم إدارة لبنان الكبير",
+      "full_text_french": "Ce décret définit l'autorité centrale et les services généraux de l'État et organise l'administration du Grand Liban",
+      "key_articles": [
+        {
+          "article_number": "14",
+          "text_arabic": "مصلحة العدلية والأملاك والأوقاف تحتل المرتبة الثالثة بين سبع خدمات للدولة",
+          "text_french": "Le service de la Justice, des Propriétés et des Wakfs est classé troisième parmi les sept services de l'État",
+          "subject": "Organization of State Services - Justice Department"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner General Gouraud issued this decree the day after the proclamation of Greater Lebanon, establishing the administrative structure",
+      "related_laws": [
+        "LD-1920-318",
+        "LD-1920-86",
+        "LD-1920-343"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-086",
+      "official_number": "Decree 86/1920",
+      "official_title_arabic": "مرسوم إنشاء مديرية العدلية",
+      "official_title_french": "Décret n° 86 créant la Direction de la Justice",
+      "official_title_english": "Decree No. 86 Establishing the Directorate of Justice",
+      "date_enacted": "1920-10-29",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1920-10-29"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 589/1920",
+          "date": "1920-12-20",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Decree 601/1920",
+          "date": "1920-12-30",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "مديرية العدلية هي إدارة مكلفة تحت إشراف المفوض السامي الفرنسي بتنظيم وإدارة الخدمات القضائية للدولة والاتصال بالمستشار الفني للمفوض السامي",
+      "full_text_french": "La Direction de la Justice est une administration chargée, sous la supervision du Haut-Commissaire français, d'organiser et de gérer les services judiciaires de l'État et de communiquer avec le conseiller technique du Haut-Commissaire",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنشأ مديرية للعدلية تكون مكلفة بتنظيم وإدارة الخدمات القضائية",
+          "text_french": "Il est créé une Direction de la Justice chargée d'organiser et de gérer les services judiciaires",
+          "subject": "Establishment of Directorate of Justice"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "للمدير إشعار الوالي بتعيين ونقل القضاة والموظفين بعد رأي المفوض السامي",
+          "text_french": "Le Directeur notifie au Gouverneur les nominations et transferts des juges et employés après avis favorable du Haut-Commissaire",
+          "subject": "Powers of the Director of Justice"
+        }
+      ],
+      "historical_context": "French Mandate period - Governor Major Trabaud issued this decree establishing the Directorate of Justice as the core agency of what would become the Ministry of Justice",
+      "related_laws": [
+        "LD-1920-336",
+        "LD-1920-343",
+        "LD-1920-589"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-343",
+      "official_number": "Decree 343/1920",
+      "official_title_arabic": "مرسوم تعيين شارل دباس أول مدير للعدلية",
+      "official_title_french": "Décret n° 343 nommant Charles Débbas premier Directeur de la Justice",
+      "official_title_english": "Decree No. 343 Appointing Charles Débbas as First Director of Justice",
+      "date_enacted": "1920-09-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1920-09-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "عين شارل دباس أول مدير للعدلية في لبنان الكبير",
+      "full_text_french": "Charles Débbas est nommé premier Directeur de la Justice du Grand Liban",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعيين شارل دباس مديراً للعدلية",
+          "text_french": "Charles Débbas est nommé Directeur de la Justice",
+          "subject": "First Director of Justice appointment"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner General Gouraud appointed Charles Débbas, who later became the first President of Lebanon in 1926",
+      "related_laws": [
+        "LD-1920-336",
+        "LD-1920-086"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-589",
+      "official_number": "Decree 589/1920",
+      "official_title_arabic": "مرسوم تحويل مديرية العدلية إلى مصلحة العدلية",
+      "official_title_french": "Décret n° 589 transformant la Direction de la Justice en Service de la Justice",
+      "official_title_english": "Decree No. 589 Transforming the Directorate of Justice into the Department of Justice",
+      "date_enacted": "1920-12-20",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1920-12-20"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 601/1920",
+          "date": "1920-12-30",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "استبدال اسم مديرية العدلية بمصلحة العدلية",
+      "full_text_french": "Remplacement du nom Direction de la Justice par Service de la Justice",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تصبح مديرية العدلية مصلحة للعدلية",
+          "text_french": "La Direction de la Justice devient le Service de la Justice",
+          "subject": "Name change to Department of Justice"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner Robert de Caix issued this decree changing the name from Directorate to Department",
+      "related_laws": [
+        "LD-1920-086",
+        "LD-1920-601"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-601",
+      "official_number": "Decree 601/1920",
+      "official_title_arabic": "مرسوم إنشاء مكتب العدلية",
+      "official_title_french": "Décret n° 601 créant le Bureau de la Justice",
+      "official_title_english": "Decree No. 601 Establishing the Bureau of Justice",
+      "date_enacted": "1920-12-30",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1920-12-30"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "إنشاء مكتب للعدلية",
+      "full_text_french": "Création du Bureau de la Justice",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "ينشأ مكتب للعدلية",
+          "text_french": "Il est créé un Bureau de la Justice",
+          "subject": "Establishment of Bureau of Justice"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner Robert de Caix issued this decree establishing the Bureau of Justice",
+      "related_laws": [
+        "LD-1920-589"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1922-1647",
+      "official_number": "Decree 1647/1922",
+      "official_title_arabic": "مرسوم إنشاء اللجنة الاستشارية للتشريع",
+      "official_title_french": "Décret n° 1647 créant le Comité consultatif de Législation",
+      "official_title_english": "Decree No. 1647 Establishing the Consultative Committee of Legislation",
+      "date_enacted": "1922-12-17",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1922-12-17"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 1787/1923",
+          "date": "1923-03-02",
+          "articles_affected": [
+            "Composition"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "أنشئت اللجنة الاستشارية للتشريع في مديرية العدلية للنظر في جميع مشاريع القوانين والنصوص التنظيمية",
+      "full_text_french": "Le Comité consultatif de Législation est créé à la Direction de la Justice pour examiner tous les projets de lois et textes réglementaires",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنشأ لجنة استشارية للتشريع في مديرية العدلية",
+          "text_french": "Il est créé un Comité consultatif de Législation à la Direction de la Justice",
+          "subject": "Establishment of Consultative Committee"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تتألف اللجنة من رئيس محكمة التمييز ورئيس نقابة المحامين والمستشار القانوني و أستاذين من المدرسة الحقوقية الفرنسية",
+          "text_french": "Le Comité est composé du Président de la Cour de cassation, du Président du Barreau, du Conseiller juridique et de deux professeurs de l'École de Droit française",
+          "subject": "Committee Composition"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "مهمة اللجنة إعادة صياغة مشروع القانون والتأكد من مطابقته للقوانين السارية",
+          "text_french": "La mission du Comité est de reformuler le projet de loi et d'assurer sa conformité avec les lois en vigueur",
+          "subject": "Committee Functions"
+        }
+      ],
+      "historical_context": "French Mandate period - Governor Trabaud issued this decree establishing the first legislative drafting committee in Lebanon",
+      "related_laws": [
+        "LD-1923-1787",
+        "LD-1923-1614"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1923-1614",
+      "official_number": "Decree 1614/1923",
+      "official_title_arabic": "مرسوم تعيين أعضاء اللجنة الاستشارية للتشريع",
+      "official_title_french": "Décret n° 1614 nommant les membres du Comité consultatif de Législation",
+      "official_title_english": "Decree No. 1614 Appointing Members of the Consultative Committee of Legislation",
+      "date_enacted": "1923-04-10",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1923-04-10"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "عين أنطوان مازاس مدير المدرسة الحقوقية الفرنسية في بيروت وعوني إسحق وجميل الحسامي من نقابة المحامين في بيروت",
+      "full_text_french": "Antoine Mazas, Directeur de l'École de Droit française de Beyrouth, Aouni Ishak et Jamil Houssami du Barreau de Beyrouth sont nommés",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعيين أنطوان مازاس وعوني إسحق وجميل الحسامي أعضاء في اللجنة الاستشارية",
+          "text_french": "Antoine Mazas, Aouni Ishak et Jamil Houssami sont nommés membres du Comité consultatif",
+          "subject": "Committee Members Appointment"
+        }
+      ],
+      "historical_context": "French Mandate period - Governor Trabaud appointed the first members of the Consultative Committee of Legislation",
+      "related_laws": [
+        "LD-1922-1647",
+        "LD-1923-1787"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1923-1787",
+      "official_number": "Decree 1787/1923",
+      "official_title_arabic": "مرسوم تعديل تكوين اللجنة الاستشارية للتشريع",
+      "official_title_french": "Décret n° 1787 modifiant la composition du Comité consultatif de Législation",
+      "official_title_english": "Decree No. 1787 Amending the Composition of the Consultative Committee of Legislation",
+      "date_enacted": "1923-03-02",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1923-03-02"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "عدل تكوين اللجنة لتصبح برئاسة مدير العدلية وعضوية اثنين من القانونيين المعينين من قبل الوالي وأستاذ من المدرسة الحقوقية الفرنسية",
+      "full_text_french": "La composition du Comité est modifiée pour être présidée par le Directeur de la Justice avec deux juristes nommés par le Gouverneur et un professeur de l'École de Droit française",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعدل تكوين اللجنة الاستشارية للتشريع",
+          "text_french": "La composition du Comité consultatif de Législation est modifiée",
+          "subject": "Committee Composition Amendment"
+        }
+      ],
+      "historical_context": "French Mandate period - Governor Trabaud amended the composition of the Consultative Committee",
+      "related_laws": [
+        "LD-1922-1647",
+        "LD-1923-1614"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1924-2867",
+      "official_number": "Decree 2867/1924",
+      "official_title_arabic": "مرسوم إنشاء مجلس المديرين",
+      "official_title_french": "Décret n° 2867 créant le Conseil des Administrateurs",
+      "official_title_english": "Decree No. 2867 Establishing the Council of Administrators",
+      "date_enacted": "1924-12-22",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1924-12-22"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "أنشئ مجلس المديرين وصار رئيس مصلحة العدلية يسمى مديراً",
+      "full_text_french": "Le Conseil des Administrateurs est créé et le chef du Service de la Justice est appelé Administrateur",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إنشاء مجلس المديرين",
+          "text_french": "Création du Conseil des Administrateurs",
+          "subject": "Establishment of Council of Administrators"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تغيير مسمى رئيس مصلحة العدلية إلى مدير",
+          "text_french": "Le titre du chef du Service de la Justice devient Administrateur",
+          "subject": "Title Change to Administrator"
+        }
+      ],
+      "historical_context": "French Mandate period - Governor General Vandenberg issued this decree establishing the Council of Administrators and changing the title to Administrator of Justice",
+      "related_laws": [
+        "LD-1920-589",
+        "LD-1932-55"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1925-3018",
+      "official_number": "Decision 3018/1925",
+      "official_title_arabic": "قرار منح محكمة التمييز صلاحيات قانونية وجزائية",
+      "official_title_french": "Décision n° 3018 conférant à la Cour de cassation des compétences juridiques et pénales",
+      "official_title_english": "Decision No. 3018 Granting the Court of Cassation Legal and Penal Jurisdiction",
+      "date_enacted": "1925-03-09",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1925-03-09"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 6/1930",
+          "date": "1930-02-03",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "منحت محكمة التمييز صلاحيات قانونية وجزائية",
+      "full_text_french": "La Cour de cassation se voit conférer des compétences juridiques et pénales",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "منح محكمة التمييز صلاحيات قانونية وجزائية",
+          "text_french": "Conférer à la Cour de cassation des compétences juridiques et pénales",
+          "subject": "Court of Cassation Jurisdiction"
+        }
+      ],
+      "historical_context": "French Mandate period - Decision establishing the Court of Cassation's jurisdiction, later cancelled by Decree 6/1930",
+      "related_laws": [
+        "LD-1930-006",
+        "LD-1934-178LR"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1926-005",
+      "official_number": "Decree 5/1926",
+      "official_title_arabic": "مرسوم نظام الوزارات الجديد واختصاصاتها",
+      "official_title_french": "Décret n° 5 concernant le nouveau règlement des ministères de la République libanaise et leurs compétences",
+      "official_title_english": "Decree No. 5 Concerning the New Regulations of the Ministries of the Lebanese Republic and Their Powers",
+      "date_enacted": "1926-05-31",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1926-05-31"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "حدد سبع وزارات منها وزارة العدلية المسؤولة عن تنظيم وإدارة المحاكم والمجالس في الدولة",
+      "full_text_french": "Sept ministères sont identifiés, dont le Ministère de la Justice responsable de la régulation et de la gestion des tribunaux et conseils de l'État",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تحدد سبع وزارات تشمل وزارة العدلية",
+          "text_french": "Sept ministères sont identifiés, incluant le Ministère de la Justice",
+          "subject": "Establishment of Seven Ministries"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "وزارة العدلية مسؤولة عن تنظيم وإدارة المحاكم والمجالس في الدولة",
+          "text_french": "Le Ministère de la Justice est responsable de la régulation et de la gestion des tribunaux et conseils de l'État",
+          "subject": "Justice Ministry Powers"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "تضاف إليها مجلس الدولة والمحاكم الشرعية",
+          "text_french": "Le Conseil d'État et les tribunaux religieux lui sont rattachés",
+          "subject": "Attached Courts"
+        }
+      ],
+      "historical_context": "French Mandate period - After the proclamation of the Constitution on May 23, 1926, the government adopted this decree establishing the ministries of the Lebanese Republic",
+      "related_laws": [
+        "LD-1926-Constitution",
+        "LD-1932-55"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1930-006",
+      "official_number": "Legislative Decree 6/1930",
+      "official_title_arabic": "المرسوم التشريعي رقم 6 المتعلق بتنظيم القضاء",
+      "official_title_french": "Décret législatif n° 6 du 30 février 1930 portant organisation judiciaire",
+      "official_title_english": "Legislative Decree No. 6 of February 30, 1930 on Judicial Organization",
+      "date_enacted": "1930-02-30",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1930-02-30"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Law 10/05/1950",
+          "date": "1950-05-10",
+          "articles_affected": [
+            "Reconciliatory Courts"
+          ],
+          "nature": "repeal"
+        },
+        {
+          "amending_law": "Law 16/10/1961",
+          "date": "1961-10-16",
+          "articles_affected": [
+            "Single Judge System"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Legislative Decree 150/1983",
+          "date": "1983-09-16",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "ينص على أن المحاكم في الأراضي اللبنانية تتألف من: محاكم الصلح، المحاكم الابتدائية، محاكم الاستئناف ومحكمة التمييز",
+      "full_text_french": "Stipule que les tribunaux sur le territoire libanais sont composés de: Tribunaux de conciliation, Tribunaux primaires, Cours d'appel et Cour de cassation",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تتألف المحاكم في الأراضي اللبنانية من محاكم الصلح والمحاكم الابتدائية ومحاكم الاستئناف ومحكمة التمييز",
+          "text_french": "Les tribunaux sur le territoire libanais se composent des Tribunaux de conciliation, Tribunaux primaires, Cours d'appel et Cour de cassation",
+          "subject": "Court System Structure"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "إلغاء محكمة التمييز",
+          "text_french": "Abrogation de la Cour de cassation",
+          "subject": "Abolition of Court of Cassation"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "تنظيم المحاكم الشرعية السنية والجعفرية",
+          "text_french": "Organisation des tribunaux religieux sunnites et jaafarites",
+          "subject": "Religious Courts Organization"
+        }
+      ],
+      "historical_context": "French Mandate period - Major judicial reorganization decree that established the structure of Lebanese courts including religious courts for Sunni and Jafari communities",
+      "related_laws": [
+        "LD-1925-3018",
+        "LD-1934-178LR",
+        "LD-1950-0510",
+        "LD-1983-150"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1934-178LR",
+      "official_number": "Decision 178 L.R./1934",
+      "official_title_arabic": "القرار رقم 178 ل.ر. بإعادة إنشاء محكمة التمييز",
+      "official_title_french": "Décision n° 178 L.R. rétablissant la Cour de cassation",
+      "official_title_english": "Decision No. 178 L.R. Reestablishing the Court of Cassation",
+      "date_enacted": "1934-08-10",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1934-08-10"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decision 324 LR/1939",
+          "date": "1939-11-22",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "أعيد إنشاء محكمة التمييز ومنحت صلاحيات واسعة منها تسوية الطعون الإدارية",
+      "full_text_french": "La Cour de cassation est rétablie et se voit conférer de vastes compétences, notamment pour régler les recours administratifs",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إعادة إنشاء محكمة التمييز",
+          "text_french": "Rétablissement de la Cour de cassation",
+          "subject": "Reestablishment of Court of Cassation"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "منح المحكمة صلاحية تسوية الطعون الإدارية",
+          "text_french": "Conférer à la Cour la compétence de régler les recours administratifs",
+          "subject": "Administrative Jurisdiction"
+        }
+      ],
+      "historical_context": "French Mandate period - Decision reestablishing the Court of Cassation after it was abolished by Decree 6/1930",
+      "related_laws": [
+        "LD-1930-006",
+        "LD-1939-324LR"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1932-055",
+      "official_number": "Decree LR/55/1932",
+      "official_title_arabic": "مرسوم تعليق العمل بالدستور",
+      "official_title_french": "Décret L.R. n° 55 suspendant la Constitution",
+      "official_title_english": "Decree LR No. 55 Suspending the Constitution",
+      "date_enacted": "1932-05-09",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1932-05-09"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 10/LE/1939",
+          "date": "1939-11-22",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "علق المفوض السامي الفرنسي هنري بونسو العمل بالدستور وأنشأ مجلس المديرين",
+      "text_french": "Le Haut-Commissaire français Henri Ponsot suspend la Constitution et crée le Conseil des Directeurs",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعليق العمل بالدستور",
+          "text_french": "Suspension de la Constitution",
+          "subject": "Constitution Suspension"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "إنشاء مجلس المديرين برئاسة أمين الدولة",
+          "text_french": "Création du Conseil des Directeurs présidé par le Secrétaire d'État",
+          "subject": "Board of Directors Establishment"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "استخدام اسم مديرية العدلية ومدير العدلية",
+          "text_french": "Utilisation des noms Direction de la Justice et Directeur de la Justice",
+          "subject": "Return to Directorate of Justice"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner Henri Ponsot suspended the Constitution and established the Board of Directors, returning to the Directorate of Justice designation",
+      "related_laws": [
+        "LD-1926-Constitution",
+        "LD-1939-010LE"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1939-010LE",
+      "official_number": "Decree 10/LE/1939",
+      "official_title_arabic": "مرسوم إدارة دولة لبنان",
+      "official_title_french": "Décret n° 10/L.E. établissant la gestion de l'État du Liban",
+      "official_title_english": "Decree No. 10/L.E. Establishing the Management of the State of Lebanon",
+      "date_enacted": "1939-11-22",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1939-11-22"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 1941",
+          "date": "1941-12-01",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "ألغى المرسوم مديرية العدلية ومنصب مدير العدلية وألحق مصلحة العدلية بوزارة الداخلية",
+      "full_text_french": "Le décret abolit la Direction de la Justice et le poste de Directeur de la Justice, rattachant le Service de la Justice au Ministère de l'Intérieur",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إلغاء مديرية العدلية ومنصب مدير العدلية",
+          "text_french": "Abolition de la Direction de la Justice et du poste de Directeur de la Justice",
+          "subject": "Abolition of Directorate of Justice"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "إلحاق مصلحة العدلية بوزارة الداخلية",
+          "text_french": "Rattachement du Service de la Justice au Ministère de l'Intérieur",
+          "subject": "Transfer to Ministry of Interior"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "إلغاء محكمة التمييز وإنشاء مجلس الدولة للفصل في الطعون الإدارية",
+          "text_french": "Abolition de la Cour de cassation et création du Conseil d'État pour juger les recours administratifs",
+          "subject": "Court of Cassation Abolition and State Council Creation"
+        }
+      ],
+      "historical_context": "French Mandate period - Signed by President Emile Edde, Secretary of State Abdallah Bayhom, and ratified by High Commissioner Puaux. Later revoked on December 1, 1941 following the creation of Ahmad Daouk's government",
+      "related_laws": [
+        "LD-1932-055",
+        "LD-1939-324LR"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1939-324LR",
+      "official_number": "Decision 324 L.R./1939",
+      "official_title_arabic": "القرار رقم 324 ل.ر. إلغاء محكمة التمييز وإنشاء مجلس الدولة",
+      "official_title_french": "Décision n° 324 L.R. abolissant la Cour de cassation et créant le Conseil d'État",
+      "official_title_english": "Decision No. 324 L.R. Abolishing the Court of Cassation and Establishing the State Council",
+      "date_enacted": "1939-11-22",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1939-11-22"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Law 10/05/1950",
+          "date": "1950-05-10",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "ألغي محكمة التمييز وأنشئ مجلس الدولة للفصل في الطعون الإدارية",
+      "full_text_french": "La Cour de cassation est abolie et le Conseil d'État est créé pour juger les recours administratifs",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إلغاء محكمة التمييز",
+          "text_french": "Abolition de la Cour de cassation",
+          "subject": "Court of Cassation Abolition"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "إنشاء مجلس الدولة للفصل في الطعون الإدارية",
+          "text_french": "Création du Conseil d'État pour juger les recours administratifs",
+          "subject": "State Council Establishment"
+        }
+      ],
+      "historical_context": "French Mandate period - Decision separating administrative judiciary from civil judiciary by creating the State Council",
+      "related_laws": [
+        "LD-1939-010LE",
+        "LD-1950-0510",
+        "LD-1953-014"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1932-COC",
+      "official_number": "Code of Obligations and Contracts 1932",
+      "official_title_arabic": "قانون الالتزامات والعقود",
+      "official_title_french": "Code des Obligations et Contrats du 9 mars 1932",
+      "official_title_english": "Code of Obligations and Contracts of March 9, 1932",
+      "date_enacted": "1932-03-09",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1932-03-09"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Various amendments",
+          "date": "1932-present",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "القانون المدني اللبناني المعتمد على القانون المدني الفرنسي (نابليون) مع تعديلات تناسب البيئة اللبنانية",
+      "full_text_french": "Le code civil libanais basé sur le Code civil français (Napoléon) avec des adaptations à l'environnement libanais",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "القانون يسري على جميع الالتزامات والعقود",
+          "text_french": "Le code s'applique à toutes les obligations et contrats",
+          "subject": "Scope of Application"
+        }
+      ],
+      "historical_context": "French Mandate period - The most notable code promulgated during the French Mandate, equivalent to the French Civil Code except for personal status matters. Still in force today with amendments.",
+      "related_laws": [
+        "LD-1930-006",
+        "LD-1950-0510"
+      ],
+      "source_url": "https://www.nyulawglobal.org/globalex/lebanon.html",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1924-2385",
+      "official_number": "Resolution 2385/1924",
+      "official_title_arabic": "قرار نظام حقوق الملكية التجارية والصناعية",
+      "official_title_french": "Résolution n° 2385 du 17 janvier 1924 sur le système des droits de propriété commerciale et industrielle",
+      "official_title_english": "Resolution No. 2385 of January 17, 1924 on the System of Commercial and Industrial Property Rights",
+      "date_enacted": "1924-01-17",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1924-01-17"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Law 31/01/1946",
+          "date": "1946-01-31",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "نظام حماية حقوق الملكية الفكرية في الأراضي الخاضعة للانتداب الفرنسي",
+      "full_text_french": "Système de protection des droits de propriété intellectuelle dans les territoires sous mandat français",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "لكل اختراع صناعي يحقق منفعة لصاحب له الحق في استغلاله",
+          "text_french": "Toute invention industrielle créant un bénéfice pour son propriétaire, celui-ci seul a le droit de l'exploiter",
+          "subject": "Invention Rights"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "يمنح شهادة لكل اختراع متعلق بمنتج صناعي جديد",
+          "text_french": "Un certificat peut être accordé pour chaque invention relative à un nouveau produit industriel",
+          "subject": "Invention Certificates"
+        }
+      ],
+      "historical_context": "French Mandate period - High Commissioner General Wegan issued this resolution establishing intellectual property protection in Syria and Lebanon under French mandate",
+      "related_laws": [
+        "LD-1923-2044",
+        "LD-1923-2067",
+        "LD-1923-2166"
+      ],
+      "source_url": "https://www.agip.com/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1926-CONSTITUTION",
+      "official_number": "Constitution of May 23, 1926",
+      "official_title_arabic": "دستور الجمهورية اللبنانية الصادر في 23 أيار 1926",
+      "official_title_french": "Constitution de la République libanaise du 23 mai 1926",
+      "official_title_english": "Constitution of the Lebanese Republic of May 23, 1926",
+      "date_enacted": "1926-05-23",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1926-05-23"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Constitutional Law 09/11/1943",
+          "date": "1943-11-09",
+          "articles_affected": [
+            "Articles 1, 5, 90-94"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Constitutional Law 21/01/1947",
+          "date": "1947-01-21",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Taif Agreement 1989",
+          "date": "1989-09-21",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "الدستور اللبناني الصادر خلال الانتداب الفرنسي، يقوم على النظام الطائفي ويضمن الحريات الأساسية",
+      "full_text_french": "La constitution libanaise adoptée pendant le mandat français, basée sur le système confessionnel et garantissant les libertés fondamentales",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "لبنان جمهورية، عاصمتها بيروت",
+          "text_french": "Le Liban est une République, sa capitale est Beyrouth",
+          "subject": "Form of State"
+        },
+        {
+          "article_number": "9",
+          "text_arabic": "الحرية الضميرية مطلقة، الدولة تحترم جميع الأديان والمذاهب",
+          "text_french": "La liberté de conscience est absolue, l'État respecte tous les cultes et religions",
+          "subject": "Freedom of Conscience"
+        },
+        {
+          "article_number": "20",
+          "text_arabic": "القضاة مستقلون في وظائفهم",
+          "text_french": "Les juges sont indépendants dans l'exercice de leurs fonctions",
+          "subject": "Judicial Independence"
+        },
+        {
+          "article_number": "24",
+          "text_arabic": "التمثيل النيابي على أساس المساواة بين المسيحيين والمسلمين",
+          "text_french": "La représentation parlementaire est basée sur l'égalité entre chrétiens et musulmans",
+          "subject": "Confessional Representation"
+        }
+      ],
+      "historical_context": "French Mandate period - The Lebanese Constitution was adopted on May 23, 1926, drafted primarily by French authorities with limited Lebanese input. It established the confessional system and was inspired by the French Third Republic. Articles 90-94 relating to the Mandate were abolished in 1943.",
+      "related_laws": [
+        "LD-1926-005",
+        "LD-1932-055"
+      ],
+      "source_url": "https://www.constituteproject.org/constitution/Lebanon_2004",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1943-464",
+      "official_number": "Decision 464/1943",
+      "official_title_arabic": "القرار رقم 464 إلغاء تعديلات الدستور",
+      "official_title_french": "Décision n° 464 annulant les amendements constitutionnels",
+      "official_title_english": "Decision No. 464 Annulling the Constitutional Amendments",
+      "date_enacted": "1943-11-11",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-11-11"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Independence 22/11/1943",
+          "date": "1943-11-22",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "أصدرت السلطات الفرنسية القرار 464 لإلغاء التعديلات الدستورية التي أقرها مجلس النواب في 8 تشرين الثاني 1943",
+      "full_text_french": "Les autorités françaises ont émis la décision 464 pour annuler les amendements constitutionnels adoptés par la Chambre des Députés le 8 novembre 1943",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إلغاء التعديلات الدستورية",
+          "text_french": "Annulation des amendements constitutionnels",
+          "subject": "Annulment of Constitutional Amendments"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "حل مجلس النواب",
+          "text_french": "Dissolution de la Chambre des Députés",
+          "subject": "Parliament Dissolution"
+        }
+      ],
+      "historical_context": "French Mandate period - After Lebanese Parliament amended the Constitution on November 8, 1943 to remove articles contradicting independence, France retaliated with Decisions 464 and 465, annulling amendments, dissolving Parliament, and suspending the Constitution",
+      "related_laws": [
+        "LD-1943-465",
+        "LD-1943-Independence"
+      ],
+      "source_url": "https://www.thebeiruter.com/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1943-465",
+      "official_number": "Decision 465/1943",
+      "official_title_arabic": "القرار رقم 465 تعليق الدستور وتشكيل حكومة بديلة",
+      "official_title_french": "Décision n° 465 suspendant la Constitution et formant un gouvernement alternatif",
+      "official_title_english": "Decision No. 465 Suspending the Constitution and Forming an Alternative Government",
+      "date_enacted": "1943-11-11",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-11-11"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Independence 22/11/1943",
+          "date": "1943-11-22",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "أصدرت السلطات الفرنسية القرار 465 لتعليق الدستور وتشكيل حكومة بديلة برئاسة إميل إده",
+      "full_text_french": "Les autorités françaises ont émis la décision 465 pour suspendre la Constitution et former un gouvernement alternatif sous Emile Edde",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تعليق العمل بالدستور",
+          "text_french": "Suspension de la Constitution",
+          "subject": "Constitution Suspension"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تشكيل حكومة بديلة برئاسة إميل إده",
+          "text_french": "Formation d'un gouvernement alternatif sous la présidence d'Emile Edde",
+          "subject": "Alternative Government Formation"
+        }
+      ],
+      "historical_context": "French Mandate period - French authorities arrested President Bechara el Khoury, Prime Minister Riad el Solh, and ministers on November 11, 1943, taking them to Rashaya citadel. This sparked national and international protests leading to independence on November 22, 1943",
+      "related_laws": [
+        "LD-1943-464",
+        "LD-1943-Independence"
+      ],
+      "source_url": "https://www.thebeiruter.com/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1943-INDEPENDENCE",
+      "official_number": "Independence Day - November 22, 1943",
+      "official_title_arabic": "استقلال لبنان - 22 تشرين الثاني 1943",
+      "official_title_french": "Indépendance du Liban - 22 novembre 1943",
+      "official_title_english": "Independence of Lebanon - November 22, 1943",
+      "date_enacted": "1943-11-22",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-11-22"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [],
+      "full_text_arabic": "أطلق سراح المعتقلين في قلعة راشيا وعادت الحكومة الشرعية إلى بيروت لاستئناف عملها، ورفعت العلم اللبناني على مبنى مجلس النواب والسراي الكبير",
+      "full_text_french": "Les détenus de la citadelle de Rashaya sont libérés, le gouvernement légitime retourne à Beyrouth reprendre ses fonctions, le drapeau libanais est hissé sur le Parlement et le Grand Sérail",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إطلاق سراح الرئيس بشارة الخوري ورئيس الوزراء رياض الصلح والوزراء المعتقلين",
+          "text_french": "Libération du Président Bechara el Khoury, du Premier ministre Riad el Solh et des ministres détenus",
+          "subject": "Release of Detainees"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "عودة الحكومة الشرعية لممارسة مهامها",
+          "text_french": "Retour du gouvernement légitime à l'exercice de ses fonctions",
+          "subject": "Government Reinstatement"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "إنزال العلم الفرنسي ورفع العلم اللبناني",
+          "text_french": "Retrait du drapeau français et hissage du drapeau libanais",
+          "subject": "Flag Change"
+        }
+      ],
+      "historical_context": "Independence - Under British and international pressure, General Catroux ordered the release of Lebanese leaders before noon on November 22, 1943. This day is celebrated as Lebanese Independence Day marking the end of the French Mandate.",
+      "related_laws": [
+        "LD-1943-464",
+        "LD-1943-465",
+        "LD-1944-797K"
+      ],
+      "source_url": "https://www.thebeiruter.com/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1944-797K",
+      "official_number": "Decree 797/K/1944",
+      "official_title_arabic": "مرسوم تنظيم وزارة العدلية الأول",
+      "official_title_french": "Décret n° 797/K du 6 mars 1944 portant premier règlement du Ministère de la Justice",
+      "official_title_english": "Decree No. 797/K of March 6, 1944 on the First Regulation of the Ministry of Justice",
+      "date_enacted": "1944-03-06",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1944-03-06"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Decree 50/1953",
+          "date": "1953-03-10",
+          "articles_affected": [
+            "Organization"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "أول تنظيم لوزارة العدلية بعد الاستقلال، تتألف من: المديرية، مصلحة الشؤون القضائية والتشريع، لجنة القضايا، مصلحة المحاكم الشرعية، مصلحة الشؤون الإدارية",
+      "full_text_french": "Premier règlement du Ministère de la Justice après l'indépendance, composé de: la Direction, le Service des Affaires judiciaires et législatives, le Comité des Contentieux, le Service des Tribunaux religieux, le Service des Affaires administratives",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تتألف وزارة العدلية من المديرية ومصلحة الشؤون القضائية والتشريع",
+          "text_french": "Le Ministère de la Justice se compose de la Direction et du Service des Affaires judiciaires et législatives",
+          "subject": "Ministry Structure"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "إنشاء لجنة القضايا",
+          "text_french": "Création du Comité des Contentieux",
+          "subject": "Litigation Committee"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "إنشاء مصلحة المحاكم الشرعية",
+          "text_french": "Création du Service des Tribunaux religieux",
+          "subject": "Religious Courts Department"
+        }
+      ],
+      "historical_context": "Post-Independence - First regulation of the Ministry of Justice after independence, issued by the Lebanese government",
+      "related_laws": [
+        "LD-1943-Independence",
+        "LD-1953-050"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1920-LAND",
+      "official_number": "Decree Establishing Land Registry 1920",
+      "official_title_arabic": "مرسوم إنشاء مصلحة السجل العقاري",
+      "official_title_french": "Décret créant le Service du Cadastre",
+      "official_title_english": "Decree Establishing the Land Registry Service",
+      "date_enacted": "1920-01-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1920-01-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Real Property Law 1930",
+          "date": "1930-01-01",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "أنشئت مصلحة السجل العقالي لتحديث إدارة الأراضي وضمان توزيع أفضل وفرض ضرائب أكثر فعالية على الملكية",
+      "full_text_french": "Le Service du Cadastre est créé pour moderniser l'administration foncière et assurer une meilleure distribution et une imposition plus efficace de la propriété",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إنشاء مصلحة السجل العقاري",
+          "text_french": "Création du Service du Cadastre",
+          "subject": "Land Registry Establishment"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "تحويل الأراضي المشاع إلى ملكية خاصة",
+          "text_french": "Transformation des terres communes en propriété privée",
+          "subject": "Land Transformation"
+        }
+      ],
+      "historical_context": "French Mandate period - The Régie de Travaux du Cadastre et d'Aménagement Foncière was established in 1920 to modernize land administration. By 1925, significant land concentration occurred in the Beqaa where nearly 78% of land was held by a small number of families.",
+      "related_laws": [
+        "LD-1930-RealProperty"
+      ],
+      "source_url": "https://www.arab-reform.net/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1930-RealProperty",
+      "official_number": "Real Property Law 1930",
+      "official_title_arabic": "قانون الملكية العقارية 1930",
+      "official_title_french": "Loi sur la Propriété Immobilière 1930",
+      "official_title_english": "Real Property Law 1930",
+      "date_enacted": "1930-01-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1930-01-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Various amendments",
+          "date": "1930-present",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون الملكية العقارية المزيج بين النظام العثماني والنظام الفرنسي للأراضي",
+      "full_text_french": "Loi sur la propriété immobilière, hybride entre le régime foncier ottoman et français",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنظيم الملكية العقارية في لبنان",
+          "text_french": "Régulation de la propriété immobilière au Liban",
+          "subject": "Real Property Regulation"
+        }
+      ],
+      "historical_context": "French Mandate period - The 1930 Real Property Law was a hybrid between Ottoman and French land regimes, further blurring the distinction between state domains and private holdings, enabling elite capture of land.",
+      "related_laws": [
+        "LD-1920-LAND"
+      ],
+      "source_url": "https://www.arab-reform.net/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1983-150",
+      "official_number": "Legislative Decree 150/1983",
+      "official_title_arabic": "المرسوم التشريعي رقم 150 قانون تنظيم القضاء",
+      "official_title_french": "Décret législatif n° 150 du 16 septembre 1983 sur l'organisation judiciaire",
+      "official_title_english": "Legislative Decree No. 150 of September 16, 1983 on Judicial Organization",
+      "date_enacted": "1983-09-16",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1983-09-16"
+      },
+      "category": "Legislative Decree - Post-Mandate",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Various amendments",
+          "date": "1983-present",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون تنظيم القضاء الصادر عام 1983 المعتمد على قانون تنظيم القضاء الصادر عام 1961",
+      "full_text_french": "Loi d'organisation judiciaire de 1983 basée sur la loi d'organisation judiciaire de 1961",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنظيم المحاكم الابتدائية والاستئنافية ومحكمة التمييز",
+          "text_french": "Organisation des tribunaux de première instance, d'appel et de la Cour de cassation",
+          "subject": "Court Organization"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "أعضاء المجلس الأعلى للقضاء مسؤولون عن الحفاظ على استقلال القضاء",
+          "text_french": "Les membres du Conseil supérieur de la magistrature sont responsables de préserver l'indépendance de la justice",
+          "subject": "Judicial Independence"
+        },
+        {
+          "article_number": "4",
+          "text_arabic": "استقلال أعضاء المجلس الأعلى للقضاء",
+          "text_french": "Indépendance des membres du Conseil supérieur de la magistrature",
+          "subject": "High Judicial Council Independence"
+        }
+      ],
+      "historical_context": "Post-Mandate - Legislative Decree No. 150/1983 adopted the text of the Code of Judicial Organization issued in 1961, organizing the Court of Cassation and the State Council. It remains the primary law governing judicial organization in Lebanon today.",
+      "related_laws": [
+        "LD-1961-JudicialOrg",
+        "LD-1975-10434"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1975-10434",
+      "official_number": "Law 10434/1975",
+      "official_title_arabic": "قانون مجلس الدولة",
+      "official_title_french": "Loi n° 10434 du 14 juin 1975 portant création du Conseil d'État",
+      "official_title_english": "Law No. 10434 of June 14, 1975 Establishing the State Council",
+      "date_enacted": "1975-06-14",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1975-06-14"
+      },
+      "category": "Legislative Decree - Post-Mandate",
+      "status": "active",
+      "amendments": [
+        {
+          "amending_law": "Various amendments",
+          "date": "1975-present",
+          "articles_affected": [
+            "Various"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "قانون إنشاء مجلس الدولة كمحكمة عليا للقضاء الإداري",
+      "full_text_french": "Loi créant le Conseil d'État comme cour suprême de la juridiction administrative",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "إنشاء مجلس الدولة",
+          "text_french": "Création du Conseil d'État",
+          "subject": "State Council Establishment"
+        },
+        {
+          "article_number": "19",
+          "text_arabic": "أعضاء مكتب مجلس الدولة مسؤولون عن الحفاظ على استقلال الهيئة",
+          "text_french": "Les membres du Bureau du Conseil d'État sont responsables de préserver l'indépendance de l'institution",
+          "subject": "State Council Independence"
+        }
+      ],
+      "historical_context": "Post-Mandate - Law enacted by decree No. 10434 of June 14, 1975 established the State Council as the supreme body for administrative jurisdiction, separating it from the Court of Cassation.",
+      "related_laws": [
+        "LD-1983-150",
+        "LD-1953-014"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1951-ChristianPS",
+      "official_number": "Law of April 2, 1951",
+      "official_title_arabic": "قانون 2 نيسان 1951 الأحوال الشخصية للطوائف المسيحية والإسرائيلية",
+      "official_title_french": "Loi du 2 avril 1951 sur le statut personnel des communautés chrétiennes et israélite",
+      "official_title_english": "Law of April 2, 1951 on Personal Status of Christian and Israelite Communities",
+      "date_enacted": "1951-04-02",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1951-04-02"
+      },
+      "category": "Legislative Decree - Post-Mandate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "حدد اختصاصات السلطات الطائفية المسيحية والإسرائيلية والحدود بين القوانين المدنية والقوانين الطائفية في التشريع والقضاء المتعلق بالأحوال الشخصية",
+      "full_text_french": "Définit les compétences des autorités confessionnelles chrétiennes et israélites et les limites entre les lois civiles et les lois confessionnelles en matière de statut personnel",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تحديد اختصاص المحاكم الطائفية المسيحية والإسرائيلية",
+          "text_french": "Définition de la compétence des tribunaux confessionnels chrétiens et israélites",
+          "subject": "Christian Religious Courts Jurisdiction"
+        },
+        {
+          "article_number": "33",
+          "text_arabic": "على الطوائف تقديم قانون الأحوال الشخصية وقانون إجراءات محاكمها الدينية خلال سنة",
+          "text_french": "Les communautés doivent soumettre leur code de statut personnel et leur code de procédure des tribunaux religieux dans un délai d'un an",
+          "subject": "Sects Must Submit Personal Status Codes"
+        }
+      ],
+      "historical_context": "Post-Mandate - Following the expansion of Sunni and Jafari religious courts jurisdiction by Legislative Decree 6/1930, this law expanded Christian religious courts jurisdiction to be on par with Islamic courts, sparking protests from the Bar Association.",
+      "related_laws": [
+        "LD-1930-006",
+        "LD-1942-SunniShia"
+      ],
+      "source_url": "https://adyanfoundation.org/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1942-SunniShia",
+      "official_number": "Legislative Decree 6/1930 (Articles on Religious Courts)",
+      "official_title_arabic": "المواد المتعلقة بالمحاكم الشرعية السنية والجعفرية في المرسوم التشريعي رقم 6",
+      "official_title_french": "Articles relatifs aux tribunaux religieux sunnites et jaafarites du Décret législatif n° 6",
+      "official_title_english": "Articles on Sunni and Jafari Religious Courts from Legislative Decree No. 6",
+      "date_enacted": "1930-02-30",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1930-02-30"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Law 16/07/1962",
+          "date": "1962-07-16",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "تنظيم المحاكم الشرعية السنية والجعفرية واختصاصاتها في الأحوال الشخصية",
+      "full_text_french": "Organisation des tribunaux religieux sunnites et jaafarites et leurs compétences en matière de statut personnel",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنظيم المحاكم الشرعية السنية والجعفرية",
+          "text_french": "Organisation des tribunaux religieux sunnites et jaafarites",
+          "subject": "Sunni and Jafari Courts Organization"
+        }
+      ],
+      "historical_context": "French Mandate period - Legislative Decree 6/1930 organized Sunni and Jafari religious courts, granting them jurisdiction over personal status matters for Muslim communities. Later modified by Law 16/07/1962.",
+      "related_laws": [
+        "LD-1930-006",
+        "LD-1962-0716",
+        "LD-1951-ChristianPS"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1935-126",
+      "official_number": "Legislative Decree 126/1935",
+      "official_title_arabic": "المرسوم التشريعي رقم 126 بتاريخ 30 أيار 1935 المتعلق بالقضاء العسكري",
+      "official_title_french": "Décret législatif n° 126 du 30 mai 1935 sur la justice militaire",
+      "official_title_english": "Legislative Decree No. 126 of May 30, 1935 on Military Justice",
+      "date_enacted": "1935-05-30",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1935-05-30"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "amended",
+      "amendments": [
+        {
+          "amending_law": "Legislative Decree 15/1949",
+          "date": "1949-04-14",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        },
+        {
+          "amending_law": "Law 61/1950",
+          "date": "1950-02-27",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "تطبيق روح وحرف القانون العقوبي العسكري الفرنسي",
+      "full_text_french": "Application de l'esprit et de la lettre du Code de justice militaire française",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تطبيق القانون العقوبي العسكري الفرنسي في سوريا ولبنان",
+          "text_french": "Application du Code de justice militaire française en Syrie et au Liban",
+          "subject": "French Military Penal Code Application"
+        }
+      ],
+      "historical_context": "French Mandate period - Legislative Decree No. 126 of May 30, 1935 applied the French Military Penal Code in Syria and Lebanon, replacing Ottoman military laws. This code continued in force even after the mandate ended until amended by Legislative Decree No. 15/1949 and replaced by Law 61/1950.",
+      "related_laws": [
+        "LD-1949-015",
+        "LD-1950-061"
+      ],
+      "source_url": "https://www.un.org/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1918-OPC",
+      "official_number": "Ottoman Penal Code (continued in force)",
+      "official_title_arabic": "القانون العقوبي العثماني المعدل (الساري حتى 1943)",
+      "official_title_french": "Code pénal ottoman amendé (en vigueur jusqu'en 1943)",
+      "official_title_english": "Ottoman Penal Code Amended (in force until 1943)",
+      "date_enacted": "1918-01-01",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1918-01-01"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "repealed",
+      "amendments": [
+        {
+          "amending_law": "Lebanese Penal Code 1943",
+          "date": "1943-01-01",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "repeal"
+        }
+      ],
+      "full_text_arabic": "استمر العمل بالقانون العقوبي العثماني خلال فترة الانتداب الفرنسي مع بعض التعديلات",
+      "full_text_french": "Le Code pénal ottoman est resté en vigueur pendant la période du mandat français avec certaines modifications",
+      "key_articles": [
+        {
+          "article_number": "534",
+          "text_arabic": "مادة تجرم الممارسات المثلية (المحتمل أنها من التراث اليسوعي-الماروني وليس الاستعماري)",
+          "text_french": "Article criminalisant les pratiques homosexuelles (probablement d'origine jésuite-marronite plutôt que coloniale)",
+          "subject": "Article 534 on Homosexuality"
+        }
+      ],
+      "historical_context": "French Mandate period - The Ottoman Penal Code continued in force during the French Mandate with amendments. Article 534 criminalizing homosexual practices is often mistakenly attributed to the French Mandate, but research suggests it was influenced by Jesuit-Maronite moral theology rather than French colonial law, as French penal codes had not criminalized same-sex relations since 1791.",
+      "related_laws": [
+        "LD-1943-PenalCode"
+      ],
+      "source_url": "https://escholarship.org/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1943-1109",
+      "official_number": "Constitutional Law November 9, 1943",
+      "official_title_arabic": "القانون الدستوري 9 تشرين الثاني 1943",
+      "official_title_french": "Loi constitutionnelle du 9 novembre 1943",
+      "official_title_english": "Constitutional Law of November 9, 1943",
+      "date_enacted": "1943-11-09",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1943-11-09"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تعديل دستور 1926 لإلغاء المواد المتعلقة بالانتداب وتحديد علم لبنان الجديد",
+      "full_text_french": "Amendement de la Constitution de 1926 pour abroger les articles relatifs au mandat et définir le nouveau drapeau libanais",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "لبنان دولة مستقلة، لا تتجزأ، ذات سيادة",
+          "text_french": "Le Liban est un État indépendant, indivisible et souverain",
+          "subject": "Independence Declaration"
+        },
+        {
+          "article_number": "5",
+          "text_arabic": "تحديد علم لبنان: ثلاثة أشرطة أفقية، أبيض بين أحمرين، أرز أخضر في الوسط",
+          "text_french": "Définition du drapeau libanais: trois bandes horizontales, blanche entre deux rouges, cèdre vert au centre",
+          "subject": "Lebanese Flag Definition"
+        },
+        {
+          "article_number": "90-94",
+          "text_arabic": "إلغاء المواد المتعلقة بالانتداب والعصبة الأمم",
+          "text_french": "Abrogation des articles relatifs au mandat et à la Société des Nations",
+          "subject": "Mandate Articles Abolition"
+        }
+      ],
+      "historical_context": "Independence - Constitutional amendments adopted on November 8, 1943 by Parliament removed all references to the French Mandate from the Constitution. France responded with Decisions 464 and 465, but under international pressure, recognized independence on November 22, 1943.",
+      "related_laws": [
+        "LD-1943-464",
+        "LD-1943-465",
+        "LD-1943-Independence"
+      ],
+      "source_url": "https://lp.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1959-CivilService",
+      "official_number": "Legislative Decree 111/1959",
+      "official_title_arabic": "المرسوم التشريعي رقم 111 تاريخ 12 حزيران 1959 تنظيم وزارة العدل",
+      "official_title_french": "Décret législatif n° 111 du 12 juin 1959 organisant le Ministère de la Justice",
+      "official_title_english": "Legislative Decree No. 111 of June 12, 1959 Organizing the Ministry of Justice",
+      "date_enacted": "1959-06-12",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1959-06-12"
+      },
+      "category": "Legislative Decree - Post-Mandate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تنظيم وزارة العدل في الجمهورية اللبنانية",
+      "full_text_french": "Organisation du Ministère de la Justice de la République libanaise",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "تنظيم وزارة العدل",
+          "text_french": "Organisation du Ministère de la Justice",
+          "subject": "Ministry of Justice Organization"
+        }
+      ],
+      "historical_context": "Post-Mandate - Legislative Decree No. 111/1959 organized the Ministry of Justice. This was part of the legislative reforms during President Fouad Chehab's mandate (1958-1964), which included the Civil Service Law and Judiciary Organization laws.",
+      "related_laws": [
+        "LD-1944-797K",
+        "LD-1983-150"
+      ],
+      "source_url": "https://www.justice.gov.lb/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1943-NationalPact",
+      "official_number": "National Pact 1943 (Unwritten Agreement)",
+      "official_title_arabic": "الميثاق الوطني 1943",
+      "official_title_french": "Pacte National 1943",
+      "official_title_english": "National Pact 1943",
+      "date_enacted": "1943-09-25",
+      "published_in_official_gazette": {
+        "issue_number": "Unwritten",
+        "date": "1943-09-25"
+      },
+      "category": "Legislative Decree - Mandate Period",
+      "status": "historical",
+      "amendments": [
+        {
+          "amending_law": "Taif Agreement 1989",
+          "date": "1989-09-21",
+          "articles_affected": [
+            "All"
+          ],
+          "nature": "modification"
+        }
+      ],
+      "full_text_arabic": "اتفاق غير مكتوب بين المسيحيين والمسلمين على العيش المشترك في لبنان المستقل",
+      "full_text_french": "Accord non écrit entre chrétiens et musulmans sur la coexistence dans le Liban indépendant",
+      "key_articles": [
+        {
+          "article_number": "1",
+          "text_arabic": "الرئيس جمهورية من الطائفة المارونية",
+          "text_french": "Le Président de la République est de confession maronite",
+          "subject": "President - Maronite"
+        },
+        {
+          "article_number": "2",
+          "text_arabic": "رئيس الوزراء من الطائفة السنية",
+          "text_french": "Le Premier ministre est de confession sunnite",
+          "subject": "Prime Minister - Sunni"
+        },
+        {
+          "article_number": "3",
+          "text_arabic": "رئيس مجلس النواب من الطائفة الشيعية",
+          "text_french": "Le Président de la Chambre des Députés est de confession chiite",
+          "subject": "Speaker - Shia"
+        },
+        {
+          "article_number": "4",
+          "text_arabic": "التوزيع الطائفي للنواب 6 مسيحيين مقابل 5 مسلمين",
+          "text_french": "Répartition confessionnelle des députés 6 chrétiens pour 5 musulmans",
+          "subject": "Parliamentary Representation"
+        }
+      ],
+      "historical_context": "Independence - The National Pact was an unwritten agreement adopted around September 25, 1943 between Christian and Muslim leaders. It established the confessional power-sharing formula: President (Maronite), Prime Minister (Sunni), Speaker (Shia), and 6:5 Christian-Muslim ratio in Parliament. It was based on the 1932 census showing Christians as slight majority.",
+      "related_laws": [
+        "LD-1943-Independence",
+        "LD-1989-Taif"
+      ],
+      "source_url": "https://www.britannica.com/",
+      "last_verified": "2026-02-21"
+    },
+    {
+      "law_id": "LD-1989-Taif",
+      "official_number": "Taif Agreement - Constitutional Law September 21, 1990",
+      "official_title_arabic": "اتفاق الطائف - القانون الدستوري 21 أيلول 1990",
+      "official_title_french": "Accord de Taëf - Loi constitutionnelle du 21 septembre 1990",
+      "official_title_english": "Taif Agreement - Constitutional Law of September 21, 1990",
+      "date_enacted": "1989-10-22",
+      "published_in_official_gazette": {
+        "issue_number": "",
+        "date": "1990-09-21"
+      },
+      "category": "Legislative Decree - Post-Mandate",
+      "status": "active",
+      "amendments": [],
+      "full_text_arabic": "تعديلات دستورية أنهت الحرب الأهلية اللبنانية وأعادت توزيع السلطات",
+      "full_text_french": "Amendements constitutionnels mettant fin à la guerre civile libanaise et redistribuant les pouvoirs",
+      "key_articles": [
+        {
+          "article_number": "24",
+          "text_arabic": "المساواة بين المسيحيين والمسلمين في المجلس النيابي",
+          "text_french": "Égalité entre chrétiens et musulmans dans la Chambre des Députés",
+          "subject": "Equal Parliamentary Representation"
+        },
+        {
+          "article_number": "65",
+          "text_arabic": "زيادة صلاحيات مجلس الوزراء مقابل صلاحيات رئيس الجمهورية",
+          "text_french": "Renforcement des pouvoirs du Conseil des Ministres par rapport au Président de la République",
+          "subject": "Powers Redistribution"
+        },
+        {
+          "article_number": "95",
+          "text_arabic": "إلغاء الطائفية السياسية تدريجياً",
+          "text_french": "Abolition progressive du confessionnalisme politique",
+          "subject": "Abolition of Political Confessionalism"
+        }
+      ],
+      "historical_context": "Post-Mandate - The Taif Agreement was signed on October 22, 1989 in Taif, Saudi Arabia to end the Lebanese Civil War (1975-1990). It amended the Constitution to provide equal representation between Christians and Muslims in Parliament (previously 6:5), strengthened the Council of Ministers at the expense of the President, and called for gradual abolition of political confessionalism.",
+      "related_laws": [
+        "LD-1943-NationalPact",
+        "LD-1926-CONSTITUTION"
+      ],
+      "source_url": "https://www.constituteproject.org/",
+      "last_verified": "2026-02-21"
+    }
+  ]
+}
