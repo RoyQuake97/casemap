@@ -221,6 +221,26 @@ export async function registerRoutes(server: Server, app: Express) {
     res.json({ deleted: true });
   });
 
+  // --- Admin ---
+
+  app.post("/api/admin/set-free-questions", async (req: Request, res: Response) => {
+    const adminSecret = process.env.ADMIN_SECRET;
+    if (!adminSecret || req.headers["x-admin-secret"] !== adminSecret) {
+      return res.status(403).json({ error: "Unauthorized" });
+    }
+
+    const { email, count } = req.body;
+    if (!email || typeof count !== "number" || count < 0) {
+      return res.status(400).json({ error: "Provide email (string) and count (number >= 0)" });
+    }
+
+    const user = await storage.getUserByEmail(email);
+    if (!user) return res.status(404).json({ error: "User not found" });
+
+    await storage.setFreeQuestions(user.id, count);
+    res.json({ success: true, email: user.email, freeQuestionsRemaining: count });
+  });
+
   // --- Tap Payments ---
 
   app.post("/api/payments/create-charge", requireAuth, async (req: Request, res: Response) => {

@@ -14,6 +14,7 @@ export interface IStorage {
   getUserByEmail(email: string): Promise<User | null>;
   createUser(user: InsertUser): Promise<User>;
   decrementFreeQuestions(userId: number): Promise<void>;
+  setFreeQuestions(userId: number, count: number): Promise<void>;
   updateSubscription(userId: number, status: string, expiresAt: Date | null, tapChargeId?: string): Promise<void>;
 
   // Laws
@@ -55,6 +56,12 @@ export class DatabaseStorage implements IStorage {
   async decrementFreeQuestions(userId: number): Promise<void> {
     await getDb().update(users)
       .set({ freeQuestionsRemaining: sql`GREATEST(${users.freeQuestionsRemaining} - 1, 0)` })
+      .where(eq(users.id, userId));
+  }
+
+  async setFreeQuestions(userId: number, count: number): Promise<void> {
+    await getDb().update(users)
+      .set({ freeQuestionsRemaining: count })
       .where(eq(users.id, userId));
   }
 
@@ -154,6 +161,11 @@ export class MemStorage implements IStorage {
   async decrementFreeQuestions(userId: number): Promise<void> {
     const u = this.usersList.find(u => u.id === userId);
     if (u && u.freeQuestionsRemaining > 0) u.freeQuestionsRemaining--;
+  }
+
+  async setFreeQuestions(userId: number, count: number): Promise<void> {
+    const u = this.usersList.find(u => u.id === userId);
+    if (u) u.freeQuestionsRemaining = count;
   }
 
   async updateSubscription(userId: number, status: string, expiresAt: Date | null, tapChargeId?: string): Promise<void> {
