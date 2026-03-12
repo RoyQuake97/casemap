@@ -224,33 +224,143 @@ export class MemStorage implements IStorage {
   }
 }
 
+// Legal concept mapping: maps real-world situations to relevant legal concepts and specific law provisions
+const CONCEPT_MAP: Array<{
+  trigger: RegExp;
+  concepts: string[];  // terms to search in chunk text
+  lawIds: string[];    // specific law IDs to boost
+  subjects: string[];  // subject keywords to boost
+  categories: string[];
+}> = [
+  {
+    // Privacy, surveillance, photography, drones
+    trigger: /privacy|private life|surveillance|wiretap|eavesdrop|photo|photograph|camera|drone|record|spy|monitor|intrusion|image.*house|image.*property/i,
+    concepts: ["inviolab", "dwelling", "private", "privacy", "tort", "fault", "damage", "personal freedom", "morals", "dignity", "trespass", "liability"],
+    lawIds: ["LB-CONST-001", "LB-CIV-001-EXPANDED", "LD-1932-COC", "LB-CRIM-001", "LB-CRIM-001-EXPANDED", "LB-PROC-001"],
+    subjects: ["inviolab", "personal freedom", "tort", "liability", "morals", "dwelling", "property"],
+    categories: ["constitutional", "civil", "criminal"],
+  },
+  {
+    // Neighbor disputes
+    trigger: /neighbou?r|adjacent|boundary|fence|nuisance|disturbance|easement|servitude/i,
+    concepts: ["neighbou?r", "adjacent", "servitude", "easement", "nuisance", "property", "damage", "liability", "fault", "dwelling", "inviolab"],
+    lawIds: ["LB-CIV-001-EXPANDED", "LD-1932-COC", "LB-CONST-001", "LB-CRIM-001-EXPANDED"],
+    subjects: ["tort", "liability", "property", "servitude", "easement", "dwelling"],
+    categories: ["civil", "constitutional", "criminal"],
+  },
+  {
+    // Tort / civil liability / damages
+    trigger: /tort|liability|damage|negligence|fault|compensation|harm|injury|accident|sue|lawsuit/i,
+    concepts: ["liability", "fault", "damage", "compensation", "tort", "negligence", "obligation", "injure", "harm"],
+    lawIds: ["LB-CIV-001-EXPANDED", "LD-1932-COC", "LB-PROC-001"],
+    subjects: ["tort", "liability", "fault", "damage", "compensation"],
+    categories: ["civil"],
+  },
+  {
+    // Criminal offenses
+    trigger: /penal|criminal|crime|murder|theft|assault|punish|prison|offense|offence|steal|rob|fraud|forgery/i,
+    concepts: ["penal", "criminal", "offense", "penalty", "punishment", "prison", "felony", "misdemeanour"],
+    lawIds: ["LB-CRIM-001", "LB-CRIM-001-EXPANDED", "LB-PROC-001", "LB-CRIM-002-EXPANDED"],
+    subjects: ["penal", "criminal", "penalty", "offense"],
+    categories: ["criminal", "procedural"],
+  },
+  {
+    // Constitutional rights
+    trigger: /constitution|fundamental|rights|freedom|equality|liberty|free speech|press|religion|conscience/i,
+    concepts: ["constitution", "freedom", "equality", "liberty", "rights", "inviolab"],
+    lawIds: ["LB-CONST-001"],
+    subjects: ["freedom", "equality", "rights", "constitution"],
+    categories: ["constitutional"],
+  },
+  {
+    // Labor / employment
+    trigger: /labor|labour|work|employ|worker|wage|working hours|termination|dismiss|severance|end of service/i,
+    concepts: ["labor", "labour", "employment", "worker", "wage", "termination", "dismiss", "severance", "travail"],
+    lawIds: ["LB-LAB-001", "LB-LAB-001-EXPANDED"],
+    subjects: ["labor", "employment", "worker", "wage", "termination"],
+    categories: ["labor"],
+  },
+  {
+    // Property / real estate / rent
+    trigger: /property|rent|lease|landlord|tenant|eviction|real estate|immovable|mortgage|ownership|house|building|apartment/i,
+    concepts: ["property", "rent", "lease", "tenant", "landlord", "eviction", "immovable", "ownership", "mortgage"],
+    lawIds: ["LB-RENT-001", "LB-RENT-002", "LB-RENT-003", "LB-CIV-001-EXPANDED", "LD-1932-COC"],
+    subjects: ["property", "rent", "lease", "tenant", "ownership"],
+    categories: ["property", "civil"],
+  },
+  {
+    // Family / personal status
+    trigger: /marriage|divorce|custody|inheritance|personal status|family|succession|will|testament|dowry/i,
+    concepts: ["marriage", "divorce", "custody", "inheritance", "family", "succession", "personal status"],
+    lawIds: [],
+    subjects: ["marriage", "divorce", "custody", "inheritance", "family"],
+    categories: ["personal status"],
+  },
+  {
+    // Commercial / company
+    trigger: /commercial|company|corporation|business|trade|merchant|shareholder|partnership|bankruptcy/i,
+    concepts: ["commercial", "company", "corporation", "business", "trade", "merchant", "shareholder", "bankruptcy"],
+    lawIds: ["LB-COM-001", "LB-COM-001-EXPANDED"],
+    subjects: ["commercial", "company", "corporation", "business"],
+    categories: ["commercial"],
+  },
+  {
+    // Banking / finance
+    trigger: /bank|banking|financial|credit|loan|deposit|secrecy|monetary|interest rate/i,
+    concepts: ["bank", "banking", "financial", "credit", "loan", "deposit", "secrecy", "monetary"],
+    lawIds: [],
+    subjects: ["bank", "financial", "credit", "monetary"],
+    categories: ["banking"],
+  },
+  {
+    // Defamation / reputation
+    trigger: /defam|slander|libel|insult|reputation|honor|honour|dignity/i,
+    concepts: ["defam", "slander", "libel", "insult", "reputation", "honor", "dignity", "morals", "penal"],
+    lawIds: ["LB-CRIM-001", "LB-CRIM-001-EXPANDED", "LB-CIV-001-EXPANDED"],
+    subjects: ["defam", "slander", "libel", "insult", "reputation"],
+    categories: ["criminal", "civil"],
+  },
+  {
+    // Intellectual property / copyright
+    trigger: /copyright|trademark|patent|intellectual property|literary|artistic|brand|piracy/i,
+    concepts: ["copyright", "trademark", "patent", "intellectual", "literary", "artistic"],
+    lawIds: ["LB-IP-001", "LB-IP-002"],
+    subjects: ["copyright", "trademark", "patent", "intellectual"],
+    categories: ["intellectual"],
+  },
+  {
+    // Procedure / courts / litigation
+    trigger: /court|litigation|appeal|cassation|procedure|filing|lawsuit|prosecution|judgment|injunction/i,
+    concepts: ["court", "appeal", "cassation", "procedure", "prosecution", "judgment", "trial", "injunction"],
+    lawIds: ["LB-PROC-001", "LB-CRIM-002-EXPANDED"],
+    subjects: ["court", "appeal", "procedure", "prosecution"],
+    categories: ["procedural"],
+  },
+];
+
 // Shared search scoring logic
 function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): Chunk[] {
   const q = query.toLowerCase();
   const terms = q.split(/\s+/).filter(t => t.length > 2);
 
+  // Basic synonym expansion for keyword matching
   const synonymMap: Record<string, string[]> = {
     "labor": ["labour", "work", "employment", "employee", "worker", "travail"],
     "termination": ["dismiss", "dismissal", "fire", "firing", "end of service", "severance", "indemnity"],
     "contract": ["obligation", "agreement", "contrat"],
-    "criminal": ["penal", "crime", "offense", "offence", "penalty", "punishment", "prison", "fine"],
-    "property": ["immovable", "real estate", "land", "rent", "lease", "neighbour", "neighbor", "ownership"],
-    "privacy": ["private", "personal", "surveillance", "wiretap", "eavesdrop", "secret", "confidential", "intrusion", "photo", "photograph", "image", "camera", "drone", "recording", "spy", "spying", "monitor", "monitoring"],
+    "criminal": ["penal", "crime", "offense", "offence", "penalty", "punishment", "prison"],
+    "property": ["immovable", "real estate", "land", "rent", "lease", "ownership"],
+    "privacy": ["private", "personal", "surveillance", "wiretap", "secret", "confidential", "intrusion", "photograph", "camera", "drone", "recording"],
     "tax": ["fiscal", "income tax", "vat", "customs", "duty"],
     "bank": ["banking", "financial", "money", "credit", "monetary"],
     "marriage": ["divorce", "personal status", "custody", "family"],
     "company": ["commercial", "corporation", "business", "trade"],
     "constitution": ["constitutional", "fundamental rights", "freedom", "liberty"],
-    "case": ["decision", "ruling", "judgment", "precedent", "court", "cassation", "jurisprudence"],
-    "arbitration": ["arbitral", "arbitrator", "exequatur", "tribunal"],
     "tort": ["liability", "damage", "damages", "negligence", "fault", "compensation", "indemnity", "harm", "injury"],
-    "consumer": ["protection", "product", "warranty", "defect"],
-    "copyright": ["intellectual property", "trademark", "patent", "literary", "artistic"],
     "neighbour": ["neighbor", "adjacent", "boundary", "fence", "nuisance", "disturbance", "easement", "servitude"],
-    "technology": ["electronic", "digital", "internet", "cyber", "computer", "data", "online", "website", "email", "drone", "uav"],
     "defamation": ["slander", "libel", "insult", "reputation", "honor", "honour", "dignity"],
-    "accident": ["traffic", "vehicle", "car", "collision", "road", "driving", "driver", "license", "insurance"],
-    "housing": ["tenant", "landlord", "eviction", "apartment", "building", "construction", "permit"],
+    "accident": ["traffic", "vehicle", "car", "collision", "road", "driving"],
+    "housing": ["tenant", "landlord", "eviction", "apartment", "building"],
   };
 
   const expandedTerms = new Set(terms);
@@ -267,49 +377,69 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     }
   }
 
-  const categoryHints: string[] = [];
-  if (q.match(/labor|labour|work|employ|worker|minimum wage|working hours|termination|dismiss/)) categoryHints.push("labor");
-  if (q.match(/penal|criminal|crime|murder|theft|assault|punish|prison|privacy|surveillance|spy|photo|drone|intrusion|defam|insult|slander|libel/)) categoryHints.push("criminal");
-  if (q.match(/tax|fiscal|income|vat|customs|duty/)) categoryHints.push("tax");
-  if (q.match(/bank|financial|money|credit|loan|deposit|secrecy/)) categoryHints.push("banking");
-  if (q.match(/commercial|company|corporation|trade|business|merchant/)) categoryHints.push("commercial");
-  if (q.match(/constitution|fundamental|rights|freedom|equality|privacy|private life|dignity/)) categoryHints.push("constitutional");
-  if (q.match(/rent|lease|property|land|immovable|mortgage|neighbou?r|boundary|fence|house|building/)) categoryHints.push("property", "civil");
-  if (q.match(/contract|obligation|liability|damage|fault|tort|compensation|harm|negligence/)) categoryHints.push("civil");
-  if (q.match(/marriage|divorce|custody|inheritance|personal status|family/)) categoryHints.push("personal status");
-  if (q.match(/municipal|local|administration|government|election/)) categoryHints.push("administrative", "municipal");
-  if (q.match(/case law|court decision|ruling|precedent|jurisprudence|cassation|judgment/)) categoryHints.push("case_law");
-  if (q.match(/arbitrat|exequatur|tribunal/)) categoryHints.push("commercial");
-  if (q.match(/consumer|product safety|warranty|defect/)) categoryHints.push("consumer");
-  if (q.match(/electronic|e-transaction|cyber|internet|digital|data|drone|computer/)) categoryHints.push("electronic");
-  if (q.match(/privacy|surveillance|wiretap|record|photo|camera|drone|spy|monitor|private life/)) categoryHints.push("criminal", "civil");
-  if (q.match(/neighbou?r|adjacent|nuisance|disturbance|easement|servitude/)) categoryHints.push("civil", "property");
-  if (q.match(/copyright|trademark|patent|intellectual property|literary/)) categoryHints.push("intellectual_property");
-  if (q.match(/torture|human rights|detention|prisoner/)) categoryHints.push("criminal");
+  // Match concept maps based on query
+  const matchedConcepts = CONCEPT_MAP.filter(c => c.trigger.test(q));
+  const conceptTerms = new Set<string>();
+  const boostedLawIds = new Set<string>();
+  const boostedSubjects = new Set<string>();
+  const boostedCategories = new Set<string>();
+
+  for (const cm of matchedConcepts) {
+    cm.concepts.forEach(c => conceptTerms.add(c));
+    cm.lawIds.forEach(l => boostedLawIds.add(l));
+    cm.subjects.forEach(s => boostedSubjects.add(s));
+    cm.categories.forEach(c => boostedCategories.add(c));
+  }
 
   const scored = allChunks.map(chunk => {
     let score = 0;
     const text = (chunk.chunkText + " " + chunk.citationLabel + " " + (chunk.subject || "") + " " + (chunk.category || "")).toLowerCase();
 
+    // Exact article number match
     const articleMatch = q.match(/(?:article|مادة|art\.?)\s*(\d+)/i);
     if (articleMatch && chunk.articleNumber) {
       const num = articleMatch[1];
       if (chunk.articleNumber === num || chunk.articleNumber.includes(num)) score += 100;
     }
 
+    // Exact law number match
     const lawNumMatch = q.match(/(?:law|loi|قانون)\s*(?:no\.?\s*)?(\d+)/i);
     if (lawNumMatch) {
       const num = lawNumMatch[1];
       if (chunk.citationLabel.includes(num)) score += 80;
     }
 
-    if (categoryHints.length > 0 && chunk.category) {
+    // Concept-based law ID boosting (most important for cross-domain queries)
+    if (boostedLawIds.has(chunk.lawId)) {
+      score += 30;
+    }
+
+    // Concept-based category boosting
+    if (chunk.category && boostedCategories.size > 0) {
       const cat = chunk.category.toLowerCase();
-      for (const hint of categoryHints) {
-        if (cat.includes(hint)) score += 40;
+      for (const bc of boostedCategories) {
+        if (cat.includes(bc)) score += 25;
       }
     }
 
+    // Concept-based subject boosting
+    if (chunk.subject && boostedSubjects.size > 0) {
+      const subj = chunk.subject.toLowerCase();
+      for (const bs of boostedSubjects) {
+        if (subj.includes(bs)) score += 35;
+      }
+    }
+
+    // Concept term matching in chunk text (semantic bridge)
+    for (const ct of conceptTerms) {
+      const regex = new RegExp(ct, "i");
+      if (regex.test(text)) {
+        score += 12;
+        if (chunk.subject && regex.test(chunk.subject)) score += 20;
+      }
+    }
+
+    // Direct keyword and synonym matching
     for (const term of expandedTerms) {
       if (text.includes(term)) {
         score += 8;
@@ -322,16 +452,40 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     return { chunk, score };
   });
 
+  // Deduplicate by citation + article
   const seen = new Map<string, { chunk: Chunk; score: number }>();
   for (const s of scored.filter(s => s.score > 0).sort((a, b) => b.score - a.score)) {
     const key = s.chunk.citationLabel + "|" + (s.chunk.articleNumber || "");
     if (!seen.has(key)) seen.set(key, s);
   }
 
-  return Array.from(seen.values())
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit)
-    .map(s => s.chunk);
+  // Ensure diversity: pick from multiple law categories
+  const results = Array.from(seen.values()).sort((a, b) => b.score - a.score);
+  const selected: Array<{ chunk: Chunk; score: number }> = [];
+  const lawIdCount = new Map<string, number>();
+
+  for (const r of results) {
+    if (selected.length >= limit) break;
+    const lid = r.chunk.lawId;
+    const count = lawIdCount.get(lid) || 0;
+    // Allow max 8 chunks from same law to ensure diversity
+    if (count < 8) {
+      selected.push(r);
+      lawIdCount.set(lid, count + 1);
+    }
+  }
+
+  // If we have room, fill with remaining high-scoring chunks
+  if (selected.length < limit) {
+    for (const r of results) {
+      if (selected.length >= limit) break;
+      if (!selected.includes(r)) {
+        selected.push(r);
+      }
+    }
+  }
+
+  return selected.map(s => s.chunk);
 }
 
 // Use database if DATABASE_URL is set, otherwise fall back to memory
