@@ -110,20 +110,19 @@ export async function registerRoutes(server: Server, app: Express) {
 
       const userMessage = `SOURCES:\n${sourceContext}\n\n---\n\nUSER QUESTION: ${question}${citationVerification ? "\n\nPlease include short quoted excerpts from each cited source under the Citations section." : ""}${lang && lang !== "auto" ? `\n\nRespond in ${lang === "ar" ? "Arabic" : lang === "fr" ? "French" : "English"}.` : ""}`;
 
-      const { GoogleGenAI } = await import("@google/genai");
-      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+      const { default: Anthropic } = await import("@anthropic-ai/sdk");
+      const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-      const response = await ai.models.generateContent({
-        model: "gemini-2.5-flash",
-        contents: userMessage,
-        config: {
-          systemInstruction: SYSTEM_PROMPT,
-          maxOutputTokens: 4096,
-        },
+      const response = await client.messages.create({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 4096,
+        system: SYSTEM_PROMPT,
+        messages: [{ role: "user", content: userMessage }],
       });
 
-      const answerText = response.text
-        || "Unable to generate a response. Please try again.";
+      const answerText = response.content[0].type === "text"
+        ? response.content[0].text
+        : "Unable to generate a response. Please try again.";
 
       const sources = chunks.map(c => ({
         citationLabel: c.citationLabel,

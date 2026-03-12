@@ -233,18 +233,24 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     "labor": ["labour", "work", "employment", "employee", "worker", "travail"],
     "termination": ["dismiss", "dismissal", "fire", "firing", "end of service", "severance", "indemnity"],
     "contract": ["obligation", "agreement", "contrat"],
-    "criminal": ["penal", "crime", "offense", "offence", "penalty"],
-    "property": ["immovable", "real estate", "land", "rent", "lease"],
+    "criminal": ["penal", "crime", "offense", "offence", "penalty", "punishment", "prison", "fine"],
+    "property": ["immovable", "real estate", "land", "rent", "lease", "neighbour", "neighbor", "ownership"],
+    "privacy": ["private", "personal", "surveillance", "wiretap", "eavesdrop", "secret", "confidential", "intrusion", "photo", "photograph", "image", "camera", "drone", "recording", "spy", "spying", "monitor", "monitoring"],
     "tax": ["fiscal", "income tax", "vat", "customs", "duty"],
     "bank": ["banking", "financial", "money", "credit", "monetary"],
     "marriage": ["divorce", "personal status", "custody", "family"],
     "company": ["commercial", "corporation", "business", "trade"],
-    "constitution": ["constitutional", "fundamental rights"],
+    "constitution": ["constitutional", "fundamental rights", "freedom", "liberty"],
     "case": ["decision", "ruling", "judgment", "precedent", "court", "cassation", "jurisprudence"],
     "arbitration": ["arbitral", "arbitrator", "exequatur", "tribunal"],
-    "tort": ["liability", "damage", "damages", "negligence", "fault", "compensation", "indemnity"],
+    "tort": ["liability", "damage", "damages", "negligence", "fault", "compensation", "indemnity", "harm", "injury"],
     "consumer": ["protection", "product", "warranty", "defect"],
     "copyright": ["intellectual property", "trademark", "patent", "literary", "artistic"],
+    "neighbour": ["neighbor", "adjacent", "boundary", "fence", "nuisance", "disturbance", "easement", "servitude"],
+    "technology": ["electronic", "digital", "internet", "cyber", "computer", "data", "online", "website", "email", "drone", "uav"],
+    "defamation": ["slander", "libel", "insult", "reputation", "honor", "honour", "dignity"],
+    "accident": ["traffic", "vehicle", "car", "collision", "road", "driving", "driver", "license", "insurance"],
+    "housing": ["tenant", "landlord", "eviction", "apartment", "building", "construction", "permit"],
   };
 
   const expandedTerms = new Set(terms);
@@ -263,18 +269,21 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
 
   const categoryHints: string[] = [];
   if (q.match(/labor|labour|work|employ|worker|minimum wage|working hours|termination|dismiss/)) categoryHints.push("labor");
-  if (q.match(/penal|criminal|crime|murder|theft|assault|punish/)) categoryHints.push("criminal");
+  if (q.match(/penal|criminal|crime|murder|theft|assault|punish|prison|privacy|surveillance|spy|photo|drone|intrusion|defam|insult|slander|libel/)) categoryHints.push("criminal");
   if (q.match(/tax|fiscal|income|vat|customs|duty/)) categoryHints.push("tax");
   if (q.match(/bank|financial|money|credit|loan|deposit|secrecy/)) categoryHints.push("banking");
   if (q.match(/commercial|company|corporation|trade|business|merchant/)) categoryHints.push("commercial");
-  if (q.match(/constitution|fundamental|rights|freedom|equality/)) categoryHints.push("constitutional");
-  if (q.match(/rent|lease|property|land|immovable|mortgage/)) categoryHints.push("property", "civil");
-  if (q.match(/contract|obligation|liability|damage|fault|tort/)) categoryHints.push("civil");
+  if (q.match(/constitution|fundamental|rights|freedom|equality|privacy|private life|dignity/)) categoryHints.push("constitutional");
+  if (q.match(/rent|lease|property|land|immovable|mortgage|neighbou?r|boundary|fence|house|building/)) categoryHints.push("property", "civil");
+  if (q.match(/contract|obligation|liability|damage|fault|tort|compensation|harm|negligence/)) categoryHints.push("civil");
   if (q.match(/marriage|divorce|custody|inheritance|personal status|family/)) categoryHints.push("personal status");
   if (q.match(/municipal|local|administration|government|election/)) categoryHints.push("administrative", "municipal");
   if (q.match(/case law|court decision|ruling|precedent|jurisprudence|cassation|judgment/)) categoryHints.push("case_law");
   if (q.match(/arbitrat|exequatur|tribunal/)) categoryHints.push("commercial");
   if (q.match(/consumer|product safety|warranty|defect/)) categoryHints.push("consumer");
+  if (q.match(/electronic|e-transaction|cyber|internet|digital|data|drone|computer/)) categoryHints.push("electronic");
+  if (q.match(/privacy|surveillance|wiretap|record|photo|camera|drone|spy|monitor|private life/)) categoryHints.push("criminal", "civil");
+  if (q.match(/neighbou?r|adjacent|nuisance|disturbance|easement|servitude/)) categoryHints.push("civil", "property");
   if (q.match(/copyright|trademark|patent|intellectual property|literary/)) categoryHints.push("intellectual_property");
   if (q.match(/torture|human rights|detention|prisoner/)) categoryHints.push("criminal");
 
