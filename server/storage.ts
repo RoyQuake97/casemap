@@ -67,8 +67,11 @@ export class DatabaseStorage implements IStorage {
   }
 
   async insertLaw(law: InsertLaw): Promise<Law> {
-    const [created] = await getDb().insert(laws).values(law).onConflictDoNothing().returning();
-    return created;
+    const result = await getDb().insert(laws).values(law).onConflictDoNothing().returning();
+    if (result.length > 0) return result[0];
+    // Already exists, fetch it
+    const [existing] = await getDb().select().from(laws).where(eq(laws.lawId, law.lawId)).limit(1);
+    return existing;
   }
 
   async getLawByLawId(lawId: string): Promise<Law | null> {
@@ -77,7 +80,7 @@ export class DatabaseStorage implements IStorage {
   }
 
   async getAllLaws(): Promise<Law[]> {
-    return db.select().from(laws);
+    return getDb().select().from(laws);
   }
 
   async insertChunk(chunk: InsertChunk): Promise<Chunk> {
@@ -91,7 +94,7 @@ export class DatabaseStorage implements IStorage {
   }
 
   async getAllChunks(): Promise<Chunk[]> {
-    return db.select().from(chunks);
+    return getDb().select().from(chunks);
   }
 
   async getChunkCount(): Promise<number> {
