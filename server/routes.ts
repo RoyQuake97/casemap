@@ -110,19 +110,20 @@ export async function registerRoutes(server: Server, app: Express) {
 
       const userMessage = `SOURCES:\n${sourceContext}\n\n---\n\nUSER QUESTION: ${question}${citationVerification ? "\n\nPlease include short quoted excerpts from each cited source under the Citations section." : ""}${lang && lang !== "auto" ? `\n\nRespond in ${lang === "ar" ? "Arabic" : lang === "fr" ? "French" : "English"}.` : ""}`;
 
-      // Dynamic import required - esbuild can't bundle openai statically
-      const { default: OpenAI } = await import("openai");
-      const client = new OpenAI();
+      const { GoogleGenAI } = await import("@google/genai");
+      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-      const response = await client.responses.create({
-        model: "gemini_3_flash",
-        instructions: SYSTEM_PROMPT,
-        input: userMessage,
+      const response = await ai.models.generateContent({
+        model: "gemini-2.5-flash",
+        contents: userMessage,
+        config: {
+          systemInstruction: SYSTEM_PROMPT,
+          maxOutputTokens: 4096,
+        },
       });
 
-      const answerText = typeof response.output_text === "string"
-        ? response.output_text
-        : "Unable to generate a response. Please try again.";
+      const answerText = response.text
+        || "Unable to generate a response. Please try again.";
 
       const sources = chunks.map(c => ({
         citationLabel: c.citationLabel,
