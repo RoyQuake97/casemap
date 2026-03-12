@@ -43,8 +43,8 @@ export default function AuthPage() {
       setError("Email and password are required");
       return;
     }
-    if (mode === "register" && password.length < 6) {
-      setError("Password must be at least 6 characters");
+    if (mode === "register" && password.length < 8) {
+      setError("Password must be at least 8 characters");
       return;
     }
     authMutation.mutate();
@@ -77,6 +77,7 @@ export default function AuthPage() {
             <input
               type="text"
               placeholder="Display name (optional)"
+              aria-label="Display name"
               value={displayName}
               onChange={(e) => setDisplayName(e.target.value)}
               className="w-full px-4 py-3 bg-card border border-border rounded-md text-sm text-foreground placeholder:text-muted-foreground/60 focus:outline-none focus:ring-1 focus:ring-ring"
@@ -85,6 +86,7 @@ export default function AuthPage() {
           <input
             type="email"
             placeholder="Email"
+            aria-label="Email address"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
@@ -92,11 +94,12 @@ export default function AuthPage() {
           />
           <input
             type="password"
-            placeholder="Password"
+            placeholder={mode === "register" ? "Password (8+ characters)" : "Password"}
+            aria-label="Password"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
             required
-            minLength={6}
+            minLength={8}
             className="w-full px-4 py-3 bg-card border border-border rounded-md text-sm text-foreground placeholder:text-muted-foreground/60 focus:outline-none focus:ring-1 focus:ring-ring"
           />
 

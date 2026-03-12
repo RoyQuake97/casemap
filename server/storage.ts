@@ -417,37 +417,37 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     // Concept-based category boosting
     if (chunk.category && boostedCategories.size > 0) {
       const cat = chunk.category.toLowerCase();
-      for (const bc of boostedCategories) {
+      Array.from(boostedCategories).forEach(bc => {
         if (cat.includes(bc)) score += 25;
-      }
+      });
     }
 
     // Concept-based subject boosting
     if (chunk.subject && boostedSubjects.size > 0) {
       const subj = chunk.subject.toLowerCase();
-      for (const bs of boostedSubjects) {
+      Array.from(boostedSubjects).forEach(bs => {
         if (subj.includes(bs)) score += 35;
-      }
+      });
     }
 
     // Concept term matching in chunk text (semantic bridge)
-    for (const ct of conceptTerms) {
+    Array.from(conceptTerms).forEach(ct => {
       const regex = new RegExp(ct, "i");
       if (regex.test(text)) {
         score += 12;
         if (chunk.subject && regex.test(chunk.subject)) score += 20;
       }
-    }
+    });
 
     // Direct keyword and synonym matching
-    for (const term of expandedTerms) {
+    Array.from(expandedTerms).forEach(term => {
       if (text.includes(term)) {
         score += 8;
         if ((chunk.subject || "").toLowerCase().includes(term)) score += 25;
         if (chunk.citationLabel.toLowerCase().includes(term)) score += 15;
         if (terms.includes(term)) score += 5;
       }
-    }
+    });
 
     return { chunk, score };
   });

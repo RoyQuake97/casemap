@@ -40,7 +40,7 @@ export default function PaymentResultPage() {
       <main className="relative z-10 flex flex-col items-center text-center px-6 max-w-md">
         {status === "checking" && (
           <>
-            <div className="w-8 h-8 border-2 border-primary/30 border-t-primary rounded-full animate-spin mb-6" />
+            <div className="w-8 h-8 border-2 border-primary/30 border-t-primary rounded-full animate-spin mb-6" role="status" aria-label="Verifying" />
             <h1 className="font-serif text-2xl font-semibold text-foreground">Verifying payment...</h1>
             <p className="mt-3 text-sm text-muted-foreground">Please wait while we confirm your subscription.</p>
           </>

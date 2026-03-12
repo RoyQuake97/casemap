@@ -7,6 +7,8 @@ function ScalesIcon() {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       className="w-40 h-52 md:w-52 md:h-64 animate-gentle-sway"
+      aria-label="Scales of justice"
+      role="img"
     >
       {/* Books stack */}
       <rect x="40" y="200" width="120" height="14" rx="2" fill="hsl(30, 20%, 55%)" opacity="0.6" />
@@ -77,7 +79,7 @@ export default function LandingPage() {
           onClick={() => navigate("/auth")}
           className="mt-10 px-8 py-3.5 bg-primary text-primary-foreground text-sm font-medium tracking-widest uppercase rounded-md hover:opacity-90 transition-opacity duration-300 animate-fade-in-up-delay-3"
         >
-          Start free question
+          Ask a free question
         </button>
 
         {/* Trust line */}

@@ -1,11 +1,16 @@
 import { useState } from "react";
 import { useLocation } from "wouter";
-import { useMutation } from "@tanstack/react-query";
+import { useQuery, useMutation } from "@tanstack/react-query";
 import { apiRequest } from "@/lib/queryClient";
 
 export default function PaywallPage() {
   const [, navigate] = useLocation();
   const [error, setError] = useState("");
+
+  const { data: stats } = useQuery<{ laws: number; chunks: number }>({
+    queryKey: ["/api/stats"],
+    staleTime: 60_000,
+  });
 
   const subscribeMutation = useMutation({
     mutationFn: async () => {
@@ -40,18 +45,18 @@ export default function PaywallPage() {
 
         {/* Lock icon */}
         <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center mb-6 animate-fade-in-up">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-primary">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-primary" aria-hidden="true">
             <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
             <path d="M7 11V7a5 5 0 0 1 10 0v4" />
           </svg>
         </div>
 
         <h1 className="font-serif text-3xl md:text-4xl font-semibold text-foreground animate-fade-in-up-delay">
-          Your free question has been used.
+          Your free question has been used
         </h1>
 
         <p className="mt-4 text-base text-muted-foreground animate-fade-in-up-delay-2">
-          Subscribe to continue using Case Map for unlimited legal research.
+          Subscribe for unlimited access to Case Map legal research.
         </p>
 
         {/* Pricing card */}
@@ -62,19 +67,19 @@ export default function PaywallPage() {
           </p>
           <ul className="mt-4 space-y-2 text-left text-sm text-muted-foreground">
             <li className="flex items-center gap-2">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0" aria-hidden="true"><polyline points="20 6 9 17 4 12" /></svg>
               Unlimited legal questions
             </li>
             <li className="flex items-center gap-2">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
-              291 laws, 3,400+ legal provisions
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0" aria-hidden="true"><polyline points="20 6 9 17 4 12" /></svg>
+              {stats ? `${stats.laws} laws, ${stats.chunks.toLocaleString()}+ legal provisions` : "Comprehensive legal database"}
             </li>
             <li className="flex items-center gap-2">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
-              79 court decisions
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0" aria-hidden="true"><polyline points="20 6 9 17 4 12" /></svg>
+              Court decisions &amp; case law
             </li>
             <li className="flex items-center gap-2">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0" aria-hidden="true"><polyline points="20 6 9 17 4 12" /></svg>
               Arabic, French & English
             </li>
           </ul>

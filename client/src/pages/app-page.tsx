@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { useLocation } from "wouter";
 import { useQuery, useMutation } from "@tanstack/react-query";
 import { queryClient, apiRequest } from "@/lib/queryClient";
+import DOMPurify from "dompurify";
 import type { Profile } from "@shared/schema";
 
 interface Source {
@@ -99,14 +100,19 @@ export default function AppPage() {
     if (!result) return;
 
     const printWindow = window.open("", "_blank");
-    if (!printWindow) return;
+    if (!printWindow) {
+      alert("Please allow pop-ups to export PDF.");
+      return;
+    }
+
+    const esc = (str: string) => str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
     const sourcesHtml = result.sources.map(s => `
       <div style="border:1px solid #ddd; border-radius:6px; padding:12px; margin-bottom:8px;">
-        <p style="font-weight:600; font-size:12px; margin:0 0 4px 0;">${s.citationLabel}</p>
-        ${s.category ? `<span style="font-size:10px; background:#f0f0f0; padding:2px 6px; border-radius:3px;">${s.category}</span>` : ""}
-        ${s.subject ? `<p style="font-size:11px; color:#666; margin:4px 0;">${s.subject}</p>` : ""}
-        <p style="font-size:11px; color:#888; line-height:1.5;">${s.excerpt}</p>
+        <p style="font-weight:600; font-size:12px; margin:0 0 4px 0;">${esc(s.citationLabel)}</p>
+        ${s.category ? `<span style="font-size:10px; background:#f0f0f0; padding:2px 6px; border-radius:3px;">${esc(s.category)}</span>` : ""}
+        ${s.subject ? `<p style="font-size:11px; color:#666; margin:4px 0;">${esc(s.subject)}</p>` : ""}
+        <p style="font-size:11px; color:#888; line-height:1.5;">${esc(s.excerpt)}</p>
       </div>
     `).join("");
 
@@ -124,6 +130,8 @@ export default function AppPage() {
           .answer { line-height: 1.8; font-size: 14px; }
           .answer h2, .answer h3 { color: #4a3728; }
           .answer strong { color: #333; }
+          .answer ul, .answer ol { margin: 8px 0; padding-left: 24px; }
+          .answer li { margin-bottom: 4px; }
           .sources-title { font-size: 16px; color: #4a3728; border-top: 1px solid #ddd; padding-top: 20px; margin-top: 30px; }
           .disclaimer { font-size: 10px; color: #aaa; text-align: center; border-top: 1px solid #eee; padding-top: 16px; margin-top: 40px; }
           @media print { body { padding: 20px; } }
@@ -134,8 +142,8 @@ export default function AppPage() {
           <h1>Case Map</h1>
           <p>Lebanese Legal Analysis &mdash; ${new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" })}</p>
         </div>
-        <div class="question">${question}</div>
-        <div class="answer">${formatMarkdown(result.answer)}</div>
+        <div class="question">${esc(question)}</div>
+        <div class="answer">${DOMPurify.sanitize(formatMarkdown(result.answer))}</div>
         ${result.sources.length > 0 ? `<h3 class="sources-title">Sources</h3>${sourcesHtml}` : ""}
         <p class="disclaimer">Not legal advice. For informational use by legal professionals. Case Map does not replace qualified legal counsel.</p>
       </body>
@@ -192,6 +200,7 @@ export default function AppPage() {
               value={question}
               onChange={(e) => setQuestion(e.target.value)}
               placeholder="Describe the case or ask a legal question..."
+              aria-label="Legal question"
               className="w-full h-32 p-4 bg-card border border-border rounded-md text-sm text-foreground placeholder:text-muted-foreground/60 resize-none focus:outline-none focus:ring-1 focus:ring-ring transition-shadow"
               onKeyDown={(e) => {
                 if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) handleSubmit();
@@ -202,6 +211,7 @@ export default function AppPage() {
                 <select
                   value={lang}
                   onChange={(e) => setLang(e.target.value)}
+                  aria-label="Response language"
                   className="text-xs bg-card border border-border rounded px-2 py-1.5 text-foreground focus:outline-none focus:ring-1 focus:ring-ring"
                 >
                   <option value="auto">Auto</option>
@@ -234,7 +244,7 @@ export default function AppPage() {
           {askMutation.isPending && (
             <div className="flex-1 flex items-center justify-center">
               <div className="flex flex-col items-center gap-3">
-                <div className="w-6 h-6 border-2 border-primary/30 border-t-primary rounded-full animate-spin" />
+                <div className="w-6 h-6 border-2 border-primary/30 border-t-primary rounded-full animate-spin" role="status" aria-label="Loading" />
                 <p className="text-sm text-muted-foreground">Searching Lebanese legal database...</p>
               </div>
             </div>
@@ -262,7 +272,7 @@ export default function AppPage() {
                 <div
                   className="text-sm text-foreground/90 leading-relaxed whitespace-pre-wrap"
                   dangerouslySetInnerHTML={{
-                    __html: formatMarkdown(result.answer),
+                    __html: DOMPurify.sanitize(formatMarkdown(result.answer)),
                   }}
                 />
               </div>
@@ -316,15 +326,65 @@ export default function AppPage() {
 }
 
 function formatMarkdown(text: string): string {
-  return text
-    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^# (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>')
-    .replace(/^(\d+)\. (.+)$/gm, '<li>$2</li>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/\n/g, '<br/>')
-    .replace(/^/, '<p>')
-    .replace(/$/, '</p>');
+  const lines = text.split("\n");
+  const html: string[] = [];
+  let inUl = false;
+  let inOl = false;
+
+  for (const line of lines) {
+    let processed = line
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/\[([^\]]+)\]/g, "<em>[$1]</em>");
+
+    // Headings
+    const h3 = processed.match(/^### (.+)$/);
+    const h2 = processed.match(/^##? (.+)$/);
+    if (h3) {
+      if (inUl) { html.push("</ul>"); inUl = false; }
+      if (inOl) { html.push("</ol>"); inOl = false; }
+      html.push(`<h3>${h3[1]}</h3>`);
+      continue;
+    }
+    if (h2) {
+      if (inUl) { html.push("</ul>"); inUl = false; }
+      if (inOl) { html.push("</ol>"); inOl = false; }
+      html.push(`<h2>${h2[1]}</h2>`);
+      continue;
+    }
+
+    // Unordered list
+    const ul = processed.match(/^[-*] (.+)$/);
+    if (ul) {
+      if (inOl) { html.push("</ol>"); inOl = false; }
+      if (!inUl) { html.push("<ul>"); inUl = true; }
+      html.push(`<li>${ul[1]}</li>`);
+      continue;
+    }
+
+    // Ordered list
+    const ol = processed.match(/^\d+\. (.+)$/);
+    if (ol) {
+      if (inUl) { html.push("</ul>"); inUl = false; }
+      if (!inOl) { html.push("<ol>"); inOl = true; }
+      html.push(`<li>${ol[1]}</li>`);
+      continue;
+    }
+
+    // Close open lists on non-list lines
+    if (inUl) { html.push("</ul>"); inUl = false; }
+    if (inOl) { html.push("</ol>"); inOl = false; }
+
+    // Empty line = paragraph break
+    if (processed.trim() === "") {
+      html.push("<br/>");
+      continue;
+    }
+
+    html.push(`<p>${processed}</p>`);
+  }
+
+  if (inUl) html.push("</ul>");
+  if (inOl) html.push("</ol>");
+
+  return html.join("\n");
 }
