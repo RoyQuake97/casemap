@@ -363,10 +363,38 @@ const CONCEPT_MAP: Array<{
   },
 ];
 
+// Extract multi-word phrases from query for phrase matching
+function extractPhrases(query: string): string[] {
+  const phrases: string[] = [];
+  // Common legal multi-word phrases
+  const knownPhrases = [
+    "end of service", "personal status", "real estate", "intellectual property",
+    "criminal procedure", "civil procedure", "due process", "free speech",
+    "private life", "personal freedom", "good faith", "force majeure",
+    "unfair dismissal", "wrongful termination", "breach of contract",
+    "burden of proof", "statute of limitations", "code of obligations",
+    "penal code", "commercial code", "labor code", "civil code",
+    "court of cassation", "court of appeal", "first instance",
+    "public order", "moral damages", "material damages", "bodily harm",
+    "traffic accident", "road accident", "land registry", "building permit",
+    "rental contract", "lease agreement", "power of attorney",
+    "freedom of expression", "right to privacy", "human rights",
+    "joint liability", "strict liability", "vicarious liability",
+    "money laundering", "tax evasion", "customs duties",
+    "arbitration clause", "mediation", "settlement agreement",
+  ];
+  const q = query.toLowerCase();
+  for (const phrase of knownPhrases) {
+    if (q.includes(phrase)) phrases.push(phrase);
+  }
+  return phrases;
+}
+
 // Shared search scoring logic
 function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): Chunk[] {
   const q = query.toLowerCase();
   const terms = q.split(/\s+/).filter(t => t.length > 2);
+  const phrases = extractPhrases(q);
 
   // Basic synonym expansion for keyword matching
   const synonymMap: Record<string, string[]> = {
@@ -386,6 +414,14 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     "defamation": ["slander", "libel", "insult", "reputation", "honor", "honour", "dignity"],
     "accident": ["traffic", "vehicle", "car", "collision", "road", "driving"],
     "housing": ["tenant", "landlord", "eviction", "apartment", "building"],
+    "eviction": ["evict", "vacate", "expel", "remove tenant", "terminate lease"],
+    "rent": ["rental", "tenancy", "lease", "tenant", "landlord", "lessee", "lessor"],
+    "debt": ["creditor", "debtor", "owe", "obligation", "payment", "default"],
+    "inheritance": ["heir", "succession", "will", "testament", "estate", "bequest", "legacy"],
+    "divorce": ["separation", "alimony", "maintenance", "custody", "marital"],
+    "assault": ["battery", "bodily harm", "violence", "attack", "physical"],
+    "fraud": ["deceit", "deception", "misrepresentation", "swindle", "forgery"],
+    "guarantee": ["surety", "guarantor", "bail", "security", "collateral", "pledge"],
   };
 
   const expandedTerms = new Set(terms);
@@ -418,32 +454,39 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
 
   const scored = allChunks.map(chunk => {
     let score = 0;
-    const text = (chunk.chunkText + " " + chunk.citationLabel + " " + (chunk.subject || "") + " " + (chunk.category || "")).toLowerCase();
+    const chunkTextLower = chunk.chunkText.toLowerCase();
+    const text = (chunkTextLower + " " + chunk.citationLabel + " " + (chunk.subject || "") + " " + (chunk.category || "")).toLowerCase();
 
-    // Exact article number match
+    // Exact article number match (highest priority)
     const articleMatch = q.match(/(?:article|مادة|art\.?)\s*(\d+)/i);
     if (articleMatch && chunk.articleNumber) {
       const num = articleMatch[1];
-      if (chunk.articleNumber === num || chunk.articleNumber.includes(num)) score += 100;
+      if (chunk.articleNumber === num || chunk.articleNumber.includes(num)) score += 120;
     }
 
     // Exact law number match
     const lawNumMatch = q.match(/(?:law|loi|قانون)\s*(?:no\.?\s*)?(\d+)/i);
     if (lawNumMatch) {
       const num = lawNumMatch[1];
-      if (chunk.citationLabel.includes(num)) score += 80;
+      if (chunk.citationLabel.includes(num)) score += 90;
     }
 
-    // Concept-based law ID boosting (most important for cross-domain queries)
+    // *** PHRASE MATCHING — high value because multi-word matches are precise ***
+    for (const phrase of phrases) {
+      if (chunkTextLower.includes(phrase)) score += 45;
+      if ((chunk.subject || "").toLowerCase().includes(phrase)) score += 55;
+    }
+
+    // Concept-based law ID boosting
     if (boostedLawIds.has(chunk.lawId)) {
-      score += 30;
+      score += 25;
     }
 
     // Concept-based category boosting
     if (chunk.category && boostedCategories.size > 0) {
       const cat = chunk.category.toLowerCase();
       Array.from(boostedCategories).forEach(bc => {
-        if (cat.includes(bc)) score += 25;
+        if (cat.includes(bc)) score += 15;
       });
     }
 
@@ -451,7 +494,7 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     if (chunk.subject && boostedSubjects.size > 0) {
       const subj = chunk.subject.toLowerCase();
       Array.from(boostedSubjects).forEach(bs => {
-        if (subj.includes(bs)) score += 35;
+        if (subj.includes(bs)) score += 25;
       });
     }
 
@@ -459,20 +502,43 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     Array.from(conceptTerms).forEach(ct => {
       const regex = new RegExp(ct, "i");
       if (regex.test(text)) {
-        score += 12;
-        if (chunk.subject && regex.test(chunk.subject)) score += 20;
+        score += 10;
+        if (chunk.subject && regex.test(chunk.subject)) score += 15;
       }
     });
 
-    // Direct keyword and synonym matching
+    // *** DIRECT KEYWORD MATCHING — most important signal ***
+    let directHits = 0;
+    let originalTermHits = 0;
+
     Array.from(expandedTerms).forEach(term => {
       if (text.includes(term)) {
         score += 8;
-        if ((chunk.subject || "").toLowerCase().includes(term)) score += 25;
-        if (chunk.citationLabel.toLowerCase().includes(term)) score += 15;
-        if (terms.includes(term)) score += 5;
+        directHits++;
+        // Extra weight for original query terms (not synonyms)
+        if (terms.includes(term)) {
+          score += 10;
+          originalTermHits++;
+        }
+        // Subject matches are very relevant
+        if ((chunk.subject || "").toLowerCase().includes(term)) score += 20;
+        if (chunk.citationLabel.toLowerCase().includes(term)) score += 10;
       }
     });
+
+    // *** PROXIMITY BONUS — multiple query terms in same chunk = highly relevant ***
+    if (originalTermHits >= 2) score += originalTermHits * 15;
+    if (originalTermHits >= 3) score += 30; // bonus for 3+
+
+    // *** DENSITY BONUS — many total keyword hits = rich content ***
+    if (directHits >= 4) score += 20;
+    if (directHits >= 6) score += 15;
+
+    // *** CHUNK LENGTH PENALTY — very short chunks are less useful ***
+    if (chunk.chunkText.length < 30) score = Math.floor(score * 0.5);
+
+    // *** PREFER SUBSTANTIVE ARTICLES over summaries/historical context ***
+    if (chunk.articleNumber && score > 0) score += 5;
 
     return { chunk, score };
   });
@@ -484,7 +550,7 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     if (!seen.has(key)) seen.set(key, s);
   }
 
-  // Ensure diversity: pick from multiple law categories
+  // Ensure diversity: max 5 chunks per law for first pass to ensure coverage
   const results = Array.from(seen.values()).sort((a, b) => b.score - a.score);
   const selected: Array<{ chunk: Chunk; score: number }> = [];
   const lawIdCount = new Map<string, number>();
@@ -493,14 +559,13 @@ function scoreAndRankChunks(allChunks: Chunk[], query: string, limit: number): C
     if (selected.length >= limit) break;
     const lid = r.chunk.lawId;
     const count = lawIdCount.get(lid) || 0;
-    // Allow max 8 chunks from same law to ensure diversity
-    if (count < 8) {
+    if (count < 5) {
       selected.push(r);
       lawIdCount.set(lid, count + 1);
     }
   }
 
-  // If we have room, fill with remaining high-scoring chunks
+  // Fill remaining slots with any high-scoring chunks regardless of law diversity
   if (selected.length < limit) {
     for (const r of results) {
       if (selected.length >= limit) break;

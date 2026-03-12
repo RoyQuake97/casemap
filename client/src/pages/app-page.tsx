@@ -344,7 +344,7 @@ export default function AppPage() {
                   </div>
                 </div>
                 <div
-                  className="text-sm text-foreground/90 leading-relaxed whitespace-pre-wrap"
+                  className="text-sm text-foreground/90 leading-relaxed answer-body"
                   dangerouslySetInnerHTML={{
                     __html: DOMPurify.sanitize(formatMarkdown(result.answer)),
                   }}
@@ -435,56 +435,99 @@ function formatMarkdown(text: string): string {
   const html: string[] = [];
   let inUl = false;
   let inOl = false;
+  let inBlockquote = false;
+  let inSubUl = false;
 
-  for (const line of lines) {
-    let processed = line
-      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
-      .replace(/\[([^\]]+)\]/g, "<em>[$1]</em>");
-
-    const h3 = processed.match(/^### (.+)$/);
-    const h2 = processed.match(/^##? (.+)$/);
-    if (h3) {
-      if (inUl) { html.push("</ul>"); inUl = false; }
-      if (inOl) { html.push("</ol>"); inOl = false; }
-      html.push(`<h3>${h3[1]}</h3>`);
-      continue;
-    }
-    if (h2) {
-      if (inUl) { html.push("</ul>"); inUl = false; }
-      if (inOl) { html.push("</ol>"); inOl = false; }
-      html.push(`<h2>${h2[1]}</h2>`);
-      continue;
-    }
-
-    const ul = processed.match(/^[-*] (.+)$/);
-    if (ul) {
-      if (inOl) { html.push("</ol>"); inOl = false; }
-      if (!inUl) { html.push("<ul>"); inUl = true; }
-      html.push(`<li>${ul[1]}</li>`);
-      continue;
-    }
-
-    const ol = processed.match(/^\d+\. (.+)$/);
-    if (ol) {
-      if (inUl) { html.push("</ul>"); inUl = false; }
-      if (!inOl) { html.push("<ol>"); inOl = true; }
-      html.push(`<li>${ol[1]}</li>`);
-      continue;
-    }
-
+  const closeLists = () => {
+    if (inSubUl) { html.push("</ul>"); inSubUl = false; }
     if (inUl) { html.push("</ul>"); inUl = false; }
     if (inOl) { html.push("</ol>"); inOl = false; }
+  };
 
-    if (processed.trim() === "") {
-      html.push("<br/>");
+  const closeBlockquote = () => {
+    if (inBlockquote) { html.push("</blockquote>"); inBlockquote = false; }
+  };
+
+  const inline = (s: string) => s
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*(.+?)\*/g, "<em>$1</em>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\[Source (\d+)\]/g, '<span class="citation-ref">[Source $1]</span>')
+    .replace(/\[([^\]]+)\]/g, '<span class="citation-ref">[$1]</span>');
+
+  for (const line of lines) {
+    // Horizontal rule
+    if (/^(-{3,}|_{3,}|\*{3,}|={3,})$/.test(line.trim())) {
+      closeLists();
+      closeBlockquote();
+      html.push('<hr class="section-divider"/>');
       continue;
     }
 
-    html.push(`<p>${processed}</p>`);
+    // Blockquote
+    const bq = line.match(/^>\s?(.*)$/);
+    if (bq) {
+      closeLists();
+      if (!inBlockquote) { html.push('<blockquote>'); inBlockquote = true; }
+      html.push(inline(bq[1]) || "<br/>");
+      continue;
+    }
+    if (inBlockquote && line.trim() !== "") {
+      closeBlockquote();
+    }
+
+    // Headings
+    const h3 = line.match(/^### (.+)$/);
+    const h2 = line.match(/^## (.+)$/);
+    const h1 = line.match(/^# (.+)$/);
+    if (h3) { closeLists(); closeBlockquote(); html.push(`<h3>${inline(h3[1])}</h3>`); continue; }
+    if (h2) { closeLists(); closeBlockquote(); html.push(`<h2>${inline(h2[1])}</h2>`); continue; }
+    if (h1) { closeLists(); closeBlockquote(); html.push(`<h2>${inline(h1[1])}</h2>`); continue; }
+
+    // Sub-list item (indented bullet inside a list)
+    const subUl = line.match(/^  [-*] (.+)$/);
+    if (subUl && (inUl || inOl)) {
+      if (!inSubUl) { html.push("<ul class='sub-list'>"); inSubUl = true; }
+      html.push(`<li>${inline(subUl[1])}</li>`);
+      continue;
+    }
+    if (inSubUl) { html.push("</ul>"); inSubUl = false; }
+
+    // Unordered list
+    const ul = line.match(/^[-*] (.+)$/);
+    if (ul) {
+      if (inOl) { html.push("</ol>"); inOl = false; }
+      closeBlockquote();
+      if (!inUl) { html.push("<ul>"); inUl = true; }
+      html.push(`<li>${inline(ul[1])}</li>`);
+      continue;
+    }
+
+    // Ordered list
+    const ol = line.match(/^\d+\.\s+(.+)$/);
+    if (ol) {
+      if (inUl) { html.push("</ul>"); inUl = false; }
+      closeBlockquote();
+      if (!inOl) { html.push("<ol>"); inOl = true; }
+      html.push(`<li>${inline(ol[1])}</li>`);
+      continue;
+    }
+
+    // Close any open lists on non-list lines
+    closeLists();
+    closeBlockquote();
+
+    // Empty line
+    if (line.trim() === "") {
+      continue;
+    }
+
+    // Regular paragraph
+    html.push(`<p>${inline(line)}</p>`);
   }
 
-  if (inUl) html.push("</ul>");
-  if (inOl) html.push("</ol>");
+  closeLists();
+  closeBlockquote();
 
   return html.join("\n");
 }
