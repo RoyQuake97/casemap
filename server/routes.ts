@@ -114,7 +114,7 @@ export async function registerRoutes(server: Server, app: Express) {
       const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
       const response = await client.messages.create({
-        model: "claude-sonnet-4-20250514",
+        model: "claude-sonnet-4-6-20250514",
         max_tokens: 4096,
         system: SYSTEM_PROMPT,
         messages: [{ role: "user", content: userMessage }],
