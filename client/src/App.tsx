@@ -9,6 +9,7 @@ import AuthPage from "./pages/auth";
 import AppPage from "./pages/app-page";
 import PaywallPage from "./pages/paywall";
 import PaymentResultPage from "./pages/payment-result";
+import ProfilePage from "./pages/profile-page";
 import NotFound from "./pages/not-found";
 
 function AppRouter() {
@@ -17,6 +18,7 @@ function AppRouter() {
       <Route path="/" component={LandingPage} />
       <Route path="/auth" component={AuthPage} />
       <Route path="/app" component={AppPage} />
+      <Route path="/profile" component={ProfilePage} />
       <Route path="/paywall" component={PaywallPage} />
       <Route path="/payment-result" component={PaymentResultPage} />
       <Route component={NotFound} />

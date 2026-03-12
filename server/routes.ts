@@ -157,6 +157,31 @@ export async function registerRoutes(server: Server, app: Express) {
     }
   });
 
+  // Query history
+  app.get("/api/queries", requireAuth, async (req: Request, res: Response) => {
+    const user = req.user!;
+    const limit = Math.min(parseInt(req.query.limit as string) || 50, 100);
+    const userQueries = await storage.getQueriesByUserId(user.id, limit);
+    res.json(userQueries.map(q => ({
+      id: q.id,
+      question: q.question,
+      answerMarkdown: q.answerMarkdown,
+      citationsJson: q.citationsJson,
+      sourcesJson: q.sourcesJson,
+      createdAt: q.createdAt,
+    })));
+  });
+
+  // Delete a query from history
+  app.delete("/api/queries/:id", requireAuth, async (req: Request, res: Response) => {
+    const user = req.user!;
+    const queryId = parseInt(req.params.id as string, 10);
+    if (isNaN(queryId)) return res.status(400).json({ error: "Invalid query ID" });
+    const deleted = await storage.deleteQuery(queryId, user.id);
+    if (!deleted) return res.status(404).json({ error: "Query not found" });
+    res.json({ deleted: true });
+  });
+
   // --- Tap Payments ---
 
   app.post("/api/payments/create-charge", requireAuth, async (req: Request, res: Response) => {

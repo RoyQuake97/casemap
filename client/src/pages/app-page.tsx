@@ -181,7 +181,16 @@ export default function AppPage() {
           {profile.subscriptionStatus === "active" && (
             <span className="text-xs text-green-700 dark:text-green-400">Pro</span>
           )}
-          <span className="text-xs text-muted-foreground">{profile.email}</span>
+          <button
+            onClick={() => navigate("/profile")}
+            className="flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground transition-colors"
+          >
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+              <circle cx="12" cy="7" r="4" />
+            </svg>
+            {profile.email}
+          </button>
           <button
             onClick={() => logoutMutation.mutate()}
             className="text-xs text-muted-foreground hover:text-foreground transition-colors"

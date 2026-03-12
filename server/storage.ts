@@ -1,4 +1,4 @@
-import { eq, sql } from "drizzle-orm";
+import { eq, sql, desc } from "drizzle-orm";
 import { getDb } from "./db";
 import {
   users, laws, chunks, queries,
@@ -29,6 +29,8 @@ export interface IStorage {
 
   // Queries
   insertQuery(query: InsertQuery): Promise<Query>;
+  getQueriesByUserId(userId: number, limit?: number): Promise<Query[]>;
+  deleteQuery(queryId: number, userId: number): Promise<boolean>;
 }
 
 export class DatabaseStorage implements IStorage {
@@ -105,6 +107,15 @@ export class DatabaseStorage implements IStorage {
   async insertQuery(query: InsertQuery): Promise<Query> {
     const [created] = await getDb().insert(queries).values(query).returning();
     return created;
+  }
+
+  async getQueriesByUserId(userId: number, limit: number = 50): Promise<Query[]> {
+    return getDb().select().from(queries).where(eq(queries.userId, userId)).orderBy(desc(queries.createdAt)).limit(limit);
+  }
+
+  async deleteQuery(queryId: number, userId: number): Promise<boolean> {
+    const result = await getDb().delete(queries).where(sql`${queries.id} = ${queryId} AND ${queries.userId} = ${userId}`).returning();
+    return result.length > 0;
   }
 }
 
@@ -221,6 +232,20 @@ export class MemStorage implements IStorage {
     };
     this.queriesList.push(q);
     return q;
+  }
+
+  async getQueriesByUserId(userId: number, limit: number = 50): Promise<Query[]> {
+    return this.queriesList
+      .filter(q => q.userId === userId)
+      .sort((a, b) => (b.createdAt?.getTime() || 0) - (a.createdAt?.getTime() || 0))
+      .slice(0, limit);
+  }
+
+  async deleteQuery(queryId: number, userId: number): Promise<boolean> {
+    const idx = this.queriesList.findIndex(q => q.id === queryId && q.userId === userId);
+    if (idx === -1) return false;
+    this.queriesList.splice(idx, 1);
+    return true;
   }
 }
 
