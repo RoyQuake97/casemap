@@ -75,7 +75,7 @@ export default function LandingPage() {
         {/* CTA */}
         <button
           data-testid="cta-start-free"
-          onClick={() => navigate("/app")}
+          onClick={() => navigate("/auth")}
           className="mt-10 px-8 py-3.5 bg-primary text-primary-foreground text-sm font-medium tracking-widest uppercase rounded-md hover:opacity-90 transition-opacity duration-300 animate-fade-in-up-delay-3"
         >
           Start free question

@@ -1,30 +1,40 @@
+import { useState } from "react";
 import { useLocation } from "wouter";
+import { useMutation } from "@tanstack/react-query";
+import { apiRequest } from "@/lib/queryClient";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
 export default function PaywallPage() {
   const [, navigate] = useLocation();
+  const [error, setError] = useState("");
 
-  const handleSubscribe = () => {
-    // In production, this would create a Stripe checkout session
-    // For now, show a message that Stripe needs to be configured
-    alert("Stripe integration requires configuration. Set STRIPE_SECRET_KEY and STRIPE_PRICE_ID environment variables to enable payments.");
-  };
+  const subscribeMutation = useMutation({
+    mutationFn: async () => {
+      const res = await apiRequest("POST", "/api/payments/create-charge");
+      return res.json();
+    },
+    onSuccess: (data) => {
+      if (data.redirectUrl) {
+        // Redirect to Tap Payments checkout page
+        window.location.href = data.redirectUrl;
+      } else {
+        setError("Could not create payment session. Please try again.");
+      }
+    },
+    onError: (err: Error) => {
+      setError("Payment service unavailable. Please try again later.");
+    },
+  });
 
   return (
     <div className="relative min-h-screen flex flex-col items-center justify-center bg-background overflow-hidden">
-      {/* Grain */}
       <div className="grain-overlay" />
-
-      {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-background via-background to-secondary/20" />
 
-      {/* Content */}
       <main className="relative z-10 flex flex-col items-center text-center px-6 max-w-lg">
-        {/* Brand */}
         <button
           onClick={() => navigate("/")}
           className="font-serif text-2xl font-semibold text-foreground mb-12 hover:opacity-70 transition-opacity"
-          data-testid="nav-home-paywall"
         >
           Case Map
         </button>
@@ -37,7 +47,7 @@ export default function PaywallPage() {
           </svg>
         </div>
 
-        <h1 className="font-serif text-3xl md:text-4xl font-semibold text-foreground animate-fade-in-up-delay" data-testid="text-paywall-title">
+        <h1 className="font-serif text-3xl md:text-4xl font-semibold text-foreground animate-fade-in-up-delay">
           Your free question has been used.
         </h1>
 
@@ -45,20 +55,49 @@ export default function PaywallPage() {
           Subscribe to continue using Case Map for unlimited legal research.
         </p>
 
+        {/* Pricing card */}
+        <div className="mt-8 w-full max-w-xs bg-card border border-border rounded-lg p-6 animate-fade-in-up-delay-2">
+          <p className="text-xs text-muted-foreground uppercase tracking-wider mb-2">Pro Plan</p>
+          <p className="font-serif text-4xl font-semibold text-foreground">
+            $19.99<span className="text-lg text-muted-foreground font-normal">/mo</span>
+          </p>
+          <ul className="mt-4 space-y-2 text-left text-sm text-muted-foreground">
+            <li className="flex items-center gap-2">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              Unlimited legal questions
+            </li>
+            <li className="flex items-center gap-2">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              291 laws, 3,400+ legal provisions
+            </li>
+            <li className="flex items-center gap-2">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              79 court decisions
+            </li>
+            <li className="flex items-center gap-2">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-green-600 dark:text-green-400 shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
+              Arabic, French & English
+            </li>
+          </ul>
+        </div>
+
+        {error && (
+          <p className="mt-4 text-xs text-destructive">{error}</p>
+        )}
+
         <button
-          data-testid="button-subscribe"
-          onClick={handleSubscribe}
-          className="mt-8 px-10 py-3.5 bg-primary text-primary-foreground text-sm font-medium tracking-widest uppercase rounded-md hover:opacity-90 transition-opacity animate-fade-in-up-delay-2"
+          onClick={() => subscribeMutation.mutate()}
+          disabled={subscribeMutation.isPending}
+          className="mt-6 px-10 py-3.5 bg-primary text-primary-foreground text-sm font-medium tracking-widest uppercase rounded-md hover:opacity-90 transition-opacity disabled:opacity-40 animate-fade-in-up-delay-2"
         >
-          Subscribe
+          {subscribeMutation.isPending ? "Redirecting..." : "Subscribe now"}
         </button>
 
         <p className="mt-6 text-xs text-muted-foreground/60 max-w-xs animate-fade-in-up-delay-3">
-          Secure payment via Stripe. Cancel anytime. Your legal research stays private and encrypted.
+          Secure payment via Tap Payments. Your legal research stays private and encrypted.
         </p>
       </main>
 
-      {/* Footer */}
       <footer className="absolute bottom-0 w-full py-4 px-6 flex flex-col items-center gap-2">
         <p className="text-[10px] text-muted-foreground/50 max-w-md text-center">
           Not legal advice. For informational use by legal professionals.
