@@ -1,5 +1,6 @@
 import type { Express, Request, Response } from "express";
 import type { Server } from "http";
+import OpenAI from "openai";
 import { storage } from "./storage";
 import { ingestAllData } from "./ingest";
 import { setupAuth, requireAuth, toProfile } from "./auth";
@@ -110,7 +111,6 @@ export async function registerRoutes(server: Server, app: Express) {
 
       const userMessage = `SOURCES:\n${sourceContext}\n\n---\n\nUSER QUESTION: ${question}${citationVerification ? "\n\nPlease include short quoted excerpts from each cited source under the Citations section." : ""}${lang && lang !== "auto" ? `\n\nRespond in ${lang === "ar" ? "Arabic" : lang === "fr" ? "French" : "English"}.` : ""}`;
 
-      const { OpenAI } = await import("openai");
       const client = new OpenAI();
 
       const response = await client.responses.create({
