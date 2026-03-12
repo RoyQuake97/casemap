@@ -1,5 +1,4 @@
 import { useLocation } from "wouter";
-import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
 function ScalesIcon() {
   return (
@@ -93,7 +92,6 @@ export default function LandingPage() {
         <p className="text-[10px] text-muted-foreground/50 max-w-md text-center leading-relaxed">
           Not legal advice. For informational use by legal professionals. Case Map does not replace qualified legal counsel.
         </p>
-        <PerplexityAttribution />
       </footer>
     </div>
   );

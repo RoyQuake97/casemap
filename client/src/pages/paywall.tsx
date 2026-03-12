@@ -2,7 +2,6 @@ import { useState } from "react";
 import { useLocation } from "wouter";
 import { useMutation } from "@tanstack/react-query";
 import { apiRequest } from "@/lib/queryClient";
-import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 
 export default function PaywallPage() {
   const [, navigate] = useLocation();
@@ -102,7 +101,6 @@ export default function PaywallPage() {
         <p className="text-[10px] text-muted-foreground/50 max-w-md text-center">
           Not legal advice. For informational use by legal professionals.
         </p>
-        <PerplexityAttribution />
       </footer>
     </div>
   );

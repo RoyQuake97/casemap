@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useLocation } from "wouter";
 import { useMutation } from "@tanstack/react-query";
 import { apiRequest, queryClient } from "@/lib/queryClient";
-import { PerplexityAttribution } from "@/components/PerplexityAttribution";
+
 
 export default function AuthPage() {
   const [, navigate] = useLocation();
@@ -134,7 +134,6 @@ export default function AuthPage() {
         <p className="text-[10px] text-muted-foreground/50 max-w-md text-center">
           Not legal advice. For informational use by legal professionals.
         </p>
-        <PerplexityAttribution />
       </footer>
     </div>
   );
