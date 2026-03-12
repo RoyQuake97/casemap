@@ -1,19 +1,34 @@
-import { pgTable, text, serial, integer, timestamp, jsonb, boolean } from "drizzle-orm/pg-core";
+import { pgTable, text, serial, integer, timestamp, jsonb } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
-// Profiles
-export const profiles = pgTable("profiles", {
+// Users (auth-based, replaces visitor profiles)
+export const users = pgTable("users", {
   id: serial("id").primaryKey(),
-  visitorId: text("visitor_id").notNull().unique(),
+  email: text("email").notNull().unique(),
+  passwordHash: text("password_hash").notNull(),
+  displayName: text("display_name"),
   freeQuestionsRemaining: integer("free_questions_remaining").notNull().default(1),
   subscriptionStatus: text("subscription_status").notNull().default("inactive"),
+  tapCustomerId: text("tap_customer_id"),
+  tapChargeId: text("tap_charge_id"),
+  subscriptionExpiresAt: timestamp("subscription_expires_at"),
   createdAt: timestamp("created_at").defaultNow(),
 });
 
-export const insertProfileSchema = createInsertSchema(profiles).omit({ id: true, createdAt: true });
-export type InsertProfile = z.infer<typeof insertProfileSchema>;
-export type Profile = typeof profiles.$inferSelect;
+export const insertUserSchema = createInsertSchema(users).omit({ id: true, createdAt: true });
+export type InsertUser = z.infer<typeof insertUserSchema>;
+export type User = typeof users.$inferSelect;
+
+// Profile type sent to frontend (no sensitive fields)
+export type Profile = {
+  id: number;
+  email: string;
+  displayName: string | null;
+  freeQuestionsRemaining: number;
+  subscriptionStatus: string;
+  subscriptionExpiresAt: Date | null;
+};
 
 // Laws
 export const laws = pgTable("laws", {
@@ -54,7 +69,7 @@ export type Chunk = typeof chunks.$inferSelect;
 // Queries log
 export const queries = pgTable("queries", {
   id: serial("id").primaryKey(),
-  visitorId: text("visitor_id").notNull(),
+  userId: integer("user_id").notNull(),
   question: text("question").notNull(),
   answerMarkdown: text("answer_markdown"),
   citationsJson: jsonb("citations_json"),
