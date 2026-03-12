@@ -60,8 +60,16 @@ export default function AppPage() {
         return;
       }
       setResult(data);
+      // Refresh profile so freeQuestionsRemaining updates
+      queryClient.invalidateQueries({ queryKey: ["/api/profile"] });
     },
-    onError: () => {
+    onError: (err: Error) => {
+      // Check if this is a paywall error (403 with "paywall" in body)
+      if (err.message.includes('"error":"paywall"') || err.message.includes("paywall")) {
+        queryClient.invalidateQueries({ queryKey: ["/api/profile"] });
+        navigate("/paywall");
+        return;
+      }
       setResult({
         answer: "An error occurred. Please try again.",
         citations: [],
